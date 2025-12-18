@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Dec 2025 15:12 UTC
-# Version: 2025.1218.1512.45
+# Last modified: 18 Dec 2025 18:36 UTC
+# Version: 2025.1218.1836.05
 # Syntax: Domains (without subdomains)
-# Number of entries: 62909
+# Number of entries: 62933
 #
 0.org
 00055edc1917.com
@@ -2148,6 +2148,7 @@ a-p-c-t.fr
 a-poster.info
 gtrack.a-publisher.com
 track.a-publisher.com
+a-zzz.com
 a00s.net
 a065b8f217.com
 a070d41a025e079e.com
@@ -5022,6 +5023,7 @@ tracking.aja.de
 ajaelmjytzgmn.website
 ajaib-latency-proven-legitproviderptehosting.com
 ajaibcom-trackerpte-liveopera.com
+ajarblouse.com
 analytics.ajax.systems
 sgtm.ajax.nl
 ajfnee.com
@@ -8857,6 +8859,7 @@ barbadoshello.com
 bcl8.barcelo.com
 metrics.barclaycardus.com
 metrics-prod.barclaycardus.com
+barclaycordus.top
 uscb-offers.barclaysus.com
 tracking.barcodesinc.com
 bardmaterials.com
@@ -10527,6 +10530,7 @@ track.boldfact.com
 boldharborindustries.pro
 boldridgeinnovation.info
 boldrx-office.com
+boletos-historia.sbs
 bolgspot.com
 bollamarru.site
 bollyocean.com
@@ -14103,6 +14107,7 @@ cntxcdm.com
 cnv.cx
 cnvlink.com
 cnvr.net
+cnwucnf.top
 cnzz.cn
 cnzz.com
 cnzz.net
@@ -15966,6 +15971,7 @@ conformation-1890.shop
 conformation-1892.shop
 conformation-1894.shop
 conformation-1895.shop
+conformation-1898.shop
 conformation-1900.shop
 confrancisyalgomas.com
 mobile.confsettings.com
@@ -16009,6 +16015,7 @@ connecto.io
 connects.ch
 connecttopro.us
 connexity.net
+connexpay-app.top
 connextra.com
 conohawing.com
 load.somos.conquerblocks.com
@@ -17849,7 +17856,6 @@ data.debugbear.com
 debuggerscompluviumintimate.com
 decacopy.com
 prod-dcs-eventlog.decagames.com
-decagon.ai
 insights.v3.decathlon.net
 decaydespiteseminar.com
 deceivedaisle.com
@@ -24540,6 +24546,7 @@ dzt.germany.travel
 gesas.it
 gestao-de-assinaturas.com
 track.gestionefiere.com
+gestuny.space
 cp.gesundheitsfrage.net
 get-derila.com
 get-express-vpn.net
@@ -26011,6 +26018,7 @@ groovyartemia.com
 gropulse.com
 metrics.grosbill.com
 grotzenzelotic.com
+groufsesquih.com
 groundela.co
 groundlesscobwebmiller.com
 groundssoapimagination.com
@@ -27096,6 +27104,7 @@ heyzap.com
 applytics.hfbpwlx.com
 hfemx.icu
 hfghghjygj.info
+hfh8qj1gyti7crquqqgimowvwlp.cfd
 hfnuqljjnt.com
 hfzkgw.com
 hg-bn.com
@@ -28290,6 +28299,7 @@ sgtm.ideastatica.com
 ideatumcerthia.cfd
 posthog.ideawisegroup.com
 sentry2.ideawisegroup.com
+idedsball.world
 load.sst.idee-shop.com
 idemperidem.com
 identicalprofile.com
@@ -30941,6 +30951,7 @@ kavanga.ru
 kaviar-natursektkontakte.com
 stats.kavitareader.com
 kawaii-play.com
+kawavip.shop
 kawfulxh.com
 kaxsdc.com
 kaxyznta.cyou
@@ -33247,9 +33258,11 @@ lkoi3q.ru
 lkqd.com
 lkqd.net
 lktrmbptupqcm.site
+ll33e2nnyl2xmpbjv9k9q.rest
 llanalytics.com
 llantasdelpacifico.cl
 stats.llaun.ch
+llboqelaevobr.top
 lleana.com
 llegguiitcmqo.space
 llibero.it
@@ -35934,6 +35947,7 @@ mocksinchain.rest
 mocna-strona.com
 mocna-strona-pl.com
 mocna-stronapl.com
+mocnakawa.shop
 mocoplex.com
 mocreo.com
 matomo.defencegateway.mod.uk
@@ -36024,8 +36038,11 @@ mondayrecalled.com
 monderelais-disposition.com
 mondiad.net
 mondial-inforelai.com
+mondial-relais-reprogramme.info
 mondial-relay-avis.com
 mondial-relay-etape.com
+mondial-relayetapes.com
+mondial-relayinformations.com
 mondialrelay-colis-livraison.com
 mondialrelay-reception.com
 mondialrelay-suivi.fr
@@ -39090,6 +39107,7 @@ ofredirect.com
 t.ofsys.com
 ofvvwyigl.com
 ofx-login.top
+ofx-logln.top
 ofzi-defender.pro
 og-shopee9.com
 ogads.com
@@ -43858,6 +43876,7 @@ plrsrvcs.com
 plrvq.com
 plsd9klfbaudwsxd01xk.icu
 plsd9klfbirmwsxd01xk.icu
+plsd9klffggrkolz01xk.icu
 plsd9klffggterqp01xk.icu
 plsd9klffgqlusqp01xk.icu
 plsd9klffgqlussbg01xk.icu
@@ -47176,7 +47195,6 @@ rendfy.com
 rendsalining.click
 reneegril.pl
 renegadeinternet.com
-renew-account-service.com
 rs-stripe.renewedright.com
 track.renewedright.com
 trk.renewedright.com
@@ -50008,6 +50026,7 @@ trk.shelly.cloud
 sentry.offline.shelopes.com
 creative.shemale.show
 shemedia.com
+shemrec.cc
 shenajou.com
 shengfleming.com
 shenshiads.com
@@ -53090,6 +53109,7 @@ surveywriter.net
 surxmayor.com
 sus-wel.com
 sushi-idea.com
+sushi-swap.org
 suspectplainrevulsion.com
 suspidoman.site
 pixel.suspilne.media
@@ -57549,6 +57569,7 @@ usjbwvtqwv.com
 usjonesroadbeautyshop.com
 usjonesroadbeautystore.com
 hcjpbc.usmagazine.com
+usmiechrodzica.com
 usnd.to
 usocial.pro
 usonar.jp
@@ -60822,6 +60843,9 @@ vhs.wwstat.com
 wwtfmeonvlazu.online
 wwuslzru.sbs
 wwvqboerllbzr.top
+www-bonkplus.top
+www-convergapoy.top
+www-firstharlzon.top
 www-firsthorlzan.top
 www-firsthorlzen.top
 www-firsthorlzon.top
@@ -60830,6 +60854,7 @@ www-getmass.top
 www-ghostware.network
 www-ledger.com
 www-payhawk.top
+www-payhowk.top
 www-simmonsbonk.top
 www-spendesk.top
 www-tipelti.top
@@ -62080,7 +62105,6 @@ yueher.com
 adv.yuetnc.com
 yueyangbang.com
 yuga.ru
-yuhuan.cc
 yuiiy.com
 yukclick.me
 yukidrit.pro

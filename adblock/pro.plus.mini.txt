@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 Dec 2025 15:12 UTC
-! Version: 2025.1218.1512.45
+! Last modified: 18 Dec 2025 18:36 UTC
+! Version: 2025.1218.1836.05
 ! Syntax: AdBlock
-! Number of entries: 62909
+! Number of entries: 62933
 !
 ||0.org^
 ||00055edc1917.com^
@@ -2149,6 +2149,7 @@
 ||a-poster.info^
 ||gtrack.a-publisher.com^
 ||track.a-publisher.com^
+||a-zzz.com^
 ||a00s.net^
 ||a065b8f217.com^
 ||a070d41a025e079e.com^
@@ -5023,6 +5024,7 @@
 ||ajaelmjytzgmn.website^
 ||ajaib-latency-proven-legitproviderptehosting.com^
 ||ajaibcom-trackerpte-liveopera.com^
+||ajarblouse.com^
 ||analytics.ajax.systems^
 ||sgtm.ajax.nl^
 ||ajfnee.com^
@@ -8858,6 +8860,7 @@
 ||bcl8.barcelo.com^
 ||metrics.barclaycardus.com^
 ||metrics-prod.barclaycardus.com^
+||barclaycordus.top^
 ||uscb-offers.barclaysus.com^
 ||tracking.barcodesinc.com^
 ||bardmaterials.com^
@@ -10528,6 +10531,7 @@
 ||boldharborindustries.pro^
 ||boldridgeinnovation.info^
 ||boldrx-office.com^
+||boletos-historia.sbs^
 ||bolgspot.com^
 ||bollamarru.site^
 ||bollyocean.com^
@@ -14104,6 +14108,7 @@
 ||cnv.cx^
 ||cnvlink.com^
 ||cnvr.net^
+||cnwucnf.top^
 ||cnzz.cn^
 ||cnzz.com^
 ||cnzz.net^
@@ -15967,6 +15972,7 @@
 ||conformation-1892.shop^
 ||conformation-1894.shop^
 ||conformation-1895.shop^
+||conformation-1898.shop^
 ||conformation-1900.shop^
 ||confrancisyalgomas.com^
 ||mobile.confsettings.com^
@@ -16010,6 +16016,7 @@
 ||connects.ch^
 ||connecttopro.us^
 ||connexity.net^
+||connexpay-app.top^
 ||connextra.com^
 ||conohawing.com^
 ||load.somos.conquerblocks.com^
@@ -17850,7 +17857,6 @@
 ||debuggerscompluviumintimate.com^
 ||decacopy.com^
 ||prod-dcs-eventlog.decagames.com^
-||decagon.ai^
 ||insights.v3.decathlon.net^
 ||decaydespiteseminar.com^
 ||deceivedaisle.com^
@@ -24541,6 +24547,7 @@
 ||gesas.it^
 ||gestao-de-assinaturas.com^
 ||track.gestionefiere.com^
+||gestuny.space^
 ||cp.gesundheitsfrage.net^
 ||get-derila.com^
 ||get-express-vpn.net^
@@ -26012,6 +26019,7 @@
 ||gropulse.com^
 ||metrics.grosbill.com^
 ||grotzenzelotic.com^
+||groufsesquih.com^
 ||groundela.co^
 ||groundlesscobwebmiller.com^
 ||groundssoapimagination.com^
@@ -27097,6 +27105,7 @@
 ||applytics.hfbpwlx.com^
 ||hfemx.icu^
 ||hfghghjygj.info^
+||hfh8qj1gyti7crquqqgimowvwlp.cfd^
 ||hfnuqljjnt.com^
 ||hfzkgw.com^
 ||hg-bn.com^
@@ -28291,6 +28300,7 @@
 ||ideatumcerthia.cfd^
 ||posthog.ideawisegroup.com^
 ||sentry2.ideawisegroup.com^
+||idedsball.world^
 ||load.sst.idee-shop.com^
 ||idemperidem.com^
 ||identicalprofile.com^
@@ -30942,6 +30952,7 @@
 ||kaviar-natursektkontakte.com^
 ||stats.kavitareader.com^
 ||kawaii-play.com^
+||kawavip.shop^
 ||kawfulxh.com^
 ||kaxsdc.com^
 ||kaxyznta.cyou^
@@ -33248,9 +33259,11 @@
 ||lkqd.com^
 ||lkqd.net^
 ||lktrmbptupqcm.site^
+||ll33e2nnyl2xmpbjv9k9q.rest^
 ||llanalytics.com^
 ||llantasdelpacifico.cl^
 ||stats.llaun.ch^
+||llboqelaevobr.top^
 ||lleana.com^
 ||llegguiitcmqo.space^
 ||llibero.it^
@@ -35935,6 +35948,7 @@
 ||mocna-strona.com^
 ||mocna-strona-pl.com^
 ||mocna-stronapl.com^
+||mocnakawa.shop^
 ||mocoplex.com^
 ||mocreo.com^
 ||matomo.defencegateway.mod.uk^
@@ -36025,8 +36039,11 @@
 ||monderelais-disposition.com^
 ||mondiad.net^
 ||mondial-inforelai.com^
+||mondial-relais-reprogramme.info^
 ||mondial-relay-avis.com^
 ||mondial-relay-etape.com^
+||mondial-relayetapes.com^
+||mondial-relayinformations.com^
 ||mondialrelay-colis-livraison.com^
 ||mondialrelay-reception.com^
 ||mondialrelay-suivi.fr^
@@ -39091,6 +39108,7 @@
 ||t.ofsys.com^
 ||ofvvwyigl.com^
 ||ofx-login.top^
+||ofx-logln.top^
 ||ofzi-defender.pro^
 ||og-shopee9.com^
 ||ogads.com^
@@ -43859,6 +43877,7 @@
 ||plrvq.com^
 ||plsd9klfbaudwsxd01xk.icu^
 ||plsd9klfbirmwsxd01xk.icu^
+||plsd9klffggrkolz01xk.icu^
 ||plsd9klffggterqp01xk.icu^
 ||plsd9klffgqlusqp01xk.icu^
 ||plsd9klffgqlussbg01xk.icu^
@@ -47177,7 +47196,6 @@
 ||rendsalining.click^
 ||reneegril.pl^
 ||renegadeinternet.com^
-||renew-account-service.com^
 ||rs-stripe.renewedright.com^
 ||track.renewedright.com^
 ||trk.renewedright.com^
@@ -50009,6 +50027,7 @@
 ||sentry.offline.shelopes.com^
 ||creative.shemale.show^
 ||shemedia.com^
+||shemrec.cc^
 ||shenajou.com^
 ||shengfleming.com^
 ||shenshiads.com^
@@ -53091,6 +53110,7 @@
 ||surxmayor.com^
 ||sus-wel.com^
 ||sushi-idea.com^
+||sushi-swap.org^
 ||suspectplainrevulsion.com^
 ||suspidoman.site^
 ||pixel.suspilne.media^
@@ -57550,6 +57570,7 @@
 ||usjonesroadbeautyshop.com^
 ||usjonesroadbeautystore.com^
 ||hcjpbc.usmagazine.com^
+||usmiechrodzica.com^
 ||usnd.to^
 ||usocial.pro^
 ||usonar.jp^
@@ -60823,6 +60844,9 @@
 ||wwtfmeonvlazu.online^
 ||wwuslzru.sbs^
 ||wwvqboerllbzr.top^
+||www-bonkplus.top^
+||www-convergapoy.top^
+||www-firstharlzon.top^
 ||www-firsthorlzan.top^
 ||www-firsthorlzen.top^
 ||www-firsthorlzon.top^
@@ -60831,6 +60855,7 @@
 ||www-ghostware.network^
 ||www-ledger.com^
 ||www-payhawk.top^
+||www-payhowk.top^
 ||www-simmonsbonk.top^
 ||www-spendesk.top^
 ||www-tipelti.top^
@@ -62081,7 +62106,6 @@
 ||adv.yuetnc.com^
 ||yueyangbang.com^
 ||yuga.ru^
-||yuhuan.cc^
 ||yuiiy.com^
 ||yukclick.me^
 ||yukidrit.pro^
