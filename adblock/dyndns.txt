@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Dec 2025 14:38 UTC
-! Version: 2025.1217.1438.54
+! Last modified: 19 Dec 2025 10:34 UTC
+! Version: 2025.1219.1034.38
 ! Syntax: AdBlock
-! Number of entries: 1469
+! Number of entries: 1470
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -714,6 +714,7 @@
 ||imprendum.com^
 ||in-the-band.net^
 ||independentonline.ro^
+||indevs.in^
 ||inflict.us^
 ||info.gf^
 ||info.tm^

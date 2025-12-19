@@ -2772,6 +2772,13 @@
       }
     },
     {
+      "PK": "guns.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.guru",
       "action": {
         "do": 0,

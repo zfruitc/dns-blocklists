@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 01:29 UTC
-# Version: 2025.1219.0129.34
+# Last modified: 19 Dec 2025 09:28 UTC
+# Version: 2025.1219.0928.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14091
+# Number of entries: 14093
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -5262,7 +5262,6 @@ local=/fb.goldengoosefan.com/
 local=/goldengoosesale.de/
 local=/goldengoosess.shop/
 local=/goldenpassmedia.com/
-local=/goldhandel.one/
 local=/goldhandel-degussa.com/
 local=/goldhandel-degussa.de/
 local=/goldhandel-heute.de/
@@ -6425,6 +6424,7 @@ local=/indicativet.com/
 local=/indigo-investissement.com/
 local=/individualm.com/
 local=/individualw.com/
+local=/indonesiahotel24.com/
 local=/indoorecofarm.com/
 local=/industrie-moebel.eu/
 local=/industriebauladen.com/
@@ -9861,7 +9861,6 @@ local=/pharmacy-xl.org/
 local=/pharmagenerique.com/
 local=/pharmagut24.com/
 local=/pharmaplax.com/
-local=/pharmaris.net/
 local=/pharmatheke-europe.com/
 local=/pharmedio.de/
 local=/pharmtownsolutions.com/
@@ -11420,6 +11419,7 @@ local=/skechersaustria.at/
 local=/skechersshop.at/
 local=/skecherstoresbest.de/
 local=/ski-coaches.com/
+local=/ski-outlet.de/
 local=/skiartikelverkaufe.com/
 local=/skiequipmentsneu.com/
 local=/skijersey.de/
@@ -12514,7 +12514,6 @@ local=/tm-preisvergleich.de/
 local=/tntroyal.com/
 local=/tobias-leben.de/
 local=/todayoffer.info/
-local=/todo-para-camping-caravans.es/
 local=/todo-para-embarcaciones.com/
 local=/togclothes.com/
 local=/togetherrxacces.com/
@@ -12638,6 +12637,7 @@ local=/toystom.com/
 local=/tozido.de/
 local=/tpcinvest.com/
 local=/tqdjywjx.shop/
+local=/at.trabajo.org/
 local=/trabo-garten.de/
 local=/tracht-aporter.com/
 local=/trachten-sale.com/
@@ -13338,6 +13338,7 @@ local=/vitalismoemi.com/
 local=/viva-markets.com/
 local=/vivagopro.com/
 local=/vivaiabuty.pl/
+local=/vivaiacollection.com/
 local=/vivaiaschuhe.at/
 local=/vivaiaschuhe.com/
 local=/vivaiaschuhe.de/
@@ -13519,6 +13520,7 @@ local=/watchcod-en.shop/
 local=/watchesbuy.to/
 local=/watchesreplica.is/
 local=/watchesstore.co/
+local=/watchfaceshub.com/
 local=/watermotionod.com/
 local=/watersportsgalaxy.com/
 local=/watson-manchester.com/

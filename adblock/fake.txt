@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Dec 2025 01:29 UTC
-! Version: 2025.1219.0129.34
+! Last modified: 19 Dec 2025 09:28 UTC
+! Version: 2025.1219.0928.43
 ! Syntax: AdBlock
-! Number of entries: 14091
+! Number of entries: 14093
 !
 ||01broker.com^
 ||01crypto.com^
@@ -5263,7 +5263,6 @@
 ||goldengoosesale.de^
 ||goldengoosess.shop^
 ||goldenpassmedia.com^
-||goldhandel.one^
 ||goldhandel-degussa.com^
 ||goldhandel-degussa.de^
 ||goldhandel-heute.de^
@@ -6426,6 +6425,7 @@
 ||indigo-investissement.com^
 ||individualm.com^
 ||individualw.com^
+||indonesiahotel24.com^
 ||indoorecofarm.com^
 ||industrie-moebel.eu^
 ||industriebauladen.com^
@@ -9862,7 +9862,6 @@
 ||pharmagenerique.com^
 ||pharmagut24.com^
 ||pharmaplax.com^
-||pharmaris.net^
 ||pharmatheke-europe.com^
 ||pharmedio.de^
 ||pharmtownsolutions.com^
@@ -11421,6 +11420,7 @@
 ||skechersshop.at^
 ||skecherstoresbest.de^
 ||ski-coaches.com^
+||ski-outlet.de^
 ||skiartikelverkaufe.com^
 ||skiequipmentsneu.com^
 ||skijersey.de^
@@ -12515,7 +12515,6 @@
 ||tntroyal.com^
 ||tobias-leben.de^
 ||todayoffer.info^
-||todo-para-camping-caravans.es^
 ||todo-para-embarcaciones.com^
 ||togclothes.com^
 ||togetherrxacces.com^
@@ -12639,6 +12638,7 @@
 ||tozido.de^
 ||tpcinvest.com^
 ||tqdjywjx.shop^
+||at.trabajo.org^
 ||trabo-garten.de^
 ||tracht-aporter.com^
 ||trachten-sale.com^
@@ -13339,6 +13339,7 @@
 ||viva-markets.com^
 ||vivagopro.com^
 ||vivaiabuty.pl^
+||vivaiacollection.com^
 ||vivaiaschuhe.at^
 ||vivaiaschuhe.com^
 ||vivaiaschuhe.de^
@@ -13520,6 +13521,7 @@
 ||watchesbuy.to^
 ||watchesreplica.is^
 ||watchesstore.co^
+||watchfaceshub.com^
 ||watermotionod.com^
 ||watersportsgalaxy.com^
 ||watson-manchester.com^

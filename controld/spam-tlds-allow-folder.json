@@ -1954,6 +1954,13 @@
       }
     },
     {
+      "PK": "guns.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "gxcorner.games",
       "action": {
         "do": 1,
