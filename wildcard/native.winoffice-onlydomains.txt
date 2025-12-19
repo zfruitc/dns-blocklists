@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Dec 2025 18:06 UTC
-# Version: 2025.1212.1806.45
+# Last modified: 19 Dec 2025 18:05 UTC
+# Version: 2025.1219.1805.26
 # Syntax: Domains (without subdomains)
 # Number of entries: 382
 #
@@ -225,7 +225,6 @@ adevents.msn.com
 ads.msn.com
 ads1.msn.com
 ads2.msn.com
-adsyndication.msn.com
 analytics.msn.com
 metric.appex-rf.msn.com
 c.ar.msn.com
@@ -348,6 +347,7 @@ ppc-powerpoint-telemetry.wac.trafficmanager.net
 ppc-word-telemetry.wac.trafficmanager.net
 word-telemetry.wac.trafficmanager.net
 win-global-asimov-leafs-events-data.trafficmanager.net
+wttwebsiteprodapi-liveevents.trafficmanager.net
 dc.services.visualstudio.com
 h4g3z1-native.winoffice.web.app
 activity.windows.com

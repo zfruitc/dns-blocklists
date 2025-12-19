@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Dec 2025 18:06 UTC
-# Version: 2025.1212.1806.45
+# Last modified: 19 Dec 2025 18:05 UTC
+# Version: 2025.1219.1805.26
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 382
 #
@@ -225,7 +225,6 @@ local=/adevents.msn.com/
 local=/ads.msn.com/
 local=/ads1.msn.com/
 local=/ads2.msn.com/
-local=/adsyndication.msn.com/
 local=/analytics.msn.com/
 local=/metric.appex-rf.msn.com/
 local=/c.ar.msn.com/
@@ -348,6 +347,7 @@ local=/ppc-powerpoint-telemetry.wac.trafficmanager.net/
 local=/ppc-word-telemetry.wac.trafficmanager.net/
 local=/word-telemetry.wac.trafficmanager.net/
 local=/win-global-asimov-leafs-events-data.trafficmanager.net/
+local=/wttwebsiteprodapi-liveevents.trafficmanager.net/
 local=/dc.services.visualstudio.com/
 local=/h4g3z1-native.winoffice.web.app/
 local=/activity.windows.com/

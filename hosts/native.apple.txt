@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Oct 2025 19:04 UTC
-# Version: 2025.1025.1904.10
+# Last modified: 19 Dec 2025 18:03 UTC
+# Version: 2025.1219.1803.56
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 102
+# Number of entries: 103
 #
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com
@@ -51,6 +51,7 @@
 0.0.0.0 datacollection.apple.com
 0.0.0.0 diagassets.apple.com
 0.0.0.0 diagnostics.apple.com
+0.0.0.0 dz1dt3wqswdezgx4j2ryem5iad.apple.com
 0.0.0.0 experiments.apple.com
 0.0.0.0 iad.apple.com
 0.0.0.0 iadcontent.apple.com

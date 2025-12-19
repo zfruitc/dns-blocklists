@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Dec 2025 17:56 UTC
-# Version: 2025.1212.1756.58
+# Last modified: 19 Dec 2025 17:55 UTC
+# Version: 2025.1219.1755.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 181
+# Number of entries: 180
 #
 local=/search.0xcb.dev/
 local=/search.0xgingi.com/
@@ -124,7 +124,6 @@ local=/offtheradar.info/
 local=/searx.openhoofd.nl/
 local=/search.opentunisia.org/
 local=/openworlds.info/
-local=/oscobo.com/
 local=/searx.ouahpiti.info/
 local=/search.pabloferreiro.es/
 local=/peekier.com/

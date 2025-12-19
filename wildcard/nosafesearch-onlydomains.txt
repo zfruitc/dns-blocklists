@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Dec 2025 17:56 UTC
-# Version: 2025.1212.1756.58
+# Last modified: 19 Dec 2025 17:55 UTC
+# Version: 2025.1219.1755.56
 # Syntax: Domains (without subdomains)
-# Number of entries: 181
+# Number of entries: 180
 #
 search.0xcb.dev
 search.0xgingi.com
@@ -124,7 +124,6 @@ offtheradar.info
 searx.openhoofd.nl
 search.opentunisia.org
 openworlds.info
-oscobo.com
 searx.ouahpiti.info
 search.pabloferreiro.es
 peekier.com

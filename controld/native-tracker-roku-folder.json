@@ -400,13 +400,6 @@
       }
     },
     {
-      "PK": "methodofpay-ads.web.roku.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "pixel.staging.web.roku.com",
       "action": {
         "do": 0,

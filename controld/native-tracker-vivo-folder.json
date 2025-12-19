@@ -309,6 +309,13 @@
       }
     },
     {
+      "PK": "cname-asia-comonrt-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "cname-asia-st-exappupgrade.vivoglobal.com",
       "action": {
         "do": 0,

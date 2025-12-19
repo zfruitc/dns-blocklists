@@ -2262,20 +2262,6 @@
       }
     },
     {
-      "PK": "tj1.staging.fintech.pt.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "tj1.staging.fund.pt.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "tj1.staging.ins.pt.xiaomi.com",
       "action": {
         "do": 0,

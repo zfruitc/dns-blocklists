@@ -162,13 +162,6 @@
       }
     },
     {
-      "PK": "adsyndication.msn.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "advertising.jp.msn.com",
       "action": {
         "do": 0,
@@ -2669,6 +2662,13 @@
     },
     {
       "PK": "word-telemetry.wac.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "wttwebsiteprodapi-liveevents.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1

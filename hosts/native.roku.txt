@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Dec 2025 18:05 UTC
-# Version: 2025.1205.1805.53
+# Last modified: 19 Dec 2025 18:09 UTC
+# Version: 2025.1219.1809.00
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 158
+# Number of entries: 157
 #
 0.0.0.0 ravm.tv
 0.0.0.0 cdn.ravm.tv
@@ -163,7 +163,6 @@
 0.0.0.0 login.ads.staging.roku.com
 0.0.0.0 wwwimg.staging.roku.com
 0.0.0.0 customer-feedbacks.web.roku.com
-0.0.0.0 methodofpay-ads.web.roku.com
 0.0.0.0 pixel.web.roku.com
 0.0.0.0 pixel.staging.web.roku.com
 0.0.0.0 wwwimg.roku.com

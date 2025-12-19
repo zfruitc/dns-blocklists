@@ -295,13 +295,6 @@
       }
     },
     {
-      "PK": "oscobo.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "peekier.com",
       "action": {
         "do": 0,

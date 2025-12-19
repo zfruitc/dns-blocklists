@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764957900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766167740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Roku Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Dec 2025 18:05 UTC
-; Version: 2025.1205.1805.53
+; Last modified: 19 Dec 2025 18:09 UTC
+; Version: 2025.1219.1809.00
 ; Syntax: RPZ
-; Number of entries: 140
+; Number of entries: 138
 ;
 h4g3z1-native.roku.web.app CNAME .
 *.h4g3z1-native.roku.web.app CNAME .
@@ -144,8 +144,6 @@ wwwimg.staging.roku.com CNAME .
 *.wwwimg.staging.roku.com CNAME .
 customer-feedbacks.web.roku.com CNAME .
 *.customer-feedbacks.web.roku.com CNAME .
-methodofpay-ads.web.roku.com CNAME .
-*.methodofpay-ads.web.roku.com CNAME .
 pixel.web.roku.com CNAME .
 *.pixel.web.roku.com CNAME .
 pixel.staging.web.roku.com CNAME .

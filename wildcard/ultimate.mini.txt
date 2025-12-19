@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 14:27 UTC
-# Version: 2025.1219.1427.58
+# Last modified: 19 Dec 2025 19:14 UTC
+# Version: 2025.1219.1914.09
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 74729
+# Number of entries: 74791
 #
 *.0.org
 *.0-02.net
@@ -21,6 +21,7 @@
 *.000webhostapp.com
 *.0010.me
 *.001260.xyz
+*.001472.click
 *.001975421.icu
 *.0019x.com
 *.00224488.xyz
@@ -53,6 +54,7 @@
 *.00web.net
 *.0110shuffler.xyz
 *.0123moviesfree.org
+*.012843.click
 *.0129xjaz.icu
 *.013572.cn
 *.0149.info
@@ -218,6 +220,7 @@
 *.081kujxc0o.top
 *.08256602.xyz
 *.0825office.cn
+*.08527.click
 *.8669dcc54e.08675bd78b.com
 *.1c37f52d4c.0880559526.com
 *.08a8b6e8efe08211f18c6abd847c91fd.info
@@ -551,6 +554,7 @@
 *.1483ff387893.top
 *.1483ff93847.top
 *.14andme.com
+*.14emeliaterracewestroxburyma02132.su
 *.6cb28ed99a.14f768ef60.com
 *.14g2mcg2zg.world
 *.14i8trbbx4.com
@@ -968,6 +972,7 @@
 *.2381280.xyz
 *.238475coinbase.com
 *.23878c9839.world
+*.23985.click
 *.23995239582.sbs
 *.23kbaby.site
 *.report.23video.com
@@ -1379,6 +1384,7 @@
 *.mvconf.cloud.360safe.com
 *.mclean.uk.cloud.360safe.com
 *.mvconf.uk.cloud.360safe.com
+*.down.360safe.com
 *.kuaikan.netmon.360safe.com
 *.stat.360safe.com
 *.ini.update.360safe.com
@@ -2131,6 +2137,7 @@
 *.63548860b9f38b6af68fccc07a760f6c.xyz
 *.6362001.click
 *.6363941103.click
+*.637822.click
 *.637c776880248f000163c8de.click
 *.638361.click
 *.63ab07717ab2c30001333240.click
@@ -2717,6 +2724,7 @@
 *.880ac5cd641d.com
 *.881-google.com
 *.t.881903.com
+*.883257.click
 *.8855-google.com
 *.88613b935acc.com
 *.88613b935acc.xyz
@@ -2763,7 +2771,6 @@
 *.8906a5ee95b60695e38530d494e7a123.xyz
 *.890m.com
 *.89296649.xyz
-*.89346.cfd
 *.89346.icu
 *.895062b7f455a6a9.com
 *.8979753070a7caeba2.site
@@ -2953,6 +2960,7 @@
 *.96679950.xyz
 *.966r.org
 *.96edcba0dade2ee3f438e9632d1eb979.info
+*.973627.click
 *.975943413.top
 *.976060393.xyz
 *.97778ed292.com
@@ -3061,6 +3069,7 @@
 *.9ze83xtz5qgt9pn4ph34.cfd
 *.a.ki
 *.a--ds.com
+*.a-1--01denflrsatlar-kmpanlari.cfd
 *.a-1-0-1denhaftnin-kmpanyalari.cfd
 *.a-10--1denhaftnin-yldizlari.cfd
 *.a-101-hementektiklacepte.cfd
@@ -6148,6 +6157,7 @@
 *.appconf-ocs-sgp.heytapdl.com.akamaized.net
 *.mdp-appconf-eu.heytapdl.com.akamaized.net
 *.mdp-appconf-euex.heytapdl.com.akamaized.net
+*.gameimg.heytapimg.com.akamaized.net
 *.ads.jetpackdigital.com.akamaized.net
 *.measure.office.com.akamaized.net
 *.smartadserver.com.akamaized.net
@@ -7078,6 +7088,7 @@
 *.alb-external-prod-tracking-866911741.eu-central-1.elb.amazonaws.com
 *.alb-vlyby-tracking-prebid-720843281.eu-central-1.elb.amazonaws.com
 *.ana-collector-alb-eu-iron-75689409.eu-central-1.elb.amazonaws.com
+*.ana-collector-alb-us-iron-1288770839.eu-central-1.elb.amazonaws.com
 *.audiencelab-sdk-backend-1051822917.eu-central-1.elb.amazonaws.com
 *.cobrowse-externale-r178xy82mw3o-850670519.eu-central-1.elb.amazonaws.com
 *.collector-proxy-alb-1167645830.eu-central-1.elb.amazonaws.com
@@ -7144,6 +7155,7 @@
 *.cobrowse-externale-8rgcdqborxnm-1333206640.us-east-1.elb.amazonaws.com
 *.cobrowse-prod-1836182388.us-east-1.elb.amazonaws.com
 *.dt-external-217593033.us-east-1.elb.amazonaws.com
+*.event-collector-prod-use1-1328100352.us-east-1.elb.amazonaws.com
 *.feedmob-tracking-891245064.us-east-1.elb.amazonaws.com
 *.fishtownanalytics-collector-1340672531.us-east-1.elb.amazonaws.com
 *.fwdcmp-collector-elb-1068580620.us-east-1.elb.amazonaws.com
@@ -7313,6 +7325,7 @@
 *.connectio.s3.amazonaws.com
 *.csc-report-bucket.s3.amazonaws.com
 *.dp-uploader-vehicle-telemetry-prod-us-west-2.s3.amazonaws.com
+*.edition-collector-production.s3.amazonaws.com
 *.firefly-071591.s3.amazonaws.com
 *.fkrkkmxsqeb5bj9r.s3.amazonaws.com
 *.friends2follow-us.s3.amazonaws.com
@@ -7757,6 +7770,7 @@
 *.andava.com
 *.andbarr.co
 *.andbeyond.media
+*.andelenergi-id.com
 *.andersenit.dk
 *.andespeaks.top
 *.andomedia.com
@@ -8234,6 +8248,7 @@
 *.cstat.apple.com
 *.diagassets.apple.com
 *.diagnostics.apple.com
+*.dz1dt3wqswdezgx4j2ryem5iad.apple.com
 *.experiments.apple.com
 *.iadcontent.apple.com
 *.iadsdk.apple.com
@@ -8516,6 +8531,7 @@
 *.aqbsolutions.com
 *.aqexatnj.com
 *.aqfyrgb.in
+*.aqianniao.com
 *.aqkpl1trk.com
 *.aqla-token.com
 *.aqle3.com
@@ -8977,6 +8993,7 @@
 *.assignoppressionmission.com
 *.assistads.net
 *.assistance-clients.fr
+*.assistancemrelay.com
 *.assistances-sg-intranet.fr
 *.assistirfilmes.org
 *.assmafsi.com
@@ -9910,6 +9927,7 @@
 *.ayensgerim.com
 *.ayhnnonnjqgkb.space
 *.aykqyjzwekaqw.top
+*.aylikmutfakalisverisinidengeleyin.cfd
 *.aysesuretobea.com
 *.ayso177.org
 *.ayuweb.top
@@ -12075,6 +12093,7 @@
 *.birthjeans.icu
 *.birto.ru
 *.bisairtooneep.net
+*.bisang-gainteksia.net
 *.biscience.com
 *.biseeurip.site
 *.bishopwealthpro.com
@@ -12082,6 +12101,7 @@
 *.web-tracker.bisnow.net
 *.bisousdemer.com
 *.bistadaka.com
+*.bit-alfard.com
 *.bit-guardian.com
 *.bit-il.bio
 *.bit-iq.io
@@ -12962,6 +12982,7 @@
 *.emetrics.bose.com
 *.tagging.bose.com
 *.events.api.bosecm.com
+*.boshmatkapucuz.site
 *.bosohepteew.net
 *.bosselinorrummage.com
 *.bossyhearing.com
@@ -17227,6 +17248,7 @@
 *.cnv.cx
 *.cnvlink.com
 *.cnvr.net
+*.cnwucnf.top
 *.cnzszyxxw.cn
 *.cnzz.cn
 *.cnzz.com
@@ -17288,6 +17310,7 @@
 *.advertising.amazon.co.jp
 *.advertising.amazon.co.uk
 *.fls-eu.amazon.co.uk
+*.fls-eu.amazon.co.za
 *.fls-fe.amazon.co.jp
 *.unagi.amazon.co.jp
 *.unagi.amazon.co.uk
@@ -18895,6 +18918,7 @@
 *.onead.com.tw
 *.onead.onevision.com.tw
 *.onfiltre.com.tr
+*.onlineodemekasa.com.tr
 *.ontek.com.tr
 *.track.opentable.com.mx
 *.osvitaportal.com.ua
@@ -20413,6 +20437,7 @@
 *.crdefault.link
 *.analytics.crdroid.net
 *.crdtrack.com
+*.crdyiz.cfd
 *.cre.ma
 *.analytics.crea.ca
 *.creadevents.us
@@ -20494,6 +20519,7 @@
 *.xml-v4.creziamedia.com
 *.crfgunay.cfd
 *.crfrsodayizbiz.cfd
+*.crfrsoyilsonu.cfd
 *.crfsgnleri.cfd
 *.stats.crhoy.com
 *.clarity.cri.com
@@ -21491,6 +21517,7 @@
 *.datafy-software.com
 *.datafyhq.com
 *.datagen.info
+*.datagivers.com
 *.matomo.datago.ru
 *.stream.datago.ru
 *.api.consentjs.datagrail.io
@@ -25355,6 +25382,7 @@
 *.elfsightcdn.com
 *.links.elgato.com
 *.elianbezazz.cfd
+*.elicharedice.com
 *.eligibility-magma.org
 *.eligible-bonk.fun
 *.eligible-bonk.info
@@ -26588,6 +26616,7 @@
 *.fcg-api.exponea.com
 *.gnt-api.exponea.com
 *.lner-api.exponea.com
+*.mallgroup-api.exponea.com
 *.nxi-api.exponea.com
 *.raisin-api.exponea.com
 *.rozetka-api.exponea.com
@@ -26994,7 +27023,6 @@
 *.fancouriers.top
 *.fancrew.jp
 *.fancs.com
-*.fancuorier.today
 *.fancyactivity.com
 *.fancyapi.com
 *.fancydsp.com
@@ -28295,6 +28323,7 @@
 *.focus-gainvexapp.com
 *.focusdaily.site
 *.focusedbrotherembark.com
+*.focusgainvexapp.com
 *.focustopbreed78d.com
 *.fodsoack.com
 *.foerpo.com
@@ -30940,6 +30969,7 @@
 *.analytics.gmc.com
 *.pdmsmrt.gmc.com
 *.gmef8trk.com
+*.gmerseason.com
 *.gmevents.ae
 *.gmewxqpcxctgg.space
 *.www.gmfcg4t8trk.com
@@ -30952,7 +30982,6 @@
 *.gml-grp.com
 *.gmmads.com
 *.plausible.gmmz.dev
-*.gmo.com
 *.img.gmo.jp
 *.gmo-am.jp
 *.gmodules.com
@@ -33313,6 +33342,7 @@
 *.hfemx.icu
 *.hfghghjygj.info
 *.hfh8qj1gyti7crquqqgimowvwlp.cfd
+*.cache.hfjdsbhsd.top
 *.hfnuqljjnt.com
 *.hfqsehb.com
 *.hfzkgw.com
@@ -35121,6 +35151,7 @@
 *.ilovemobi.com
 *.evt.ilovepdf.com
 *.ilovesamples.com
+*.iloveyourglasses.com
 *.gtm.ilpost.it
 *.x.ilpost.it
 *.ilquige.com
@@ -36141,6 +36172,7 @@
 *.internationalerumzug.de
 *.analytics.internationalservicecheck.com
 *.internattachment.com
+*.interneftiki.com
 *.internet-census.org
 *.guide.internetat.tv
 *.log.internetat.tv
@@ -37252,6 +37284,7 @@
 *.jinju-delivery.com
 *.jinnews11.xyz
 *.jinnews19.xyz
+*.jinniespottagy.com
 *.jinsantong.com
 *.jinton.ru
 *.jcpnv.jio.com
@@ -37827,6 +37860,7 @@
 *.jygotubvpyguak.com
 *.jyiikm.xyz
 *.jynquff702.vip
+*.jyqekzzlmreob.top
 *.jyrich.com
 *.jyroda.com
 *.jyvbebpty.com
@@ -38353,6 +38387,7 @@
 *.kilo6alga.com
 *.kilometreacimaz.cfd
 *.kilometrix.de
+*.kilomtrecildirtana.cfd
 *.kilomtreciler.cfd
 *.kilomtreustasi.cfd
 *.kilomtrezoryarisirlar.cfd
@@ -38847,6 +38882,7 @@
 *.kra48.cz
 *.kraads.cc
 *.krab1vpn.com
+*.krab3-cc.ru
 *.ssgtm.krackonline.com
 *.krad1at.ru
 *.log-brofront.kraftonde.com
@@ -40872,6 +40908,7 @@
 *.cbcdn.lloydsbank.com
 *.analytics.data.lloydsbankinggroup.com
 *.optimisation.data.lloydsbankinggroup.com
+*.llozybojzowrj.top
 *.llpgpro.com
 *.lltrck.com
 *.llvlzvroqoezv.top
@@ -43327,6 +43364,7 @@
 *.edge.metroleads.com
 *.sgtm.metronet.com
 *.metropolis.de
+*.metropolisswift.com
 *.metumpsidles.cfd
 *.hjiuz.meundies.com
 *.mevvbot.com
@@ -44372,12 +44410,7 @@
 *.monetizepros.com
 *.monetizer.com
 *.monetizer101.com
-*.rus-trk.monetune.com
-*.rus-trk2.monetune.com
-*.sg-trk.monetune.com
-*.sg-trk2.monetune.com
-*.use-trk.monetune.com
-*.use-trk2.monetune.com
+*.monetune.com
 *.metrics.money.com
 *.secure.money.com
 *.moneycat.vn
@@ -46209,6 +46242,7 @@
 *.neronixmax.com
 *.neronixmax20.com
 *.neronixmax50.com
+*.neronixpay.com
 *.neronixpay20.com
 *.neronixpay50.com
 *.neronixprofit360app.com
@@ -50077,6 +50111,8 @@
 *.analytics.paxful.com
 *.sentry.paxful.com
 *.paxil-vision-app.com
+*.paxosii.cyou
+*.paxosii.shop
 *.paxosii.xyz
 *.pay4results24.eu
 *.pay9.xyz
@@ -52974,6 +53010,7 @@
 *.ads.provimedia.de
 *.smetrics.provincial.com
 *.provodemop.site
+*.prowixedgeapp.com
 *.prowlapp.com
 *.analytics.proxad.net
 *.stats.mob.proxad.net
@@ -53575,6 +53612,7 @@
 *.q88z1s3.com
 *.q8qtos.lat
 *.q8qxhh.lat
+*.q9986woieplhxz.cfd
 *.q9t1w5363374.shop
 *.qa-analytics.com
 *.qa4zclq.com
@@ -54082,10 +54120,12 @@
 *.track.quantum-techverseopera-ajb.com
 *.quantumadblocker.com
 *.quantumaionline-plattform.com
+*.quantumaiplatform.com
 *.quantumbiomedfarms.org
 *.quantumcore-app.com
 *.quantumdex.io
 *.quantumgraph.com
+*.quantuminsight-ai.com
 *.quantummetric.com
 *.quantumvale-ai-solution.com
 *.quantumvaleai.net
@@ -56757,10 +56797,12 @@
 *.server-side-tagging-abizib43ga-uc.a.run.app
 *.server-side-tagging-agl2jup2aa-uc.a.run.app
 *.server-side-tagging-ajszjymjga-uc.a.run.app
+*.server-side-tagging-b2c2itg3wq-uc.a.run.app
 *.server-side-tagging-brnu6qo2ra-uc.a.run.app
 *.server-side-tagging-buqob3b3sa-uc.a.run.app
 *.server-side-tagging-c4algtcb7q-uc.a.run.app
 *.server-side-tagging-cscijzmvia-uc.a.run.app
+*.server-side-tagging-d7veroa52q-uc.a.run.app
 *.server-side-tagging-dh2ikapgzq-uc.a.run.app
 *.server-side-tagging-dji2sahn7q-uc.a.run.app
 *.server-side-tagging-ec2exgw2xq-uc.a.run.app
@@ -56818,6 +56860,7 @@
 *.server-side-tagging-vwo52nibmq-uc.a.run.app
 *.server-side-tagging-w66n5pxv4a-uc.a.run.app
 *.server-side-tagging-ykzfrilmoq-uc.a.run.app
+*.server-side-tagging-ylzcsu5rwq-uc.a.run.app
 *.server-side-tagging-yxapxrrzbq-uc.a.run.app
 *.server-side-tagging-zhywnqwwdq-uc.a.run.app
 *.server-side-tagging-zkjryjmc2q-uc.a.run.app
@@ -56846,6 +56889,7 @@
 *.nextera-rd-ga4-clickstream-tracker-890810558010.us-central1.run.app
 *.pixel-580839345669.us-central1.run.app
 *.server-side-tagging-1086177390344.us-central1.run.app
+*.server-side-tagging-201610327610.us-central1.run.app
 *.server-side-tagging-231604340165.us-central1.run.app
 *.server-side-tagging-23211202459.us-central1.run.app
 *.server-side-tagging-420773280787.us-central1.run.app
@@ -56967,6 +57011,7 @@
 *.rxyzongzhan.top
 *.rxyzongzhan.xyz
 *.ryanair-investtech.com
+*.ryanairinvest.net
 *.ryanairinvestapp.com
 *.smetrics.ryanhomes.com
 *.rybbit.io
@@ -58922,6 +58967,7 @@
 *.sentry.offline.shelopes.com
 *.creative.shemale.show
 *.shemedia.com
+*.shemrec.cc
 *.shenajou.com
 *.shengfleming.com
 *.shenshiads.com
@@ -60124,6 +60170,7 @@
 *.smbccard-co-jp.com
 *.smbcnikka-co-jp.net
 *.smbcnikko.cam
+*.smbcnikko.cfd
 *.smbtnupsh.com
 *.smcclaw.com
 *.smconene.pro
@@ -60401,6 +60448,7 @@
 *.soberspanner.shop
 *.sobesed.com
 *.sobot.com
+*.protected.socadvnet.com
 *.socagercornet.com
 *.soccer-jersey-yupoo.com
 *.socde.com
@@ -60515,6 +60563,7 @@
 *.softwarepreservation.org
 *.partner-app.softwareselect.com
 *.sentry.softwear.co
+*.sofvenix-pro.com
 *.sofzav477.vip
 *.aaws-aanalytics.sogei.it
 *.aews-analytics.sogei.it
@@ -60922,6 +60971,7 @@
 *.sparkstown.com
 *.sparrow.ru
 *.sparrowcanned.com
+*.sparrowwallef.com
 *.metrics.spartan.com
 *.metrics.spartantrail.com
 *.sparteo.com
@@ -61619,6 +61669,7 @@
 *.starkmotorracing.com
 *.starksk.com
 *.starl1tewave.ru
+*.starlakeedge.net
 *.starleaf.com
 *.metrics.starlight.digital
 *.starlightprincesscl.life
@@ -65138,6 +65189,7 @@
 *.tokenlon.im
 *.tokensguggled.com
 *.tokgirisislemleredevlet.sbs
+*.tokgirislerimgovtr.cyou
 *.tokgirislerimizgovtr.cyou
 *.tokgovtrkurumsal.sbs
 *.tokibasvurusistemi.cfd
@@ -65550,6 +65602,7 @@
 *.tp-em.cc
 *.tp88trk.com
 *.tracking.tpadx.com
+*.tpaoinvest.com
 *.tpbid.com
 *.tpcserve.com
 *.tpctrust.com
@@ -67810,6 +67863,7 @@
 *.stats.urban-vpn.com
 *.boxoffice.urbanairship.com
 *.c00001-dl.urbanairship.com
+*.c00009-dl.urbanairship.com
 *.c00028-dl.urbanairship.com
 *.c00029-dl.urbanairship.com
 *.c00033-dl.urbanairship.com
@@ -67823,6 +67877,7 @@
 *.c00158-dl.urbanairship.com
 *.c00162-dl.urbanairship.com
 *.c00166-dl.urbanairship.com
+*.c00168-dl.urbanairship.com
 *.c00180-dl.urbanairship.com
 *.c00186-dl.urbanairship.com
 *.c00197-dl.urbanairship.com
@@ -67832,16 +67887,21 @@
 *.c00276-dl.urbanairship.com
 *.c00307-dl.urbanairship.com
 *.c00316-dl.urbanairship.com
+*.c00334-dl.urbanairship.com
+*.c00337-dl.urbanairship.com
 *.c00354-dl.urbanairship.com
 *.c00355-dl.urbanairship.com
 *.c00359-dl.urbanairship.com
+*.c00366-dl.urbanairship.com
 *.c00381-dl.urbanairship.com
+*.c00382-dl.urbanairship.com
 *.c00402-dl.urbanairship.com
 *.combine.urbanairship.com
 *.device-api.urbanairship.com
 *.go.urbanairship.com
 *.remote-data.urbanairship.com
 *.sbux-dl.urbanairship.com
+*.sky-dl.urbanairship.com
 *.web-sdk.urbanairship.com
 *.tracking.urbanic.com
 *.urbaninsight.com
@@ -69073,7 +69133,7 @@
 *.viralbeat.com
 *.sentry.kube.viralgains.com
 *.viralize.com
-*.viralize.tv
+*.ads.viralize.tv
 *.virallupdates.com
 *.viralnewsbd.xyz
 *.viralnewssystems.com
@@ -69286,6 +69346,7 @@
 *.asia-vpushonrt-stsdk.vivoglobal.com
 *.asia-vpushort-stsdk.vivoglobal.com
 *.cl-vcode-od.vivoglobal.com
+*.cname-asia-comonrt-stsdk.vivoglobal.com
 *.cname-asia-st-exappupgrade.vivoglobal.com
 *.cname-de-stsdk.vivoglobal.com
 *.cname-in-apport-stsdk.vivoglobal.com
@@ -71394,6 +71455,7 @@
 *.gs.wixapps.net
 *.panorama.wixapps.net
 *.smetrics.wixfilters.com
+*.www.wixforms.com
 *.wixnm.com
 *.sentry.wixpress.com
 *.sentry-next.wixpress.com
@@ -73336,6 +73398,7 @@
 *.yijirecovery.com
 *.yijzasrq.biz
 *.yilbasi-oncesifirsatlarini-ayaginizda.sbs
+*.yildizlarsepeti.sbs
 *.yilqwtcrub.com
 *.yilsonucarreforsadayiz.cfd
 *.im.c.yimg.jp
@@ -73715,7 +73778,6 @@
 *.yufxt.top
 *.yuga.ru
 *.yugukj.com
-*.yuhuan.cc
 *.yuiiy.com
 *.yukclick.me
 *.yukidrit.pro
