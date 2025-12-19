@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766035860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766181120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,8 +16,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Dec 2025 05:31 UTC
-; Version: 2025.1218.0531.11
+; Last modified: 19 Dec 2025 21:52 UTC
+; Version: 2025.1219.2152.33
 ; Syntax: RPZ
 ; Number of entries: 18940
 ;
@@ -8271,8 +8271,6 @@ l9.fr CNAME .
 *.l9.fr CNAME .
 go.lamotte.fr CNAME .
 *.go.lamotte.fr CNAME .
-lemde.fr CNAME .
-*.lemde.fr CNAME .
 littly.fr CNAME .
 *.littly.fr CNAME .
 lnks.fr CNAME .
@@ -8429,6 +8427,8 @@ d.minifun.games CNAME .
 *.d.minifun.games CNAME .
 direct.minifun.games CNAME .
 *.direct.minifun.games CNAME .
+playtr.games CNAME .
+*.playtr.games CNAME .
 ss777.games CNAME .
 *.ss777.games CNAME .
 go.ustwo.games CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 13:30 UTC
-# Version: 2025.1219.1330.06
+# Last modified: 19 Dec 2025 21:31 UTC
+# Version: 2025.1219.2131.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14095
+# Number of entries: 14096
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -3764,6 +3764,7 @@ local=/ellanorahamburg.com/
 local=/elle-weber.de/
 local=/ellela.de/
 local=/ellerne.com/
+local=/ellevory.com/
 local=/ellicas.de/
 local=/ellinika-farmakeio.com/
 local=/ellisaluna-handel24.de/

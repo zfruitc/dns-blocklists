@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 18:53 UTC
-# Version: 2025.1219.1853.18
+# Last modified: 19 Dec 2025 22:11 UTC
+# Version: 2025.1219.2211.36
 # Syntax: Domains (without subdomains)
-# Number of entries: 40534
+# Number of entries: 40546
 #
 0.org
 0-02.net
@@ -1412,6 +1412,7 @@ t.881903.com
 88r6s1hecp.com
 8906a5ee95b60695e38530d494e7a123.xyz
 89296649.xyz
+89346.cfd
 89346.icu
 895062b7f455a6a9.com
 8979753070a7caeba2.site
@@ -4346,6 +4347,7 @@ ancientact.com
 dh.ancillammmm.com
 ancznewozw.com
 andbeyond.media
+andelenergi-id.com
 andersenit.dk
 andomedia.com
 andriaavowe.qpon
@@ -5021,6 +5023,7 @@ stats.assets.video
 assetsconfigcdn.org
 assignlabor.com
 assistance-clients.fr
+assistancemrelay.com
 assistances-sg-intranet.fr
 assistirfilmes.org
 assmafsi.com
@@ -5813,6 +5816,7 @@ bappaads.com
 barattespleen.click
 barbadoshello.com
 metrics.barclaycardus.com
+barclaycordus.top
 tracking.barcodesinc.com
 bardmaterials.com
 barelydonkeysteed.com
@@ -6436,6 +6440,7 @@ binaryedge.ninja
 analytics.binaryfortress.com
 binarykite.com
 bincatracs.com
+bindexgainspire.net
 bindexgainspire-platform.com
 bindirect.click
 adsdk.bing.net
@@ -6476,6 +6481,7 @@ birkenstockfr.fr
 birkinshaws.ca
 birthaslaver.com
 birthjeans.icu
+bisang-gainteksia.net
 biseeurip.site
 bishopwealthpro.com
 bistadaka.com
@@ -6937,7 +6943,6 @@ botfaqtor.ru
 botndm.nl
 botoffice.xyz
 botradar.tech
-botse-whats.xyz
 botsxlhhjdvnp.online
 bottierthereof.help
 metrics.bottlerocket.aws
@@ -9248,7 +9253,6 @@ cnt.my
 s.cntqk.com
 cntxcdm.com
 cnvlink.com
-cnwucnf.top
 cnzz.net
 c.cnzz.com
 ei.cnzz.com
@@ -10316,6 +10320,7 @@ commercialvalue.org
 commgr.top
 commissionhero.com
 commissionkings.ag
+commodeoverfeedstifling.com
 commonjamknights.com
 telemetry.commonspirit.org
 commontools.net
@@ -10470,6 +10475,7 @@ analytics.connectjh.com
 connects.ch
 connecttopro.us
 connexity.net
+connexpay-app.top
 connextra.com
 conohawing.com
 load.somos.conquerblocks.com
@@ -17050,6 +17056,7 @@ ggbets.co
 ggbets.pl
 ggbetss.com
 gggpht.com
+app.gggpppht.com
 gghkapost-gh.icu
 gghkkpost-gh.ink
 gglx.me
@@ -17837,7 +17844,6 @@ groundlesscobwebmiller.com
 groundssoapimagination.com
 groundtruth.com
 grounswerbrounimum.com
-group-visit05.com
 eu.groupondata.com
 na.groupondata.com
 grouprvn.com
@@ -19735,7 +19741,6 @@ usage.influxdata.com
 telemetry.v3.influxdata.com
 influxgodless.com
 info-app.ru
-info-secure2fa.com
 info-service-national.com
 info31029.cfd
 sgtm.infobus.eu
@@ -20524,6 +20529,7 @@ at.prod.jimdo.systems
 u.jimdo.com
 jingletluge.cyou
 jinju-delivery.com
+jinniespottagy.com
 jinton.ru
 mercury.jio.com
 ads.jiomart.com
@@ -22150,6 +22156,7 @@ rd.linksynergy.com
 track.linksynergy.com
 linktech.cn
 ingress.linktr.ee
+browser-fp.production.linktr.ee
 linkunder.ru
 linkwithin.com
 linkworth.com
@@ -22890,6 +22897,7 @@ analyze-82dfgsi2.m-w.com
 m-wbahis360.com
 m0rsq075u.com
 sdkconfig.pulse.m10s.io
+m19r.xyz
 m2.ai
 m2track.co
 m32.media
@@ -25489,7 +25497,6 @@ camp-api.naver.com.nheos.com
 nhgoldhtco.com
 worldmtcs.nhk.jp
 data.m.shop.nhl.com
-nhn-cafearticle.com
 nhnace.com
 nhpyige.cc
 y738.nhregister.com
@@ -27327,6 +27334,8 @@ pawnspostie.cfd
 pawsleapedfishy.com
 analytics.paxful.com
 paxil-vision-app.com
+paxosii.cyou
+paxosii.shop
 analyticaservice.payactiv.com
 smetrics.payback.de
 paybrides.org
@@ -27707,7 +27716,6 @@ metrics.personalcreations.com
 fndmg.personalizationmall.com
 ohjrxj.personalizationmall.com
 personaserver.com
-personnalitenivel5theone.shop
 personyze.com
 analytics-js.perspective.co
 pertawee.net
@@ -28630,6 +28638,7 @@ s762.pressenterprise.com
 pressize.com
 pressordiener.rest
 presssnews.biz
+prestigevarvex.net
 prestigiousdauntdistressed.com
 prestigue.de
 pretergante.com
@@ -28683,6 +28692,7 @@ primelawoffice.cfd
 primepointadvisors.live
 primepointgroup.live
 analytics.production.data.primer.io
+primerollmedia.com
 primetv.fr
 primevideobonus.click
 primewavegroup.life
@@ -28838,7 +28848,6 @@ promocionesweb.com
 mega.promodescuentos.com
 ocular.promodescuentos.com
 promolayer.io
-promosfimdeano.shop
 promostats.ru
 promotion40-form.com
 promotools.biz
@@ -29544,7 +29553,6 @@ quicklaunch.com
 quicklyedit.com
 quickpcfixer.click
 reverselookup.quicksetcloud.com
-quickzen.cfd
 quicq.top
 quietknowledge.com
 quietleaffield.com
@@ -30218,6 +30226,7 @@ repantalsedighters.com
 tags.repatha.com
 repentant-disease.com
 repentbeware.com
+reperevalgainapp.com
 rephritama.site
 repixel.co
 pcuud.replacements.com
@@ -30512,6 +30521,7 @@ uh.ripebotete.top
 riperequest.com
 ripewhining.com
 ripiai.com
+rirki.com
 risalescus.site
 riscazooia.site
 rise-media.ru
@@ -31112,6 +31122,7 @@ s3g6.com
 s3s-main.net
 s3xified.com
 s4yn0t0sn00z3.xyz
+s95c.xyz
 s95l.xyz
 s99i.org
 prizecloud.sa.com
@@ -32058,7 +32069,6 @@ scmetrics.shell.com
 shelljacket.us
 trk.shelly.cloud
 creative.shemale.show
-shemrec.cc
 shenajou.com
 shengfleming.com
 shenshiads.com
@@ -32782,6 +32792,7 @@ smashpops.com
 smashquartz.com
 smatr.net
 smbcnikka-co-jp.net
+smbcnikko.cfd
 smcclaw.com
 smconene.pro
 smct.co
@@ -33647,6 +33658,7 @@ steamabundanceslope.com
 steamcommunnity.ru
 steamproxy.net
 steamunlocked.one
+steanconmumity.ru
 metrics.steelcase.com
 steelharborconsulting.ink
 steelhouse.com
@@ -33925,7 +33937,6 @@ stats.subvid.ai
 data.mktg.subway.com
 sst.subzero-wolf.com
 succeedblackoutjournal.com
-succes-dofus.fr
 successbuffet.com
 analytics012.successfactors.eu
 analytics10.successfactors.com
@@ -35303,6 +35314,7 @@ adsbyt1.titus.one
 pixel.tivo.com
 tiwogtowdj.com
 api-event.tix.id
+tixj61yrbwqwijxcn.cfd
 tycollectproxy.tiyalive.com
 tiyogami.com
 tiypa.com
@@ -37176,7 +37188,6 @@ vcmedia.vn
 vcommission.com
 vdbaa.com
 analytics.vdev.store
-vdjans.cfd
 vdna-assets.com
 vdo.ai
 vdopia.com
@@ -37603,7 +37614,6 @@ visiblemeasures.com
 visibli.com
 visilabs.net
 vision-confirm.com
-vision-recheckin1.com
 visistat.com
 piwik.visitberlin.de
 visitingthirdnine.com
@@ -38112,6 +38122,7 @@ vxmundo.com
 vyborexperta.ru
 vyebzzqlojbmj.top
 vyg.mobi
+vymybkyrzjjby.top
 tracking1.vyond.com
 vyoning.cfd
 vypepega.com
@@ -39971,6 +39982,7 @@ sgtm.yubico.com
 yubziosgvkweu.online
 yudvl.org
 yueyangbang.com
+yuhuan.cc
 yuiiy.com
 yukclick.me
 yukishigure.com

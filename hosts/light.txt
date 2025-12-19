@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 18:53 UTC
-# Version: 2025.1219.1853.18
+# Last modified: 19 Dec 2025 22:11 UTC
+# Version: 2025.1219.2211.36
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 84712
+# Number of entries: 84724
 #
 0.0.0.0 0.org
 0.0.0.0 0-02.net
@@ -5403,6 +5403,7 @@
 0.0.0.0 88r6s1hecp.com
 0.0.0.0 8906a5ee95b60695e38530d494e7a123.xyz
 0.0.0.0 89296649.xyz
+0.0.0.0 89346.cfd
 0.0.0.0 89346.icu
 0.0.0.0 895062b7f455a6a9.com
 0.0.0.0 8979753070a7caeba2.site
@@ -11853,6 +11854,7 @@
 0.0.0.0 rtbcdn.andbeyond.media
 0.0.0.0 rtbpass.andbeyond.media
 0.0.0.0 rtbpass-us.andbeyond.media
+0.0.0.0 andelenergi-id.com
 0.0.0.0 andersenit.dk
 0.0.0.0 andomedia.com
 0.0.0.0 andriaavowe.qpon
@@ -20792,6 +20794,7 @@
 0.0.0.0 assetsconfigcdn.org
 0.0.0.0 assignlabor.com
 0.0.0.0 assistance-clients.fr
+0.0.0.0 assistancemrelay.com
 0.0.0.0 assistances-sg-intranet.fr
 0.0.0.0 assistirfilmes.org
 0.0.0.0 assmafsi.com
@@ -21910,6 +21913,7 @@
 0.0.0.0 barattespleen.click
 0.0.0.0 barbadoshello.com
 0.0.0.0 metrics.barclaycardus.com
+0.0.0.0 barclaycordus.top
 0.0.0.0 tracking.barcodesinc.com
 0.0.0.0 bardmaterials.com
 0.0.0.0 barelydonkeysteed.com
@@ -22818,6 +22822,7 @@
 0.0.0.0 analytics.binaryfortress.com
 0.0.0.0 binarykite.com
 0.0.0.0 bincatracs.com
+0.0.0.0 bindexgainspire.net
 0.0.0.0 bindexgainspire-platform.com
 0.0.0.0 bindirect.click
 0.0.0.0 adsdk.bing.net
@@ -22860,6 +22865,7 @@
 0.0.0.0 birthaslaver.com
 0.0.0.0 wz.birthaslaver.com
 0.0.0.0 birthjeans.icu
+0.0.0.0 bisang-gainteksia.net
 0.0.0.0 biseeurip.site
 0.0.0.0 bishopwealthpro.com
 0.0.0.0 bistadaka.com
@@ -23543,7 +23549,6 @@
 0.0.0.0 botndm.nl
 0.0.0.0 botoffice.xyz
 0.0.0.0 botradar.tech
-0.0.0.0 botse-whats.xyz
 0.0.0.0 botsxlhhjdvnp.online
 0.0.0.0 bottierthereof.help
 0.0.0.0 metrics.bottlerocket.aws
@@ -30786,7 +30791,6 @@
 0.0.0.0 cntxcdm.com
 0.0.0.0 amp.cntxcdm.com
 0.0.0.0 cnvlink.com
-0.0.0.0 cnwucnf.top
 0.0.0.0 cnzz.net
 0.0.0.0 c.cnzz.com
 0.0.0.0 ei.cnzz.com
@@ -32108,6 +32112,7 @@
 0.0.0.0 commissionhero.com
 0.0.0.0 commissionkings.ag
 0.0.0.0 record.commissionkings.ag
+0.0.0.0 commodeoverfeedstifling.com
 0.0.0.0 commonjamknights.com
 0.0.0.0 telemetry.commonspirit.org
 0.0.0.0 commontools.net
@@ -32314,6 +32319,7 @@
 0.0.0.0 connects.ch
 0.0.0.0 connecttopro.us
 0.0.0.0 connexity.net
+0.0.0.0 connexpay-app.top
 0.0.0.0 connextra.com
 0.0.0.0 ssl.connextra.com
 0.0.0.0 us.connextra.com
@@ -45645,6 +45651,7 @@
 0.0.0.0 ggbets.pl
 0.0.0.0 ggbetss.com
 0.0.0.0 gggpht.com
+0.0.0.0 app.gggpppht.com
 0.0.0.0 gghkapost-gh.icu
 0.0.0.0 gghkkpost-gh.ink
 0.0.0.0 gglx.me
@@ -47814,7 +47821,6 @@
 0.0.0.0 gt-pixel-prod.groundtruth.com
 0.0.0.0 www.groundtruth.com
 0.0.0.0 grounswerbrounimum.com
-0.0.0.0 group-visit05.com
 0.0.0.0 eu.groupondata.com
 0.0.0.0 na.groupondata.com
 0.0.0.0 grouprvn.com
@@ -51066,7 +51072,6 @@
 0.0.0.0 telemetry.v3.influxdata.com
 0.0.0.0 influxgodless.com
 0.0.0.0 info-app.ru
-0.0.0.0 info-secure2fa.com
 0.0.0.0 info-service-national.com
 0.0.0.0 info31029.cfd
 0.0.0.0 sgtm.infobus.eu
@@ -52498,6 +52503,7 @@
 0.0.0.0 u.jimdo.com
 0.0.0.0 jingletluge.cyou
 0.0.0.0 jinju-delivery.com
+0.0.0.0 jinniespottagy.com
 0.0.0.0 jinton.ru
 0.0.0.0 mercury.jio.com
 0.0.0.0 ads.jiomart.com
@@ -54922,6 +54928,7 @@
 0.0.0.0 linktech.cn
 0.0.0.0 ingress.linktr.ee
 0.0.0.0 qa.ingress.linktr.ee
+0.0.0.0 browser-fp.production.linktr.ee
 0.0.0.0 linkunder.ru
 0.0.0.0 linkwithin.com
 0.0.0.0 www.linkwithin.com
@@ -55834,6 +55841,7 @@
 0.0.0.0 m-wbahis360.com
 0.0.0.0 m0rsq075u.com
 0.0.0.0 sdkconfig.pulse.m10s.io
+0.0.0.0 m19r.xyz
 0.0.0.0 m2.ai
 0.0.0.0 kvp.m2.ai
 0.0.0.0 m2d.m2.ai
@@ -60451,7 +60459,6 @@
 0.0.0.0 nhgoldhtco.com
 0.0.0.0 worldmtcs.nhk.jp
 0.0.0.0 data.m.shop.nhl.com
-0.0.0.0 nhn-cafearticle.com
 0.0.0.0 nhnace.com
 0.0.0.0 adlib.nhnace.com
 0.0.0.0 ax.nhnace.com
@@ -63855,6 +63862,8 @@
 0.0.0.0 pawsleapedfishy.com
 0.0.0.0 analytics.paxful.com
 0.0.0.0 paxil-vision-app.com
+0.0.0.0 paxosii.cyou
+0.0.0.0 paxosii.shop
 0.0.0.0 analyticaservice.payactiv.com
 0.0.0.0 smetrics.payback.de
 0.0.0.0 paybrides.org
@@ -64397,7 +64406,6 @@
 0.0.0.0 fndmg.personalizationmall.com
 0.0.0.0 ohjrxj.personalizationmall.com
 0.0.0.0 personaserver.com
-0.0.0.0 personnalitenivel5theone.shop
 0.0.0.0 personyze.com
 0.0.0.0 cdn.personyze.com
 0.0.0.0 count.personyze.com
@@ -65793,6 +65801,7 @@
 0.0.0.0 static.pressize.com
 0.0.0.0 pressordiener.rest
 0.0.0.0 presssnews.biz
+0.0.0.0 prestigevarvex.net
 0.0.0.0 prestigiousdauntdistressed.com
 0.0.0.0 prestigue.de
 0.0.0.0 pretergante.com
@@ -65852,6 +65861,7 @@
 0.0.0.0 primepointadvisors.live
 0.0.0.0 primepointgroup.live
 0.0.0.0 analytics.production.data.primer.io
+0.0.0.0 primerollmedia.com
 0.0.0.0 primetv.fr
 0.0.0.0 primevideobonus.click
 0.0.0.0 primewavegroup.life
@@ -66068,7 +66078,6 @@
 0.0.0.0 a.promolayer.io
 0.0.0.0 displayscdn.promolayer.io
 0.0.0.0 modules.promolayer.io
-0.0.0.0 promosfimdeano.shop
 0.0.0.0 promostats.ru
 0.0.0.0 promotion40-form.com
 0.0.0.0 promotools.biz
@@ -67262,7 +67271,6 @@
 0.0.0.0 quicklyedit.com
 0.0.0.0 quickpcfixer.click
 0.0.0.0 reverselookup.quicksetcloud.com
-0.0.0.0 quickzen.cfd
 0.0.0.0 quicq.top
 0.0.0.0 quietknowledge.com
 0.0.0.0 quietleaffield.com
@@ -68238,6 +68246,7 @@
 0.0.0.0 tags.repatha.com
 0.0.0.0 repentant-disease.com
 0.0.0.0 repentbeware.com
+0.0.0.0 reperevalgainapp.com
 0.0.0.0 rephritama.site
 0.0.0.0 repixel.co
 0.0.0.0 pcuud.replacements.com
@@ -69064,6 +69073,7 @@
 0.0.0.0 riperequest.com
 0.0.0.0 ripewhining.com
 0.0.0.0 ripiai.com
+0.0.0.0 rirki.com
 0.0.0.0 risalescus.site
 0.0.0.0 riscazooia.site
 0.0.0.0 rise-media.ru
@@ -69958,6 +69968,7 @@
 0.0.0.0 s3xified.com
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 s4yn0t0sn00z3.xyz
+0.0.0.0 s95c.xyz
 0.0.0.0 s95l.xyz
 0.0.0.0 s99i.org
 0.0.0.0 prizecloud.sa.com
@@ -71399,7 +71410,6 @@
 0.0.0.0 shelljacket.us
 0.0.0.0 trk.shelly.cloud
 0.0.0.0 creative.shemale.show
-0.0.0.0 shemrec.cc
 0.0.0.0 shenajou.com
 0.0.0.0 shengfleming.com
 0.0.0.0 shenshiads.com
@@ -72940,6 +72950,7 @@
 0.0.0.0 smashquartz.com
 0.0.0.0 smatr.net
 0.0.0.0 smbcnikka-co-jp.net
+0.0.0.0 smbcnikko.cfd
 0.0.0.0 smcclaw.com
 0.0.0.0 smconene.pro
 0.0.0.0 smct.co
@@ -74273,6 +74284,7 @@
 0.0.0.0 steamcommunnity.ru
 0.0.0.0 steamproxy.net
 0.0.0.0 steamunlocked.one
+0.0.0.0 steanconmumity.ru
 0.0.0.0 metrics.steelcase.com
 0.0.0.0 steelharborconsulting.ink
 0.0.0.0 steelhouse.com
@@ -74603,7 +74615,6 @@
 0.0.0.0 data.mktg.subway.com
 0.0.0.0 sst.subzero-wolf.com
 0.0.0.0 succeedblackoutjournal.com
-0.0.0.0 succes-dofus.fr
 0.0.0.0 successbuffet.com
 0.0.0.0 analytics012.successfactors.eu
 0.0.0.0 analytics10.successfactors.com
@@ -76815,6 +76826,7 @@
 0.0.0.0 pixel.tivo.com
 0.0.0.0 tiwogtowdj.com
 0.0.0.0 api-event.tix.id
+0.0.0.0 tixj61yrbwqwijxcn.cfd
 0.0.0.0 tycollectproxy.tiyalive.com
 0.0.0.0 tiyogami.com
 0.0.0.0 tiypa.com
@@ -80015,7 +80027,6 @@
 0.0.0.0 track.vcommission.com
 0.0.0.0 vdbaa.com
 0.0.0.0 analytics.vdev.store
-0.0.0.0 vdjans.cfd
 0.0.0.0 vdna-assets.com
 0.0.0.0 vdo.ai
 0.0.0.0 a.vdo.ai
@@ -80784,7 +80795,6 @@
 0.0.0.0 s.visilabs.net
 0.0.0.0 vsh.visilabs.net
 0.0.0.0 vision-confirm.com
-0.0.0.0 vision-recheckin1.com
 0.0.0.0 visistat.com
 0.0.0.0 sniff.visistat.com
 0.0.0.0 piwik.visitberlin.de
@@ -81518,6 +81528,7 @@
 0.0.0.0 vyborexperta.ru
 0.0.0.0 vyebzzqlojbmj.top
 0.0.0.0 vyg.mobi
+0.0.0.0 vymybkyrzjjby.top
 0.0.0.0 tracking1.vyond.com
 0.0.0.0 vyoning.cfd
 0.0.0.0 vypepega.com
@@ -84024,6 +84035,7 @@
 0.0.0.0 yudvl.org
 0.0.0.0 yueyangbang.com
 0.0.0.0 www.yueyangbang.com
+0.0.0.0 yuhuan.cc
 0.0.0.0 yuiiy.com
 0.0.0.0 yukclick.me
 0.0.0.0 yukishigure.com

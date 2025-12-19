@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Dec 2025 13:30 UTC
-! Version: 2025.1219.1330.06
+! Last modified: 19 Dec 2025 21:31 UTC
+! Version: 2025.1219.2131.16
 ! Syntax: AdBlock
-! Number of entries: 14095
+! Number of entries: 14096
 !
 ||01broker.com^
 ||01crypto.com^
@@ -3765,6 +3765,7 @@
 ||elle-weber.de^
 ||ellela.de^
 ||ellerne.com^
+||ellevory.com^
 ||ellicas.de^
 ||ellinika-farmakeio.com^
 ||ellisaluna-handel24.de^

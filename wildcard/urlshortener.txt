@@ -12,8 +12,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Dec 2025 05:31 UTC
-# Version: 2025.1218.0531.11
+# Last modified: 19 Dec 2025 21:52 UTC
+# Version: 2025.1219.2152.33
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 9470
 #
@@ -4018,7 +4018,6 @@
 *.leitup.com
 *.lekale.me
 *.lelink.in
-*.lemde.fr
 *.lenon.page
 *.businesslink.leonidea.com
 *.less.al
@@ -5782,6 +5781,7 @@
 *.play-app.site
 *.playbokep.to
 *.playsolaire.com
+*.playtr.games
 *.plcr.ai
 *.pldthome.info
 *.plink.ir

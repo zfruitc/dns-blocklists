@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Dec 2025 19:05 UTC
-! Version: 2025.1219.1905.58
+! Last modified: 19 Dec 2025 22:22 UTC
+! Version: 2025.1219.2222.39
 ! Syntax: AdBlock
-! Number of entries: 62947
+! Number of entries: 62967
 !
 ||0.org^
 ||0-02.net^
@@ -1956,6 +1956,7 @@
 ||8906a5ee95b60695e38530d494e7a123.xyz^
 ||890m.com^
 ||89296649.xyz^
+||89346.cfd^
 ||89346.icu^
 ||895062b7f455a6a9.com^
 ||8979753070a7caeba2.site^
@@ -6520,6 +6521,7 @@
 ||tagmanager.andata.ru^
 ||andbarr.co^
 ||andbeyond.media^
+||andelenergi-id.com^
 ||andersenit.dk^
 ||andomedia.com^
 ||andr.net^
@@ -6831,6 +6833,7 @@
 ||app-deliveryfood.shop^
 ||app-dl-mobile-a.com^
 ||app-goal.com^
+||app-guides-101.xyz^
 ||app-hack.com^
 ||app-lite.com^
 ||app-live.info^
@@ -7502,6 +7505,7 @@
 ||assignlabor.com^
 ||assistads.net^
 ||assistance-clients.fr^
+||assistancemrelay.com^
 ||assistances-sg-intranet.fr^
 ||assistirfilmes.org^
 ||assmafsi.com^
@@ -8909,6 +8913,7 @@
 ||bcl8.barcelo.com^
 ||metrics.barclaycardus.com^
 ||metrics-prod.barclaycardus.com^
+||barclaycordus.top^
 ||uscb-offers.barclaysus.com^
 ||tracking.barcodesinc.com^
 ||bardmaterials.com^
@@ -9948,6 +9953,7 @@
 ||binarykite.com^
 ||bincatracs.com^
 ||bindex-gainspire.com^
+||bindexgainspire.net^
 ||bindexgainspire-platform.com^
 ||bindirect.click^
 ||adsdk.bing.net^
@@ -10665,6 +10671,7 @@
 ||sentry.bookmyshow.com^
 ||metrics.bookofthemonth.com^
 ||a1.booksamillion.com^
+||booksbyschaaf.com^
 ||analytics.bookstackapp.com^
 ||posthog.booktranslator.app^
 ||boom-bb.com^
@@ -14150,7 +14157,6 @@
 ||cnv.cx^
 ||cnvlink.com^
 ||cnvr.net^
-||cnwucnf.top^
 ||cnzz.cn^
 ||cnzz.com^
 ||cnzz.net^
@@ -15833,6 +15839,7 @@
 ||commgr.top^
 ||commissionhero.com^
 ||commissionkings.ag^
+||commodeoverfeedstifling.com^
 ||commonjamknights.com^
 ||commonrootplace.garden^
 ||telemetry.commonspirit.org^
@@ -16061,6 +16068,7 @@
 ||connects.ch^
 ||connecttopro.us^
 ||connexity.net^
+||connexpay-app.top^
 ||connextra.com^
 ||conohawing.com^
 ||load.somos.conquerblocks.com^
@@ -24894,6 +24902,7 @@
 ||ggbetss.com^
 ||ggcorp.me^
 ||gggpht.com^
+||app.gggpppht.com^
 ||gghkapost-gh.icu^
 ||gghkkpost-gh.ink^
 ||gglx.me^
@@ -26073,7 +26082,6 @@
 ||grounswerbrounimum.com^
 ||id.group-ib.com^
 ||group-mail.com^
-||group-visit05.com^
 ||groupcreative365.com^
 ||tracking.groupe-ldlc.com^
 ||groupesocopa.fr^
@@ -26968,6 +26976,7 @@
 ||serve.affiliate.heurekashopping.sk^
 ||data-196c083e38.heute.at^
 ||info.heute.cc^
+||heuteurlaub.com^
 ||hexagon-analytics.com^
 ||hexapath.cfd^
 ||hexcladcookware.boutique^
@@ -29062,7 +29071,6 @@
 ||ads.info-meta.com^
 ||info-milfroom.com^
 ||info-online-auportal.com^
-||info-secure2fa.com^
 ||info-service-national.com^
 ||info31029.cfd^
 ||infoabouttomorrow.com^
@@ -31561,6 +31569,7 @@
 ||kortfilmfestivalen.no^
 ||kosseanmudpack.com^
 ||kost.tv^
+||kostadspoer.xyz^
 ||kostprice.com^
 ||kotomori-office.com^
 ||kouangqmd.com^
@@ -32653,6 +32662,7 @@
 ||ligue-1-tv.fr^
 ||ligue-plus.fr^
 ||ligueplus.fr^
+||liguhayrhe.com^
 ||adv.lihkg.com^
 ||lihongli5.cn^
 ||liilemetropole.fr^
@@ -32804,6 +32814,7 @@
 ||linkszb.com^
 ||linktech.cn^
 ||ingress.linktr.ee^
+||browser-fp.production.linktr.ee^
 ||linkunder.ru^
 ||linkup.top^
 ||ad-server.linkvertise.com^
@@ -33880,6 +33891,7 @@
 ||m10strk.com^
 ||m15trk.com^
 ||m19.com^
+||m19r.xyz^
 ||m1e.net^
 ||m2.ai^
 ||pxl.m2.ru^
@@ -37980,7 +37992,6 @@
 ||data.m.shop.nhl.com^
 ||nhmamd.org^
 ||nhn.dk^
-||nhn-cafearticle.com^
 ||nhnace.com^
 ||nhpyige.cc^
 ||y738.nhregister.com^
@@ -42450,6 +42461,8 @@
 ||analytics.paxful.com^
 ||sentry.paxful.com^
 ||paxil-vision-app.com^
+||paxosii.cyou^
+||paxosii.shop^
 ||paxosii.xyz^
 ||pay4results24.eu^
 ||analyticaservice.payactiv.com^
@@ -44492,6 +44505,7 @@
 ||presspatron.com^
 ||presssnews.biz^
 ||m869.presstelegram.com^
+||prestigevarvex.net^
 ||prestigiousdauntdistressed.com^
 ||prestigue.de^
 ||pretergante.com^
@@ -44564,6 +44578,7 @@
 ||primepointadvisors.live^
 ||primepointgroup.live^
 ||analytics.production.data.primer.io^
+||primerollmedia.com^
 ||primes-retract.com^
 ||primetv.fr^
 ||primevideobonus.click^
@@ -44821,7 +44836,6 @@
 ||promolayer.io^
 ||promoliks.com^
 ||promomasters.at^
-||promosfimdeano.shop^
 ||promostats.ru^
 ||promoteiq.com^
 ||promotion40-form.com^
@@ -47213,6 +47227,7 @@
 ||tags.repatha.com^
 ||repentant-disease.com^
 ||repentbeware.com^
+||reperevalgainapp.com^
 ||tracker.adh.reperio.news^
 ||rephritama.site^
 ||repixel.co^
@@ -48530,6 +48545,7 @@
 ||s8ver7293fs.com^
 ||s8ver8019fs.com^
 ||s8ver8179fs.com^
+||s95c.xyz^
 ||s95l.xyz^
 ||s99i.org^
 ||prizecloud.sa.com^
@@ -50017,7 +50033,6 @@
 ||sentry.offline.shelopes.com^
 ||creative.shemale.show^
 ||shemedia.com^
-||shemrec.cc^
 ||shenajou.com^
 ||shengfleming.com^
 ||shenshiads.com^
@@ -51029,6 +51044,7 @@
 ||smbccard-co-jp.com^
 ||smbcnikka-co-jp.net^
 ||smbcnikko.cam^
+||smbcnikko.cfd^
 ||smbtnupsh.com^
 ||smcclaw.com^
 ||smconene.pro^
@@ -52427,6 +52443,7 @@
 ||crash.steampowered.com^
 ||steamproxy.net^
 ||steamunlocked.one^
+||steanconmumity.ru^
 ||steeamcommunlty.icu^
 ||metrics.steelcase.com^
 ||steelcentral.net^
@@ -52832,7 +52849,6 @@
 ||data.mktg.subway.com^
 ||sst.subzero-wolf.com^
 ||succeedblackoutjournal.com^
-||succes-dofus.fr^
 ||success-seo.com^
 ||successbuffet.com^
 ||analytics012.successfactors.eu^
@@ -53881,6 +53897,7 @@
 ||ad.techtidek.xyz^
 ||techtricksworld.com^
 ||reg.techweb.com^
+||techy-apps-24.xyz^
 ||analytics.techyhub.co^
 ||sentry.tecobi.com^
 ||prgnr.tecovas.com^
@@ -54959,6 +54976,7 @@
 ||pixel.tivo.com^
 ||tiwogtowdj.com^
 ||api-event.tix.id^
+||tixj61yrbwqwijxcn.cfd^
 ||tycollectproxy.tiyalive.com^
 ||tiyogami.com^
 ||tiypa.com^
@@ -58449,7 +58467,6 @@
 ||visilabs.net^
 ||vision-approvestay.com^
 ||vision-confirm.com^
-||vision-recheckin1.com^
 ||visionary-agile24.com^
 ||visionary-business-52.com^
 ||visionary-enterprise-ingenuity.com^
@@ -59118,6 +59135,7 @@
 ||vyg.mobi^
 ||vyking.io^
 ||vylarenthia.shop^
+||vymybkyrzjjby.top^
 ||vyome.biz^
 ||tracking1.vyond.com^
 ||vyoning.cfd^
@@ -60836,6 +60854,7 @@
 ||wumufama.com^
 ||cp.wunderbunt.de^
 ||banners.wunderground.com^
+||gtm.wunderkarten.de^
 ||wunderkind.co^
 ||plausible.wundertech.net^
 ||umami.wundertech.net^
@@ -62147,6 +62166,7 @@
 ||adv.yuetnc.com^
 ||yueyangbang.com^
 ||yuga.ru^
+||yuhuan.cc^
 ||yuiiy.com^
 ||yukclick.me^
 ||yukidrit.pro^

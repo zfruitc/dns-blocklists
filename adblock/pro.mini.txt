@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Dec 2025 18:59 UTC
-! Version: 2025.1219.1859.44
+! Last modified: 19 Dec 2025 22:16 UTC
+! Version: 2025.1219.2216.57
 ! Syntax: AdBlock
-! Number of entries: 47052
+! Number of entries: 47064
 !
 ||0.org^
 ||0-02.net^
@@ -1535,6 +1535,7 @@
 ||88r6s1hecp.com^
 ||8906a5ee95b60695e38530d494e7a123.xyz^
 ||89296649.xyz^
+||89346.cfd^
 ||89346.icu^
 ||895062b7f455a6a9.com^
 ||8979753070a7caeba2.site^
@@ -4990,6 +4991,7 @@
 ||dh.ancillammmm.com^
 ||ancznewozw.com^
 ||andbeyond.media^
+||andelenergi-id.com^
 ||andersenit.dk^
 ||andomedia.com^
 ||andr.net^
@@ -5765,6 +5767,7 @@
 ||assignlabor.com^
 ||assistads.net^
 ||assistance-clients.fr^
+||assistancemrelay.com^
 ||assistances-sg-intranet.fr^
 ||assistirfilmes.org^
 ||assmafsi.com^
@@ -6656,6 +6659,7 @@
 ||barbadoshello.com^
 ||bcl8.barcelo.com^
 ||metrics.barclaycardus.com^
+||barclaycordus.top^
 ||tracking.barcodesinc.com^
 ||bardmaterials.com^
 ||barelydonkeysteed.com^
@@ -7351,6 +7355,7 @@
 ||analytics.binaryfortress.com^
 ||binarykite.com^
 ||bincatracs.com^
+||bindexgainspire.net^
 ||bindexgainspire-platform.com^
 ||bindirect.click^
 ||adsdk.bing.net^
@@ -7405,6 +7410,7 @@
 ||birthaslaver.com^
 ||birthjeans.icu^
 ||bisairtooneep.net^
+||bisang-gainteksia.net^
 ||biseeurip.site^
 ||bishopwealthpro.com^
 ||bistadaka.com^
@@ -7638,6 +7644,7 @@
 ||log.bloodppressure.info^
 ||bloomanalytics.io^
 ||ads.bloomberg.com^
+||adservice.cm.bloomberg.com^
 ||coordinator.cm.bloomberg.com^
 ||eventrecorder.cm.bloomberg.com^
 ||logs.igslb.bloomberg.com^
@@ -7948,7 +7955,6 @@
 ||botndm.nl^
 ||botoffice.xyz^
 ||botradar.tech^
-||botse-whats.xyz^
 ||botsxlhhjdvnp.online^
 ||bottierthereof.help^
 ||metrics.bottlerocket.aws^
@@ -10480,7 +10486,6 @@
 ||s.cntqk.com^
 ||cntxcdm.com^
 ||cnvlink.com^
-||cnwucnf.top^
 ||cnzz.cn^
 ||cnzz.net^
 ||c.cnzz.com^
@@ -11732,6 +11737,7 @@
 ||commgr.top^
 ||commissionhero.com^
 ||commissionkings.ag^
+||commodeoverfeedstifling.com^
 ||commonjamknights.com^
 ||telemetry.commonspirit.org^
 ||commontools.net^
@@ -11907,6 +11913,7 @@
 ||connects.ch^
 ||connecttopro.us^
 ||connexity.net^
+||connexpay-app.top^
 ||connextra.com^
 ||conohawing.com^
 ||load.somos.conquerblocks.com^
@@ -18369,6 +18376,7 @@
 ||ggbets.pl^
 ||ggbetss.com^
 ||gggpht.com^
+||app.gggpppht.com^
 ||gghkapost-gh.icu^
 ||gghkkpost-gh.ink^
 ||gglx.me^
@@ -19258,7 +19266,6 @@
 ||groundtruth.com^
 ||grounswerbrounimum.com^
 ||group-mail.com^
-||group-visit05.com^
 ||groupcreative365.com^
 ||groupesocopa.fr^
 ||groupm.com^
@@ -21417,7 +21424,6 @@
 ||info-app.ru^
 ||info-flirtme.com^
 ||info-milfroom.com^
-||info-secure2fa.com^
 ||info-service-national.com^
 ||info31029.cfd^
 ||sgtm.infobus.eu^
@@ -24198,6 +24204,7 @@
 ||track.linksynergy.com^
 ||linktech.cn^
 ||ingress.linktr.ee^
+||browser-fp.production.linktr.ee^
 ||linkunder.ru^
 ||linkup.top^
 ||linkwa.cc^
@@ -25066,6 +25073,7 @@
 ||m0mentum.net^
 ||m0rsq075u.com^
 ||sdkconfig.pulse.m10s.io^
+||m19r.xyz^
 ||m1e.net^
 ||m2.ai^
 ||sentry.m2.ru^
@@ -28129,7 +28137,6 @@
 ||worldmtcs.nhk.jp^
 ||data.m.shop.nhl.com^
 ||nhn.dk^
-||nhn-cafearticle.com^
 ||nhnace.com^
 ||nhpyige.cc^
 ||y738.nhregister.com^
@@ -31873,6 +31880,8 @@
 ||analytics.paxful.com^
 ||sentry.paxful.com^
 ||paxil-vision-app.com^
+||paxosii.cyou^
+||paxosii.shop^
 ||pay4results24.eu^
 ||analyticaservice.payactiv.com^
 ||smetrics.payback.de^
@@ -32374,7 +32383,6 @@
 ||fndmg.personalizationmall.com^
 ||ohjrxj.personalizationmall.com^
 ||personaserver.com^
-||personnalitenivel5theone.shop^
 ||personyze.com^
 ||analytics-js.perspective.co^
 ||sentry.perspective-daily.com^
@@ -33379,6 +33387,7 @@
 ||pressize.com^
 ||pressordiener.rest^
 ||presssnews.biz^
+||prestigevarvex.net^
 ||prestigiousdauntdistressed.com^
 ||prestigue.de^
 ||pretergante.com^
@@ -33443,6 +33452,7 @@
 ||primepointadvisors.live^
 ||primepointgroup.live^
 ||analytics.production.data.primer.io^
+||primerollmedia.com^
 ||primetv.fr^
 ||primevideobonus.click^
 ||primevideospot.com^
@@ -33623,7 +33633,6 @@
 ||pp.promofarma.com^
 ||promolayer.io^
 ||promomasters.at^
-||promosfimdeano.shop^
 ||promostats.ru^
 ||promotion40-form.com^
 ||promotools.biz^
@@ -34763,7 +34772,6 @@
 ||quickpcfixer.click^
 ||reverselookup.quicksetcloud.com^
 ||cdn.quicksprout.com^
-||quickzen.cfd^
 ||quicq.top^
 ||quietknowledge.com^
 ||quietleaffield.com^
@@ -35498,6 +35506,7 @@
 ||tags.repatha.com^
 ||repentant-disease.com^
 ||repentbeware.com^
+||reperevalgainapp.com^
 ||rephritama.site^
 ||repixel.co^
 ||pcuud.replacements.com^
@@ -36485,6 +36494,7 @@
 ||s4mdsp.com^
 ||s4yn0t0sn00z3.xyz^
 ||s7610rir.pw^
+||s95c.xyz^
 ||s95l.xyz^
 ||s99i.org^
 ||prizecloud.sa.com^
@@ -37560,7 +37570,6 @@
 ||shelljacket.us^
 ||trk.shelly.cloud^
 ||creative.shemale.show^
-||shemrec.cc^
 ||shenajou.com^
 ||shengfleming.com^
 ||shenshiads.com^
@@ -38280,6 +38289,7 @@
 ||smashquartz.com^
 ||smatr.net^
 ||smbcnikka-co-jp.net^
+||smbcnikko.cfd^
 ||smbtnupsh.com^
 ||smcclaw.com^
 ||smconene.pro^
@@ -39277,6 +39287,7 @@
 ||crash.steampowered.com^
 ||steamproxy.net^
 ||steamunlocked.one^
+||steanconmumity.ru^
 ||metrics.steelcase.com^
 ||steelharborconsulting.ink^
 ||steelhouse.com^
@@ -39585,7 +39596,6 @@
 ||data.mktg.subway.com^
 ||sst.subzero-wolf.com^
 ||succeedblackoutjournal.com^
-||succes-dofus.fr^
 ||success-seo.com^
 ||successbuffet.com^
 ||analytics012.successfactors.eu^
@@ -40722,6 +40732,7 @@
 ||theprotecto.com^
 ||analytics.thepublive.com^
 ||amplitude.thepure.app^
+||sentry.thepure.team^
 ||analytics.theradioapp.com^
 ||thereafterfamilywarrior.com^
 ||analytics.thereformation.com^
@@ -41143,6 +41154,7 @@
 ||pixel.tivo.com^
 ||tiwogtowdj.com^
 ||api-event.tix.id^
+||tixj61yrbwqwijxcn.cfd^
 ||tycollectproxy.tiyalive.com^
 ||tiyogami.com^
 ||tiypa.com^
@@ -43222,7 +43234,6 @@
 ||vcommission.com^
 ||vdbaa.com^
 ||analytics.vdev.store^
-||vdjans.cfd^
 ||vdna-assets.com^
 ||vdo.ai^
 ||vdopia.com^
@@ -43690,7 +43701,6 @@
 ||visibli.com^
 ||visilabs.net^
 ||vision-confirm.com^
-||vision-recheckin1.com^
 ||visionary-agile24.com^
 ||visionary-business-52.com^
 ||visionary-enterprise-ingenuity.com^
@@ -44247,6 +44257,7 @@
 ||vyebzzqlojbmj.top^
 ||vyg.mobi^
 ||vyking.io^
+||vymybkyrzjjby.top^
 ||tracking1.vyond.com^
 ||vyoning.cfd^
 ||vypepega.com^
@@ -46430,6 +46441,7 @@
 ||yudvl.org^
 ||yueyangbang.com^
 ||yuga.ru^
+||yuhuan.cc^
 ||yuiiy.com^
 ||yukclick.me^
 ||yukishigure.com^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 02:38 UTC
-# Version: 2025.1219.0238.18
+# Last modified: 19 Dec 2025 22:34 UTC
+# Version: 2025.1219.2234.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11502
+# Number of entries: 11506
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -695,6 +695,7 @@ local=/androidtvbox.ru/
 local=/andropalace.org/
 local=/andyday.tv/
 local=/andydayz.lol/
+local=/andydayz.uk/
 local=/ani-mania.com/
 local=/anicloud.domains/
 local=/anicloud.io/
@@ -2611,6 +2612,7 @@ local=/divyamodapk.com/
 local=/diwana.org/
 local=/tracker.dix.tf/
 local=/dizcompany.ru/
+local=/dizipal1521.com/
 local=/dizipal1936.com/
 local=/dizipal22.plus/
 local=/dizipall32.com/
@@ -6350,6 +6352,7 @@ local=/movie4k.org/
 local=/movie4k.sx/
 local=/movie4k.to/
 local=/movie4k.tv/
+local=/movie4k-to.cfd/
 local=/movie4u.cc/
 local=/movie4u.live/
 local=/movie4u.org/
@@ -7381,6 +7384,7 @@ local=/piecejointe.net/
 local=/pig2pig.com/
 local=/pijafka.pl/
 local=/tracker.pimp4003.net/
+local=/pinoymovieshub.tv/
 local=/pinoytorrents.net/
 local=/tv.pipexbd.com/
 local=/piraat.xyz/
