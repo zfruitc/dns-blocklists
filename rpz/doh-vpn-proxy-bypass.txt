@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766054460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766155140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Dec 2025 10:41 UTC
-; Version: 2025.1218.1041.21
+; Last modified: 19 Dec 2025 14:39 UTC
+; Version: 2025.1219.1439.05
 ; Syntax: RPZ
-; Number of entries: 12504
+; Number of entries: 12528
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -155,6 +155,8 @@ dogebynirb.winkel.com.ar CNAME .
 *.dogebynirb.winkel.com.ar CNAME .
 pleasedontblockthissevnlaks.computacionsur.ar CNAME .
 *.pleasedontblockthissevnlaks.computacionsur.ar CNAME .
+domain.tablero-anmac.ar CNAME .
+*.domain.tablero-anmac.ar CNAME .
 fargos2.dns.army CNAME .
 *.fargos2.dns.army CNAME .
 guigu.dns.army CNAME .
@@ -241,6 +243,8 @@ xfer.au CNAME .
 *.xfer.au CNAME .
 adg.dz.ax CNAME .
 *.adg.dz.ax CNAME .
+menu.resolve.bar CNAME .
+*.menu.resolve.bar CNAME .
 dns.belnet.be CNAME .
 *.dns.belnet.be CNAME .
 9132706292.cloudns.be CNAME .
@@ -257,6 +261,8 @@ dns.housedenolf.be CNAME .
 *.dns.housedenolf.be CNAME .
 dns.jimirobaer.be CNAME .
 *.dns.jimirobaer.be CNAME .
+use.manutec.be CNAME .
+*.use.manutec.be CNAME .
 dns1.nielsdb.be CNAME .
 *.dns1.nielsdb.be CNAME .
 dns1.pietjacobs.be CNAME .
@@ -677,6 +683,8 @@ dns-cache.switch.ch CNAME .
 *.dns-cache.switch.ch CNAME .
 dns-cache2.switch.ch CNAME .
 *.dns-cache2.switch.ch CNAME .
+email.yan.ch CNAME .
+*.email.yan.ch CNAME .
 dns.pointless.chat CNAME .
 *.dns.pointless.chat CNAME .
 adguard.ruby.ci CNAME .
@@ -711,6 +719,8 @@ katherine-dns.newcore.cl CNAME .
 *.katherine-dns.newcore.cl CNAME .
 dnsotls.lab.nic.cl CNAME .
 *.dnsotls.lab.nic.cl CNAME .
+info.osiadaczabogados.cl CNAME .
+*.info.osiadaczabogados.cl CNAME .
 bolt.ovaa.cl CNAME .
 *.bolt.ovaa.cl CNAME .
 172.96.141.252doge.quipasur.cl CNAME .
@@ -1529,6 +1539,8 @@ booster456.com CNAME .
 *.booster456.com CNAME .
 use.bostoncareercounselor.com CNAME .
 *.use.bostoncareercounselor.com CNAME .
+user.bostoncareercounselor.com CNAME .
+*.user.bostoncareercounselor.com CNAME .
 botclassic.com CNAME .
 *.botclassic.com CNAME .
 boxpn.com CNAME .
@@ -4895,6 +4907,8 @@ nextcloud.d-alahmad.de CNAME .
 *.nextcloud.d-alahmad.de CNAME .
 dns.datenquark.de CNAME .
 *.dns.datenquark.de CNAME .
+shop.ddnssec.de CNAME .
+*.shop.ddnssec.de CNAME .
 doh.defaultroutes.de CNAME .
 *.doh.defaultroutes.de CNAME .
 dns.deldown.de CNAME .
@@ -4937,6 +4951,8 @@ atlantic.dyn1.de CNAME .
 *.atlantic.dyn1.de CNAME .
 dns.dyn1.de CNAME .
 *.dns.dyn1.de CNAME .
+cart.dyndnssec.de CNAME .
+*.cart.dyndnssec.de CNAME .
 adbox-v9.dynipv6.de CNAME .
 *.adbox-v9.dynipv6.de CNAME .
 dns.internal.espresso-tasse.de CNAME .
@@ -5137,6 +5153,8 @@ resolve2.srv-pro.de CNAME .
 *.resolve2.srv-pro.de CNAME .
 adbox-v8.srv64.de CNAME .
 *.adbox-v8.srv64.de CNAME .
+host.srvdns.de CNAME .
+*.host.srvdns.de CNAME .
 ssytnik.de CNAME .
 *.ssytnik.de CNAME .
 dns.t-ipnet.de CNAME .
@@ -7633,8 +7651,14 @@ meow.partedu.club.cdn.cloudflare.net CNAME .
 *.meow.partedu.club.cdn.cloudflare.net CNAME .
 dns.233py.com.cdn.cloudflare.net CNAME .
 *.dns.233py.com.cdn.cloudflare.net CNAME .
+calc.desmos.live.cdn.cloudflare.net CNAME .
+*.calc.desmos.live.cdn.cloudflare.net CNAME .
+go.desmos.live.cdn.cloudflare.net CNAME .
+*.go.desmos.live.cdn.cloudflare.net CNAME .
 study.info.east-kazakhstan.su.cdn.cloudflare.net CNAME .
 *.study.info.east-kazakhstan.su.cdn.cloudflare.net CNAME .
+dash.artweb.website.cdn.cloudflare.net CNAME .
+*.dash.artweb.website.cdn.cloudflare.net CNAME .
 site.artweb.website.cdn.cloudflare.net CNAME .
 *.site.artweb.website.cdn.cloudflare.net CNAME .
 learn.wiki-edu.xyz.cdn.cloudflare.net CNAME .

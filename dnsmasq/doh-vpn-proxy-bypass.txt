@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Dec 2025 10:41 UTC
-# Version: 2025.1218.1041.21
+# Last modified: 19 Dec 2025 14:39 UTC
+# Version: 2025.1219.1439.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6252
+# Number of entries: 6264
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -728,6 +728,7 @@ local=/dns4.bortus.io/
 local=/doh.bortzmeyer.fr/
 local=/cloudns.bosco.ovh/
 local=/use.bostoncareercounselor.com/
+local=/user.bostoncareercounselor.com/
 local=/botclassic.com/
 local=/pakupaku.bounceme.net/
 local=/dns.bovat.net/
@@ -927,7 +928,10 @@ local=/closetruth.date/
 local=/dns.cloudfiction.eu/
 local=/meow.partedu.club.cdn.cloudflare.net/
 local=/dns.233py.com.cdn.cloudflare.net/
+local=/calc.desmos.live.cdn.cloudflare.net/
+local=/go.desmos.live.cdn.cloudflare.net/
 local=/study.info.east-kazakhstan.su.cdn.cloudflare.net/
+local=/dash.artweb.website.cdn.cloudflare.net/
 local=/site.artweb.website.cdn.cloudflare.net/
 local=/learn.wiki-edu.xyz.cdn.cloudflare.net/
 local=/dns.cloudflare.com/
@@ -1418,6 +1422,7 @@ local=/sin4.ddnsfree.com/
 local=/adguard.eyadmojahed.ddnsgeek.com/
 local=/noads.ddnsgeek.com/
 local=/dns.xyz.ddnss.eu/
+local=/shop.ddnssec.de/
 local=/why.is.it.my.fault.de-a.org/
 local=/dns.deadsec.net/
 local=/dear.actor/
@@ -1863,6 +1868,7 @@ local=/dns.dyn1.de/
 local=/akhilkalwakurthy.dyndns.org/
 local=/ueni.dyndns.org/
 local=/roucious.dyndns-remote.com/
+local=/cart.dyndnssec.de/
 local=/adbox-v9.dynipv6.de/
 local=/rafi.dynns.com/
 local=/ccadguard.dynu.net/
@@ -3380,6 +3386,7 @@ local=/mallocprivacy.com/
 local=/dns.mandre.dev/
 local=/doh.manish.ltd/
 local=/adguard.manmademagic.com/
+local=/use.manutec.be/
 local=/dns.maolaohei.xyz/
 local=/adguard.mapor.co/
 local=/mapspublications.us/
@@ -4032,6 +4039,7 @@ local=/ortudns.com/
 local=/dns.oryxlabs.com/
 local=/os4work.com/
 local=/oscnl.site/
+local=/info.osiadaczabogados.cl/
 local=/dns.osmenoga.com/
 local=/wireguard.osmenoga.com/
 local=/ospylac.com/
@@ -4604,6 +4612,7 @@ local=/dns.repressoh.it/
 local=/wg.req1.fr/
 local=/x.res.wang/
 local=/dns.resoft.org/
+local=/menu.resolve.bar/
 local=/resolver.arpa/
 local=/restaurantgift.us/
 local=/dnspub.restena.lu/
@@ -5021,6 +5030,7 @@ local=/resolve02.srv-pro.de/
 local=/resolve2.srv-pro.de/
 local=/doh.srv00.com/
 local=/adbox-v8.srv64.de/
+local=/host.srvdns.de/
 local=/adguard.sscw.win/
 local=/ssh-free.com/
 local=/ssh-storage.ru/
@@ -5217,6 +5227,7 @@ local=/szyrzyk.pl/
 local=/t-dz.com/
 local=/dns.t-ipnet.de/
 local=/dns.t53.de/
+local=/domain.tablero-anmac.ar/
 local=/tabproxy.com/
 local=/d0.tada.ly/
 local=/tailscale.com/
@@ -6127,6 +6138,7 @@ local=/dns.xydustc.me/
 local=/v1.xylto.com/
 local=/dns.y2f.xyz/
 local=/dns.yameenassotally.com/
+local=/email.yan.ch/
 local=/2.dnscrypt-cert.browser.yandex.net/
 local=/dns.yandex.ru/
 local=/common.dot.dns.yandex.net/

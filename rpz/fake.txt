@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766136480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766151000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Dec 2025 09:28 UTC
-; Version: 2025.1219.0928.43
+; Last modified: 19 Dec 2025 13:30 UTC
+; Version: 2025.1219.1330.06
 ; Syntax: RPZ
-; Number of entries: 28186
+; Number of entries: 28190
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -2602,6 +2602,8 @@ augenbrauenlidschatten.com CNAME .
 *.augenbrauenlidschatten.com CNAME .
 augennstern.com CNAME .
 *.augennstern.com CNAME .
+aura-consultag.com CNAME .
+*.aura-consultag.com CNAME .
 aurainfusions.com CNAME .
 *.aurainfusions.com CNAME .
 aurolonix.com CNAME .
@@ -9726,6 +9728,8 @@ kruscheoutdoorde.com CNAME .
 *.kruscheoutdoorde.com CNAME .
 krypto-ex.com CNAME .
 *.krypto-ex.com CNAME .
+krypto-holdings.com CNAME .
+*.krypto-holdings.com CNAME .
 kryptod.com CNAME .
 *.kryptod.com CNAME .
 kryptofx.com CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 09:28 UTC
-# Version: 2025.1219.0928.43
+# Last modified: 19 Dec 2025 13:30 UTC
+# Version: 2025.1219.1330.06
 # Syntax: Domains (without subdomains)
-# Number of entries: 14093
+# Number of entries: 14095
 #
 01broker.com
 01crypto.com
@@ -845,6 +845,7 @@ augenbrauenlidschatten.com
 augennstern.com
 aupair-mama.de
 aura-basel.ch
+aura-consultag.com
 aurainfusions.com
 auresthiqan.sbs
 aurolonix.com
@@ -7207,6 +7208,7 @@ kruger-modehaus.de
 krugerdirndlssale.shop
 kruscheoutdoorde.com
 krypto-ex.com
+krypto-holdings.com
 kryptod.com
 kryptofx.com
 kryptographen.de

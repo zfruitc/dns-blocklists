@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 09:28 UTC
-# Version: 2025.1219.0928.43
+# Last modified: 19 Dec 2025 13:30 UTC
+# Version: 2025.1219.1330.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14093
+# Number of entries: 14095
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -845,6 +845,7 @@ local=/augenbrauenlidschatten.com/
 local=/augennstern.com/
 local=/aupair-mama.de/
 local=/aura-basel.ch/
+local=/aura-consultag.com/
 local=/aurainfusions.com/
 local=/auresthiqan.sbs/
 local=/aurolonix.com/
@@ -7207,6 +7208,7 @@ local=/kruger-modehaus.de/
 local=/krugerdirndlssale.shop/
 local=/kruscheoutdoorde.com/
 local=/krypto-ex.com/
+local=/krypto-holdings.com/
 local=/kryptod.com/
 local=/kryptofx.com/
 local=/kryptographen.de/
