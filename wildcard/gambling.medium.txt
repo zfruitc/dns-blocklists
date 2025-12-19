@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Dec 2025 15:24 UTC
-# Version: 2025.1218.1524.09
+# Last modified: 19 Dec 2025 02:37 UTC
+# Version: 2025.1219.0237.09
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 91986
+# Number of entries: 91987
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -142,6 +142,7 @@
 *.0812.casino
 *.0823x.com
 *.0831x.com
+*.083355.com
 *.085855.com
 *.0860r.com
 *.0865x.com

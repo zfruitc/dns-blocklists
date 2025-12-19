@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Dec 2025 15:25 UTC
-# Version: 2025.1218.1525.09
+# Last modified: 19 Dec 2025 02:37 UTC
+# Version: 2025.1219.0237.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 42948
+# Number of entries: 42949
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -74,6 +74,7 @@ local=/073bet9.com/
 local=/077.game/
 local=/079bet8.com/
 local=/0812.casino/
+local=/083355.com/
 local=/08gamecasino.com/
 local=/08xin.com/
 local=/08yvh4.com/

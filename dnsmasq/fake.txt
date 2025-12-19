@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Dec 2025 05:29 UTC
-# Version: 2025.1218.0529.29
+# Last modified: 19 Dec 2025 01:29 UTC
+# Version: 2025.1219.0129.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14073
+# Number of entries: 14091
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -3042,6 +3042,7 @@ local=/degussa.tv/
 local=/degussa.vip/
 local=/degussa.website/
 local=/degussa--goldhandel-de.to/
+local=/degussa-gold-de.to/
 local=/degussa-goldhandel.ac/
 local=/degussa-goldhandel.tv/
 local=/degussa-goldhandel-de.to/
@@ -5261,6 +5262,7 @@ local=/fb.goldengoosefan.com/
 local=/goldengoosesale.de/
 local=/goldengoosess.shop/
 local=/goldenpassmedia.com/
+local=/goldhandel.one/
 local=/goldhandel-degussa.com/
 local=/goldhandel-degussa.de/
 local=/goldhandel-heute.de/
@@ -5753,11 +5755,14 @@ local=/heiz-oil.de/
 local=/heiz-pellets24.com/
 local=/heiz-smart.de/
 local=/heiz-traum.com/
+local=/heizara.de/
 local=/heizdock.de/
+local=/heizela.de/
 local=/heizendirekt.de/
 local=/heizenkleidung.com/
 local=/heizensmart.de/
 local=/heizensofort.de/
+local=/heizexo.de/
 local=/heizfit.de/
 local=/heizfreude.de/
 local=/heizgenial.de/
@@ -5766,6 +5771,7 @@ local=/heizigo.de/
 local=/heizino.de/
 local=/heizinsel.de/
 local=/heizio.de/
+local=/heiziva.de/
 local=/heizjet.de/
 local=/heizkessel-sale.com/
 local=/heizklar.de/
@@ -5824,10 +5830,12 @@ local=/heizoil.com/
 local=/heizoil-24.de/
 local=/heizoil-vergleich.de/
 local=/heizoil24.de/
+local=/heizoma.de/
 local=/heizomatix.de/
 local=/heizomi.de/
 local=/heizone.de/
 local=/heizonova.de/
+local=/heizova.de/
 local=/heizparadies.de/
 local=/heizpellets247.de/
 local=/heizpro.com/
@@ -5844,6 +5852,7 @@ local=/heizungselementshop.com/
 local=/heizungsinsel.de/
 local=/heizungstechnik-online.de/
 local=/heizup.de/
+local=/heizuri.de/
 local=/heizzu.de/
 local=/heldholz.com/
 local=/helestyle.com/
@@ -9214,6 +9223,7 @@ local=/odiom-sunglasses.com/
 local=/odlorabatt.com/
 local=/odmorvila.com/
 local=/oel-direkt.de/
+local=/oel-zuhause-online.de/
 local=/oel24x.com/
 local=/oelfast.com/
 local=/oelflix.de/
@@ -9224,25 +9234,32 @@ local=/oelhub.com/
 local=/oelino.de/
 local=/oelit.de/
 local=/oelity.de/
+local=/oeliva.de/
+local=/oelixa.de/
 local=/oeljet.de/
 local=/oeljetzt.de/
 local=/oelline.com/
 local=/oellogistik.com/
 local=/oelman.de/
+local=/oelmen.de/
 local=/oelmobil.com/
 local=/oelnet.de/
 local=/oelnow.com/
+local=/oeloma.de/
 local=/oelone.com/
 local=/oelonlineshop.de/
 local=/oelora.de/
+local=/oelorax.de/
 local=/oelpilot.de/
 local=/oelpreisfinder.de/
 local=/oelrun.com/
 local=/oeltiger.com/
 local=/oeltix.de/
 local=/oeluno.de/
+local=/oelunox.de/
 local=/oelup.de/
 local=/oeluu.de/
+local=/oelvia.de/
 local=/oelvio.de/
 local=/oelza.de/
 local=/oelzone.de/
@@ -9682,6 +9699,7 @@ local=/papageienzuchtheim.de/
 local=/papajule.com/
 local=/papershredder-store.com/
 local=/paraduse.com/
+local=/paragonixedge.app/
 local=/parakonz.de/
 local=/paramdionline.com/
 local=/paramount111.com/

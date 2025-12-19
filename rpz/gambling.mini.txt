@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766071500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766111820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Dec 2025 15:25 UTC
-; Version: 2025.1218.1525.09
+; Last modified: 19 Dec 2025 02:37 UTC
+; Version: 2025.1219.0237.51
 ; Syntax: RPZ
-; Number of entries: 85896
+; Number of entries: 85898
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -10290,6 +10290,8 @@ kais4rjp.college CNAME .
 *.073bet9.com CNAME .
 079bet8.com CNAME .
 *.079bet8.com CNAME .
+083355.com CNAME .
+*.083355.com CNAME .
 08gamecasino.com CNAME .
 *.08gamecasino.com CNAME .
 08xin.com CNAME .
