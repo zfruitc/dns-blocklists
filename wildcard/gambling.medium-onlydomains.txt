@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 14:31 UTC
-# Version: 2025.1219.1431.38
+# Last modified: 20 Dec 2025 06:28 UTC
+# Version: 2025.1220.0628.25
 # Syntax: Domains (without subdomains)
-# Number of entries: 97727
+# Number of entries: 97728
 #
 0-casino.info
 000-online-casino.com
@@ -75132,6 +75132,7 @@ polskiekasynos.com
 poltred.com
 polybets.guru
 polybets.org
+polymarket.com
 polyslots.com
 polywhirlbets.com
 pom777.top

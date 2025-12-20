@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766154720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766212140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Dec 2025 14:32 UTC
-; Version: 2025.1219.1432.19
+; Last modified: 20 Dec 2025 06:29 UTC
+; Version: 2025.1220.0629.24
 ; Syntax: RPZ
-; Number of entries: 96916
+; Number of entries: 96918
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -44768,6 +44768,8 @@ polskiekasynos.com CNAME .
 *.polskiekasynos.com CNAME .
 poltred.com CNAME .
 *.poltred.com CNAME .
+polymarket.com CNAME .
+*.polymarket.com CNAME .
 pommi.com CNAME .
 *.pommi.com CNAME .
 poncephlazahotelandcasino.com CNAME .

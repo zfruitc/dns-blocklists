@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 22:36 UTC
-# Version: 2025.1219.2236.37
+# Last modified: 20 Dec 2025 06:31 UTC
+# Version: 2025.1220.0631.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 85650
+# Number of entries: 85649
 #
 local=/000000000000000000000000000000000000000000000000000000000000000.gay/
 local=/000sexxx.com/
@@ -11181,7 +11181,6 @@ local=/blowvr.com/
 local=/blrescorts.in/
 local=/blsex.com/
 local=/blsex.xyz/
-local=/blu-raydvdz.com/
 local=/bludnice.com/
 local=/blueadult.xyz/
 local=/blueartichokefilms.com/
@@ -17201,6 +17200,7 @@ local=/controlrondasexc.com/
 local=/controlsexchange.xyz/
 local=/conversationsexchange.xyz/
 local=/conversiovirium.com/
+local=/convitesexclusivosbradescard.com/
 local=/conviviocm.pt/
 local=/convoyeur-auto-moto.com/
 local=/conworksexpo.com/
@@ -40483,7 +40483,6 @@ local=/lewsexpanding.top/
 local=/lexidona.com/
 local=/lexieporn.com/
 local=/lexilamour.com/
-local=/lexingtonsteele.com/
 local=/lexisylver.com/
 local=/lexusextendedautowarranty.com/
 local=/lexxlight.ru/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 22:36 UTC
-# Version: 2025.1219.2236.37
+# Last modified: 20 Dec 2025 06:31 UTC
+# Version: 2025.1220.0631.47
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 85650
+# Number of entries: 85649
 #
 *.000000000000000000000000000000000000000000000000000000000000000.gay
 *.000sexxx.com
@@ -11181,7 +11181,6 @@
 *.blrescorts.in
 *.blsex.com
 *.blsex.xyz
-*.blu-raydvdz.com
 *.bludnice.com
 *.blueadult.xyz
 *.blueartichokefilms.com
@@ -17201,6 +17200,7 @@
 *.controlsexchange.xyz
 *.conversationsexchange.xyz
 *.conversiovirium.com
+*.convitesexclusivosbradescard.com
 *.conviviocm.pt
 *.convoyeur-auto-moto.com
 *.conworksexpo.com
@@ -40483,7 +40483,6 @@
 *.lexidona.com
 *.lexieporn.com
 *.lexilamour.com
-*.lexingtonsteele.com
 *.lexisylver.com
 *.lexusextendedautowarranty.com
 *.lexxlight.ru

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 14:31 UTC
-# Version: 2025.1219.1431.38
+# Last modified: 20 Dec 2025 06:28 UTC
+# Version: 2025.1220.0628.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 97727
+# Number of entries: 97728
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -75132,6 +75132,7 @@ local=/polskiekasynos.com/
 local=/poltred.com/
 local=/polybets.guru/
 local=/polybets.org/
+local=/polymarket.com/
 local=/polyslots.com/
 local=/polywhirlbets.com/
 local=/pom777.top/

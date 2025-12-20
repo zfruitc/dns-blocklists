@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Dec 2025 14:29 UTC
-! Version: 2025.1219.1429.40
+! Last modified: 20 Dec 2025 06:26 UTC
+! Version: 2025.1220.0626.34
 ! Syntax: AdBlock
-! Number of entries: 213998
+! Number of entries: 213999
 !
 ||0-bdmbet.com^
 ||0-bet.com^
@@ -169829,6 +169829,7 @@
 ||polybets.org^
 ||polyfans.xyz^
 ||polyloco.xyz^
+||polymarket.com^
 ||polyslots.com^
 ||polywhirlbets.com^
 ||pom777.top^
