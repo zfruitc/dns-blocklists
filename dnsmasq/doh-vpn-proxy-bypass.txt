@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Dec 2025 10:32 UTC
-# Version: 2025.1220.1032.51
+# Last modified: 20 Dec 2025 18:39 UTC
+# Version: 2025.1220.1839.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6264
+# Number of entries: 6266
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -222,6 +222,7 @@ local=/dns.abdullahabas.de/
 local=/dns.abdullahabas.online/
 local=/abluehope.com/
 local=/dns.abppro.ru/
+local=/abpvn.org/
 local=/vn.dns.abpvn.com/
 local=/doh.abraservice.xyz/
 local=/res-acst1.absolight.net/
@@ -4998,6 +4999,7 @@ local=/threeproxy.spacejamhd.com/
 local=/spacevpn.io/
 local=/spanish101.college/
 local=/sparklabs.com/
+local=/adguard.sparshbajaj.me/
 local=/lomoff.spb.ru/
 local=/wifrousl.spdns.de/
 local=/doh-01.spectrum.com/

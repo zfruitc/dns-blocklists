@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Dec 2025 06:39 UTC
-# Version: 2025.1218.0639.37
+# Last modified: 20 Dec 2025 18:38 UTC
+# Version: 2025.1220.1838.58
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3822
+# Number of entries: 3824
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -162,6 +162,7 @@
 0.0.0.0 abluehope.com
 0.0.0.0 dns.abluehope.com
 0.0.0.0 dns.abppro.ru
+0.0.0.0 abpvn.org
 0.0.0.0 vn.dns.abpvn.com
 0.0.0.0 doh.abraservice.xyz
 0.0.0.0 res-acst1.absolight.net
@@ -3273,6 +3274,7 @@
 0.0.0.0 bwg.sooda.moe
 0.0.0.0 spacedns.org
 0.0.0.0 adguard.spaceindex.net
+0.0.0.0 adguard.sparshbajaj.me
 0.0.0.0 lomoff.spb.ru
 0.0.0.0 wifrousl.spdns.de
 0.0.0.0 doh-01.spectrum.com

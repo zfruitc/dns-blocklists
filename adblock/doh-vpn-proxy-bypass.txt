@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 Dec 2025 10:32 UTC
-! Version: 2025.1220.1032.51
+! Last modified: 20 Dec 2025 18:39 UTC
+! Version: 2025.1220.1839.39
 ! Syntax: AdBlock
-! Number of entries: 6264
+! Number of entries: 6266
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -223,6 +223,7 @@
 ||dns.abdullahabas.online^
 ||abluehope.com^
 ||dns.abppro.ru^
+||abpvn.org^
 ||vn.dns.abpvn.com^
 ||doh.abraservice.xyz^
 ||res-acst1.absolight.net^
@@ -4999,6 +5000,7 @@
 ||spacevpn.io^
 ||spanish101.college^
 ||sparklabs.com^
+||adguard.sparshbajaj.me^
 ||lomoff.spb.ru^
 ||wifrousl.spdns.de^
 ||doh-01.spectrum.com^

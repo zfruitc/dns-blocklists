@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 Dec 2025 10:41 UTC
-! Version: 2025.1218.1041.11
+! Last modified: 20 Dec 2025 18:39 UTC
+! Version: 2025.1220.1839.29
 ! Syntax: AdBlock
-! Number of entries: 811
+! Number of entries: 812
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -45,6 +45,7 @@
 ||doh-dns-apple-com.v.aaplimg.com^
 ||dns.aaytorr.com^
 ||dns.abdullahabas.de^
+||abpvn.org^
 ||adl.adfilter.net^
 ||per.adfilter.net^
 ||syd.adfilter.net^
