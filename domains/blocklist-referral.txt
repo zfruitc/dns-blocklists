@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 09:17 UTC
-# Version: 2025.1219.0917.00
+# Last modified: 20 Dec 2025 09:16 UTC
+# Version: 2025.1220.0916.56
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1624
+# Number of entries: 1632
 #
 1-aclk.net
 1aurl.io
@@ -288,6 +288,7 @@ seu2.cleverreach.com
 348148.seu2.cleverreach.com
 356133.seu2.cleverreach.com
 361290.seu2.cleverreach.com
+372230.seu2.cleverreach.com
 382058.seu2.cleverreach.com
 393666.seu2.cleverreach.com
 426304.seu2.cleverreach.com
@@ -389,15 +390,19 @@ preview.convertkit-mail.com
 unsubscribe.convertkit-mail.com
 convertkit-mail2.com
 click.convertkit-mail2.com
+404d7de6.click.convertkit-mail2.com
 d05715d8.click.convertkit-mail2.com
 el2.convertkit-mail2.com
 open.convertkit-mail2.com
 31b4b92d.open.convertkit-mail2.com
 364e31b5.open.convertkit-mail2.com
+404d7de6.open.convertkit-mail2.com
 7b739d90.open.convertkit-mail2.com
+9968f34e.open.convertkit-mail2.com
 preferences.convertkit-mail2.com
 preview.convertkit-mail2.com
 unsubscribe.convertkit-mail2.com
+404d7de6.unsubscribe.convertkit-mail2.com
 convertkit-mail3.com
 click.convertkit-mail3.com
 el2.convertkit-mail3.com
@@ -405,6 +410,7 @@ convertkit-mail4.com
 click.convertkit-mail4.com
 el2.convertkit-mail4.com
 open.convertkit-mail4.com
+51ce15f1.open.convertkit-mail4.com
 preferences.convertkit-mail4.com
 preview.convertkit-mail4.com
 unsubscribe.convertkit-mail4.com
@@ -755,6 +761,7 @@ adservice.google.fr
 adservice.google.ga
 adservice.google.gr
 adservice.google.hr
+adservice.google.hu
 adservice.google.ie
 adservice.google.it
 adservice.google.lt
@@ -1325,6 +1332,7 @@ rav5ithbb.cc.rs6.net
 rb6paw8ab.cc.rs6.net
 rd5tbo4ab.cc.rs6.net
 rdevbseab.cc.rs6.net
+rdr9bzpab.cc.rs6.net
 rfgvnv6ab.cc.rs6.net
 rfn9k5jab.cc.rs6.net
 rfnptk8ab.cc.rs6.net

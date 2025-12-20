@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 21:31 UTC
-# Version: 2025.1219.2131.16
+# Last modified: 20 Dec 2025 09:28 UTC
+# Version: 2025.1220.0928.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14096
+# Number of entries: 14101
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -271,7 +271,6 @@ local=/akj-crypto.com/
 local=/akku-laden.at/
 local=/akku-staubsauger.eu/
 local=/akkuschrauber-heinrich.com/
-local=/akkusmir.de/
 local=/akkusnotebook.at/
 local=/akronreia.com/
 local=/akselinvest.pro/
@@ -1258,6 +1257,7 @@ local=/bemyo.xyz/
 local=/bender-baumarkt.com/
 local=/bendoffice.com/
 local=/beneathk.com/
+local=/beneficialx.com/
 local=/benefitw.com/
 local=/benettonaustria.at/
 local=/benjamin-scheuer.de/
@@ -3847,6 +3847,7 @@ local=/enormous.shop/
 local=/enrichor.com/
 local=/ensemble4cyclisme.com/
 local=/entermusic.it/
+local=/entertainl.com/
 local=/enthusiastichaic.com/
 local=/enthusiastip.com/
 local=/entornobanoes.com/
@@ -4444,6 +4445,7 @@ local=/firat-handel24.de/
 local=/firat-shopping.de/
 local=/firegemss.com/
 local=/firewood-versand.de/
+local=/firmadmire.com/
 local=/firmeneintrag.net/
 local=/first-bikes.de/
 local=/first-investcapital.com/
@@ -4675,6 +4677,7 @@ local=/free-maket.com/
 local=/freeacnevs.xyz/
 local=/freeacy.com/
 local=/freemobile24.de/
+local=/freeseem.com/
 local=/freesmarttools.com/
 local=/freeteck.shop/
 local=/frehit.com/
@@ -6216,6 +6219,7 @@ local=/funktionrchm.hubix.click/
 local=/hudyrc.com/
 local=/huelstamoebelhaus.com/
 local=/huewi.xyz/
+local=/hugetsky.com/
 local=/hugfirst.com/
 local=/hugoverkauf.de/
 local=/huiiltn.shop/
@@ -11171,6 +11175,7 @@ local=/sensiblew.com/
 local=/sensodecken.de/
 local=/sensualsale.com/
 local=/senthiln.top/
+local=/senvix.de/
 local=/senzza.de/
 local=/separaten.com/
 local=/sepgoal.com/
@@ -12686,6 +12691,7 @@ local=/tradersking.com/
 local=/traderush.com/
 local=/traderxp.com/
 local=/tradeswim.com/
+local=/tradevestcrypto.com/
 local=/tradeviewforex.com/
 local=/tradewave.live/
 local=/tradezila.com/
@@ -13523,7 +13529,6 @@ local=/watchcod-en.shop/
 local=/watchesbuy.to/
 local=/watchesreplica.is/
 local=/watchesstore.co/
-local=/watchfaceshub.com/
 local=/watermotionod.com/
 local=/watersportsgalaxy.com/
 local=/watson-manchester.com/
