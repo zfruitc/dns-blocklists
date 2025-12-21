@@ -1,5 +1,6 @@
 # IPs to be removed from the DoH IP list.
 
+172.239.57.117
 138.201.92.216
 
 # https://github.com/hagezi/dns-blocklists/issues/7001

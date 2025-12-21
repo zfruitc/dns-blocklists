@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Dec 2025 09:28 UTC
-# Version: 2025.1220.0928.18
+# Last modified: 21 Dec 2025 09:31 UTC
+# Version: 2025.1221.0931.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14101
+# Number of entries: 14097
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -271,6 +271,7 @@ local=/akj-crypto.com/
 local=/akku-laden.at/
 local=/akku-staubsauger.eu/
 local=/akkuschrauber-heinrich.com/
+local=/akkusmir.de/
 local=/akkusnotebook.at/
 local=/akronreia.com/
 local=/akselinvest.pro/
@@ -1257,7 +1258,6 @@ local=/bemyo.xyz/
 local=/bender-baumarkt.com/
 local=/bendoffice.com/
 local=/beneathk.com/
-local=/beneficialx.com/
 local=/benefitw.com/
 local=/benettonaustria.at/
 local=/benjamin-scheuer.de/
@@ -3297,7 +3297,6 @@ local=/discountsrc.com/
 local=/discountsshoe.com/
 local=/discoverculture.com/
 local=/discoversm.com/
-local=/discustsion.com/
 local=/disdisbuy.com/
 local=/dishwasherprada.de/
 local=/diskrete-apotheke.de/
@@ -3847,7 +3846,6 @@ local=/enormous.shop/
 local=/enrichor.com/
 local=/ensemble4cyclisme.com/
 local=/entermusic.it/
-local=/entertainl.com/
 local=/enthusiastichaic.com/
 local=/enthusiastip.com/
 local=/entornobanoes.com/
@@ -4445,7 +4443,6 @@ local=/firat-handel24.de/
 local=/firat-shopping.de/
 local=/firegemss.com/
 local=/firewood-versand.de/
-local=/firmadmire.com/
 local=/firmeneintrag.net/
 local=/first-bikes.de/
 local=/first-investcapital.com/
@@ -4677,7 +4674,6 @@ local=/free-maket.com/
 local=/freeacnevs.xyz/
 local=/freeacy.com/
 local=/freemobile24.de/
-local=/freeseem.com/
 local=/freesmarttools.com/
 local=/freeteck.shop/
 local=/frehit.com/
@@ -4993,7 +4989,6 @@ local=/gemoneo.com/
 local=/generalizek.com/
 local=/generic4all-global.com/
 local=/generic4allglobal.com/
-local=/genericdoctor.com/
 local=/genericsbot.com/
 local=/genericshop-247.eu/
 local=/generika-profi.shop/
@@ -6219,7 +6214,6 @@ local=/funktionrchm.hubix.click/
 local=/hudyrc.com/
 local=/huelstamoebelhaus.com/
 local=/huewi.xyz/
-local=/hugetsky.com/
 local=/hugfirst.com/
 local=/hugoverkauf.de/
 local=/huiiltn.shop/
@@ -6275,6 +6269,7 @@ local=/hydrip.de/
 local=/hygienecleanshop.com/
 local=/hype-handel.de/
 local=/hype-hoodies.com/
+local=/hypecorewear.com/
 local=/hypelaced.co/
 local=/hypersneakers.online/
 local=/hyperstech.com/
@@ -7651,7 +7646,6 @@ local=/lockedintrading.co/
 local=/lockenbarava.shop/
 local=/lockenbareur.shop/
 local=/lockpickingstore.de/
-local=/locomotivey.com/
 local=/lodiac.com/
 local=/lodischuhedeutschland.com/
 local=/loefflerrandalllove.com/
@@ -9868,6 +9862,7 @@ local=/pharmacy-xl.org/
 local=/pharmagenerique.com/
 local=/pharmagut24.com/
 local=/pharmaplax.com/
+local=/pharmaris.net/
 local=/pharmatheke-europe.com/
 local=/pharmedio.de/
 local=/pharmtownsolutions.com/
@@ -12522,6 +12517,7 @@ local=/tm-preisvergleich.de/
 local=/tntroyal.com/
 local=/tobias-leben.de/
 local=/todayoffer.info/
+local=/todo-para-camping-caravans.es/
 local=/todo-para-embarcaciones.com/
 local=/togclothes.com/
 local=/togetherrxacces.com/

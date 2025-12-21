@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Dec 2025 18:39 UTC
-# Version: 2025.1220.1839.39
+# Last modified: 21 Dec 2025 10:40 UTC
+# Version: 2025.1221.1040.58
 # Syntax: Domains (without subdomains)
 # Number of entries: 6266
 #
@@ -5077,7 +5077,7 @@ eu3-browse.startpage.com
 proxy1.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
-us1-browse.startpage.com
+us-browse.startpage.com
 us2-browse.startpage.com
 dns.startupstack.tech
 starvpn.com

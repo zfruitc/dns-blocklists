@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Dec 2025 18:39 UTC
-# Version: 2025.1220.1839.39
+# Last modified: 21 Dec 2025 10:40 UTC
+# Version: 2025.1221.1040.58
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 6266
 #
@@ -5077,7 +5077,7 @@ local=/eu3-browse.startpage.com/
 local=/proxy1.startpage.com/
 local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
-local=/us1-browse.startpage.com/
+local=/us-browse.startpage.com/
 local=/us2-browse.startpage.com/
 local=/dns.startupstack.tech/
 local=/starvpn.com/

@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Dec 2025 06:29 UTC
-# Version: 2025.1220.0629.47
+# Last modified: 21 Dec 2025 10:34 UTC
+# Version: 2025.1221.1034.58
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 11506
 #
@@ -2548,7 +2548,6 @@ local=/mixes.dfx.at/
 local=/tr-rh-zhuqiy.dgj055.icu/
 local=/tr-zhuqiy-1.dgj055.icu/
 local=/tr-zhuqiy-2.dgj055.icu/
-local=/tracker-zhuqiy.dgj055.icu/
 local=/trl-zhuqiy.dgj055.icu/
 local=/tracker.zhuqiy.dgj055.icu/
 local=/dhakadownload.com/
@@ -9935,6 +9934,7 @@ local=/tracker810.xyz/
 local=/trackerlist.xyz/
 local=/trackerok.ru/
 local=/trackerpmr.com/
+local=/node01.trackerstatus.live/
 local=/trackerturk.biz/
 local=/tracker.trackton.ga/
 local=/traderz.org/
