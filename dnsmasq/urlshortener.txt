@@ -12,8 +12,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 21:52 UTC
-# Version: 2025.1219.2152.33
+# Last modified: 21 Dec 2025 21:31 UTC
+# Version: 2025.1221.2131.41
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 9470
 #
@@ -6158,7 +6158,6 @@ local=/rb-story.com/
 local=/rb6.me/
 local=/rbcz.io/
 local=/rbit.vision/
-local=/rbl.ms/
 local=/rblx.co/
 local=/rbm.li/
 local=/links.rbsoft.org/
@@ -7906,6 +7905,7 @@ local=/tnyz.at/
 local=/to.lk/
 local=/to.ly/
 local=/to-text.net/
+local=/to24r.com/
 local=/s.tobi.re/
 local=/toclick.link/
 local=/tog.li/

@@ -13,8 +13,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Dec 2025 21:52 UTC
-! Version: 2025.1219.2152.33
+! Last modified: 21 Dec 2025 21:31 UTC
+! Version: 2025.1221.2131.41
 ! Syntax: AdBlock
 ! Number of entries: 9470
 !
@@ -6159,7 +6159,6 @@
 ||rb6.me^
 ||rbcz.io^
 ||rbit.vision^
-||rbl.ms^
 ||rblx.co^
 ||rbm.li^
 ||links.rbsoft.org^
@@ -7907,6 +7906,7 @@
 ||to.lk^
 ||to.ly^
 ||to-text.net^
+||to24r.com^
 ||s.tobi.re^
 ||toclick.link^
 ||tog.li^

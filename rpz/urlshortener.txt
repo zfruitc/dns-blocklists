@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766181120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766352660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,8 +16,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Dec 2025 21:52 UTC
-; Version: 2025.1219.2152.33
+; Last modified: 21 Dec 2025 21:31 UTC
+; Version: 2025.1221.2131.41
 ; Syntax: RPZ
 ; Number of entries: 18940
 ;
@@ -6561,6 +6561,8 @@ tmidaos.com CNAME .
 *.tmidaos.com CNAME .
 tnyer.com CNAME .
 *.tnyer.com CNAME .
+to24r.com CNAME .
+*.to24r.com CNAME .
 tokalin.com CNAME .
 *.tokalin.com CNAME .
 link.tomalvarez.com CNAME .
@@ -14063,8 +14065,6 @@ nyti.ms CNAME .
 *.nyti.ms CNAME .
 omg.ms CNAME .
 *.omg.ms CNAME .
-rbl.ms CNAME .
-*.rbl.ms CNAME .
 rsg.ms CNAME .
 *.rsg.ms CNAME .
 sbps.ms CNAME .
