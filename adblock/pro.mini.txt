@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 21 Dec 2025 14:16 UTC
-! Version: 2025.1221.1416.30
+! Last modified: 21 Dec 2025 18:13 UTC
+! Version: 2025.1221.1813.41
 ! Syntax: AdBlock
-! Number of entries: 47004
+! Number of entries: 47034
 !
 ||0.org^
 ||00055edc1917.com^
@@ -1131,6 +1131,7 @@
 ||50e8788cedcf93e8cd85a4e7b62de029.com^
 ||50union.com^
 ||51.la^
+||5109psoz-5011.pl^
 ||51240.com^
 ||512j.com^
 ||514d937233.com^
@@ -1367,6 +1368,7 @@
 ||6s5acf8d.com^
 ||b.6sc.co^
 ||j.6sc.co^
+||6sn29202bnd739382hd92.pl^
 ||6tip.com^
 ||6v41p4bsq.com^
 ||6v6.work^
@@ -1440,6 +1442,7 @@
 ||789e31f9c24f.xyz^
 ||78c26f1be643eec6.com^
 ||79-google.com^
+||79346.cfd^
 ||793e751ff51113660eee4a9c6036d4e4.com^
 ||793e7b220242ad6c84f7c322d3ee4d68.com^
 ||793ed21f9e7d.com^
@@ -1590,6 +1593,7 @@
 ||8k9ynfczfd.com^
 ||8kbetviet.com^
 ||8le8le.com^
+||8npth68lrb4v3k1g.rest^
 ||8pi57n9qrrh28my.cfd^
 ||8r7b0h.sbs^
 ||8s5s.com^
@@ -6747,6 +6751,7 @@
 ||bastardzingaro.com^
 ||bastingart.com^
 ||bastion-office.ru^
+||bastiondexeris.com^
 ||basvuruolustur.com^
 ||basxea.cc^
 ||batalbaczf.com^
@@ -6779,6 +6784,7 @@
 ||bay-invexus-solution.com^
 ||radar.bayan.ir^
 ||bayescom.com^
+||bayinvexus.com^
 ||baymr.com^
 ||bayridge-finvexsoft.com^
 ||bayridgefinvex.com^
@@ -8337,6 +8343,7 @@
 ||btc75avelin.fr^
 ||btc780elvionapp.com^
 ||btc81novelis.fr^
+||btc83vellorix.net^
 ||btcclicks.com^
 ||btcdenvyproai.com^
 ||btcoctelaai.com^
@@ -8545,6 +8552,7 @@
 ||pbjs-stream.bydata.com^
 ||byet.org^
 ||byethost41.net^
+||byf4xum4vtephn.cfd^
 ||bygliscortor.com^
 ||bygoneudderpension.com^
 ||stats.bylo.ai^
@@ -10517,7 +10525,6 @@
 ||cntxcdm.com^
 ||cnvlink.com^
 ||cnwetuaniiaal.site^
-||cnwucnf.top^
 ||cnzz.cn^
 ||cnzz.net^
 ||c.cnzz.com^
@@ -14441,6 +14448,7 @@
 ||draperyrevolvertiara.com^
 ||www.dratbeyond.com^
 ||dratetillage.com^
+||drawersrespectively.com^
 ||drawlygrugru.cyou^
 ||drawntightlymuxulx.sbs^
 ||dwga.drberg.com^
@@ -16787,6 +16795,7 @@
 ||fintelconnect.com^
 ||fintellectualadvisors.com^
 ||finteracapital.net^
+||finterixproaiapp.com^
 ||stat.finuslugi.ru^
 ||finvontex-app.com^
 ||finvorubitai.com^
@@ -19061,6 +19070,7 @@
 ||gpt-ai.tips^
 ||posthog.gpt4novel.com^
 ||gpt80bitfox.com^
+||gptameenaiapp.com^
 ||gqwblrijc.com^
 ||gqwwhuxvu.com^
 ||cnn.gr.com^
@@ -20679,6 +20689,7 @@
 ||views.aor.hulu.com^
 ||views.ava.hulu.com^
 ||api.distribution.hulu.com^
+||emu.hulu.com^
 ||smetrics.help.hulu.com^
 ||metcon.hulu.com^
 ||t2.hulu.com^
@@ -22538,6 +22549,7 @@
 ||jrdkc.com^
 ||jriopxabv.com^
 ||jrkihvllezsla.space^
+||jrolyrlabymwj.top^
 ||jrpkizae.com^
 ||jrs-live-cctv5.com^
 ||jrs-live-dongqiudi.com^
@@ -24577,6 +24589,7 @@
 ||liwelsosoocaich.net^
 ||lizardslaugh.com^
 ||lizebruisiaculture.com^
+||ljvmokwyrojbq.top^
 ||lkg6g644.de^
 ||lklgosaqb.com^
 ||lkme.cc^
@@ -24799,6 +24812,7 @@
 ||analytics.lorendb.dev^
 ||loristracked.com^
 ||lorswhowishe.com^
+||lorviatexapp.com^
 ||losobo.xyz^
 ||losslace.com^
 ||lotame.com^
@@ -26674,6 +26688,7 @@
 ||monet.com^
 ||monetano.com^
 ||monetarysportystamp.com^
+||monetas.cfd^
 ||monetate.net^
 ||monetixads.com^
 ||monetize-ssp.com^
@@ -27474,6 +27489,7 @@
 ||nakrutkapf-yandex.ru^
 ||naleapprength.xyz^
 ||nalivaj.ru^
+||nalvirosapp.com^
 ||namastedharma.com^
 ||parkingpage.namecheap.com^
 ||namegos.icu^
@@ -30584,6 +30600,7 @@
 ||merchandise.opera-api2.com^
 ||operationchicken.com^
 ||operationcompany-innovation.com^
+||operatorhighsnake.com^
 ||opfourpro.org^
 ||opgg.beer^
 ||analytics.ophardt.online^
@@ -31575,6 +31592,7 @@
 ||papanwa.com^
 ||papayads.net^
 ||papayamobile.com^
+||ads-monitoring.papegames.com^
 ||plausible.paperclip.xyz^
 ||paperlessjobsite.com^
 ||trk.papermc.io^
@@ -32795,6 +32813,7 @@
 ||plsd9klffgkarssbg01xk.icu^
 ||plsd9klffgqlusqp01xk.icu^
 ||plsd9klffgqlussbg01xk.icu^
+||plsd9klffgterqp01xk.icu^
 ||plsd9klfuthjlarp01vg.icu^
 ||plsd9klfuthjlxdaw01xk.icu^
 ||plsd9klgazghbg01xk.icu^
@@ -35169,6 +35188,7 @@
 ||redav.online^
 ||redbasketball.com^
 ||eventsink.api.redbee.live^
+||redbridgenexvia.com^
 ||analytics.redbubble.com^
 ||analytics-cdn.redbubble.com^
 ||analytics-gtm.redbubble.com^
@@ -35845,6 +35865,7 @@
 ||sgtm.roddandgunn.com^
 ||rodlikemortal.com^
 ||rodmenperries.com^
+||roeduchess.com^
 ||roeye.com^
 ||roeyecdn.com^
 ||stracking.rogers.com^
@@ -37407,7 +37428,6 @@
 ||shelljacket.us^
 ||trk.shelly.cloud^
 ||creative.shemale.show^
-||shemrec.cc^
 ||shenajou.com^
 ||shengfleming.com^
 ||shenshiads.com^
@@ -39358,6 +39378,7 @@
 ||stripchat.com^
 ||stripchat.global^
 ||stripchat.red^
+||errors.stripe.com^
 ||striped-conflict.com^
 ||stripedblind.com^
 ||stripvidz.com^
@@ -41549,6 +41570,7 @@
 ||tradbypass.com^
 ||trade-armani-elite.com^
 ||trade365.org^
+||trade58zemro.net^
 ||tradebot.online^
 ||hst.tradedoubler.com^
 ||img.tradedoubler.com^
@@ -41799,6 +41821,7 @@
 ||demeter-tr-core-collect.trendyol.com^
 ||en-collect.trendyol.com^
 ||trendzy.pl^
+||trenexsylvonapp.com^
 ||trepadvisorsoffice.info^
 ||analytics.tresensa.com^
 ||ada.tresio.co^
@@ -42897,6 +42920,7 @@
 ||uscc.ua^
 ||metrics.uscellular.com^
 ||stats.uscreen.io^
+||usdcacss.tech^
 ||usebutton.com^
 ||used-restaurant.pro^
 ||usedcarweek.biz^
@@ -44350,6 +44374,7 @@
 ||wave-games.ru^
 ||go.waveblossom.com^
 ||analytics.wavelz.com^
+||wavesend.ru^
 ||wavesimple.com^
 ||wavetogive.org^
 ||wavo.me^
@@ -45001,6 +45026,7 @@
 ||winonascards.com^
 ||metrics.winparts.nl^
 ||cnt.winporn.com^
+||winst-boostnex.com^
 ||winter-marathon.cfd^
 ||winterrowd.com^
 ||wintrck.com^
@@ -45359,7 +45385,7 @@
 ||wuporg.com^
 ||piwik1.wuppertal.de^
 ||wurflcloud.com^
-||wurl.com^
+||adlink.wurl.com^
 ||wuxianjc.top^
 ||cdn.wuyou.ca^
 ||wuzbhjpvsf.com^
@@ -46367,6 +46393,7 @@
 ||yubziosgvkweu.online^
 ||yudvl.org^
 ||yuga.ru^
+||yuhuan.cc^
 ||yuiiy.com^
 ||yukclick.me^
 ||yukishigure.com^
@@ -46443,6 +46470,7 @@
 ||adad.z00.kr^
 ||z2n68irji5tgvwvnlijc15.cfd^
 ||z444o.com^
+||z551sa1.pl^
 ||z8341.online^
 ||zabanit.xyz^
 ||zabawkowo.fun^
@@ -46506,6 +46534,7 @@
 ||zalukaj.io^
 ||zalukaj-tv.pl^
 ||tr.zam.com^
+||zam-295654.me^
 ||zamanula.ru^
 ||ye.zambackloofs.top^
 ||zamkikurgan.ru^
@@ -46997,6 +47026,7 @@
 ||zyns.com^
 ||zyphorbit-app.com^
 ||zyphorbit-app.net^
+||zyphorbitapp.net^
 ||zyvbvqvjjkwaj.top^
 ||zyvorahelixion91.net^
 ||zyvorahelixionplatform.com^

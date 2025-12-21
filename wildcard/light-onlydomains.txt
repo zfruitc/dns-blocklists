@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Dec 2025 14:11 UTC
-# Version: 2025.1221.1411.17
+# Last modified: 21 Dec 2025 18:08 UTC
+# Version: 2025.1221.1808.30
 # Syntax: Domains (without subdomains)
-# Number of entries: 40600
+# Number of entries: 40628
 #
 0.org
 00055edc1917.com
@@ -1041,6 +1041,7 @@ collect-v6.51.la
 ia.51.la
 sdk.51.la
 users.51.la
+5109psoz-5011.pl
 51240.com
 512j.com
 514d937233.com
@@ -1262,6 +1263,7 @@ amethyst.6pm.com
 6qmqm13qh5u1jrrtykmp557ivpmk.rest
 6s5acf8d.com
 j.6sc.co
+6sn29202bnd739382hd92.pl
 6tip.com
 6v41p4bsq.com
 6v6.work
@@ -1330,6 +1332,7 @@ cbf6ad5f4e.73660f6efb.com
 789e31f9c24f.xyz
 78c26f1be643eec6.com
 79-google.com
+79346.cfd
 793e751ff51113660eee4a9c6036d4e4.com
 793e7b220242ad6c84f7c322d3ee4d68.com
 793ed21f9e7d.com
@@ -1469,6 +1472,7 @@ af03df3f77.8e6c021d8f.com
 8k9ynfczfd.com
 8kbetviet.com
 8le8le.com
+8npth68lrb4v3k1g.rest
 8pi57n9qrrh28my.cfd
 8r7b0h.sbs
 8s5s.com
@@ -5916,6 +5920,7 @@ omnis.basspro.com
 ck.bastardzingaro.com
 bastingart.com
 bastion-office.ru
+bastiondexeris.com
 basvuruolustur.com
 basxea.cc
 batalbaczf.com
@@ -5943,6 +5948,7 @@ matomo.dekra.bawue.com
 bay-invexus-solution.com
 radar.bayan.ir
 bayescom.com
+bayinvexus.com
 baymr.com
 bayridge-finvexsoft.com
 bayridgefinvex.com
@@ -7358,6 +7364,7 @@ btc590octela.net
 btc75avelin.fr
 btc780elvionapp.com
 btc81novelis.fr
+btc83vellorix.net
 btcclicks.com
 btcdenvyproai.com
 btcoctelaai.com
@@ -7533,6 +7540,7 @@ monitor-frontend-collector.a.bybit-aws.com
 bycitei3.com
 pbjs-stream.bydata.com
 byethost41.net
+byf4xum4vtephn.cfd
 bygliscortor.com
 bygoneudderpension.com
 stats.bylo.ai
@@ -9303,7 +9311,6 @@ s.cntqk.com
 cntxcdm.com
 cnvlink.com
 cnwetuaniiaal.site
-cnwucnf.top
 cnzz.net
 c.cnzz.com
 ei.cnzz.com
@@ -13451,6 +13458,7 @@ drankticket.com
 draperyrevolvertiara.com
 www.dratbeyond.com
 dratetillage.com
+drawersrespectively.com
 drawlygrugru.cyou
 drawntightlymuxulx.sbs
 dwga.drberg.com
@@ -15568,6 +15576,7 @@ finsosyal.com
 fintelconnect.com
 fintellectualadvisors.com
 finteracapital.net
+finterixproaiapp.com
 stat.finuslugi.ru
 finvontex-app.com
 finvorubitai.com
@@ -17589,6 +17598,7 @@ gpsecureads.com
 gpt-ai.tips
 posthog.gpt4novel.com
 gpt80bitfox.com
+gptameenaiapp.com
 gqwblrijc.com
 gqwwhuxvu.com
 cnn.gr.com
@@ -20218,6 +20228,7 @@ itseagleswig.com
 itsez.cfd
 itsfd.cfd
 itsfk.cfd
+itskiddien.club
 countly.itslearning.com
 itstuffnews.com
 cpt.itv.com
@@ -20627,6 +20638,7 @@ ytk.jra-ikkr.jp
 icon.eu.jramnd.com
 jriopxabv.com
 jrkihvllezsla.space
+jrolyrlabymwj.top
 jrpkizae.com
 jrs-live-cctv5.com
 jrs-live-dongqiudi.com
@@ -22384,6 +22396,7 @@ livingsu.com
 liwelsosoocaich.net
 lizardslaugh.com
 lizebruisiaculture.com
+ljvmokwyrojbq.top
 lkg6g644.de
 lklgosaqb.com
 lknvksrvlawsh.life
@@ -22581,6 +22594,7 @@ lorelboson.cfd
 lorempixel.com
 analytics.lorendb.dev
 lorswhowishe.com
+lorviatexapp.com
 losobo.xyz
 losslace.com
 lotemaxproapp.com
@@ -24179,6 +24193,7 @@ monerominer.rocks
 monet.com
 monetano.com
 monetarysportystamp.com
+monetas.cfd
 monetixads.com
 monetize-ssp.com
 monetizemore.com
@@ -24849,6 +24864,7 @@ nakedanalytics.net
 nakrutkapf-yandex.ru
 naleapprength.xyz
 nalivaj.ru
+nalvirosapp.com
 namastedharma.com
 namegos.icu
 namel.net
@@ -26586,6 +26602,7 @@ xml.opera.com
 merchandise.opera-api.com
 merchandise.opera-api2.com
 operationchicken.com
+operatorhighsnake.com
 opfourpro.org
 opgg.beer
 analytics.ophardt.online
@@ -28200,6 +28217,7 @@ plsd9klffgkaghbg01xk.icu
 plsd9klffgkarssbg01xk.icu
 plsd9klffgqlusqp01xk.icu
 plsd9klffgqlussbg01xk.icu
+plsd9klffgterqp01xk.icu
 plsd9klfuthjlarp01vg.icu
 plsd9klfuthjlxdaw01xk.icu
 plsd9klgazghbg01xk.icu
@@ -30026,6 +30044,7 @@ redads.com
 redav.online
 redbasketball.com
 eventsink.api.redbee.live
+redbridgenexvia.com
 analytics.redbubble.com
 analytics-cdn.redbubble.com
 analytics-gtm.redbubble.com
@@ -30631,6 +30650,7 @@ rocoads.com
 sgtm.roddandgunn.com
 rodlikemortal.com
 rodmenperries.com
+roeduchess.com
 stracking.rogers.com
 okcmg.rogerssportinggoods.com
 rogiku.xyz
@@ -32024,7 +32044,6 @@ scmetrics.shell.com
 shelljacket.us
 trk.shelly.cloud
 creative.shemale.show
-shemrec.cc
 shenajou.com
 shengfleming.com
 shenshiads.com
@@ -35785,6 +35804,7 @@ tracot.com
 smetrics.tractorsupply.com
 tradbypass.com
 trade-armani-elite.com
+trade58zemro.net
 tradebot.online
 hst.tradedoubler.com
 img.tradedoubler.com
@@ -35984,6 +36004,7 @@ demeter-int-ecom-collect.trendyol.com
 demeter-tr-core-collect.trendyol.com
 en-collect.trendyol.com
 trendzy.pl
+trenexsylvonapp.com
 trepadvisorsoffice.info
 analytics.tresensa.com
 ada.tresio.co
@@ -36972,6 +36993,7 @@ usbrowserspeed.com
 uscc.ua
 metrics.uscellular.com
 stats.uscreen.io
+usdcacss.tech
 usebutton.com
 used-restaurant.pro
 usedcarweek.biz
@@ -38316,6 +38338,7 @@ waust.at
 wavablyimprevu.com
 go.waveblossom.com
 analytics.wavelz.com
+wavesend.ru
 wavesimple.com
 wavetogive.org
 axp.wavy.com
@@ -38802,6 +38825,7 @@ winlinebet.com
 winonascards.com
 metrics.winparts.nl
 cnt.winporn.com
+winst-boostnex.com
 winter-marathon.cfd
 winterrowd.com
 wintrck.com
@@ -39132,7 +39156,7 @@ umami.wundertech.net
 wuporg.com
 piwik1.wuppertal.de
 wurflcloud.com
-wurl.com
+adlink.wurl.com
 wuxianjc.top
 cdn.wuyou.ca
 wuzbhjpvsf.com
@@ -40021,6 +40045,7 @@ yuasdja.icu
 sgtm.yubico.com
 yubziosgvkweu.online
 yudvl.org
+yuhuan.cc
 yuiiy.com
 yukclick.me
 yukishigure.com
@@ -40092,6 +40117,7 @@ z-promo.com
 adad.z00.kr
 z2n68irji5tgvwvnlijc15.cfd
 z444o.com
+z551sa1.pl
 z8341.online
 zabanit.xyz
 zabawkowo.fun
@@ -40152,6 +40178,7 @@ s3-advertising.zalopay.vn
 zaltaumi.net
 zalukaj-tv.pl
 tr.zam.com
+zam-295654.me
 zamanula.ru
 ye.zambackloofs.top
 zamkikurgan.ru
@@ -40595,6 +40622,7 @@ zynbotixtrade.com
 zap.cdn.zynga.com
 zyphorbit-app.com
 zyphorbit-app.net
+zyphorbitapp.net
 zyvbvqvjjkwaj.top
 zyvorahelixion91.net
 zyvorahelixionplatform.com
