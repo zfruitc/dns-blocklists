@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Dec 2025 10:33 UTC
-# Version: 2025.1221.1033.23
+# Last modified: 21 Dec 2025 14:33 UTC
+# Version: 2025.1221.1433.55
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 97304
+# Number of entries: 97295
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -10140,7 +10140,6 @@
 *.amigo-wins-casino.uk
 *.amigobingo.com
 *.amigobingocasino-ca.com
-*.amigogroup.shop
 *.amigoscasinofun.com
 *.amigoslots1.bond
 *.amigoslots2.bond
@@ -21563,7 +21562,6 @@
 *.casino-n1.com
 *.casino-n1bet.com
 *.casino-n8.com
-*.casino-na-dengi.ru
 *.casino-nacash.ru
 *.casino-nadengy.ru
 *.casino-napoleonfr.com
@@ -33142,7 +33140,6 @@
 *.chalkwinscasinoq.com
 *.challengecasinoi.com
 *.chameleoncasino.com
-*.champbets.com
 *.champcasino.ru
 *.champi0n.casino
 *.champi0nslots1.click
@@ -54189,7 +54186,6 @@
 *.kf9898.com
 *.kfbet.com
 *.kfc99.net
-*.kfcbets.com
 *.kfcjilicasino.com
 *.kfcjilislots.com
 *.kfcspaincasino.online
@@ -63123,7 +63119,6 @@
 *.moonroll.io
 *.moons-casino.online
 *.moonspin.us
-*.moonspincasino.com
 *.moonwiin.com
 *.moonwin.com
 *.moonwin-bonus.com
@@ -72736,7 +72731,6 @@
 *.playvegasslotsusa.com
 *.playvelocity.casino
 *.playversegamingcasino.com
-*.playvideopokeronline.org
 *.playwhizslotsh.com
 *.playwin3.com
 *.playwinkslots.com
@@ -81228,7 +81222,6 @@
 *.shechocolat.com
 *.sheeshcasino.com
 *.sheetzuchin.com
-*.sheikhbets.com
 *.sheknowscasinos.com
 *.sheldon-law.com
 *.shell-me.com
@@ -82622,7 +82615,6 @@
 *.slotsdjs.ca
 *.slotsdjs.com
 *.slotsdjs.site
-*.slotsdoc.net
 *.slotsdreamer1.bond
 *.slotsdreamer2.bond
 *.slotsdreamer3.bond
@@ -91887,7 +91879,6 @@
 *.vip-tiketslot.com
 *.vip-vaycasino.org
 *.vip02-tajir777.com
-*.vip123.sbs
 *.vip365.ag
 *.vip66.name
 *.vip745.com

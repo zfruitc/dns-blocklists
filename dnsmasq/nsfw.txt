@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Dec 2025 10:37 UTC
-# Version: 2025.1221.1037.03
+# Last modified: 21 Dec 2025 14:37 UTC
+# Version: 2025.1221.1437.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 85517
+# Number of entries: 85511
 #
 local=/000000000000000000000000000000000000000000000000000000000000000.gay/
 local=/000sexxx.com/
@@ -35575,7 +35575,6 @@ local=/indianpornsex.cc/
 local=/indianpornsites.net/
 local=/indianporntop.com/
 local=/indianporntrip.com/
-local=/indianporntube.org/
 local=/indianporntubes.org/
 local=/indianpornu.com/
 local=/indianpornv.com/
@@ -44582,7 +44581,6 @@ local=/monstertube.com/
 local=/monsterwhitecock.com/
 local=/monstrporn.com/
 local=/montagskinder.de/
-local=/montanatransexuals.com/
 local=/montrealfemaleescorts.com/
 local=/montrealnurumassage.com/
 local=/montrose.is/
@@ -47129,7 +47127,6 @@ local=/noreen.info/
 local=/norimyxxxo.ru/
 local=/noriuzinoti.lt/
 local=/norse-man.net/
-local=/northdakotatransexuals.com/
 local=/northernspanking.com/
 local=/northescort.com/
 local=/northfacewintersale.com/
@@ -58675,7 +58672,6 @@ local=/relaxodessa.com/
 local=/relaxportal.biz/
 local=/relaycolisexpress.com/
 local=/releasesexchange.xyz/
-local=/relentlesslygay.com/
 local=/reliablehotties.com/
 local=/reliablewingsexport.com/
 local=/religiousexchange.xyz/
@@ -77913,7 +77909,6 @@ local=/westmilfordtreeservice.com/
 local=/westportartscenter.org/
 local=/westsussexbossfm.xyz/
 local=/westsussexforklifttraining.com/
-local=/westvirginiatransexuals.com/
 local=/wesuesexbuyers.com/
 local=/wesuesexbuyers.net/
 local=/wesuesexbuyers.org/
@@ -81139,7 +81134,6 @@ local=/xxx707xxx.com/
 local=/xxx70s.com/
 local=/xxx77.xyz/
 local=/xxx777.online/
-local=/xxx777.vip/
 local=/xxx777.xyz/
 local=/xxx789.xyz/
 local=/xxx7977.com/

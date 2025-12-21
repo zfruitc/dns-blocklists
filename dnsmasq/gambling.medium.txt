@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Dec 2025 10:33 UTC
-# Version: 2025.1221.1033.23
+# Last modified: 21 Dec 2025 14:33 UTC
+# Version: 2025.1221.1433.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 97304
+# Number of entries: 97295
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -10140,7 +10140,6 @@ local=/amigaspgbets.com/
 local=/amigo-wins-casino.uk/
 local=/amigobingo.com/
 local=/amigobingocasino-ca.com/
-local=/amigogroup.shop/
 local=/amigoscasinofun.com/
 local=/amigoslots1.bond/
 local=/amigoslots2.bond/
@@ -21563,7 +21562,6 @@ local=/casino-mx.xyz/
 local=/casino-n1.com/
 local=/casino-n1bet.com/
 local=/casino-n8.com/
-local=/casino-na-dengi.ru/
 local=/casino-nacash.ru/
 local=/casino-nadengy.ru/
 local=/casino-napoleonfr.com/
@@ -33142,7 +33140,6 @@ local=/chalkwins.com/
 local=/chalkwinscasinoq.com/
 local=/challengecasinoi.com/
 local=/chameleoncasino.com/
-local=/champbets.com/
 local=/champcasino.ru/
 local=/champi0n.casino/
 local=/champi0nslots1.click/
@@ -54189,7 +54186,6 @@ local=/kf8.bet/
 local=/kf9898.com/
 local=/kfbet.com/
 local=/kfc99.net/
-local=/kfcbets.com/
 local=/kfcjilicasino.com/
 local=/kfcjilislots.com/
 local=/kfcspaincasino.online/
@@ -63123,7 +63119,6 @@ local=/moonrcasino.xyz/
 local=/moonroll.io/
 local=/moons-casino.online/
 local=/moonspin.us/
-local=/moonspincasino.com/
 local=/moonwiin.com/
 local=/moonwin.com/
 local=/moonwin-bonus.com/
@@ -72736,7 +72731,6 @@ local=/playvavada-casino.fun/
 local=/playvegasslotsusa.com/
 local=/playvelocity.casino/
 local=/playversegamingcasino.com/
-local=/playvideopokeronline.org/
 local=/playwhizslotsh.com/
 local=/playwin3.com/
 local=/playwinkslots.com/
@@ -81228,7 +81222,6 @@ local=/shbetvip.com/
 local=/shechocolat.com/
 local=/sheeshcasino.com/
 local=/sheetzuchin.com/
-local=/sheikhbets.com/
 local=/sheknowscasinos.com/
 local=/sheldon-law.com/
 local=/shell-me.com/
@@ -82622,7 +82615,6 @@ local=/slotsdjplay.com/
 local=/slotsdjs.ca/
 local=/slotsdjs.com/
 local=/slotsdjs.site/
-local=/slotsdoc.net/
 local=/slotsdreamer1.bond/
 local=/slotsdreamer2.bond/
 local=/slotsdreamer3.bond/
@@ -91887,7 +91879,6 @@ local=/vip-slots.click/
 local=/vip-tiketslot.com/
 local=/vip-vaycasino.org/
 local=/vip02-tajir777.com/
-local=/vip123.sbs/
 local=/vip365.ag/
 local=/vip66.name/
 local=/vip745.com/

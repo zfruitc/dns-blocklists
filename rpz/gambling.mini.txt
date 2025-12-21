@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766313240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766327640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Dec 2025 10:34 UTC
-; Version: 2025.1221.1034.25
+; Last modified: 21 Dec 2025 14:34 UTC
+; Version: 2025.1221.1434.45
 ; Syntax: RPZ
-; Number of entries: 92984
+; Number of entries: 92966
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -25844,8 +25844,6 @@ chalkwins.com CNAME .
 *.chalkwins.com CNAME .
 chameleoncasino.com CNAME .
 *.chameleoncasino.com CNAME .
-champbets.com CNAME .
-*.champbets.com CNAME .
 championcasino-zerkalo.com CNAME .
 *.championcasino-zerkalo.com CNAME .
 champions1-slots.com CNAME .
@@ -34146,8 +34144,6 @@ kf388.com CNAME .
 *.kf388.com CNAME .
 kfbet.com CNAME .
 *.kfbet.com CNAME .
-kfcbets.com CNAME .
-*.kfcbets.com CNAME .
 kfkfpg.com CNAME .
 *.kfkfpg.com CNAME .
 kfkfspg.com CNAME .
@@ -37588,8 +37584,6 @@ moonfroglabs.com CNAME .
 *.moonfroglabs.com CNAME .
 moongames.com CNAME .
 *.moongames.com CNAME .
-moonspincasino.com CNAME .
-*.moonspincasino.com CNAME .
 moonwiin.com CNAME .
 *.moonwiin.com CNAME .
 moonwin.com CNAME .
@@ -45346,8 +45340,6 @@ sheeshcasino.com CNAME .
 *.sheeshcasino.com CNAME .
 sheetzuchin.com CNAME .
 *.sheetzuchin.com CNAME .
-sheikhbets.com CNAME .
-*.sheikhbets.com CNAME .
 shell-me.com CNAME .
 *.shell-me.com CNAME .
 shenphoto.com CNAME .
@@ -63098,8 +63090,6 @@ slots-eater.net CNAME .
 *.slots-eater.net CNAME .
 slotscity.net CNAME .
 *.slotscity.net CNAME .
-slotsdoc.net CNAME .
-*.slotsdoc.net CNAME .
 slotserverbatam.net CNAME .
 *.slotserverbatam.net CNAME .
 slotsin.net CNAME .
@@ -68668,8 +68658,6 @@ play-ninecasino.org CNAME .
 *.play-ninecasino.org CNAME .
 play288.org CNAME .
 *.play288.org CNAME .
-playvideopokeronline.org CNAME .
-*.playvideopokeronline.org CNAME .
 plazatogel.org CNAME .
 *.plazatogel.org CNAME .
 pokbets.org CNAME .
@@ -71568,8 +71556,6 @@ casino-mostbet-info.ru CNAME .
 *.casino-mostbet-info.ru CNAME .
 casino-mostbet-kz.ru CNAME .
 *.casino-mostbet-kz.ru CNAME .
-casino-na-dengi.ru CNAME .
-*.casino-na-dengi.ru CNAME .
 casino-nacash.ru CNAME .
 *.casino-nacash.ru CNAME .
 casino-nomad-kz.ru CNAME .
@@ -74140,8 +74126,6 @@ vavada-casino.sbs CNAME .
 *.vavada-casino.sbs CNAME .
 vavada-casino534.sbs CNAME .
 *.vavada-casino534.sbs CNAME .
-vip123.sbs CNAME .
-*.vip123.sbs CNAME .
 vodka-bet-casino1.sbs CNAME .
 *.vodka-bet-casino1.sbs CNAME .
 vodka-casino321.sbs CNAME .
@@ -74700,8 +74684,6 @@ agenpoker855.shop CNAME .
 *.agenpoker855.shop CNAME .
 amazoncasino.shop CNAME .
 *.amazoncasino.shop CNAME .
-amigogroup.shop CNAME .
-*.amigogroup.shop CNAME .
 anepuasi.shop CNAME .
 *.anepuasi.shop CNAME .
 aoeslots007.shop CNAME .

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Dec 2025 10:40 UTC
-# Version: 2025.1221.1040.58
+# Last modified: 21 Dec 2025 14:41 UTC
+# Version: 2025.1221.1441.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6266
+# Number of entries: 6267
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2458,6 +2458,7 @@ local=/doh-primary-pool.goodbyegambling.com/
 local=/dns.google.com/
 local=/google-public-dns-a.google.com/
 local=/google-public-dns-b.google.com/
+local=/phosphor-pa.googleapis.com/
 local=/dns-tunnel-check.googlezip.net/
 local=/tunnel.googlezip.net/
 local=/goosevpn.com/

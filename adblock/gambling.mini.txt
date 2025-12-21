@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 21 Dec 2025 10:34 UTC
-! Version: 2025.1221.1034.25
+! Last modified: 21 Dec 2025 14:34 UTC
+! Version: 2025.1221.1434.45
 ! Syntax: AdBlock
-! Number of entries: 46492
+! Number of entries: 46483
 !
 ||000-online-casino.com^
 ||0009casino.com^
@@ -5137,7 +5137,6 @@
 ||amigaspgbets.com^
 ||amigobingo.com^
 ||amigobingocasino-ca.com^
-||amigogroup.shop^
 ||amigoslots1.bond^
 ||amigoslots2.bond^
 ||amigoslots3.bond^
@@ -10943,7 +10942,6 @@
 ||casino-mx.xyz^
 ||casino-n1.com^
 ||casino-n1bet.com^
-||casino-na-dengi.ru^
 ||casino-nacash.ru^
 ||casino-neon54-hu.com^
 ||casino-neospin.ch^
@@ -16192,7 +16190,6 @@
 ||chainrcasino.xyz^
 ||chalkwins.com^
 ||chameleoncasino.com^
-||champbets.com^
 ||champion-casino.pics^
 ||champion-casino-ajw.top^
 ||champion-casino-blo.top^
@@ -26210,7 +26207,6 @@
 ||kf388.com^
 ||kf8.bet^
 ||kfbet.com^
-||kfcbets.com^
 ||kfkfpg.com^
 ||kfkfspg.com^
 ||kfkiki.com^
@@ -30105,7 +30101,6 @@
 ||moonroll.io^
 ||moons-casino.online^
 ||moonspin.us^
-||moonspincasino.com^
 ||moonwiin.com^
 ||moonwin.com^
 ||moonwin-bonus.com^
@@ -34508,7 +34503,6 @@
 ||playuzu-casino.uk^
 ||playvelocity.casino^
 ||playversegamingcasino.com^
-||playvideopokeronline.org^
 ||playwin3.com^
 ||playwinkslots.com^
 ||playwinningpoker.com^
@@ -38792,7 +38786,6 @@
 ||shbetvip.com^
 ||sheeshcasino.com^
 ||sheetzuchin.com^
-||sheikhbets.com^
 ||shell-me.com^
 ||shell77.net^
 ||shenphoto.com^
@@ -39441,7 +39434,6 @@
 ||slotsdigest.site^
 ||slotsdigital.xyz^
 ||slotsdjs.ca^
-||slotsdoc.net^
 ||slotsdreamer1.bond^
 ||slotsdreamer2.bond^
 ||slotsdreamer3.bond^
@@ -44012,7 +44004,6 @@
 ||vip-gamazcasinoz.shop^
 ||vip-riobetcasino.click^
 ||vip-riobets-casino.shop^
-||vip123.sbs^
 ||vip365.ag^
 ||vip66.name^
 ||vip7777.org^

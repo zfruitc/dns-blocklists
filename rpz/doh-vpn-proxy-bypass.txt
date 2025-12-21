@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766313600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766328060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Dec 2025 10:40 UTC
-; Version: 2025.1221.1040.58
+; Last modified: 21 Dec 2025 14:41 UTC
+; Version: 2025.1221.1441.39
 ; Syntax: RPZ
-; Number of entries: 12532
+; Number of entries: 12534
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2341,6 +2341,8 @@ google-public-dns-a.google.com CNAME .
 *.google-public-dns-a.google.com CNAME .
 google-public-dns-b.google.com CNAME .
 *.google-public-dns-b.google.com CNAME .
+phosphor-pa.googleapis.com CNAME .
+*.phosphor-pa.googleapis.com CNAME .
 goosevpn.com CNAME .
 *.goosevpn.com CNAME .
 dot.gordmo.com CNAME .

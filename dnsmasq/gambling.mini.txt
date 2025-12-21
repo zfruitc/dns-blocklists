@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Dec 2025 10:34 UTC
-# Version: 2025.1221.1034.25
+# Last modified: 21 Dec 2025 14:34 UTC
+# Version: 2025.1221.1434.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 46492
+# Number of entries: 46483
 #
 local=/000-online-casino.com/
 local=/0009casino.com/
@@ -5136,7 +5136,6 @@ local=/amg.one/
 local=/amigaspgbets.com/
 local=/amigobingo.com/
 local=/amigobingocasino-ca.com/
-local=/amigogroup.shop/
 local=/amigoslots1.bond/
 local=/amigoslots2.bond/
 local=/amigoslots3.bond/
@@ -10942,7 +10941,6 @@ local=/casino-mrq.uk/
 local=/casino-mx.xyz/
 local=/casino-n1.com/
 local=/casino-n1bet.com/
-local=/casino-na-dengi.ru/
 local=/casino-nacash.ru/
 local=/casino-neon54-hu.com/
 local=/casino-neospin.ch/
@@ -16191,7 +16189,6 @@ local=/chain1casino.xyz/
 local=/chainrcasino.xyz/
 local=/chalkwins.com/
 local=/chameleoncasino.com/
-local=/champbets.com/
 local=/champion-casino.pics/
 local=/champion-casino-ajw.top/
 local=/champion-casino-blo.top/
@@ -26209,7 +26206,6 @@ local=/keystoneuniformcap.com/
 local=/kf388.com/
 local=/kf8.bet/
 local=/kfbet.com/
-local=/kfcbets.com/
 local=/kfkfpg.com/
 local=/kfkfspg.com/
 local=/kfkiki.com/
@@ -30104,7 +30100,6 @@ local=/moonrcasino.xyz/
 local=/moonroll.io/
 local=/moons-casino.online/
 local=/moonspin.us/
-local=/moonspincasino.com/
 local=/moonwiin.com/
 local=/moonwin.com/
 local=/moonwin-bonus.com/
@@ -34507,7 +34502,6 @@ local=/playuzu-casino.cl/
 local=/playuzu-casino.uk/
 local=/playvelocity.casino/
 local=/playversegamingcasino.com/
-local=/playvideopokeronline.org/
 local=/playwin3.com/
 local=/playwinkslots.com/
 local=/playwinningpoker.com/
@@ -38791,7 +38785,6 @@ local=/shbetv8.com/
 local=/shbetvip.com/
 local=/sheeshcasino.com/
 local=/sheetzuchin.com/
-local=/sheikhbets.com/
 local=/shell-me.com/
 local=/shell77.net/
 local=/shenphoto.com/
@@ -39440,7 +39433,6 @@ local=/slotsdelsolonline.com/
 local=/slotsdigest.site/
 local=/slotsdigital.xyz/
 local=/slotsdjs.ca/
-local=/slotsdoc.net/
 local=/slotsdreamer1.bond/
 local=/slotsdreamer2.bond/
 local=/slotsdreamer3.bond/
@@ -44011,7 +44003,6 @@ local=/vip-club-casino.com/
 local=/vip-gamazcasinoz.shop/
 local=/vip-riobetcasino.click/
 local=/vip-riobets-casino.shop/
-local=/vip123.sbs/
 local=/vip365.ag/
 local=/vip66.name/
 local=/vip7777.org/
