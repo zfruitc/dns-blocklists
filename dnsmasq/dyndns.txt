@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 10:34 UTC
-# Version: 2025.1219.1034.38
+# Last modified: 22 Dec 2025 22:37 UTC
+# Version: 2025.1222.2237.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1470
+# Number of entries: 1465
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -290,7 +290,6 @@ local=/digikabel.hu/
 local=/digitalgroupe.com/
 local=/ditchyourip.com/
 local=/divx.se/
-local=/diyplans.org/
 local=/dlinkddns.com/
 local=/dmtr.ru/
 local=/dnet.hu/
@@ -710,7 +709,6 @@ local=/ilovecollege.info/
 local=/imagetemplate.com/
 local=/imagetemplate.net/
 local=/imexsac.com/
-local=/imprendum.com/
 local=/in-the-band.net/
 local=/independentonline.ro/
 local=/indevs.in/
@@ -979,7 +977,6 @@ local=/myftp.biz/
 local=/myftp.info/
 local=/myftp.org/
 local=/myhome-server.de/
-local=/myhomeschoolfamily.com/
 local=/myip.org/
 local=/myiphost.com/
 local=/myjino.ru/
@@ -1181,7 +1178,6 @@ local=/root.sx/
 local=/root64.de/
 local=/roth.ca/
 local=/route64.de/
-local=/rpz.su/
 local=/rtam.net/
 local=/rum.si/
 local=/run.place/
@@ -1401,7 +1397,6 @@ local=/ve3.info/
 local=/venez.fr/
 local=/venez.net/
 local=/verymad.net/
-local=/vicinanza.org/
 local=/viewdns.net/
 local=/viiic.net/
 local=/vincomlimited.com/

@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 22 Dec 2025 10:39 UTC
-! Version: 2025.1222.1039.48
+! Last modified: 22 Dec 2025 22:38 UTC
+! Version: 2025.1222.2238.25
 ! Syntax: AdBlock
-! Number of entries: 6284
+! Number of entries: 6266
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -140,7 +140,6 @@
 ||happy-sun-587.3kh0.org^
 ||3proxy.de^
 ||dns.3wv.de^
-||3x.nz^
 ||dns.4-the.win^
 ||vpn.4-the.win^
 ||notfound-google.404.mn^
@@ -1261,7 +1260,6 @@
 ||cosmohacker.space^
 ||adguardhome.fr.couli.fr^
 ||coursera.gq^
-||coverproxy.com^
 ||covertproxy.com^
 ||doh.cox.net^
 ||dot.cox.net^
@@ -1846,7 +1844,6 @@
 ||osefcorp.duckdns.org^
 ||pitchforkwaydns.duckdns.org^
 ||punono.duckdns.org^
-||quanmeme.duckdns.org^
 ||rcpc2.duckdns.org^
 ||salvadoserver.duckdns.org^
 ||site-2.duckdns.org^
@@ -2165,7 +2162,6 @@
 ||flashputon.net^
 ||doh.flashstart.com^
 ||flashvpn.li^
-||dns.flatuslifir.is^
 ||spyro-the-bat.fleuryk.ovh^
 ||spyrothebat.fleuryk.ovh^
 ||vps.fleuryk.ovh^
@@ -2196,7 +2192,6 @@
 ||www-rf4.forestberrypi.com^
 ||forestvpn.com^
 ||thinggg.forever-20.com^
-||proxy.forkbomb.xyz^
 ||www-proxy.formen.cc^
 ||disturbing-the-peace.foxgateway.com^
 ||get-out-of-my-head-get-out-of-my-head.foxgateway.com^
@@ -2485,7 +2480,6 @@
 ||gotrusted.com^
 ||gowork.info^
 ||gpreport.us^
-||gracarno.com^
 ||graef.in^
 ||grammarhelpers.com^
 ||adguard.grantbruneau.com^
@@ -2734,7 +2728,6 @@
 ||hotbot.com^
 ||hotbotvpn.com^
 ||hotfreevpn.com^
-||purchase-some.hotglue.click^
 ||hotspotshield.com^
 ||hotspotvpn.com^
 ||dns.hotta.page^
@@ -2822,7 +2815,6 @@
 ||home.fc.idv.tw^
 ||tls.jackyhou.idv.tw^
 ||adguard.shuting.idv.tw^
-||worldbookonline.ignorelist.com^
 ||adguard.ihatemy.live^
 ||dns.ihaveacloud.com^
 ||learningwiki.iiiii.info^
@@ -3064,7 +3056,6 @@
 ||dns.jundev.org^
 ||ashleykipo.jundy.org^
 ||dns.jungle-im.ir^
-||jupitervpn.ninja^
 ||dns.jupitrdns.com^
 ||juproxy.com^
 ||jp01.just-a-web.com^
@@ -3157,7 +3148,6 @@
 ||dns1.kla44.de^
 ||dns1.klcd.eu^
 ||dns2.klcd.eu^
-||klcknerrip.com^
 ||adguard.kngnet.de^
 ||knight1.de^
 ||knvpn.net^
@@ -3569,7 +3559,6 @@
 ||movieproxy.com^
 ||vpn.mozilla.org^
 ||dns.mrkaran.dev^
-||sail.msg.boats^
 ||adguard.kazantsev97.msk.ru^
 ||msr177.com^
 ||dns.msxnet.ru^
@@ -4107,8 +4096,6 @@
 ||panskeet.xyz^
 ||dns.panszelescik.pl^
 ||dns-ovh.panszelescik.pl^
-||pantavv.xyz^
-||pantoto.xyz^
 ||papaproxy.net^
 ||papervpn.info^
 ||paradise-human.shop^
@@ -4406,7 +4393,6 @@
 ||proxyfactory.io^
 ||proxyfish.com^
 ||proxyflows.com^
-||proxyforfree.eu^
 ||proxyfort.com^
 ||proxyfree.org^
 ||proxyfreeonly.com^
@@ -4632,7 +4618,6 @@
 ||x.res.wang^
 ||dns.resoft.org^
 ||menu.resolve.bar^
-||resolver.arpa^
 ||restaurantgift.us^
 ||dnspub.restena.lu^
 ||dns.retakecs.com^
@@ -4968,7 +4953,6 @@
 ||001.smallnode.net^
 ||smartcamp.su^
 ||smartdnsproxy.com^
-||onlyforschool123.smarter-homes.com^
 ||lunarsync.smartfoloo.space^
 ||dns.smartguard.io^
 ||smartproxy.com^
@@ -5432,7 +5416,6 @@
 ||toptip.cc^
 ||topvpn.cc^
 ||topvpnguides.com^
-||tor2web.fi^
 ||tor2web.io^
 ||tor2web.it^
 ||tor2web.org^
@@ -5503,7 +5486,6 @@
 ||tuantran.cloud^
 ||tubeprox.com^
 ||tubeunblock.me^
-||tubeunblock.net^
 ||freodore.tulanerw.org^
 ||tunnelbear.com^
 ||justdoit.tuquy.com^

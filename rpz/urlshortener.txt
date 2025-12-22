@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766395920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766439060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 Dec 2025 09:32 UTC
-; Version: 2025.1222.0932.01
+; Last modified: 22 Dec 2025 21:31 UTC
+; Version: 2025.1222.2131.26
 ; Syntax: RPZ
-; Number of entries: 19044
+; Number of entries: 19018
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1573,8 +1573,6 @@ conify.cc CNAME .
 *.conify.cc CNAME .
 conta.cc CNAME .
 *.conta.cc CNAME .
-covgo.cc CNAME .
-*.covgo.cc CNAME .
 ctfn.cc CNAME .
 *.ctfn.cc CNAME .
 dl100.cc CNAME .
@@ -1685,8 +1683,6 @@ ricn.cc CNAME .
 *.ricn.cc CNAME .
 rsgo.cc CNAME .
 *.rsgo.cc CNAME .
-sa-link.cc CNAME .
-*.sa-link.cc CNAME .
 sayapbola.cc CNAME .
 *.sayapbola.cc CNAME .
 short.cc CNAME .
@@ -2913,8 +2909,6 @@ wfly.co CNAME .
 *.wfly.co CNAME .
 curt.wiz.co CNAME .
 *.curt.wiz.co CNAME .
-wjcf.co CNAME .
-*.wjcf.co CNAME .
 wl.co CNAME .
 *.wl.co CNAME .
 wm0.co CNAME .
@@ -4545,8 +4539,6 @@ isinstance.com CNAME .
 *.isinstance.com CNAME .
 isterratrk.com CNAME .
 *.isterratrk.com CNAME .
-istubby.com CNAME .
-*.istubby.com CNAME .
 isurt.com CNAME .
 *.isurt.com CNAME .
 iszify.com CNAME .
@@ -4743,8 +4735,6 @@ linkallstar.com CNAME .
 *.linkallstar.com CNAME .
 linkalp.com CNAME .
 *.linkalp.com CNAME .
-linkasd.com CNAME .
-*.linkasd.com CNAME .
 linkatra.com CNAME .
 *.linkatra.com CNAME .
 linkbby.com CNAME .
@@ -6893,8 +6883,6 @@ urlifypoint.com CNAME .
 *.urlifypoint.com CNAME .
 urlifys.com CNAME .
 *.urlifys.com CNAME .
-urlinko.com CNAME .
-*.urlinko.com CNAME .
 urlintel.com CNAME .
 *.urlintel.com CNAME .
 urlkai.com CNAME .
@@ -9337,8 +9325,6 @@ golinker.in CNAME .
 *.golinker.in CNAME .
 gowes.in CNAME .
 *.gowes.in CNAME .
-href.in CNAME .
-*.href.in CNAME .
 hutmat.in CNAME .
 *.hutmat.in CNAME .
 i09.in CNAME .
@@ -10019,8 +10005,6 @@ congress.international CNAME .
 *.1p.io CNAME .
 1shop.io CNAME .
 *.1shop.io CNAME .
-1short.io CNAME .
-*.1short.io CNAME .
 1west.io CNAME .
 *.1west.io CNAME .
 2x1.io CNAME .
@@ -10785,8 +10769,6 @@ otgk.ir CNAME .
 *.otgk.ir CNAME .
 pa-ko.ir CNAME .
 *.pa-ko.ir CNAME .
-plink.ir CNAME .
-*.plink.ir CNAME .
 plusking.ir CNAME .
 *.plusking.ir CNAME .
 go.poweren.ir CNAME .
@@ -11927,8 +11909,6 @@ cutmy.link CNAME .
 *.cutmy.link CNAME .
 cutthis.link CNAME .
 *.cutthis.link CNAME .
-cutur.link CNAME .
-*.cutur.link CNAME .
 cwr.link CNAME .
 *.cwr.link CNAME .
 d138.link CNAME .
@@ -12689,8 +12669,6 @@ platformtech.live CNAME .
 *.platformtech.live CNAME .
 pointpay.live CNAME .
 *.pointpay.live CNAME .
-premierbet.live CNAME .
-*.premierbet.live CNAME .
 protogen.live CNAME .
 *.protogen.live CNAME .
 redditsp2pcredit.live CNAME .
@@ -17415,8 +17393,6 @@ d.to CNAME .
 *.d.to CNAME .
 daftar.to CNAME .
 *.daftar.to CNAME .
-ddls.to CNAME .
-*.ddls.to CNAME .
 ddot.to CNAME .
 *.ddot.to CNAME .
 dell.to CNAME .
@@ -17859,8 +17835,6 @@ fastlinks.com.tr CNAME .
 *.fastlinks.com.tr CNAME .
 iup.com.tr CNAME .
 *.iup.com.tr CNAME .
-shortlinks.com.tr CNAME .
-*.shortlinks.com.tr CNAME .
 siteonizleme.com.tr CNAME .
 *.siteonizleme.com.tr CNAME .
 e2link.tr CNAME .

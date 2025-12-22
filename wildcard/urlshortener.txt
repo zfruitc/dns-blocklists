@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Dec 2025 09:32 UTC
-# Version: 2025.1222.0932.01
+# Last modified: 22 Dec 2025 21:31 UTC
+# Version: 2025.1222.2131.26
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9522
+# Number of entries: 9509
 #
 *.0.gp
 *.00m.in
@@ -114,7 +114,6 @@
 *.1r2.in
 *.1s.is
 *.1shop.io
-*.1short.io
 *.1shortlink.com
 *.1stall.com
 *.1stgop.co
@@ -1808,7 +1807,6 @@
 *.rocketlink.com.br
 *.short.com.vn
 *.shortlink.com.au
-*.shortlinks.com.tr
 *.siteonizleme.com.tr
 *.tinyurl.smart-home.com.co
 *.spaceframegroup.com.au
@@ -1853,7 +1851,6 @@
 *.couic.fr
 *.couldyouredirectmeplease.com
 *.coupa.ng
-*.covgo.cc
 *.coz.de
 *.cpamarketing.ro
 *.cpbr.link
@@ -2009,7 +2006,6 @@
 *.cutts.in
 *.cutturl.xyz
 *.cutu.me
-*.cutur.link
 *.cuturl.cloud
 *.cuturl.com
 *.cuturl.net
@@ -2097,7 +2093,6 @@
 *.dcri.io
 *.dcshru.ru
 *.dd.ma
-*.ddls.to
 *.ddot.to
 *.ddw.nu
 *.dealc.me
@@ -3297,7 +3292,6 @@
 *.hrbl.me
 *.hrbrg.co
 *.href.ar
-*.href.in
 *.href.li
 *.href.pw
 *.link.hritbot.com
@@ -3587,7 +3581,6 @@
 *.istel.co
 *.isterratrk.com
 *.istore.ar
-*.istubby.com
 *.isurl.cc
 *.isurt.com
 *.isw.pub
@@ -4165,7 +4158,6 @@
 *.linkaloo.it
 *.linkalp.com
 *.linkapp.click
-*.linkasd.com
 *.linkasli.pro
 *.linkatra.com
 *.linkaty.me
@@ -5808,7 +5800,6 @@
 *.playtr.games
 *.plcr.ai
 *.pldthome.info
-*.plink.ir
 *.plinkzy.com
 *.plmst.org
 *.plots.fr
@@ -5884,7 +5875,6 @@
 *.preferredds.com
 *.prel.ink
 *.premex.link
-*.premierbet.live
 *.preml.ge
 *.prendre-rendezvous.com
 *.prephe.ro
@@ -6471,7 +6461,6 @@
 *.s4w.in
 *.s7y.us
 *.s99.tech
-*.sa-link.cc
 *.saasmaster.link
 *.sabriabi.net
 *.sac23.top
@@ -8439,7 +8428,6 @@
 *.urlifys.com
 *.urlin.bio
 *.urlin.it
-*.urlinko.com
 *.urlinkz.me
 *.urlino.net
 *.urlintel.com
@@ -9070,7 +9058,6 @@
 *.withtask.com
 *.wiwir.cc
 *.curt.wiz.co
-*.wjcf.co
 *.wkf.ms
 *.wkpwr.be
 *.wl.co

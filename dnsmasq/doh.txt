@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Dec 2025 18:38 UTC
-# Version: 2025.1220.1838.58
+# Last modified: 22 Dec 2025 22:37 UTC
+# Version: 2025.1222.2237.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3348
+# Number of entries: 3346
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1142,7 +1142,6 @@ local=/o--o.duckdns.org/
 local=/osefcorp.duckdns.org/
 local=/pitchforkwaydns.duckdns.org/
 local=/punono.duckdns.org/
-local=/quanmeme.duckdns.org/
 local=/rcpc2.duckdns.org/
 local=/salvadoserver.duckdns.org/
 local=/site-2.duckdns.org/
@@ -1326,7 +1325,6 @@ local=/adg.fiyaajans.com/
 local=/dns.fizz.studio/
 local=/resolve.fknw.de/
 local=/doh.flashstart.com/
-local=/dns.flatuslifir.is/
 local=/spyro-the-bat.fleuryk.ovh/
 local=/spyrothebat.fleuryk.ovh/
 local=/vps.fleuryk.ovh/

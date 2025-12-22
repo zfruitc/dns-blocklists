@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Dec 2025 06:02 UTC
-# Version: 2025.1218.0602.46
+# Last modified: 22 Dec 2025 22:01 UTC
+# Version: 2025.1222.2201.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1323
+# Number of entries: 1318
 #
 local=/000a.de/
 local=/000space.com/
@@ -316,7 +316,6 @@ local=/bravenet.com/
 local=/bravepages.com/
 local=/bravesites.com/
 local=/brizy.site/
-local=/bugs3.com/
 local=/builderall.net/
 local=/builtfree.org/
 local=/business.site/
@@ -355,7 +354,6 @@ local=/caixa-soportecliente.com/
 local=/canalblog.com/
 local=/canva.site/
 local=/carrd.co/
-local=/case-id-100029850.com/
 local=/cba.pl/
 local=/cbkgardens.com/
 local=/cellnovis.com/
@@ -406,7 +404,6 @@ local=/dothome.co.kr/
 local=/thamboli.co.za/
 local=/ucoz.co.uk/
 local=/webnode.co.uk/
-local=/codm-free.com/
 local=/com.nu/
 local=/adr.com.ua/
 local=/blogspot.com.ar/
@@ -678,7 +675,6 @@ local=/guide.lc/
 local=/guzhibo.cn/
 local=/gymsharkitaliaofficial.it/
 local=/h.gp/
-local=/halloweencp.com/
 local=/hanefra7bikiemta.com/
 local=/harise.shop/
 local=/hase.in/
@@ -1126,7 +1122,6 @@ local=/testingnow.me/
 local=/tggame.xyz/
 local=/th.gp/
 local=/thisistap.com/
-local=/ticketxking.com/
 local=/tiiny.host/
 local=/tilda.ws/
 local=/timeforchangecounselling.com/

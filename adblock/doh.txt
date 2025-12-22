@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 Dec 2025 18:38 UTC
-! Version: 2025.1220.1838.58
+! Last modified: 22 Dec 2025 22:37 UTC
+! Version: 2025.1222.2237.48
 ! Syntax: AdBlock
-! Number of entries: 3348
+! Number of entries: 3346
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -1143,7 +1143,6 @@
 ||osefcorp.duckdns.org^
 ||pitchforkwaydns.duckdns.org^
 ||punono.duckdns.org^
-||quanmeme.duckdns.org^
 ||rcpc2.duckdns.org^
 ||salvadoserver.duckdns.org^
 ||site-2.duckdns.org^
@@ -1327,7 +1326,6 @@
 ||dns.fizz.studio^
 ||resolve.fknw.de^
 ||doh.flashstart.com^
-||dns.flatuslifir.is^
 ||spyro-the-bat.fleuryk.ovh^
 ||spyrothebat.fleuryk.ovh^
 ||vps.fleuryk.ovh^

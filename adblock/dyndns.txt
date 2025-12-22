@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Dec 2025 10:34 UTC
-! Version: 2025.1219.1034.38
+! Last modified: 22 Dec 2025 22:37 UTC
+! Version: 2025.1222.2237.20
 ! Syntax: AdBlock
-! Number of entries: 1470
+! Number of entries: 1465
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -291,7 +291,6 @@
 ||digitalgroupe.com^
 ||ditchyourip.com^
 ||divx.se^
-||diyplans.org^
 ||dlinkddns.com^
 ||dmtr.ru^
 ||dnet.hu^
@@ -711,7 +710,6 @@
 ||imagetemplate.com^
 ||imagetemplate.net^
 ||imexsac.com^
-||imprendum.com^
 ||in-the-band.net^
 ||independentonline.ro^
 ||indevs.in^
@@ -980,7 +978,6 @@
 ||myftp.info^
 ||myftp.org^
 ||myhome-server.de^
-||myhomeschoolfamily.com^
 ||myip.org^
 ||myiphost.com^
 ||myjino.ru^
@@ -1182,7 +1179,6 @@
 ||root64.de^
 ||roth.ca^
 ||route64.de^
-||rpz.su^
 ||rtam.net^
 ||rum.si^
 ||run.place^
@@ -1402,7 +1398,6 @@
 ||venez.fr^
 ||venez.net^
 ||verymad.net^
-||vicinanza.org^
 ||viewdns.net^
 ||viiic.net^
 ||vincomlimited.com^

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Dec 2025 18:08 UTC
-! Version: 2025.1212.1808.55
+! Last modified: 22 Dec 2025 20:40 UTC
+! Version: 2025.1222.2040.17
 ! Syntax: AdBlock
-! Number of entries: 465
+! Number of entries: 467
 !
 ||frontier.byteoversea.com^
 ||gplog-sg.byteoversea.com^
@@ -89,8 +89,10 @@
 ||tnc-va.capcutapi.com^
 ||tnc-va-us-looki.capcutapi.com^
 ||tnc16-normal-us-ttp.capcutapi.us^
+||frontier.capcutw.us^
 ||mon-boot.tiktokv.com.edgekey.net^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net^
+||frontier.capcutw.us.edgesuite.net^
 ||abtest-ch.snssdk.com^
 ||analytics.snssdk.com^
 ||applog.snssdk.com^

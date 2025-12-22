@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766037720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766440860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Dec 2025 06:02 UTC
-; Version: 2025.1218.0602.46
+; Last modified: 22 Dec 2025 22:01 UTC
+; Version: 2025.1222.2201.01
 ; Syntax: RPZ
-; Number of entries: 2646
+; Number of entries: 2636
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -402,8 +402,6 @@ bravepages.com CNAME .
 *.bravepages.com CNAME .
 bravesites.com CNAME .
 *.bravesites.com CNAME .
-bugs3.com CNAME .
-*.bugs3.com CNAME .
 business-minagne.com CNAME .
 *.business-minagne.com CNAME .
 byethost.com CNAME .
@@ -456,8 +454,6 @@ caixa-soportecliente.com CNAME .
 *.caixa-soportecliente.com CNAME .
 canalblog.com CNAME .
 *.canalblog.com CNAME .
-case-id-100029850.com CNAME .
-*.case-id-100029850.com CNAME .
 cbkgardens.com CNAME .
 *.cbkgardens.com CNAME .
 cellnovis.com CNAME .
@@ -470,8 +466,6 @@ cixx6.com CNAME .
 *.cixx6.com CNAME .
 cloudwaysapps.com CNAME .
 *.cloudwaysapps.com CNAME .
-codm-free.com CNAME .
-*.codm-free.com CNAME .
 comeze.com CNAME .
 *.comeze.com CNAME .
 comule.com CNAME .
@@ -660,8 +654,6 @@ grwebsite.com CNAME .
 *.grwebsite.com CNAME .
 gtempurl.com CNAME .
 *.gtempurl.com CNAME .
-halloweencp.com CNAME .
-*.halloweencp.com CNAME .
 hanefra7bikiemta.com CNAME .
 *.hanefra7bikiemta.com CNAME .
 hinerava.com CNAME .
@@ -892,8 +884,6 @@ tempisite.com CNAME .
 *.tempisite.com CNAME .
 thisistap.com CNAME .
 *.thisistap.com CNAME .
-ticketxking.com CNAME .
-*.ticketxking.com CNAME .
 timeforchangecounselling.com CNAME .
 *.timeforchangecounselling.com CNAME .
 tinyblogging.com CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Dec 2025 18:08 UTC
-# Version: 2025.1212.1808.55
+# Last modified: 22 Dec 2025 20:40 UTC
+# Version: 2025.1222.2040.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 465
+# Number of entries: 467
 #
 local=/frontier.byteoversea.com/
 local=/gplog-sg.byteoversea.com/
@@ -88,8 +88,10 @@ local=/tnc-v2-boot.capcutapi.com/
 local=/tnc-va.capcutapi.com/
 local=/tnc-va-us-looki.capcutapi.com/
 local=/tnc16-normal-us-ttp.capcutapi.us/
+local=/frontier.capcutw.us/
 local=/mon-boot.tiktokv.com.edgekey.net/
 local=/sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net/
+local=/frontier.capcutw.us.edgesuite.net/
 local=/abtest-ch.snssdk.com/
 local=/analytics.snssdk.com/
 local=/applog.snssdk.com/

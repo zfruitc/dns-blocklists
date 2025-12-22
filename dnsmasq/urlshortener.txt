@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Dec 2025 09:32 UTC
-# Version: 2025.1222.0932.01
+# Last modified: 22 Dec 2025 21:31 UTC
+# Version: 2025.1222.2131.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9522
+# Number of entries: 9509
 #
 local=/0.gp/
 local=/00m.in/
@@ -114,7 +114,6 @@ local=/1ql.ca/
 local=/1r2.in/
 local=/1s.is/
 local=/1shop.io/
-local=/1short.io/
 local=/1shortlink.com/
 local=/1stall.com/
 local=/1stgop.co/
@@ -1808,7 +1807,6 @@ local=/roblox.com.nf/
 local=/rocketlink.com.br/
 local=/short.com.vn/
 local=/shortlink.com.au/
-local=/shortlinks.com.tr/
 local=/siteonizleme.com.tr/
 local=/tinyurl.smart-home.com.co/
 local=/spaceframegroup.com.au/
@@ -1853,7 +1851,6 @@ local=/i.coscup.org/
 local=/couic.fr/
 local=/couldyouredirectmeplease.com/
 local=/coupa.ng/
-local=/covgo.cc/
 local=/coz.de/
 local=/cpamarketing.ro/
 local=/cpbr.link/
@@ -2009,7 +2006,6 @@ local=/cutto.io/
 local=/cutts.in/
 local=/cutturl.xyz/
 local=/cutu.me/
-local=/cutur.link/
 local=/cuturl.cloud/
 local=/cuturl.com/
 local=/cuturl.net/
@@ -2097,7 +2093,6 @@ local=/dcps.co/
 local=/dcri.io/
 local=/dcshru.ru/
 local=/dd.ma/
-local=/ddls.to/
 local=/ddot.to/
 local=/ddw.nu/
 local=/dealc.me/
@@ -3297,7 +3292,6 @@ local=/hqxxx.bar/
 local=/hrbl.me/
 local=/hrbrg.co/
 local=/href.ar/
-local=/href.in/
 local=/href.li/
 local=/href.pw/
 local=/link.hritbot.com/
@@ -3587,7 +3581,6 @@ local=/isols.co/
 local=/istel.co/
 local=/isterratrk.com/
 local=/istore.ar/
-local=/istubby.com/
 local=/isurl.cc/
 local=/isurt.com/
 local=/isw.pub/
@@ -4165,7 +4158,6 @@ local=/linkallstar.com/
 local=/linkaloo.it/
 local=/linkalp.com/
 local=/linkapp.click/
-local=/linkasd.com/
 local=/linkasli.pro/
 local=/linkatra.com/
 local=/linkaty.me/
@@ -5808,7 +5800,6 @@ local=/playsolaire.com/
 local=/playtr.games/
 local=/plcr.ai/
 local=/pldthome.info/
-local=/plink.ir/
 local=/plinkzy.com/
 local=/plmst.org/
 local=/plots.fr/
@@ -5884,7 +5875,6 @@ local=/support.precisioncontent.com/
 local=/preferredds.com/
 local=/prel.ink/
 local=/premex.link/
-local=/premierbet.live/
 local=/preml.ge/
 local=/prendre-rendezvous.com/
 local=/prephe.ro/
@@ -6471,7 +6461,6 @@ local=/s4.is/
 local=/s4w.in/
 local=/s7y.us/
 local=/s99.tech/
-local=/sa-link.cc/
 local=/saasmaster.link/
 local=/sabriabi.net/
 local=/sac23.top/
@@ -8439,7 +8428,6 @@ local=/urlifypoint.com/
 local=/urlifys.com/
 local=/urlin.bio/
 local=/urlin.it/
-local=/urlinko.com/
 local=/urlinkz.me/
 local=/urlino.net/
 local=/urlintel.com/
@@ -9070,7 +9058,6 @@ local=/wit.to/
 local=/withtask.com/
 local=/wiwir.cc/
 local=/curt.wiz.co/
-local=/wjcf.co/
 local=/wkf.ms/
 local=/wkpwr.be/
 local=/wl.co/

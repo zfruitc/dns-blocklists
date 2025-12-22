@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Dec 2025 14:30 UTC
-# Version: 2025.1222.1430.04
+# Last modified: 22 Dec 2025 22:31 UTC
+# Version: 2025.1222.2231.56
 # Syntax: Domains (without subdomains)
-# Number of entries: 45336
+# Number of entries: 45287
 #
 000-online-casino.com
 0009casino.com
@@ -300,7 +300,6 @@
 141.casino
 1412.casino
 1412dop.casino
-1413joycasino.com
 1425.casino
 142spinto.casino
 143.casino
@@ -334,7 +333,6 @@ images.1492929.com
 1571.casino
 1572.casino
 157win.casino
-15830.cn
 158betso.com
 159.casino
 159.games
@@ -709,14 +707,12 @@ images.191829838.com
 1xbet-1syl.click
 1xbet-1x.com
 1xbet-1x.net
-1xbet-1xbet.top
 1xbet-1xir.com
 1xbet-200.com
 1xbet-27629.top
 1xbet-4292.casino
 1xbet-6432578.top
 1xbet-69842.top
-1xbet-79157.buzz
 1xbet-9fkd.click
 1xbet-9rar.click
 1xbet-9yfr.click
@@ -867,7 +863,6 @@ images.191829838.com
 1xbet-hop.top
 1xbet-igq8.click
 1xbet-imm.top
-1xbet-ina.top
 1xbet-inb.top
 1xbet-india-apk.com
 1xbet-india-app.com
@@ -1603,7 +1598,6 @@ images.191829838.com
 2210betslots.com
 2211.casino
 2212.casino
-2217j.com
 222betcasino.info
 222g3.com
 222wincasino.net
@@ -1816,7 +1810,6 @@ images.191829838.com
 24live.com
 24lottos.com
 24online-casino-affiliate-programs.com
-24open-casino.com
 24parik.bet
 24parik.io
 24parik.org
@@ -1862,7 +1855,6 @@ images.191829838.com
 25phwin.vip
 25spinmama54.com
 2618t.com
-26425.cn
 26814.casino
 26a17.com
 26betonred16.com
@@ -3031,7 +3023,6 @@ images.6929183.com
 74on-x.casino
 74yep.casino
 75-bet.net
-75412.cn
 755bet.com
 755bet.net
 755lovejili.cc
@@ -3412,7 +3403,6 @@ images.6929183.com
 7k-casino.digital
 7k-casino.live
 7k-casino.org
-7k-casino-006.ru
 7k-casino-511.top
 7k-casino-8w.top
 7k-casino-bonus1.ru
@@ -3744,7 +3734,6 @@ images.6929183.com
 8200.casino
 820betsilin.com
 8222173.com
-8229j.com
 822betsk.com
 823betsilin.com
 824betsilin.com
@@ -4095,7 +4084,6 @@ bsi3p.88zfym.com
 8xbets.bet
 8xbets.today
 8xbetsports.com
-8xbetvn.run
 8xbgroup.com
 8xdfd3t6f.com
 8xojdfudud.com
@@ -6112,7 +6100,6 @@ babacasino.com
 babawildslots.com
 babeldoor.com
 babibet.com
-babibet22.com
 bablbahr.com
 bablotut.casino
 babu88.gold
@@ -7158,7 +7145,6 @@ bet365.ee
 bet365.es
 bet365.gr
 bet365.it
-bet365.mx
 bet365.nl
 bet365-casino.se
 bet365-casino-bonus.com
@@ -7287,7 +7273,6 @@ betano.com
 betano.cz
 betano.de
 betano.dk
-betano.mx
 betano.ng
 betano.pe
 betano.pt
@@ -8117,7 +8102,6 @@ betspeg.xyz
 betsperp.xyz
 betsphere.io
 betspicy.xyz
-betspider.io
 betspin.com
 betspino.com
 betspinonl.nl
@@ -9846,7 +9830,6 @@ burungmaster.com
 busines-rox-casino.com
 business-africa.net
 business2community.com
-businesseco.ru
 busr.ag
 bustabit.com
 bustabitcasino-ca.com
@@ -10750,7 +10733,6 @@ casino-online-world.com
 casino-online1.com
 casino-onlineirani.com
 casino-ontario.art
-casino-oranje.org
 casino-pa-nett.online
 casino-partouche.mobi
 casino-pay.xyz
@@ -11535,7 +11517,6 @@ casinoaew.ru
 casinoaffiliateprograms.com
 casinoafg.online
 casinoafg.ru
-casinoagg.quest
 casinoahw.online
 casinoahw.ru
 casinoahz.online
@@ -12962,7 +12943,6 @@ casinolak.online
 casinolalabet.com
 casinolalabet.org
 casinoland.com
-casinoland.jp
 casinoland.network
 casinoland1.bond
 casinoland2.bond
@@ -16536,7 +16516,6 @@ hollywoodbets.co.uk
 hommersoncasino.co.uk
 hotline-casino.co.uk
 housebetscasino.co.uk
-howto.co.ke
 icasinoreviews.co.nz
 indojack128casino.co.uk
 inpd.co.uk
@@ -17779,7 +17758,6 @@ crownplay-online-casino.com
 crownplay2418.com
 crownpokies1.com
 crownslots.com
-crownworthng.com
 crucigramastematicos.com
 crushpubpoker.com
 crushthecoup.org
@@ -19938,7 +19916,6 @@ fafa7899.org
 fafa855asia.com
 fafa855khh.com
 fafabet-casino.com
-fafaslot88.net
 fahtracker.com
 fair-casinos.org
 fair-go.casino
@@ -20324,7 +20301,6 @@ five88.com
 five88.style
 five88.vin
 five88.world
-five88casino.org
 fiveapp.mobi
 fivebet.it
 fivebetcasinoitalia.com
@@ -20332,7 +20308,6 @@ fiverrearn.com
 fivestarwv.com
 fixbetcasino.net
 fixedmatch.bet
-fixedmatch.site
 fixedmatches.win
 fixedmatches-1x2.com
 fizzslots1.bond
@@ -20702,7 +20677,6 @@ fridaycasino-ca.com
 friendcasino-mobail.shop
 friendlymadrid.com
 friends-casino.com
-friends-casino.social
 friends-casino-8w.top
 friends-casino175.com
 friends-casino2.shop
@@ -21457,7 +21431,6 @@ gerbangvip.com
 gerimispelan.xyz
 germancasinobonuses.com
 germaniasport.hr
-germany-casino.com
 germanycasino.games
 gesitpoker.net
 gesitpoker.org
@@ -22268,9 +22241,7 @@ gratogana-casino-es.net
 gratogana-casinos.net
 gratonresortcasino.com
 gratorama.com
-gratorama-casino.com
 gratorama-online-casino.com
-gratoramacasino.be
 gratoramacasino.fr
 gratoramacasino.org
 gratoramacasino-ca.com
@@ -23284,7 +23255,6 @@ icebetscasino.com
 icecasino.com
 icecasino-24.net
 icecasino-24.org
-icecasino-bonus.click
 icecasino-cz.com
 icecasino-de.dev
 icecasino-de.org
@@ -23635,14 +23605,12 @@ intensecasino-ca.com
 intensity-casino.online
 inter-casino.se
 inter77vip.site
-interbet.club
 interbet.com
 intercasino.com
 interjoker.xyz
 internet-casinos-listings.info
 internet-casinos-online.net
 internetbetsgt.com
-internetpoker.me
 internetpoker.online
 internetpokies.org
 internetpositif.site
@@ -25338,6 +25306,7 @@ kayacasinoo.com
 kayacasinos.com
 kayacasinoslot.com
 kayakcasino.com
+kazalive.com
 kazancasino100.com
 kazancasino101.com
 kazancasino102.com
@@ -25389,10 +25358,7 @@ keluaran-wisdom.store
 keluhanlawak.shop
 kembarpoker.org
 kemenangansedap.com
-kenangan4dacmilan.com
 kenangan4dfly.com
-kenangan4dkw.com
-kenangan4dmu.com
 kenari.shop
 kendipoker.net
 kenketsu.com
@@ -27025,7 +26991,6 @@ livesport88bola.lol
 livesport88bola.site
 livesport88bola.store
 livesupportbs.com
-livetv.ru
 livetv.sx
 liveusacasino.com
 livewinz.casino
@@ -28007,7 +27972,6 @@ majesticslots2.bond
 majesticslots3.bond
 majesticslots4.bond
 majesticslotscasino.com
-majesticslotscasino.fr
 majesticslotsclub.com
 majesticslotsclub.net
 majorcasino.org
@@ -30177,7 +30141,6 @@ netcasinofreespins.com
 netellercasinos.ca
 netellercasinos.net
 netent.com
-netentcasino.com
 netentcasinos.digital
 netentcasinos-uk.com
 netentfreeslots.com
@@ -31459,7 +31422,6 @@ onlinecasinorank.org
 onlinecasinorank-sg.com
 onlinecasinorealmoney.top
 onlinecasinorealmoneynodeposit.top
-onlinecasinorealmoneyusa.quest
 onlinecasinoreports.com
 onlinecasinoreports.info
 onlinecasinoreportstz.com
@@ -39800,7 +39762,6 @@ stakebosscasino.com
 stakebro.casino
 stakecasino.nl
 stakecasino.space
-stakecasino.tech
 stakecasino-fr.bet
 stakecasino-fr1.com
 stakecasino-fr2.com
@@ -40628,7 +40589,6 @@ texaspokerccku.com
 tf2easy.com
 tf88.football
 tf88.mx
-tf88casino.org
 tg.casino
 tg458.com
 tg4588.com
@@ -40765,7 +40725,6 @@ thehysteriacollective.com
 theinternationalswingers.com
 thejordanedwardsmemorialscholarship.com
 thejoshgaines.com
-thekingcasino.info
 thelaartbox.com
 thelcortezcasinohotel.com
 thelittlebigblog.com
@@ -42067,7 +42026,6 @@ unique-casino-be.com
 unique-casino-it.org
 unique-casino-nl.com
 uniquebarandgrill.com
-uniquecasino.be
 uniquecasino.com
 uniquecasino.info
 uniquecasino-ca.com
@@ -42305,12 +42263,8 @@ vavada-casino-online-777.ru
 vavada-casino-pl.club
 vavada-casino-pl.xyz
 vavada-casino-re7.ru
-vavada-casino-reviews-fr.space
-vavada-casino-reviews-lv.space
-vavada-casino-reviews-pl.space
 vavada-casino-reviews-so.space
 vavada-casino-reviews-sq.space
-vavada-casino-reviews-tr.space
 vavada-casino-slots.online
 vavada-casino-vbb.top
 vavada-casino-zz01.top
@@ -42664,7 +42618,6 @@ vegasparadise.com
 vegasplanets.casino
 vegasplanets.poker
 vegasplus.bet
-vegasplus-casino.fr
 vegasplus-casino-france.com
 vegaspluscasino-ca.com
 vegaspluscasino8.com
@@ -43398,7 +43351,6 @@ vuabet88.dev
 vuabet88.help
 vuabet88.net
 vulcan-24casino.one
-vulcan-777.bet
 vulcan-casino.com
 vulcan-casino.dance
 vulcan-casino.futbol
@@ -44249,7 +44201,6 @@ winmy9.com
 winn777.net
 winna.com
 winnacunnet.org
-winnaga.com
 winnakee.org
 winnapaugcountryclub.com
 winnaskitchen.com
