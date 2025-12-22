@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766328060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766399940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Dec 2025 14:41 UTC
-; Version: 2025.1221.1441.39
+; Last modified: 22 Dec 2025 10:39 UTC
+; Version: 2025.1222.1039.48
 ; Syntax: RPZ
-; Number of entries: 12534
+; Number of entries: 12568
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -561,6 +561,8 @@ openips.cc CNAME .
 *.openips.cc CNAME .
 openvpn.cc CNAME .
 *.openvpn.cc CNAME .
+utopia.ub.phuri.cc CNAME .
+*.utopia.ub.phuri.cc CNAME .
 doh.plop.cc CNAME .
 *.doh.plop.cc CNAME .
 xcxx.pointed.cc CNAME .
@@ -705,6 +707,8 @@ te.decolores.cl CNAME .
 *.te.decolores.cl CNAME .
 deepcs.estiloescencial.cl CNAME .
 *.deepcs.estiloescencial.cl CNAME .
+englishnotesforhonors.explomillacura.cl CNAME .
+*.englishnotesforhonors.explomillacura.cl CNAME .
 us-east-production-36887.jpleventos.cl CNAME .
 *.us-east-production-36887.jpleventos.cl CNAME .
 idk.komanda.cl CNAME .
@@ -1645,6 +1649,8 @@ grapesceleste.lobo.chickenkiller.com CNAME .
 *.grapesceleste.lobo.chickenkiller.com CNAME .
 andersonalcantara.my28.chickenkiller.com CNAME .
 *.andersonalcantara.my28.chickenkiller.com CNAME .
+stranged.org.chickenkiller.com CNAME .
+*.stranged.org.chickenkiller.com CNAME .
 soulsorcereryt.chickenkiller.com CNAME .
 *.soulsorcereryt.chickenkiller.com CNAME .
 chillglobal.com CNAME .
@@ -1759,8 +1765,12 @@ covertproxy.com CNAME .
 *.covertproxy.com CNAME .
 104-36-85-232.cprapid.com CNAME .
 *.104-36-85-232.cprapid.com CNAME .
+fahh.crabdance.com CNAME .
+*.fahh.crabdance.com CNAME .
 lmasalaka.crabdance.com CNAME .
 *.lmasalaka.crabdance.com CNAME .
+maselivolovesscience.crabdance.com CNAME .
+*.maselivolovesscience.crabdance.com CNAME .
 nrusimha.crabdance.com CNAME .
 *.nrusimha.crabdance.com CNAME .
 random12.crabdance.com CNAME .
@@ -2151,6 +2161,8 @@ www-rf4.forestberrypi.com CNAME .
 *.www-rf4.forestberrypi.com CNAME .
 forestvpn.com CNAME .
 *.forestvpn.com CNAME .
+thinggg.forever-20.com CNAME .
+*.thinggg.forever-20.com CNAME .
 disturbing-the-peace.foxgateway.com CNAME .
 *.disturbing-the-peace.foxgateway.com CNAME .
 get-out-of-my-head-get-out-of-my-head.foxgateway.com CNAME .
@@ -3097,6 +3109,8 @@ thisismathteach.myclarevision.com CNAME .
 *.thisismathteach.myclarevision.com CNAME .
 myiphide.com CNAME .
 *.myiphide.com CNAME .
+prep.brain.mymiddlebury.com CNAME .
+*.prep.brain.mymiddlebury.com CNAME .
 walker.mynetgear.com CNAME .
 *.walker.mynetgear.com CNAME .
 egshe.myqnapcloud.com CNAME .
@@ -3681,6 +3695,8 @@ racevpn.com CNAME .
 *.racevpn.com CNAME .
 dns.api.rackspacecloud.com CNAME .
 *.dns.api.rackspacecloud.com CNAME .
+school.edu.radix-site.com CNAME .
+*.school.edu.radix-site.com CNAME .
 radmin-vpn.com CNAME .
 *.radmin-vpn.com CNAME .
 looking.rainbowcup.com CNAME .
@@ -3985,8 +4001,12 @@ eu3-browse.startpage.com CNAME .
 *.eu3-browse.startpage.com CNAME .
 proxy1.startpage.com CNAME .
 *.proxy1.startpage.com CNAME .
+proxy2.startpage.com CNAME .
+*.proxy2.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
+proxy5.startpage.com CNAME .
+*.proxy5.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
 *.s4-us2.startpage.com CNAME .
 us-browse.startpage.com CNAME .
@@ -5247,6 +5267,8 @@ dns.hanahira.dev CNAME .
 *.dns.hanahira.dev CNAME .
 adg.herry.dev CNAME .
 *.adg.herry.dev CNAME .
+notavalidlink.hobbygame.dev CNAME .
+*.notavalidlink.hobbygame.dev CNAME .
 dns.jinwoo.dev CNAME .
 *.dns.jinwoo.dev CNAME .
 pihole.aws.ketan.dev CNAME .
@@ -5451,6 +5473,8 @@ anonproxy.eu CNAME .
 *.anonproxy.eu CNAME .
 pulsewire.atamanco.eu CNAME .
 *.pulsewire.atamanco.eu CNAME .
+shopinshops.atamanco.eu CNAME .
+*.shopinshops.atamanco.eu CNAME .
 home.basthorst.eu CNAME .
 *.home.basthorst.eu CNAME .
 dns.bermeitinger.eu CNAME .
@@ -5849,6 +5873,8 @@ wild-moon-986.sz.games CNAME .
 *.wild-moon-986.sz.games CNAME .
 proxy.gd CNAME .
 *.proxy.gd CNAME .
+chddschoolinfo.info.gf CNAME .
+*.chddschoolinfo.info.gf CNAME .
 doh.futa.gg CNAME .
 *.doh.futa.gg CNAME .
 ipprotectionauth.goog CNAME .
@@ -7151,6 +7177,8 @@ dns.griffioen.me CNAME .
 *.dns.griffioen.me CNAME .
 gztech.me CNAME .
 *.gztech.me CNAME .
+yryeeisreallystupid.h4ck.me CNAME .
+*.yryeeisreallystupid.h4ck.me CNAME .
 happy365.me CNAME .
 *.happy365.me CNAME .
 hdnsadguardhome.me CNAME .
@@ -8277,6 +8305,8 @@ adguard1.njy.jsanagustin.net CNAME .
 *.adguard1.njy.jsanagustin.net CNAME .
 addns.jujuland.net CNAME .
 *.addns.jujuland.net CNAME .
+chemistrytheoandalgebra.justlearning.net CNAME .
+*.chemistrytheoandalgebra.justlearning.net CNAME .
 coolmanbartx.justlearning.net CNAME .
 *.coolmanbartx.justlearning.net CNAME .
 nxmevip.justlearning.net CNAME .
@@ -9117,6 +9147,8 @@ adg.tshost.no CNAME .
 *.adg.tshost.no CNAME .
 pleaseworkiwantutopia.faizinternational.com.np CNAME .
 *.pleaseworkiwantutopia.faizinternational.com.np CNAME .
+tasks.know.kabindrakajibajracharya.com.np CNAME .
+*.tasks.know.kabindrakajibajracharya.com.np CNAME .
 bolteducation.navarajbudha.com.np CNAME .
 *.bolteducation.navarajbudha.com.np CNAME .
 sevenlaks.omprakashyadav.com.np CNAME .
@@ -9287,8 +9319,6 @@ videonew.online CNAME .
 *.videonew.online CNAME .
 vpnproxy.online CNAME .
 *.vpnproxy.online CNAME .
-go.vrpyourself.online CNAME .
-*.go.vrpyourself.online CNAME .
 webproxy.online CNAME .
 *.webproxy.online CNAME .
 zexusdigital.online CNAME .
@@ -10717,6 +10747,10 @@ travel-to-ur-lovely.collage.dinprima.ro CNAME .
 *.travel-to-ur-lovely.collage.dinprima.ro CNAME .
 elstafantactida.dinprima.ro CNAME .
 *.elstafantactida.dinprima.ro CNAME .
+vcjcjmgjfjfkghjfhnuixfyagofygrna.dinprima.ro CNAME .
+*.vcjcjmgjfjfkghjfhnuixfyagofygrna.dinprima.ro CNAME .
+whyarewearewhatarewearewhatarewe.dinprima.ro CNAME .
+*.whyarewearewhatarewearewhatarewe.dinprima.ro CNAME .
 pleasehelpsecineedschoolnottobeborngplsplspls.eminescusm.ro CNAME .
 *.pleasehelpsecineedschoolnottobeborngplsplspls.eminescusm.ro CNAME .
 sd.galaxysoft.ro CNAME .

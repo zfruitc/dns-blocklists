@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 21 Dec 2025 09:18 UTC
-! Version: 2025.1221.0918.31
+! Last modified: 22 Dec 2025 09:18 UTC
+! Version: 2025.1222.0918.11
 ! Syntax: AdBlock
-! Number of entries: 1369
+! Number of entries: 1370
 !
 @@||1-aclk.net^
 @@||1aurl.io^
@@ -437,6 +437,7 @@
 @@||suite54.emarsys.net^
 @@||suite54-cf.emarsys.net^
 @@||suite56.emarsys.net^
+@@||suite56-cf.emarsys.net^
 @@||suite57.emarsys.net^
 @@||suite58.emarsys.net^
 @@||suite59.emarsys.net^

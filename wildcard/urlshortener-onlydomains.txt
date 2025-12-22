@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Dec 2025 21:31 UTC
-# Version: 2025.1221.2131.41
+# Last modified: 22 Dec 2025 09:32 UTC
+# Version: 2025.1222.0932.01
 # Syntax: Domains (without subdomains)
-# Number of entries: 9470
+# Number of entries: 9522
 #
 0.gp
 00m.in
@@ -486,6 +486,7 @@ activetea.ch
 acus.org
 ad.cr
 ad-med.cz
+ad0.me
 ad5.eu
 ad7.biz
 ada2.in
@@ -995,6 +996,7 @@ beif.us
 beingtek.com
 belink.me
 belink.ph
+belinki.cloud
 belinksnip.com
 belinkurl.blog
 bely.pw
@@ -1060,6 +1062,7 @@ bio-links.ru
 bioandlink.com
 biobee.io
 biocardpro.com
+bioclick.net
 biofy.ai
 biofy.bio
 biohoster.com
@@ -1431,6 +1434,7 @@ capsulink.com
 captl1.co
 captur.in
 direct.cardgifters.com
+cardinates.me
 cardiox-care.com
 cardprofile.de
 cardprofile.link
@@ -1647,6 +1651,7 @@ link.climatemessengers.ca
 cliow.com
 clipitx.com
 cliplink.co
+cliplinkly.com
 clipme.me
 clipmy.link
 clipperlink.com
@@ -1903,6 +1908,7 @@ csmo.us
 csnode.com
 cstu.io
 csvcllc.com
+csvip.me
 kutt.csweb.cloud
 ct.rocks
 cta.careers
@@ -1919,6 +1925,7 @@ cturl.me
 ctx.ink
 cu7.co
 cuanbio.com
+cuer.io
 cuk.one
 cukbaray.com
 cultm.ac
@@ -2181,6 +2188,7 @@ discount-forex.biz
 discvr.co
 disini.link
 disq.us
+link.dith2.com
 ditt.link
 dive.pub
 diversionink.com
@@ -2359,6 +2367,7 @@ earnestwiles.com
 earnfly.net
 earnwithlink.com
 earthtoday.info
+easeado.com
 link.easwipe.com
 easy2links.com
 easybio.info
@@ -2577,6 +2586,7 @@ f5url.com
 f5yo.com
 f6x.cn
 fa.by
+fa.gd
 fa-st.co
 facebookid.live
 fadurl.com
@@ -2858,6 +2868,7 @@ geni.us
 geniuslink.com
 geniusqr.io
 genlink.me
+genvalo.com
 genzurl.com
 georiot.co
 geotargetly.com
@@ -2873,6 +2884,7 @@ getabre.com
 getadsnow.org
 getashorturl.com
 getbiolink.com
+getbiolink.me
 getbitly.pro
 getblue.me
 getcode.pw
@@ -3046,6 +3058,7 @@ gosible6.click
 gosite.org
 gosm.link
 gosmart.fit
+gosnip.app
 gosniply.com
 got.cr
 got.to
@@ -3643,6 +3656,7 @@ jalurvip.co
 jame.sn
 jamesastaten.live
 jamp.to
+jangup.kr
 janji.me
 janjihoki.fun
 janjikita.me
@@ -3877,10 +3891,12 @@ kn-t.net
 knext.in
 knnt.me
 knw.one
+knz.app
 ko.gl
 koabite.com
 koi800.cc
 koinko.in
+kolaylink.com
 go.koloua.com
 koninfo.de
 kont.ly
@@ -4109,6 +4125,7 @@ linc.li
 lincat.co
 lincyt.com
 linea.link
+lined.cloud
 linelive.life
 l.linforme.com
 lingkod.to
@@ -4974,6 +4991,7 @@ mooxi.io
 more.sh
 morimo.info
 mork.ro
+morphurl.com
 mostrar.link
 motiatech.com
 mou.sr
@@ -5145,6 +5163,7 @@ myup.work
 myurl.id
 myurl.in
 myurl.ly
+myurl.ng
 myurls.ca
 app.myvcrd.com
 mz.cm
@@ -5214,6 +5233,7 @@ neexulro.net
 nefeli.live
 neflixenomovies.com
 nej.md
+neo.am
 neonslug.com
 neontools.io
 short.neos.eu
@@ -5262,6 +5282,7 @@ nie.ge
 nig.gr
 nii.ac
 qr.nikastic.com
+nikaurl.com
 nils.link
 nimbi.net
 nimbli.app
@@ -5444,6 +5465,7 @@ oldmutualsa.com
 tiny.oldsouth.org
 oli.vi
 oline.me
+olinks.click
 mix.olix.ro
 links.olvtec.com
 olympus1000.fyi
@@ -5458,6 +5480,7 @@ on4t.com
 on4t.net
 on5.net
 on9news.tv
+onbpk.id
 once.to
 oncliq.co
 one-brand.chat
@@ -5648,6 +5671,7 @@ pastirokok.com
 paths.to
 pathslab.com
 yxe3d.paulchavady.com
+paut.to
 pavleka.com
 paw.wf
 pawl.bio
@@ -6038,6 +6062,7 @@ qrcode.ai
 qrcode.im
 qrcode.pl
 qrcodedynamic.com
+qrcodeveloper.com
 qrcood.com
 qrcreator.link
 qrcs.io
@@ -6144,6 +6169,7 @@ rallytxt.com
 qs.rams-app.com
 rantenah.com
 ranvz.co
+go.rapid-meta.com
 rapurl.com
 links.rasa.io
 raullozano.net
@@ -6165,6 +6191,7 @@ rbtly.com
 rbtxt.com
 rbx-url.com
 rbxurl.pro
+link.rccn.dev
 rch.lt
 rcknr.io
 rcl.ink
@@ -6255,6 +6282,7 @@ reive.site
 rejoicing.com
 rejoindre.app
 rekale.me
+short.relaxlikes.com
 relevanzastudio.com
 reline.cc
 relink.asia
@@ -6273,6 +6301,7 @@ repackert.com
 repcandelora.com
 link.repithwin.com
 tempurl.replit.app
+zight-shortner.replit.app
 replug.io
 replug.link
 reppiscopo.com
@@ -6518,6 +6547,7 @@ sca.gent
 scalboostclub.com
 scanlah.com
 scanly.pro
+scanned.page
 scanqris.me
 scanquickly.com
 scanulator.com
@@ -6582,6 +6612,7 @@ en.seedbacklink.com
 seedsta.rs
 seeme.at
 seemless.link
+seemyshare.com
 links.seepaa.com
 seer.to
 seez.bio
@@ -6864,6 +6895,7 @@ shortmylink.co
 shortmyurl.app
 shortn.link
 shortna.me
+shortnd.com
 shortneer.com
 shortner.app
 shortner.cc
@@ -7227,6 +7259,7 @@ snipify.net
 snipio.co
 snipitx.com
 sniplify.me
+sniplink.co
 sniplnk.co
 sniplnk.me
 sniply.io
@@ -7481,6 +7514,8 @@ swiftlnx.com
 swifttopia.com
 swipez.in
 switchedonsailing.app
+switchlabs.dev
+switchlyapp.com
 switchy.io
 swiy.co
 swll.to
@@ -7539,6 +7574,7 @@ tabzi.com
 taedy.com
 tagbuilder.io
 taggpro.me
+app.tagii.io
 tailurl.com
 taiwangov.com
 tak.to
@@ -7562,6 +7598,7 @@ taplink.cc
 tapm.ee
 tapme.ink
 tapmy.app
+tappyurl.com
 taps.to
 tapthelink.cfd
 tapto.bio
@@ -7945,6 +7982,7 @@ tore.marketing
 tos-test.com
 toskys.cn
 toss.is
+totheapp.com
 toto.pe
 totopecah.site
 toui.cc
@@ -8276,6 +8314,7 @@ ur-l.ru
 ur0.link
 ur1.ca
 ur3.us
+ur301.com
 ur4l.com
 ura.vn
 kutt.ural-agro.com
@@ -8303,8 +8342,10 @@ url.td
 url-l.com
 url-qr.tk
 url-s.xyz
+url-short.me
 url-shortener.in
 url-shortener.me
+url-shortening.com
 url1.io
 url11xx.com
 app.url180.com
@@ -8345,6 +8386,7 @@ urlb.link
 urlbae.com
 urlbind.com
 urlbit.co
+urlbit.io
 urlbit.online
 urlbit.pro
 urlbity.com
@@ -8473,6 +8515,7 @@ urlshortenertool.com
 urlshortenervip.com
 urlshortenerx.com
 urlshortly.com
+urlshortn.com
 urlshortner.org
 urlshortnerpassive.com
 urlshortx.com
@@ -8537,6 +8580,7 @@ url.usacomment.com
 usanet.tv
 usat.ly
 use.my
+link.useblocks.io
 useclick.io
 usego.net
 uselinkwizard.com
@@ -8548,6 +8592,7 @@ usetypeai.com
 usf.services
 usheethe.com
 ushort.me
+ushort.my
 ushort.xyz
 usite.jp
 usps-v2.com
@@ -8788,6 +8833,7 @@ visit.my
 visit.st
 visitame.app
 visitmy.link
+visitmylinks.com
 visitmypage.org
 visitsitenow.com
 visiyta.com
@@ -8901,9 +8947,11 @@ warby.me
 warp.plus
 wartsi.ly
 wasap.is
+wasapbro.com
 wats.ir
 watti.me
 watva.org
+wavesnetwork.dev
 waveurl.net
 way.to
 waysto.be
@@ -8960,6 +9008,7 @@ wedew.link
 wee.so
 wee.wtf
 weelink.io
+weely.ai
 go.weesify.com
 weeste.llc
 weeurl.eu
@@ -9279,6 +9328,7 @@ yoretube.net
 yorkpa.homes
 yorl.io
 yorl.to
+yors.io
 music.yosa.org
 yotpoclicks.com
 yottatrend.com
@@ -9365,6 +9415,7 @@ zecz.ec
 zeek.ir
 zeep.ly
 short.zeeraa.net
+zenfilm.solutions
 zenlinkit.com
 zensus.io
 zenurl.in
@@ -9387,6 +9438,7 @@ ziadi.co
 zig.ht
 zight.com
 zik.link
+zim.ad
 zimy.pw
 zinlly.pro
 zip.net

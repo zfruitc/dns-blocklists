@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 21 Dec 2025 10:40 UTC
-! Version: 2025.1221.1040.48
+! Last modified: 22 Dec 2025 10:39 UTC
+! Version: 2025.1222.1039.37
 ! Syntax: AdBlock
-! Number of entries: 821
+! Number of entries: 833
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -42,6 +42,7 @@
 ||dns.9999.sg^
 ||dns.a47.me^
 ||doh.aaaab3n.moe^
+||dns-nyc.aaflalo.me^
 ||doh.dns.apple.com.v.aaplimg.com^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||dns.aaytorr.com^
@@ -93,6 +94,7 @@
 ||doh2.b-cdn.net^
 ||dns.b33.space^
 ||dns.b612.me^
+||httpdns.baidu.com^
 ||httpsdns.baidu.com^
 ||httpdns.baidubce.com^
 ||dns.baishiyuan.cn^
@@ -177,6 +179,7 @@
 ||dns.controld.com^
 ||freedns.controld.com^
 ||doh.cox.net^
+||dohdot.coxlab.net^
 ||crypto.sx^
 ||cryptroute.com^
 ||dns.csa-rz.de^
@@ -196,6 +199,7 @@
 ||dns.decloudus.com^
 ||frank-web.dedyn.io^
 ||deep-henchman-excuse.cfd^
+||doh.defaultroutes.de^
 ||adguard.dekonix.ru^
 ||doh-primary-pool.detoxifypornblocker.com^
 ||dns.dev-umbrellagov.com^
@@ -204,6 +208,8 @@
 ||dns.digitalsize.net^
 ||dingdangnao.com^
 ||doh.disconnect.app^
+||fdns1.dismail.de^
+||fdns2.dismail.de^
 ||dns.google^
 ||dns.pub^
 ||dns.sb^
@@ -286,6 +292,7 @@
 ||chuncheon.dnsovertor.cc^
 ||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
+||doh.dnswarden.com^
 ||doh.us.dnswarden.com^
 ||dnswebvsn.com^
 ||doh.beauty^
@@ -601,7 +608,9 @@
 ||resolver.dnsprivacy.org.uk^
 ||dns.paesa.es^
 ||pashagame456.com^
+||i.passcloud.xyz^
 ||dns.pccoach.nl^
+||rpz-public-resolver1.rrdns.pch.net^
 ||dns.peb-schmidt.de^
 ||pepetio.xyz^
 ||dns.pernika.net^
@@ -644,6 +653,7 @@
 ||dns10.quad9.net^
 ||dns11.quad9.net^
 ||dns12.quad9.net^
+||dns13.quad9.net^
 ||dns9.quad9.net^
 ||dns.quickline.ch^
 ||doh.quickline.ch^
@@ -674,6 +684,7 @@
 ||dns.rotunneling.net^
 ||adguard.ruby.ci^
 ||dns.rubyfish.cn^
+||ea-dns.rubyfish.cn^
 ||uw-dns.rubyfish.cn^
 ||rumpelsepp.org^
 ||doh.runsel.id^
@@ -700,6 +711,7 @@
 ||pates.services.sfr.fr.casepp.sfr.fr^
 ||shalenkov.dev^
 ||free.shecan.ir^
+||httpdns.n.shifen.com^
 ||do.shimul.me^
 ||adguard.shoupperuser.com^
 ||sitdns.com^
