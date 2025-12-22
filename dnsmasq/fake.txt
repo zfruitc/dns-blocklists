@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Dec 2025 09:30 UTC
-# Version: 2025.1222.0930.13
+# Last modified: 22 Dec 2025 13:29 UTC
+# Version: 2025.1222.1329.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14294
+# Number of entries: 14290
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -753,8 +753,6 @@ local=/artosnomics.com/
 local=/artourose.com/
 local=/artovitel.com/
 local=/installateur.artpro-24.pro/
-local=/halfbe.artscore.bond/
-local=/vifelt.artscore.bond/
 local=/artvibe-wellness.com/
 local=/arvato-entertainment.de/
 local=/arwibon.us/
@@ -5597,7 +5595,6 @@ local=/gymsharkspainstore.com/
 local=/gymsharkstorejapan.net/
 local=/gzbiaogan.com/
 local=/h.de/
-local=/h-landtechnik.com/
 local=/regina-hotel-vienna.h-rez.com/
 local=/haareparfum.com/
 local=/haarpflegehaut.com/
@@ -9062,7 +9059,6 @@ local=/netherexpro.com/
 local=/netlfix-at.com/
 local=/spontaneous-bubblegum-6d5740.netlify.app/
 local=/netotrade.com/
-local=/cdwar.netreach.baby/
 local=/nettjade.de/
 local=/nettradecap.com/
 local=/netum.net/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766399520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766413800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 Dec 2025 10:32 UTC
-; Version: 2025.1222.1032.50
+; Last modified: 22 Dec 2025 14:30 UTC
+; Version: 2025.1222.1430.04
 ; Syntax: RPZ
-; Number of entries: 90696
+; Number of entries: 90672
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -16240,8 +16240,6 @@ agamble.com CNAME .
 *.agamble.com CNAME .
 agbong88.com CNAME .
 *.agbong88.com CNAME .
-agen88vip.com CNAME .
-*.agen88vip.com CNAME .
 agen89push.com CNAME .
 *.agen89push.com CNAME .
 agenbos777.com CNAME .
@@ -29330,8 +29328,6 @@ gbqa08.com CNAME .
 *.gbqa08.com CNAME .
 gc-groups.com CNAME .
 *.gc-groups.com CNAME .
-gccbets.com CNAME .
-*.gccbets.com CNAME .
 gclub-casino.com CNAME .
 *.gclub-casino.com CNAME .
 gdaycasino.com CNAME .
@@ -32832,8 +32828,6 @@ kaahaus.com CNAME .
 *.kaahaus.com CNAME .
 kaasino.com CNAME .
 *.kaasino.com CNAME .
-kabarsolo.com CNAME .
-*.kabarsolo.com CNAME .
 kaboo.com CNAME .
 *.kaboo.com CNAME .
 kaboo-casino-no.com CNAME .
@@ -33530,8 +33524,6 @@ koyonplete.com CNAME .
 *.koyonplete.com CNAME .
 koytoto.com CNAME .
 *.koytoto.com CNAME .
-kqfuncasinos.com CNAME .
-*.kqfuncasinos.com CNAME .
 krakencassino.com CNAME .
 *.krakencassino.com CNAME .
 kralbet-casinogirisi.com CNAME .
@@ -41766,8 +41758,6 @@ princess-casino3.com CNAME .
 *.princess-casino3.com CNAME .
 princess-casino4.com CNAME .
 *.princess-casino4.com CNAME .
-prioritybets.com CNAME .
-*.prioritybets.com CNAME .
 prismcasino.com CNAME .
 *.prismcasino.com CNAME .
 prismcasino-ca.com CNAME .
@@ -44754,8 +44744,6 @@ slotsroom.com CNAME .
 *.slotsroom.com CNAME .
 slotssmith.com CNAME .
 *.slotssmith.com CNAME .
-slotssocialcasino.com CNAME .
-*.slotssocialcasino.com CNAME .
 slotsspot.com CNAME .
 *.slotsspot.com CNAME .
 slotstars.com CNAME .
@@ -58186,8 +58174,6 @@ vavada.lol CNAME .
 *.vavada.lol CNAME .
 vavadacasino.lol CNAME .
 *.vavadacasino.lol CNAME .
-vdcasino.lol CNAME .
-*.vdcasino.lol CNAME .
 villabetting.lol CNAME .
 *.villabetting.lol CNAME .
 w88okvip.lol CNAME .
@@ -60362,8 +60348,6 @@ growbets.net CNAME .
 *.growbets.net CNAME .
 growdice.net CNAME .
 *.growdice.net CNAME .
-grupales.net CNAME .
-*.grupales.net CNAME .
 gua4d.net CNAME .
 *.gua4d.net CNAME .
 h25188.net CNAME .
@@ -60410,8 +60394,6 @@ hometown-hardware.net CNAME .
 *.hometown-hardware.net CNAME .
 horseracingvideos.net CNAME .
 *.horseracingvideos.net CNAME .
-hospitality-jobs.net CNAME .
-*.hospitality-jobs.net CNAME .
 hrbx856.net CNAME .
 *.hrbx856.net CNAME .
 interwetten.hs-edge.net CNAME .
@@ -62686,8 +62668,6 @@ agenresmi.online CNAME .
 *.agenresmi.online CNAME .
 aguerocasino.online CNAME .
 *.aguerocasino.online CNAME .
-aibets.online CNAME .
-*.aibets.online CNAME .
 akurat77slot.online CNAME .
 *.akurat77slot.online CNAME .
 aladin88.online CNAME .
@@ -66666,8 +66646,6 @@ mtproblemgambling.org CNAME .
 *.mtproblemgambling.org CNAME .
 muglamimarlarodasi.org CNAME .
 *.muglamimarlarodasi.org CNAME .
-muliajitu.org CNAME .
-*.muliajitu.org CNAME .
 mundodocasinopt.org CNAME .
 *.mundodocasinopt.org CNAME .
 musim138.org CNAME .
@@ -68556,8 +68534,6 @@ shiny.poker CNAME .
 *.shiny.poker CNAME .
 shiva88.poker CNAME .
 *.shiva88.poker CNAME .
-simple.poker CNAME .
-*.simple.poker CNAME .
 smarter.poker CNAME .
 *.smarter.poker CNAME .
 strategebet.poker CNAME .

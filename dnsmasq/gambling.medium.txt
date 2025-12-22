@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Dec 2025 10:31 UTC
-# Version: 2025.1222.1031.50
+# Last modified: 22 Dec 2025 14:29 UTC
+# Version: 2025.1222.1429.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 95694
+# Number of entries: 95682
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -9211,7 +9211,6 @@ local=/agcpn.com/
 local=/agen.world/
 local=/agen-casino.me/
 local=/agen-slot-online.net/
-local=/agen88vip.com/
 local=/agen89push.com/
 local=/agenbacansports.xyz/
 local=/agenbos777.com/
@@ -9324,7 +9323,6 @@ local=/ai-pokergames.com/
 local=/ai-slots.xyz/
 local=/aiailive.io/
 local=/aibets.co/
-local=/aibets.online/
 local=/aibeyondlimits.com/
 local=/aibluebets.com/
 local=/aibonuscasino.com/
@@ -44318,7 +44316,6 @@ local=/gcare.info/
 local=/gcash.casino/
 local=/gcasino-01.com/
 local=/gcasino-fr.com/
-local=/gccbets.com/
 local=/gcdeli.com/
 local=/gcfaprendelivre.org/
 local=/gclub-casino.com/
@@ -46417,7 +46414,6 @@ local=/grp.casino/
 local=/gruascalvete.com/
 local=/gruenergarten.shop/
 local=/grumpy.monster/
-local=/grupales.net/
 local=/grupokeren.com/
 local=/grwptraq.com/
 local=/gry-hazardoweonline.org/
@@ -47730,7 +47726,6 @@ local=/horuscasino-ca.com/
 local=/horuscasinoca.com/
 local=/horuscasinom.com/
 local=/hoslandscapes.com/
-local=/hospitality-jobs.net/
 local=/hospitalshub.com/
 local=/hosssales.com/
 local=/host.casino/
@@ -52522,7 +52517,6 @@ local=/kaazing.org/
 local=/kabajuraweb.com/
 local=/kabarkarawang.id/
 local=/kabarpetang.xyz/
-local=/kabarsolo.com/
 local=/kabarwisata.com/
 local=/kabeh88.net/
 local=/kabelmerah.shop/
@@ -54343,7 +54337,6 @@ local=/kpop4d-rtp.online/
 local=/kprbtn.com/
 local=/kpu-donggala.com/
 local=/kpuklaten.com/
-local=/kqfuncasinos.com/
 local=/kqsd.xyz/
 local=/kquw.xyz/
 local=/kr3333.kr/
@@ -62846,7 +62839,6 @@ local=/mujurtotodua.xyz/
 local=/mujusamalele.xyz/
 local=/mukasabet.bet/
 local=/mulia303.org/
-local=/muliajitu.org/
 local=/muliapoker.net/
 local=/muliapoker.org/
 local=/multanprestigecasinoy.com/
@@ -74123,7 +74115,6 @@ local=/principepg.vip/
 local=/printbets.xyz/
 local=/printpoker.xyz/
 local=/printyvibetshirt.top/
-local=/prioritybets.com/
 local=/td.prism.bet/
 local=/prismcasino.com/
 local=/prismcasino-ca.com/
@@ -80146,7 +80137,6 @@ local=/simonsblogpark.com/
 local=/simpati88.com/
 local=/simpati888.com/
 local=/simpatijayaterus.xyz/
-local=/simple.poker/
 local=/simple-casino.xyz/
 local=/simple-poker.xyz/
 local=/simpleblackjack.xyz/
@@ -81920,7 +81910,6 @@ local=/slotsshuffle.xyz/
 local=/slotsshuffler.xyz/
 local=/slotsslots.de/
 local=/slotssmith.com/
-local=/slotssocialcasino.com/
 local=/slotssocialcasino.net/
 local=/slotssocialize.com/
 local=/slotssouthafrica.com/
@@ -89705,7 +89694,6 @@ local=/vcjogoslots.com/
 local=/vdbs.org/
 local=/vdcasino.digital/
 local=/vdcasino.fun/
-local=/vdcasino.lol/
 local=/vdcasino.top/
 local=/vdcasino-2025.top/
 local=/vdcasino-account.com/

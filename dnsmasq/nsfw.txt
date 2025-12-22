@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Dec 2025 10:35 UTC
-# Version: 2025.1222.1035.35
+# Last modified: 22 Dec 2025 14:33 UTC
+# Version: 2025.1222.1433.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 85120
+# Number of entries: 85114
 #
 local=/000000000000000000000000000000000000000000000000000000000000000.gay/
 local=/000sexxx.com/
@@ -11048,7 +11048,6 @@ local=/bluefilmsex.xyz/
 local=/blueforest-kumagaya.com/
 local=/bluegrassexperience.com/
 local=/bluegrassworks.com/
-local=/bluelinesexpress.com/
 local=/bluemoonroleplaying.com/
 local=/bluemove.es/
 local=/bluemoviestube.com/
@@ -13190,7 +13189,6 @@ local=/caoav.net/
 local=/caodanvaigayy.click/
 local=/caoporn87.com/
 local=/caoporn99.app/
-local=/caoporng.com/
 local=/cap.gay/
 local=/capabilitiesexchange.xyz/
 local=/capaciousexchange.xyz/
@@ -57608,7 +57606,6 @@ local=/rangertigexxxr.shop/
 local=/rangerwilxxx69l.shop/
 local=/rangesex18rcsta.shop/
 local=/rangesexrahland.shop/
-local=/rangkapselari.com/
 local=/ranisharma.in/
 local=/rankingsexchange.xyz/
 local=/ranksexchange.xyz/
@@ -57975,7 +57972,6 @@ local=/recetasexpress.com/
 local=/recetasexpressdigital.com/
 local=/recettesexpress.fr/
 local=/recipesexchange.xyz/
-local=/recipesextra.com/
 local=/reckoning.press/
 local=/recmat.ru/
 local=/recommendationsexchange.xyz/
@@ -62811,7 +62807,6 @@ local=/sexir.xyz/
 local=/sexirikebqrw.pro/
 local=/sexis.cc/
 local=/sexisabor.com/
-local=/sexiseecret.com/
 local=/sexiseks.com/
 local=/sexism.lol/
 local=/sexismarriage.com/
@@ -63315,7 +63310,6 @@ local=/sexmereyes.com/
 local=/sexmesa.com/
 local=/sexmesh.xyz/
 local=/sexmessenger.com/
-local=/sexmessiah.com/
 local=/sexmetaland.com/
 local=/sexmetjezuster.com/
 local=/sexmetube.xyz/

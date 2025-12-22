@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 22 Dec 2025 10:32 UTC
-! Version: 2025.1222.1032.50
+! Last modified: 22 Dec 2025 14:30 UTC
+! Version: 2025.1222.1430.04
 ! Syntax: AdBlock
-! Number of entries: 45348
+! Number of entries: 45336
 !
 ||000-online-casino.com^
 ||0009casino.com^
@@ -4651,7 +4651,6 @@
 ||agbong88.com^
 ||agen.world^
 ||agen-slot-online.net^
-||agen88vip.com^
 ||agen89push.com^
 ||agenbacansports.xyz^
 ||agenbos777.com^
@@ -4705,7 +4704,6 @@
 ||ai-poker.xyz^
 ||ai-slots.xyz^
 ||aibets.co^
-||aibets.online^
 ||aibeyondlimits.com^
 ||aicasino.top^
 ||aicasinolive.com^
@@ -21381,7 +21379,6 @@
 ||gbqa08.com^
 ||gc-groups.com^
 ||gcash.casino^
-||gccbets.com^
 ||gcfaprendelivre.org^
 ||gclub-casino.com^
 ||gday77-casino.net^
@@ -22346,7 +22343,6 @@
 ||gruascalvete.com^
 ||gruenergarten.shop^
 ||grumpy.monster^
-||grupales.net^
 ||grwptraq.com^
 ||gry-hazardoweonline.org^
 ||gs102.com^
@@ -23049,7 +23045,6 @@
 ||horuscasino-ca.com^
 ||horuscasinoca.com^
 ||hoslandscapes.com^
-||hospitality-jobs.net^
 ||hosssales.com^
 ||host.casino^
 ||hostai.casino^
@@ -25149,7 +25144,6 @@
 ||kaahaus-casino.org^
 ||kaasino.com^
 ||kaasinoocasino.nl^
-||kabarsolo.com^
 ||kabelmerah.shop^
 ||kaboo.com^
 ||kaboo-casino-no.com^
@@ -25905,7 +25899,6 @@
 ||koytoto.com^
 ||kp88.link^
 ||kp88.space^
-||kqfuncasinos.com^
 ||kr3333.kr^
 ||krakencasino.net^
 ||krakencasino.ru^
@@ -29681,7 +29674,6 @@
 ||mugenthor.xyz^
 ||muglamimarlarodasi.org^
 ||muitobom.bet^
-||muliajitu.org^
 ||multgame.com^
 ||multi-slots.xyz^
 ||multibet88-casino.com^
@@ -34928,7 +34920,6 @@
 ||principepg.vip^
 ||printbets.xyz^
 ||printpoker.xyz^
-||prioritybets.com^
 ||td.prism.bet^
 ||prismcasino.com^
 ||prismcasino-ca.com^
@@ -37891,7 +37882,6 @@
 ||simbaslots4.bond^
 ||simonsblogpark.com^
 ||simpatijayaterus.xyz^
-||simple.poker^
 ||simple-casino.xyz^
 ||simple-poker.xyz^
 ||simpleblackjack.xyz^
@@ -38743,7 +38733,6 @@
 ||slotsshuffle.xyz^
 ||slotsshuffler.xyz^
 ||slotssmith.com^
-||slotssocialcasino.com^
 ||slotssocialcasino.net^
 ||slotsspil.site^
 ||slotsspot.com^
@@ -42559,7 +42548,6 @@
 ||vdbs.org^
 ||vdcasino.digital^
 ||vdcasino.fun^
-||vdcasino.lol^
 ||vdcasino.top^
 ||vdcasino-account.com^
 ||vdcasino-adres.digital^
