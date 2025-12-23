@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Dec 2025 10:26 UTC
-# Version: 2025.1223.1026.31
+# Last modified: 23 Dec 2025 22:30 UTC
+# Version: 2025.1223.2230.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 44884
+# Number of entries: 44881
 #
 local=/000-online-casino.com/
 local=/0009casino.com/
@@ -445,7 +445,6 @@ local=/1991natal.casino/
 local=/1992bets.com/
 local=/1993bets.com/
 local=/19946568.com/
-local=/1997bets.com/
 local=/19bdbajee.com/
 local=/19bet77.com/
 local=/19betb.com/
@@ -2118,6 +2117,7 @@ local=/38xon.bet/
 local=/images.394993282.com/
 local=/3953049.com/
 local=/3979tt.vip/
+local=/399w.social/
 local=/39casinos.com/
 local=/39gamespk.com/
 local=/39jlslots.com/
@@ -4285,6 +4285,7 @@ local=/aa888.ai/
 local=/aa888.asia/
 local=/aa888.me/
 local=/aa888.space/
+local=/aa888.uk/
 local=/aa9991.com/
 local=/aaaaslots.com/
 local=/aaad.win/
@@ -5356,7 +5357,6 @@ local=/aroma369.top/
 local=/aromapoker.xyz/
 local=/aronlinecasinos.guru/
 local=/arrwin.com/
-local=/arsag.org/
 local=/arslots.xyz/
 local=/arslotscasino.space/
 local=/artcasino.casino/
@@ -9770,6 +9770,7 @@ local=/byggherrensarbetsmiljoansvar.se/
 local=/byon99slot.org/
 local=/bywaysresourcecenter.org/
 local=/bzbet.com/
+local=/c18go.com/
 local=/c19.cl/
 local=/pubsgppp.c1oudfront.com/
 local=/pubusppp.c1oudfront.com/
@@ -24990,6 +24991,7 @@ local=/kannada247.in/
 local=/kansasslots777.com/
 local=/kansino.nl/
 local=/kansino-casino.bet/
+local=/kantorbolajaya.world/
 local=/kanuuna.com/
 local=/kanuunacasino-fi.fi/
 local=/kaosmanja.com/
@@ -29386,7 +29388,6 @@ local=/mugenpaten.xyz/
 local=/mugenthor.xyz/
 local=/muglamimarlarodasi.org/
 local=/muitobom.bet/
-local=/muliajitu.net/
 local=/multgame.com/
 local=/multi-slots.xyz/
 local=/multibet88-casino.com/
@@ -34138,7 +34139,6 @@ local=/pokerstrs.eu/
 local=/pokersub.xyz/
 local=/pokersusun.xyz/
 local=/pokerswar.com/
-local=/pokersweepstakes.com/
 local=/pokersweepstars.com/
 local=/pokersync.xyz/
 local=/pokersystem.xyz/
@@ -37133,7 +37133,6 @@ local=/scorpion.casino/
 local=/scorum.id/
 local=/scotex.de/
 local=/scottcasino.com/
-local=/scottishartsacademy.com/
 local=/scottishclimbs.com/
 local=/scratch2cash.com/
 local=/scratchful.com/
@@ -40132,7 +40131,6 @@ local=/tectoncasino.com/
 local=/tedbet.com/
 local=/tedbetonlinecasino.com/
 local=/teenpattigold.com/
-local=/teeoffbets.com/
 local=/tehnara.com/
 local=/teho-casino.fi/
 local=/tehocasino.fi/
@@ -42400,7 +42398,6 @@ local=/videoslots.guide/
 local=/videoslots1.bond/
 local=/videoslots2.bond/
 local=/videoslots3.bond/
-local=/videoslots365.com/
 local=/videoslots4.bond/
 local=/videoslotscasino-ca.com/
 local=/vidmate.tech/

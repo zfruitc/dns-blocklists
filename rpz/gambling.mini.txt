@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766485560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766529000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Dec 2025 10:26 UTC
-; Version: 2025.1223.1026.31
+; Last modified: 23 Dec 2025 22:30 UTC
+; Version: 2025.1223.2230.40
 ; Syntax: RPZ
-; Number of entries: 89768
+; Number of entries: 89762
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -12566,8 +12566,6 @@ images.191829838.com CNAME .
 *.1993bets.com CNAME .
 19946568.com CNAME .
 *.19946568.com CNAME .
-1997bets.com CNAME .
-*.1997bets.com CNAME .
 19bdbajee.com CNAME .
 *.19bdbajee.com CNAME .
 19bet77.com CNAME .
@@ -20982,6 +20980,8 @@ bycasinoslot.com CNAME .
 *.bycasinoslot.com CNAME .
 bzbet.com CNAME .
 *.bzbet.com CNAME .
+c18go.com CNAME .
+*.c18go.com CNAME .
 pubsgppp.c1oudfront.com CNAME .
 *.pubsgppp.c1oudfront.com CNAME .
 pubusppp.c1oudfront.com CNAME .
@@ -40800,8 +40800,6 @@ pokerstrategy.com CNAME .
 *.pokerstrategy.com CNAME .
 pokerswar.com CNAME .
 *.pokerswar.com CNAME .
-pokersweepstakes.com CNAME .
-*.pokersweepstakes.com CNAME .
 pokersweepstars.com CNAME .
 *.pokersweepstars.com CNAME .
 pokersyte.com CNAME .
@@ -43160,8 +43158,6 @@ scommesse-bets.com CNAME .
 *.scommesse-bets.com CNAME .
 scottcasino.com CNAME .
 *.scottcasino.com CNAME .
-scottishartsacademy.com CNAME .
-*.scottishartsacademy.com CNAME .
 scottishclimbs.com CNAME .
 *.scottishclimbs.com CNAME .
 scratch2cash.com CNAME .
@@ -45862,8 +45858,6 @@ tedbetonlinecasino.com CNAME .
 *.tedbetonlinecasino.com CNAME .
 teenpattigold.com CNAME .
 *.teenpattigold.com CNAME .
-teeoffbets.com CNAME .
-*.teeoffbets.com CNAME .
 tehnara.com CNAME .
 *.tehnara.com CNAME .
 tehokasino.com CNAME .
@@ -48176,8 +48170,6 @@ videopokervibes.com CNAME .
 *.videopokervibes.com CNAME .
 videoslots.com CNAME .
 *.videoslots.com CNAME .
-videoslots365.com CNAME .
-*.videoslots365.com CNAME .
 videoslotscasino-ca.com CNAME .
 *.videoslotscasino-ca.com CNAME .
 viecasino.com CNAME .
@@ -60082,8 +60074,6 @@ mrxbet.net CNAME .
 *.mrxbet.net CNAME .
 mubet.net CNAME .
 *.mubet.net CNAME .
-muliajitu.net CNAME .
-*.muliajitu.net CNAME .
 multilotto.net CNAME .
 *.multilotto.net CNAME .
 mx777casino.net CNAME .
@@ -64586,8 +64576,6 @@ arjunabet88slot.org CNAME .
 *.arjunabet88slot.org CNAME .
 armanipoker.org CNAME .
 *.armanipoker.org CNAME .
-arsag.org CNAME .
-*.arsag.org CNAME .
 artipoker.org CNAME .
 *.artipoker.org CNAME .
 arwana888slot.org CNAME .
@@ -73726,6 +73714,8 @@ debet.so CNAME .
 *.debet.so CNAME .
 8xbet.soccer CNAME .
 *.8xbet.soccer CNAME .
+399w.social CNAME .
+*.399w.social CNAME .
 8xbet.social CNAME .
 *.8xbet.social CNAME .
 livecasino.social CNAME .
@@ -80732,6 +80722,8 @@ onebet.ug CNAME .
 *.8888casino.uk CNAME .
 aa7.uk CNAME .
 *.aa7.uk CNAME .
+aa888.uk CNAME .
+*.aa888.uk CNAME .
 acecasinobet.uk CNAME .
 *.acecasinobet.uk CNAME .
 allinpokerbet.uk CNAME .
@@ -83652,6 +83644,8 @@ joocasino.world CNAME .
 *.joocasino.world CNAME .
 juragan88.world CNAME .
 *.juragan88.world CNAME .
+kantorbolajaya.world CNAME .
+*.kantorbolajaya.world CNAME .
 kent-casino.world CNAME .
 *.kent-casino.world CNAME .
 kentonlinecasino.world CNAME .

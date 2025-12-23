@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Dec 2025 10:28 UTC
-# Version: 2025.1223.1028.45
+# Last modified: 23 Dec 2025 22:33 UTC
+# Version: 2025.1223.2233.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 84336
+# Number of entries: 84323
 #
 local=/000000000000000000000000000000000000000000000000000000000000000.gay/
 local=/000sexxx.com/
@@ -726,7 +726,6 @@ local=/3dgspot.com/
 local=/3dhentai.co/
 local=/3dhentaix.com/
 local=/mul.3dn.ru/
-local=/3dogsex.com/
 local=/3dporn.mom/
 local=/3dporndud.com/
 local=/3dporndude.com/
@@ -2916,7 +2915,6 @@ local=/adultfan.xyz/
 local=/adultfanbase.com/
 local=/adultfanbot.com/
 local=/adultfanclub.com/
-local=/adultfans.cyou/
 local=/adultfans.net/
 local=/adultfantasies.xyz/
 local=/adultfantasy.xyz/
@@ -6110,7 +6108,6 @@ local=/analescortara6.xyz/
 local=/analespanol.com/
 local=/analforum.net/
 local=/analgalore.com/
-local=/analgapingpics.com/
 local=/analgfporn.com/
 local=/analgirls.club/
 local=/analhdsex.info/
@@ -10722,7 +10719,6 @@ local=/blacksexvideos.xxx/
 local=/blacksexy.xyz/
 local=/blackshemalechat.com/
 local=/blackshemaleclips.com/
-local=/blackshemalecocks.com/
 local=/blackshemaledicks.com/
 local=/blackshemalepics.com/
 local=/blackshemalestube.net/
@@ -14547,7 +14543,6 @@ local=/clickheretofind.com/
 local=/clickif.gay/
 local=/clicklesbian.com/
 local=/clickmatures.com/
-local=/clickmy.com/
 local=/clicknationxxx888.info/
 local=/clickrifas.com/
 local=/clicksexy.xyz/
@@ -21193,8 +21188,6 @@ local=/elmundoporno.com/
 local=/elneswangy.com/
 local=/elnocturno.com/
 local=/elnosoor.com/
-local=/elnueevoxxx.com/
-local=/elnueevoxxxx.com/
 local=/elopicante.com/
 local=/elpicante.es/
 local=/elrefugio.org/
@@ -24650,7 +24643,6 @@ local=/filmxxx.xyz/
 local=/filmxxxfrancais.org/
 local=/filmy4web.gay/
 local=/filmy69.pl/
-local=/filmyporno.biz/
 local=/filmyporno.mobi/
 local=/filmyporno.tv/
 local=/filmyvoice.com/
@@ -38049,7 +38041,6 @@ local=/kink-erotica.com/
 local=/kink-porn.xyz/
 local=/kinkacademy.com/
 local=/kinkazoid.com/
-local=/kinkbdsm.net/
 local=/kinkbook.com/
 local=/kinkdome.com/
 local=/kinkerotica.com/
@@ -40579,7 +40570,6 @@ local=/luxuryrep.ru/
 local=/luxurysalesexperience.com/
 local=/luxurystaf.com/
 local=/luxurysweetsescorts.com/
-local=/luxuryyachtsexperience.com/
 local=/luxxx.hu/
 local=/luxxx27.com/
 local=/luxxxcdn.space/
@@ -45681,7 +45671,6 @@ local=/ngoimaurovi.com/
 local=/ngomek.com/
 local=/ngonvl.org/
 local=/ngotruyen.com/
-local=/ngsexport.com/
 local=/nguonsex.org/
 local=/nguonsexviet.com/
 local=/nguvl.net/
@@ -45951,7 +45940,6 @@ local=/nlsexfilms.net/
 local=/nlthub.pk/
 local=/nlvpro.com/
 local=/nlxxx.xyz/
-local=/nmggayrimenkul.com/
 local=/nmsex.xyz/
 local=/nmvsexa.info/
 local=/nmxxx.xyz/
@@ -78580,7 +78568,6 @@ local=/xnxx2k.org/
 local=/xnxx3.com/
 local=/xnxx3.net/
 local=/xnxx3.org/
-local=/xnxx31.com/
 local=/xnxx36.com/
 local=/xnxx4k.pro/
 local=/xnxx4porn.com/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Dec 2025 22:37 UTC
-# Version: 2025.1222.2237.48
+# Last modified: 23 Dec 2025 22:36 UTC
+# Version: 2025.1223.2236.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3346
+# Number of entries: 3342
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -352,11 +352,7 @@ local=/httpsdns.baidu.com/
 local=/httpdns.baidubce.com/
 local=/dns.baishiyuan.cn/
 local=/adguard.baltes.info/
-local=/fr-dns1.bancuh.com/
-local=/fr-dns2.bancuh.com/
-local=/jp-dns1.bancuh.com/
-local=/sg-dns1.bancuh.com/
-local=/sg-dns2.bancuh.com/
+local=/bancuh.com/
 local=/barnabech.fr/
 local=/home.basthorst.eu/
 local=/baxtri.ru/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Dec 2025 10:32 UTC
-# Version: 2025.1223.1032.26
+# Last modified: 23 Dec 2025 22:37 UTC
+# Version: 2025.1223.2237.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6264
+# Number of entries: 6261
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -558,11 +558,7 @@ local=/dns.baishiyuan.cn/
 local=/adguard.baltes.info/
 local=/banana-vpn.com/
 local=/bananavpn.com/
-local=/fr-dns1.bancuh.com/
-local=/fr-dns2.bancuh.com/
-local=/jp-dns1.bancuh.com/
-local=/sg-dns1.bancuh.com/
-local=/sg-dns2.bancuh.com/
+local=/bancuh.com/
 local=/freshstats.banglaraloprotidin.com/
 local=/keenlogic.banglaraloprotidin.com/
 local=/nexthistory.banglaraloprotidin.com/
@@ -5424,6 +5420,7 @@ local=/nsc.torgues.net/
 local=/torproject.org/
 local=/torrentproxy.co/
 local=/torrentproxy.net/
+local=/torry.io/
 local=/torservers.net/
 local=/torsona.com/
 local=/torvpn.com/

@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Dec 2025 09:30 UTC
-! Version: 2025.1223.0930.05
+! Last modified: 23 Dec 2025 21:31 UTC
+! Version: 2025.1223.2131.30
 ! Syntax: AdBlock
-! Number of entries: 9567
+! Number of entries: 9605
 !
 ||0.gp^
 ||00m.in^
@@ -154,6 +154,7 @@
 ||24sevensocial.com^
 ||256.so^
 ||260web.com^
+||263.vn^
 ||27g.ru^
 ||2ad.in^
 ||2ad.ir^
@@ -550,6 +551,7 @@
 ||agentassistcrm.org^
 ||agileurbia.com^
 ||agirz.com^
+||agll.ink^
 ||agmd.win^
 ||agoz.me^
 ||agphosting.com^
@@ -1510,6 +1512,7 @@
 ||centi.ai^
 ||c.centralretail.com^
 ||centurylinke.com^
+||cepat.link^
 ||cepet.in^
 ||certifyde.app^
 ||cesinthi.com^
@@ -1660,6 +1663,7 @@
 ||clikx.net^
 ||link.climatemessengers.ca^
 ||cliow.com^
+||clipi.cc^
 ||clipitx.com^
 ||cliplink.co^
 ||cliplinkly.com^
@@ -1783,6 +1787,7 @@
 ||coinclix.co^
 ||coklat.vip^
 ||link.colborlight.com^
+||akhatry.com.np^
 ||urlshort.allcrom.com.br^
 ||short.andreg.com.br^
 ||enter.bestbody.com.au^
@@ -2135,6 +2140,7 @@
 ||delta.live^
 ||demcon24.com^
 ||asset.deme-group.com^
+||qr.democame.pe^
 ||demoxpress.xyz^
 ||dems.me^
 ||denki.bio^
@@ -2234,6 +2240,7 @@
 ||doaistri.com^
 ||doburl.com^
 ||dockr.ly^
+||docmti.id^
 ||docremedio.xyz^
 ||docthem.link^
 ||docusignredirectsharepoint.life^
@@ -2253,6 +2260,7 @@
 ||dopt.us^
 ||dorfmeyster.media^
 ||dos.me^
+||dostupevent.com^
 ||dotalink.com^
 ||dotjournal.net^
 ||dotshrt.com^
@@ -2573,6 +2581,7 @@
 ||ezc.vc^
 ||ezcashlink.com^
 ||ezexzo.link^
+||ezilinks.com^
 ||ezlc.net^
 ||ezlinkcloaker.com^
 ||ezstat.ru^
@@ -2675,6 +2684,7 @@
 ||fire.to^
 ||firsturl.de^
 ||firsturl.net^
+||url.firstvds.ru^
 ||fitnur.com^
 ||fits.marketing^
 ||fitz.ms^
@@ -2802,6 +2812,7 @@
 ||fvglvsex.lol^
 ||fvrr.co^
 ||fw.ax^
+||fwd-2.com^
 ||fwd4.me^
 ||fwdme.info^
 ||fwds.to^
@@ -2816,6 +2827,7 @@
 ||g.asia^
 ||g.co^
 ||g.page^
+||g-linkly.com^
 ||g-o.li^
 ||g-url.cn^
 ||g-web.in^
@@ -3106,6 +3118,7 @@
 ||gq.mn^
 ||gr.pn^
 ||grabify.link^
+||grabify.org^
 ||grantstraining.com^
 ||urlx.graphicwallet.com^
 ||grawolph.com^
@@ -3143,6 +3156,7 @@
 ||gtnr.it^
 ||gtrv.info^
 ||gtusk.com^
+||gudang.me^
 ||gumtr.ee^
 ||gurl.to^
 ||gw.ie^
@@ -3183,6 +3197,7 @@
 ||hbs.me^
 ||hbtl.co^
 ||hcibh.com^
+||hd.gd^
 ||hdd6.com^
 ||hdslink.com^
 ||headlink.me^
@@ -3420,6 +3435,7 @@
 ||sl.duyluandethuong.id.vn^
 ||go.id.me^
 ||link.id.vn^
+||url.id.vn^
 ||idch.link^
 ||idek.net^
 ||idfk.lol^
@@ -3913,6 +3929,7 @@
 ||knz.app^
 ||ko.gl^
 ||koabite.com^
+||bio.kodekami.com^
 ||koi800.cc^
 ||koinko.in^
 ||kolaylink.com^
@@ -4257,6 +4274,7 @@
 ||linkia.co^
 ||linkify.page^
 ||linkifyer.com^
+||linkifyx.eu^
 ||linkila.com^
 ||linkim.cc^
 ||linkin.icu^
@@ -4419,6 +4437,7 @@
 ||linktrimmer.com^
 ||linktw.in^
 ||linkunshorten.com^
+||linkup.at^
 ||linkur.co^
 ||linkurltiny.com^
 ||linkutama.app^
@@ -4475,6 +4494,7 @@
 ||liurl.cn^
 ||livebetter.website^
 ||livemu.sc^
+||liveparle.com^
 ||livesport88.life^
 ||livestre.am^
 ||lixy.me^
@@ -4612,6 +4632,7 @@
 ||lsdl.es^
 ||lsem.help^
 ||lsh.care^
+||lshrt.com^
 ||lsn.to^
 ||lsoft.cloud^
 ||lstahl.link^
@@ -4815,6 +4836,7 @@
 ||mecaca.com^
 ||mechani.sm^
 ||meck.co^
+||media4uplus.com^
 ||mediastream.am^
 ||medical-twin.com^
 ||medicalmarijuana.vip^
@@ -5020,6 +5042,7 @@
 ||morphurl.com^
 ||mostrar.link^
 ||motiatech.com^
+||qr.motul.com^
 ||mou.sr^
 ||moveurls.com^
 ||app.moviequik.com^
@@ -5507,6 +5530,7 @@
 ||on4t.net^
 ||on5.net^
 ||on9news.tv^
+||onbit.pro^
 ||onbpk.id^
 ||once.to^
 ||oncliq.co^
@@ -5610,6 +5634,7 @@
 ||otlnk.com^
 ||otolink.pl^
 ||otp.li^
+||otw-news.org^
 ||ou.gd^
 ||k20.ou.edu^
 ||oua.be^
@@ -6585,6 +6610,7 @@
 ||scbetgacorr.org^
 ||scd.tips^
 ||shop.scghome.com^
+||smaba.sch.id^
 ||sched.co^
 ||schellenberg.ca^
 ||scholarlyus.com^
@@ -7017,6 +7043,7 @@
 ||shrinkforge.com^
 ||shrinkify.com^
 ||shrinkin.xyz^
+||shrinklinx.com^
 ||shrinkly.co^
 ||shrinkme.app^
 ||shrinkme.cc^
@@ -7036,6 +7063,7 @@
 ||shrinkme.vip^
 ||shrinkmyurl.com^
 ||shrinkr.io^
+||shrinkrl.com^
 ||shrinkster.com^
 ||shrinkuri.com^
 ||shrinkway.com^
@@ -7092,6 +7120,7 @@
 ||shtnar.com^
 ||shtu.be^
 ||shukurbi.com^
+||shul.kr^
 ||shurl.fr^
 ||shurl.in^
 ||shurl.jp^
@@ -7288,6 +7317,7 @@
 ||sng.agency^
 ||sngkt.in^
 ||sni.ps^
+||snifferip.com^
 ||snip.im^
 ||snip.link^
 ||snip.ly^
@@ -7491,6 +7521,7 @@
 ||stulink.io^
 ||stuve.me^
 ||stwrt.org^
+||sty88.site^
 ||su.pr^
 ||sua.me^
 ||suakhoacamlam.com^
@@ -7545,6 +7576,7 @@
 ||sway.my^
 ||swff.us^
 ||swi.nu^
+||l.swift.be^
 ||swiftation.com^
 ||swiftlink.app^
 ||swiftlnx.com^
@@ -7815,6 +7847,7 @@
 ||tiklagit.net^
 ||tikybio.com^
 ||tilt.ltd^
+||get.timbbe.com^
 ||timewatch.info^
 ||timnao.link^
 ||timxxx.ink^
@@ -8322,6 +8355,7 @@
 ||app.univ-cotedazur.fr^
 ||univ-stmik.com^
 ||univiadhd.app^
+||unl.one^
 ||unlink.fr^
 ||goto.unm.edu^
 ||unpixly.com^
@@ -8381,6 +8415,7 @@
 ||url.rw^
 ||url.sg^
 ||url.td^
+||url.uz^
 ||url-l.com^
 ||url-qr.tk^
 ||url-s.xyz^
@@ -8582,6 +8617,7 @@
 ||urltiny.cc^
 ||urltiny.one^
 ||urltiny.xyz^
+||urlto.me^
 ||urltools.com^
 ||urltoshort.com^
 ||urltrax.com^
@@ -8605,6 +8641,7 @@
 ||urlz.at^
 ||urlz.com^
 ||urlz.fr^
+||urlz.gr^
 ||urlz.li^
 ||urlz.my^
 ||urlzen.com^
@@ -9188,6 +9225,7 @@
 ||wwp.news^
 ||wwtt.to^
 ||www-go.net^
+||www-tinyurl.com^
 ||wwy.me^
 ||wx.pn^
 ||wy.si^

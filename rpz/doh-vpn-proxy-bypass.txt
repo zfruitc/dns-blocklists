@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766485920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766529420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Dec 2025 10:32 UTC
-; Version: 2025.1223.1032.26
+; Last modified: 23 Dec 2025 22:37 UTC
+; Version: 2025.1223.2237.13
 ; Syntax: RPZ
-; Number of entries: 12528
+; Number of entries: 12522
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1397,16 +1397,8 @@ banana-vpn.com CNAME .
 *.banana-vpn.com CNAME .
 bananavpn.com CNAME .
 *.bananavpn.com CNAME .
-fr-dns1.bancuh.com CNAME .
-*.fr-dns1.bancuh.com CNAME .
-fr-dns2.bancuh.com CNAME .
-*.fr-dns2.bancuh.com CNAME .
-jp-dns1.bancuh.com CNAME .
-*.jp-dns1.bancuh.com CNAME .
-sg-dns1.bancuh.com CNAME .
-*.sg-dns1.bancuh.com CNAME .
-sg-dns2.bancuh.com CNAME .
-*.sg-dns2.bancuh.com CNAME .
+bancuh.com CNAME .
+*.bancuh.com CNAME .
 freshstats.banglaraloprotidin.com CNAME .
 *.freshstats.banglaraloprotidin.com CNAME .
 keenlogic.banglaraloprotidin.com CNAME .
@@ -6691,6 +6683,8 @@ theproxy.io CNAME .
 *.theproxy.io CNAME .
 tor2web.io CNAME .
 *.tor2web.io CNAME .
+torry.io CNAME .
+*.torry.io CNAME .
 nebula.tru.io CNAME .
 *.nebula.tru.io CNAME .
 ufovpn.io CNAME .

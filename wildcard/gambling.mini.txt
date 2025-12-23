@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Dec 2025 10:26 UTC
-# Version: 2025.1223.1026.31
+# Last modified: 23 Dec 2025 22:30 UTC
+# Version: 2025.1223.2230.40
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 44884
+# Number of entries: 44881
 #
 *.000-online-casino.com
 *.0009casino.com
@@ -445,7 +445,6 @@
 *.1992bets.com
 *.1993bets.com
 *.19946568.com
-*.1997bets.com
 *.19bdbajee.com
 *.19bet77.com
 *.19betb.com
@@ -2118,6 +2117,7 @@
 *.images.394993282.com
 *.3953049.com
 *.3979tt.vip
+*.399w.social
 *.39casinos.com
 *.39gamespk.com
 *.39jlslots.com
@@ -4285,6 +4285,7 @@
 *.aa888.asia
 *.aa888.me
 *.aa888.space
+*.aa888.uk
 *.aa9991.com
 *.aaaaslots.com
 *.aaad.win
@@ -5356,7 +5357,6 @@
 *.aromapoker.xyz
 *.aronlinecasinos.guru
 *.arrwin.com
-*.arsag.org
 *.arslots.xyz
 *.arslotscasino.space
 *.artcasino.casino
@@ -9770,6 +9770,7 @@
 *.byon99slot.org
 *.bywaysresourcecenter.org
 *.bzbet.com
+*.c18go.com
 *.c19.cl
 *.pubsgppp.c1oudfront.com
 *.pubusppp.c1oudfront.com
@@ -24990,6 +24991,7 @@
 *.kansasslots777.com
 *.kansino.nl
 *.kansino-casino.bet
+*.kantorbolajaya.world
 *.kanuuna.com
 *.kanuunacasino-fi.fi
 *.kaosmanja.com
@@ -29386,7 +29388,6 @@
 *.mugenthor.xyz
 *.muglamimarlarodasi.org
 *.muitobom.bet
-*.muliajitu.net
 *.multgame.com
 *.multi-slots.xyz
 *.multibet88-casino.com
@@ -34138,7 +34139,6 @@
 *.pokersub.xyz
 *.pokersusun.xyz
 *.pokerswar.com
-*.pokersweepstakes.com
 *.pokersweepstars.com
 *.pokersync.xyz
 *.pokersystem.xyz
@@ -37133,7 +37133,6 @@
 *.scorum.id
 *.scotex.de
 *.scottcasino.com
-*.scottishartsacademy.com
 *.scottishclimbs.com
 *.scratch2cash.com
 *.scratchful.com
@@ -40132,7 +40131,6 @@
 *.tedbet.com
 *.tedbetonlinecasino.com
 *.teenpattigold.com
-*.teeoffbets.com
 *.tehnara.com
 *.teho-casino.fi
 *.tehocasino.fi
@@ -42400,7 +42398,6 @@
 *.videoslots1.bond
 *.videoslots2.bond
 *.videoslots3.bond
-*.videoslots365.com
 *.videoslots4.bond
 *.videoslotscasino-ca.com
 *.vidmate.tech
