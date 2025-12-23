@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Dec 2025 22:34 UTC
-# Version: 2025.1222.2234.33
+# Last modified: 23 Dec 2025 06:34 UTC
+# Version: 2025.1223.0634.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 85095
+# Number of entries: 85094
 #
 local=/000000000000000000000000000000000000000000000000000000000000000.gay/
 local=/000sexxx.com/
@@ -16026,7 +16026,6 @@ local=/collegetube.top/
 local=/collegewildparties.com/
 local=/colliderporn.com/
 local=/collinsextonelite.com/
-local=/collladies.sb/
 local=/collladies.sbs/
 local=/colmek.link/
 local=/colombiabride.com/

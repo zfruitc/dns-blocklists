@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Dec 2025 22:32 UTC
-# Version: 2025.1222.2232.29
+# Last modified: 23 Dec 2025 06:32 UTC
+# Version: 2025.1223.0632.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11350
+# Number of entries: 11348
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -9648,7 +9648,6 @@ local=/torrentmove.com/
 local=/torrentmovie.info/
 local=/torrentmovies.co/
 local=/torrentnote.com/
-local=/node01.torrentonline.cc/
 local=/node02.torrentonline.cc/
 local=/torrentonly.com/
 local=/torrentor.pro/
@@ -9792,7 +9791,6 @@ local=/tracker810.xyz/
 local=/trackerlist.xyz/
 local=/trackerok.ru/
 local=/trackerpmr.com/
-local=/node01.trackerstatus.live/
 local=/trackerturk.biz/
 local=/tracker.trackton.ga/
 local=/traderz.org/

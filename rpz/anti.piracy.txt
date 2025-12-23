@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766442720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766471520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 Dec 2025 22:32 UTC
-; Version: 2025.1222.2232.29
+; Last modified: 23 Dec 2025 06:32 UTC
+; Version: 2025.1223.0632.09
 ; Syntax: RPZ
-; Number of entries: 22700
+; Number of entries: 22696
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1568,8 +1568,6 @@ tlgetin.cc CNAME .
 *.tlgetin.cc CNAME .
 torrentdownloads.cc CNAME .
 *.torrentdownloads.cc CNAME .
-node01.torrentonline.cc CNAME .
-*.node01.torrentonline.cc CNAME .
 node02.torrentonline.cc CNAME .
 *.node02.torrentonline.cc CNAME .
 torrentproject.cc CNAME .
@@ -11422,8 +11420,6 @@ topflix.live CNAME .
 *.topflix.live CNAME .
 torlock.live CNAME .
 *.torlock.live CNAME .
-node01.trackerstatus.live CNAME .
-*.node01.trackerstatus.live CNAME .
 tufan.live CNAME .
 *.tufan.live CNAME .
 tvbd.live CNAME .

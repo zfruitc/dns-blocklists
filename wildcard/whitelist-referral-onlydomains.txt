@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Dec 2025 09:18 UTC
-# Version: 2025.1222.0918.11
+# Last modified: 23 Dec 2025 05:17 UTC
+# Version: 2025.1223.0517.55
 # Syntax: Domains (without subdomains)
-# Number of entries: 1370
+# Number of entries: 1369
 #
 1-aclk.net
 1aurl.io
@@ -591,7 +591,6 @@ gopjn.com
 gotrackier.com
 gotravelholidays.com
 trk.grdhub.com
-trk.grmcart.com
 track.grove.co
 webflow.grsm.io
 gsght.com
