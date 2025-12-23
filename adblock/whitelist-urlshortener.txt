@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Dec 2025 05:31 UTC
-! Version: 2025.1223.0531.45
+! Last modified: 23 Dec 2025 09:30 UTC
+! Version: 2025.1223.0930.05
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -2831,7 +2831,6 @@
 @@||getcode.pw^
 @@||getf.ly^
 @@||geti.in^
-@@||getintopic.autos^
 @@||getlasso.co^
 @@||getlickd.com^
 @@||getlink.at^
