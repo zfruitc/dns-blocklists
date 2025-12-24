@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Dec 2025 10:27 UTC
-# Version: 2025.1224.1027.30
+# Last modified: 24 Dec 2025 18:26 UTC
+# Version: 2025.1224.1826.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 49049
+# Number of entries: 49039
 #
 local=/000-online-casino.com/
 local=/0009casino.com/
@@ -7182,7 +7182,6 @@ local=/beecasino-kiwi.com/
 local=/beecasino-nz.com/
 local=/beecasino-nz1.com/
 local=/beef.casino/
-local=/beef-092.casino/
 local=/beef-88.casino/
 local=/beef-casino.casino/
 local=/beef-casino.ee/
@@ -8264,7 +8263,6 @@ local=/betsafe.com/
 local=/betsafe.lt/
 local=/betsafe.lv/
 local=/betsafe.pe/
-local=/betsafe-8.org/
 local=/betsafecasino-ca.com/
 local=/betsafecasinor.com/
 local=/betsafee.com/
@@ -19611,7 +19609,6 @@ local=/daddy332.casino/
 local=/daddy3433.casino/
 local=/daddy359.casino/
 local=/daddy362.casino/
-local=/daddy367.casino/
 local=/daddy371.casino/
 local=/daddy379.casino/
 local=/daddy386.casino/
@@ -29625,7 +29622,6 @@ local=/low-deposit-casinosites.online/
 local=/lowen-play.es/
 local=/lowencasinospain.com/
 local=/lowvig.ag/
-local=/lowwageringcasinouk.one/
 local=/loyalbet.buzz/
 local=/loyalbetcasinoitalia.com/
 local=/loyalslots.buzz/
@@ -32907,7 +32903,6 @@ local=/ninecasino9it.com/
 local=/ninecasinoa.com/
 local=/ninecasinobel.com/
 local=/ninecasinobeligium.com/
-local=/ninecasinobet.ch/
 local=/ninecasinobetting.com/
 local=/ninecasinobrazil.com/
 local=/ninecasinoceske.com/
@@ -34571,7 +34566,6 @@ local=/panelslots.xyz/
 local=/panenpoker.icu/
 local=/panensamarinda.xyz/
 local=/pangeran-uang.xyz/
-local=/pangerantoto3.boats/
 local=/pangerantoto3.sbs/
 local=/pangerantoto3.shop/
 local=/panglimabetwin.xyz/
@@ -35439,7 +35433,6 @@ local=/pinko-casino.digital/
 local=/pinko-casino2k25.com/
 local=/pinko14.casino/
 local=/pinko1888.casino/
-local=/pinko239.casino/
 local=/pinko250.casino/
 local=/pinko285.casino/
 local=/pinko466.casino/
@@ -43764,7 +43757,6 @@ local=/sykaaa-casino-official26.top/
 local=/sykaaa-casino777.ru/
 local=/sykaaa-casinosite.ru/
 local=/sykaaa296.casino/
-local=/sykaaa371.casino/
 local=/sykaaacasino11.top/
 local=/sykaaacb.com/
 local=/symbiont.io/
@@ -44390,7 +44382,6 @@ local=/tipply.pl/
 local=/tippmix.hu/
 local=/tippmixpro.hu/
 local=/tippy-casinos.uno/
-local=/tippy194.casino/
 local=/tips4gambling.com/
 local=/tipsport.cz/
 local=/tipsport.net/
@@ -45813,7 +45804,6 @@ local=/vavada-casino-slots.online/
 local=/vavada-casino-vbb.top/
 local=/vavada-casino-zz01.top/
 local=/vavada-casino534.sbs/
-local=/vavada-casino777p.top/
 local=/vavada-casino888-19.top/
 local=/vavada-casino999-18.top/
 local=/vavada-casinobase.fun/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Dec 2025 10:29 UTC
-# Version: 2025.1224.1029.45
+# Last modified: 24 Dec 2025 18:28 UTC
+# Version: 2025.1224.1828.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 84878
+# Number of entries: 84877
 #
 local=/000000000000000000000000000000000000000000000000000000000000000.gay/
 local=/001-adult-toys-n-sex-dolls.com/
@@ -57040,7 +57040,6 @@ local=/quotesexchange.xyz/
 local=/qusex.xyz/
 local=/quu-ax.pro/
 local=/quxxx.xyz/
-local=/quzermilfax.online/
 local=/quzermilfax.ru/
 local=/qv500.com/
 local=/qwbabes.com/

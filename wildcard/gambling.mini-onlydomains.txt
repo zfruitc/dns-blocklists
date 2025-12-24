@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Dec 2025 10:27 UTC
-# Version: 2025.1224.1027.30
+# Last modified: 24 Dec 2025 18:26 UTC
+# Version: 2025.1224.1826.29
 # Syntax: Domains (without subdomains)
-# Number of entries: 49049
+# Number of entries: 49039
 #
 000-online-casino.com
 0009casino.com
@@ -7182,7 +7182,6 @@ beecasino-kiwi.com
 beecasino-nz.com
 beecasino-nz1.com
 beef.casino
-beef-092.casino
 beef-88.casino
 beef-casino.casino
 beef-casino.ee
@@ -8264,7 +8263,6 @@ betsafe.com
 betsafe.lt
 betsafe.lv
 betsafe.pe
-betsafe-8.org
 betsafecasino-ca.com
 betsafecasinor.com
 betsafee.com
@@ -19611,7 +19609,6 @@ daddy332.casino
 daddy3433.casino
 daddy359.casino
 daddy362.casino
-daddy367.casino
 daddy371.casino
 daddy379.casino
 daddy386.casino
@@ -29625,7 +29622,6 @@ low-deposit-casinosites.online
 lowen-play.es
 lowencasinospain.com
 lowvig.ag
-lowwageringcasinouk.one
 loyalbet.buzz
 loyalbetcasinoitalia.com
 loyalslots.buzz
@@ -32907,7 +32903,6 @@ ninecasino9it.com
 ninecasinoa.com
 ninecasinobel.com
 ninecasinobeligium.com
-ninecasinobet.ch
 ninecasinobetting.com
 ninecasinobrazil.com
 ninecasinoceske.com
@@ -34571,7 +34566,6 @@ panelslots.xyz
 panenpoker.icu
 panensamarinda.xyz
 pangeran-uang.xyz
-pangerantoto3.boats
 pangerantoto3.sbs
 pangerantoto3.shop
 panglimabetwin.xyz
@@ -35439,7 +35433,6 @@ pinko-casino.digital
 pinko-casino2k25.com
 pinko14.casino
 pinko1888.casino
-pinko239.casino
 pinko250.casino
 pinko285.casino
 pinko466.casino
@@ -43764,7 +43757,6 @@ sykaaa-casino-official26.top
 sykaaa-casino777.ru
 sykaaa-casinosite.ru
 sykaaa296.casino
-sykaaa371.casino
 sykaaacasino11.top
 sykaaacb.com
 symbiont.io
@@ -44390,7 +44382,6 @@ tipply.pl
 tippmix.hu
 tippmixpro.hu
 tippy-casinos.uno
-tippy194.casino
 tips4gambling.com
 tipsport.cz
 tipsport.net
@@ -45813,7 +45804,6 @@ vavada-casino-slots.online
 vavada-casino-vbb.top
 vavada-casino-zz01.top
 vavada-casino534.sbs
-vavada-casino777p.top
 vavada-casino888-19.top
 vavada-casino999-18.top
 vavada-casinobase.fun
