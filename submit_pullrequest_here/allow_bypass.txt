@@ -8,6 +8,7 @@
 *.fortinet.com
 *.fortinet.net
 *.fortiwebcloud.net
+*.hagezi.org
 *.iot-dns.com
 *.myfritz.net
 *.namecheap.com
