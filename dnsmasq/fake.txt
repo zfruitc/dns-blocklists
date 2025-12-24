@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Dec 2025 09:28 UTC
-# Version: 2025.1223.0928.25
+# Last modified: 24 Dec 2025 01:28 UTC
+# Version: 2025.1224.0128.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13953
+# Number of entries: 13955
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1150,6 +1150,7 @@ local=/bauzeug.de/
 local=/bavariasis.com/
 local=/baya-bikini.de/
 local=/bayer-heizen.at/
+local=/bayerwald-heizoel.de/
 local=/bayin-tech.de/
 local=/bayowns.com/
 local=/bayreuth-boutique.de/
@@ -6559,6 +6560,7 @@ local=/jackensalestore.com/
 local=/jacketshopdeutschland.com/
 local=/jacmusfashion.com/
 local=/jacoobss.store/
+local=/jaeger-brennstoffe.de/
 local=/jaeger-ra.net/
 local=/jafana.de/
 local=/jagute.de/

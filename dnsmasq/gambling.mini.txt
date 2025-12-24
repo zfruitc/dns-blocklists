@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Dec 2025 22:30 UTC
-# Version: 2025.1223.2230.40
+# Last modified: 24 Dec 2025 02:26 UTC
+# Version: 2025.1224.0226.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 44881
+# Number of entries: 44882
 #
 local=/000-online-casino.com/
 local=/0009casino.com/
@@ -39710,6 +39710,7 @@ local=/sumselaktif.xyz/
 local=/sumseltop.com/
 local=/sumvip.poker/
 local=/sun.to/
+local=/sun.win/
 local=/sun22.ag/
 local=/sun6.win/
 local=/sun88i.casino/

@@ -8373,6 +8373,13 @@
       }
     },
     {
+      "PK": "wapka.xyz",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "web-chat.eu",
       "action": {
         "do": 0,

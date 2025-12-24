@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Dec 2025 22:27 UTC
-# Version: 2025.1223.2227.48
+# Last modified: 24 Dec 2025 02:24 UTC
+# Version: 2025.1224.0224.13
 # Syntax: Domains (without subdomains)
-# Number of entries: 207964
+# Number of entries: 207963
 #
 0-bdmbet.com
 0-bet.com
@@ -183176,6 +183176,7 @@ sumseltoto2.xyz
 sumvine.xyz
 sumvip.poker
 sun.to
+sun.win
 sun-space.space
 sun011.com
 sun0228.com
@@ -189518,7 +189519,6 @@ tuy2dfwjes.com
 tuyulslot.com
 tuzearo.com
 tuzxy.bid
-tv-888f99.com
 tv1jv6xoz47.com
 tv5000.cn
 tvbet.com
@@ -190594,7 +190594,6 @@ translution.uk.com
 trevelex.uk.com
 unpredictable.uk.com
 winomania.uk.com
-uk-aa888.com
 uk-aphroditecasino.com
 uk-bubblesbet.uk
 uk-candyland-casino.com

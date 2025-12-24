@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766471520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766543220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Dec 2025 06:32 UTC
-; Version: 2025.1223.0632.09
+; Last modified: 24 Dec 2025 02:27 UTC
+; Version: 2025.1224.0227.26
 ; Syntax: RPZ
-; Number of entries: 22696
+; Number of entries: 22702
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2550,6 +2550,8 @@ tracker.0x7c0.com CNAME .
 *.24-hd.com CNAME .
 24urban.com CNAME .
 *.24urban.com CNAME .
+2600.com CNAME .
+*.2600.com CNAME .
 2bbit.com CNAME .
 *.2bbit.com CNAME .
 2bcalvi.com CNAME .
@@ -9814,6 +9816,8 @@ tr-zhuqiy-1.dgj055.icu CNAME .
 *.tr-zhuqiy-1.dgj055.icu CNAME .
 tr-zhuqiy-2.dgj055.icu CNAME .
 *.tr-zhuqiy-2.dgj055.icu CNAME .
+tracker-zhuqiy.dgj055.icu CNAME .
+*.tracker-zhuqiy.dgj055.icu CNAME .
 trl-zhuqiy.dgj055.icu CNAME .
 *.trl-zhuqiy.dgj055.icu CNAME .
 tracker.zhuqiy.dgj055.icu CNAME .
@@ -11420,6 +11424,8 @@ topflix.live CNAME .
 *.topflix.live CNAME .
 torlock.live CNAME .
 *.torlock.live CNAME .
+node01.trackerstatus.live CNAME .
+*.node01.trackerstatus.live CNAME .
 tufan.live CNAME .
 *.tufan.live CNAME .
 tvbd.live CNAME .

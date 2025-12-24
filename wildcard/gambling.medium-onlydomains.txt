@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Dec 2025 22:29 UTC
-# Version: 2025.1223.2229.36
+# Last modified: 24 Dec 2025 02:26 UTC
+# Version: 2025.1224.0226.02
 # Syntax: Domains (without subdomains)
-# Number of entries: 94291
+# Number of entries: 94292
 #
 0-casino.info
 000-online-casino.com
@@ -83613,6 +83613,7 @@ sumselaktif.xyz
 sumseltop.com
 sumvip.poker
 sun.to
+sun.win
 sun22.ag
 sun52.win
 sun6.win

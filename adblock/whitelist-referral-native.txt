@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Dec 2025 09:17 UTC
-! Version: 2025.1223.0917.12
+! Last modified: 24 Dec 2025 01:17 UTC
+! Version: 2025.1224.0117.10
 ! Syntax: AdBlock
-! Number of entries: 1370
+! Number of entries: 1369
 !
 @@||1-aclk.net^
 @@||1aurl.io^
@@ -718,7 +718,6 @@
 @@||localbusuiness.com^
 @@||localhomeservices.biz^
 @@||localrl.com^
-@@||affiliate.logitravel.com^
 @@||autos.lotlinx.com^
 @@||click.e.lowes.com^
 @@||t.lt02.net^
