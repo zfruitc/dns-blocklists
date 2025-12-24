@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766599440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766614020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Dec 2025 18:04 UTC
-; Version: 2025.1224.1804.51
+; Last modified: 24 Dec 2025 22:07 UTC
+; Version: 2025.1224.2207.47
 ; Syntax: RPZ
-; Number of entries: 80660
+; Number of entries: 80668
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -2330,8 +2330,6 @@ sdarot.cc CNAME .
 *.sdarot.cc CNAME .
 stat.seedr.cc CNAME .
 *.stat.seedr.cc CNAME .
-shemrec.cc CNAME .
-*.shemrec.cc CNAME .
 site-maps.cc CNAME .
 *.site-maps.cc CNAME .
 sloty.cc CNAME .
@@ -2382,6 +2380,8 @@ analytics.wondershare.cc CNAME .
 *.analytics.wondershare.cc CNAME .
 xywlapi.cc CNAME .
 *.xywlapi.cc CNAME .
+yuhuan.cc CNAME .
+*.yuhuan.cc CNAME .
 z-library.cc CNAME .
 *.z-library.cc CNAME .
 melbet.cd CNAME .
@@ -2582,8 +2582,6 @@ cortexr.cfd CNAME .
 *.cortexr.cfd CNAME .
 cosmicdreamsq.cfd CNAME .
 *.cosmicdreamsq.cfd CNAME .
-cosmicriderz.cfd CNAME .
-*.cosmicriderz.cfd CNAME .
 craggedtutress.cfd CNAME .
 *.craggedtutress.cfd CNAME .
 credixs.cfd CNAME .
@@ -2598,8 +2596,6 @@ damperspoove.cfd CNAME .
 *.damperspoove.cfd CNAME .
 dansyminxishtoskish.cfd CNAME .
 *.dansyminxishtoskish.cfd CNAME .
-datamintx.cfd CNAME .
-*.datamintx.cfd CNAME .
 dawnquartz.cfd CNAME .
 *.dawnquartz.cfd CNAME .
 deliverysolutions4u.cfd CNAME .
@@ -2824,8 +2820,6 @@ mysticspringsq.cfd CNAME .
 *.mysticspringsq.cfd CNAME .
 neonflaretech.cfd CNAME .
 *.neonflaretech.cfd CNAME .
-neonlunarhub.cfd CNAME .
-*.neonlunarhub.cfd CNAME .
 nexouas.cfd CNAME .
 *.nexouas.cfd CNAME .
 nff27oc6ixl7tuycm.cfd CNAME .
@@ -2966,6 +2960,8 @@ pl-wszystkie-3928392.cfd CNAME .
 *.pl-wszystkie-3928392.cfd CNAME .
 plaintprowler.cfd CNAME .
 *.plaintprowler.cfd CNAME .
+ploidytume.cfd CNAME .
+*.ploidytume.cfd CNAME .
 plotejataco.cfd CNAME .
 *.plotejataco.cfd CNAME .
 plsd9klfuthjdbexdaw01x.cfd CNAME .
@@ -3016,6 +3012,8 @@ robhahgirding.cfd CNAME .
 *.robhahgirding.cfd CNAME .
 roupitpompier.cfd CNAME .
 *.roupitpompier.cfd CNAME .
+ru8ybbtr5fkpx3gfqv2zonzckmwl26yql91.cfd CNAME .
+*.ru8ybbtr5fkpx3gfqv2zonzckmwl26yql91.cfd CNAME .
 rusticglowq.cfd CNAME .
 *.rusticglowq.cfd CNAME .
 rusticrapidsq.cfd CNAME .
@@ -4026,6 +4024,8 @@ gymony.club CNAME .
 *.gymony.club CNAME .
 hkjfukkhwfepo.club CNAME .
 *.hkjfukkhwfepo.club CNAME .
+itskiddien.club CNAME .
+*.itskiddien.club CNAME .
 jmpmedia.club CNAME .
 *.jmpmedia.club CNAME .
 larpollicwilli.club CNAME .
@@ -19552,8 +19552,12 @@ em.dynamicyield.com CNAME .
 *.em.dynamicyield.com CNAME .
 px.dynamicyield.com CNAME .
 *.px.dynamicyield.com CNAME .
+rcom-eu.dynamicyield.com CNAME .
+*.rcom-eu.dynamicyield.com CNAME .
 st-eu.dynamicyield.com CNAME .
 *.st-eu.dynamicyield.com CNAME .
+webshot-v3-rcom-eu.dynamicyield.com CNAME .
+*.webshot-v3-rcom-eu.dynamicyield.com CNAME .
 bf.dynatrace.com CNAME .
 *.bf.dynatrace.com CNAME .
 js-cdn.dynatrace.com CNAME .
@@ -21112,6 +21116,8 @@ irgtd.fahertybrand.com CNAME .
 *.irgtd.fahertybrand.com CNAME .
 smetrics.fahorro.com CNAME .
 *.smetrics.fahorro.com CNAME .
+fahrenheitpastesocket.com CNAME .
+*.fahrenheitpastesocket.com CNAME .
 failingbasket.com CNAME .
 *.failingbasket.com CNAME .
 fairiesbranch.com CNAME .
@@ -21588,6 +21594,8 @@ fingerprintjs.com CNAME .
 *.fingerprintjs.com CNAME .
 finisheddaysflamboyant.com CNAME .
 *.finisheddaysflamboyant.com CNAME .
+finishedwindscreen.com CNAME .
+*.finishedwindscreen.com CNAME .
 ejbbcf.finishline.com CNAME .
 *.ejbbcf.finishline.com CNAME .
 furvt.finishline.com CNAME .
@@ -25560,6 +25568,8 @@ shifu.hotstarext.com CNAME .
 *.shifu.hotstarext.com CNAME .
 hotterbeenpeak.com CNAME .
 *.hotterbeenpeak.com CNAME .
+hottmatchy.com CNAME .
+*.hottmatchy.com CNAME .
 sanalytics.hottopic.com CNAME .
 *.sanalytics.hottopic.com CNAME .
 seghg.hottopic.com CNAME .
@@ -71120,6 +71130,8 @@ postback.report CNAME .
 *.6kufrp8foo21iqeepipt3pln144o2.rest CNAME .
 72wrogow4jtywnro.rest CNAME .
 *.72wrogow4jtywnro.rest CNAME .
+7uf9rqubcm6ho65wo6onu7x8m.rest CNAME .
+*.7uf9rqubcm6ho65wo6onu7x8m.rest CNAME .
 87prlie156wy4j9.rest CNAME .
 *.87prlie156wy4j9.rest CNAME .
 8nhjwwb598yqqfzx6wbc.rest CNAME .
@@ -76044,8 +76056,6 @@ cloudflareprime.top CNAME .
 *.cloudflareprime.top CNAME .
 cloudflarepro.top CNAME .
 *.cloudflarepro.top CNAME .
-cnwucnf.top CNAME .
-*.cnwucnf.top CNAME .
 cofficer365.top CNAME .
 *.cofficer365.top CNAME .
 coinbasehelp.top CNAME .
@@ -76628,6 +76638,8 @@ vbeeeleyevolq.top CNAME .
 *.vbeeeleyevolq.top CNAME .
 vbmjlevwwvrrz.top CNAME .
 *.vbmjlevwwvrrz.top CNAME .
+vbozbkzejzzlj.top CNAME .
+*.vbozbkzejzzlj.top CNAME .
 vbqrzzrzazkbl.top CNAME .
 *.vbqrzzrzazkbl.top CNAME .
 vloahkelmykyd.top CNAME .
@@ -76656,8 +76668,6 @@ wjzrzwyvzvovr.top CNAME .
 *.wjzrzwyvzvovr.top CNAME .
 woodennanga.top CNAME .
 *.woodennanga.top CNAME .
-wpmzqrxt.top CNAME .
-*.wpmzqrxt.top CNAME .
 wstats.top CNAME .
 *.wstats.top CNAME .
 wuxianjc.top CNAME .
@@ -78920,8 +78930,6 @@ xlxijvswtoktb.website CNAME .
 *.xlxijvswtoktb.website CNAME .
 xmhrjllcnynfs.website CNAME .
 *.xmhrjllcnynfs.website CNAME .
-xqvsufkeuiwde.website CNAME .
-*.xqvsufkeuiwde.website CNAME .
 xrxmxnukqfnud.website CNAME .
 *.xrxmxnukqfnud.website CNAME .
 xtotmkmljtznt.website CNAME .

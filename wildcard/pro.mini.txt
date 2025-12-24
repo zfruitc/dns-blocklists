@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Dec 2025 18:09 UTC
-# Version: 2025.1224.1809.33
+# Last modified: 24 Dec 2025 22:12 UTC
+# Version: 2025.1224.2212.42
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 46872
+# Number of entries: 46873
 #
 *.00055edc1917.com
 *.000bee1b9f5d6b93d10c1d68b728ad70.com
@@ -1499,6 +1499,7 @@
 *.7search.com
 *.t.7sur7.be
 *.7u6h8.xyz
+*.7uf9rqubcm6ho65wo6onu7x8m.rest
 *.7vid.net
 *.pa.7w.ro
 *.7wjnbeh.sbs
@@ -10540,7 +10541,6 @@
 *.cntxcdm.com
 *.cnvlink.com
 *.cnwetuaniiaal.site
-*.cnwucnf.top
 *.cnzz.cn
 *.cnzz.net
 *.c.cnzz.com
@@ -12208,7 +12208,6 @@
 *.coshoansurdoms.net
 *.coshou.com
 *.cosmicdreamsq.cfd
-*.cosmicriderz.cfd
 *.cosmobet.com
 *.cosmobet.one
 *.aiq-in.cosmopolitan.com
@@ -12972,7 +12971,6 @@
 *.datamilk.app
 *.datamind.ru
 *.report.datamints.com
-*.datamintx.cfd
 *.datarating.com
 *.webcachex-eu.datareporter.eu
 *.datariver.ru
@@ -16201,6 +16199,7 @@
 *.fafafa9988.com
 *.irgtd.fahertybrand.com
 *.smetrics.fahorro.com
+*.fahrenheitpastesocket.com
 *.failingbasket.com
 *.fainaidea.com
 *.fairanalytics.de
@@ -16686,6 +16685,7 @@
 *.fingertip.com
 *.finiessa.cc
 *.finisheddaysflamboyant.com
+*.finishedwindscreen.com
 *.ejbbcf.finishline.com
 *.furvt.finishline.com
 *.finmane-bitarisapp.com
@@ -20430,6 +20430,7 @@
 *.shifu.hotstarext.com
 *.hottedholster.com
 *.hotterbeenpeak.com
+*.hottmatchy.com
 *.sanalytics.hottopic.com
 *.seghg.hottopic.com
 *.vdkjfd.hottopic.com
@@ -27508,7 +27509,6 @@
 *.cdn.neon.click
 *.analytics.neoncleaner.com
 *.neonflaretech.cfd
-*.neonlunarhub.cfd
 *.neored.ai
 *.estadisticas.neored.com
 *.shieldload.neoseeker.com
@@ -32603,6 +32603,7 @@
 *.log.plo.vn
 *.plockcomes.com
 *.plodgeauris.qpon
+*.ploidytume.cfd
 *.ploitedcollegegirls.com
 *.plorexdry.com
 *.plotejataco.cfd
@@ -35923,6 +35924,7 @@
 *.map-apple.ru.com
 *.office-365.ru.com
 *.ru4.com
+*.ru8ybbtr5fkpx3gfqv2zonzckmwl26yql91.cfd
 *.ruamupr.com
 *.ruay.com
 *.analytics.rubensteintech.com
@@ -37272,7 +37274,6 @@
 *.shelljacket.us
 *.trk.shelly.cloud
 *.creative.shemale.show
-*.shemrec.cc
 *.shenajou.com
 *.shengfleming.com
 *.shenshiads.com
@@ -40408,7 +40409,7 @@
 *.thecatmachine.com
 *.theclubhousecasino.com
 *.swasc.thecompanystore.com
-*.thecontentserver.com
+*.tr.thecontentserver.com
 *.counter.theconversation.com
 *.thecoreadv.com
 *.thecovershop.pl
@@ -42976,6 +42977,7 @@
 *.vbmjlevwwvrrz.top
 *.tc.vbnmhjlp.com
 *.vboro.de
+*.vbozbkzejzzlj.top
 *.vbqrzzrzazkbl.top
 *.vbtrax.com
 *.vbuqxmrwegilw.online
@@ -45153,7 +45155,6 @@
 *.analytics1.wpmudev.com
 *.analytics2.wpmudev.com
 *.analytics3.wpmudev.com
-*.wpmzqrxt.top
 *.wpncdn.com
 *.wpner.cc
 *.wpnetwork.eu
@@ -45650,7 +45651,6 @@
 *.xqdpvfnmwgmkbfq.com
 *.xqedtqzjdjheh.space
 *.xqswwsrfawu.com
-*.xqvsufkeuiwde.website
 *.xqvwiielnamy.com
 *.analytics.xranks.com
 *.xray-superpixel.com
@@ -46245,6 +46245,7 @@
 *.yuckyducks.xyz
 *.yudvl.org
 *.yuga.ru
+*.yuhuan.cc
 *.yuiiy.com
 *.yukclick.me
 *.yukishigure.com

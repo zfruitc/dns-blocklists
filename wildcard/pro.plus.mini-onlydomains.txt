@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Dec 2025 18:14 UTC
-# Version: 2025.1224.1814.53
+# Last modified: 24 Dec 2025 22:18 UTC
+# Version: 2025.1224.2218.51
 # Syntax: Domains (without subdomains)
 # Number of entries: 62351
 #
@@ -1654,6 +1654,7 @@ tracking.7mind.de
 t.7sur7.be
 7t1j817.com
 7u6h8.xyz
+7uf9rqubcm6ho65wo6onu7x8m.rest
 7vid.net
 pa.7w.ro
 7wjnbeh.sbs
@@ -14102,7 +14103,6 @@ cnv.cx
 cnvlink.com
 cnvr.net
 cnwetuaniiaal.site
-cnwucnf.top
 cnzz.cn
 cnzz.com
 cnzz.net
@@ -16315,7 +16315,6 @@ coshou.com
 cosman103.top
 cosman106.top
 cosmicdreamsq.cfd
-cosmicriderz.cfd
 cosmobet.com
 cosmobet.one
 aiq-in.cosmopolitan.com
@@ -17346,7 +17345,6 @@ datalogix.com
 datamilk.app
 datamind.ru
 report.datamints.com
-datamintx.cfd
 track.datamoire.com
 datarating.com
 log2.datarecoverybonus.live
@@ -22400,6 +22398,7 @@ fingerprintjs.com
 fingertip.com
 finiessa.cc
 finisheddaysflamboyant.com
+finishedwindscreen.com
 ejbbcf.finishline.com
 furvt.finishline.com
 finmane-bitarisapp.com
@@ -27429,6 +27428,7 @@ service.hotstar.com
 shifu.hotstarext.com
 hottedholster.com
 hotterbeenpeak.com
+hottmatchy.com
 sanalytics.hottopic.com
 seghg.hottopic.com
 vdkjfd.hottopic.com
@@ -36856,7 +36856,6 @@ cdn.neon.click
 neonbite.sbs
 analytics.neoncleaner.com
 neonflaretech.cfd
-neonlunarhub.cfd
 neored.ai
 estadisticas.neored.com
 neory.com
@@ -43119,6 +43118,7 @@ log.plo.vn
 plockcomes.com
 plodgeauris.qpon
 ploferta7591572341.sbs
+ploidytume.cfd
 ploitedcollegegirls.com
 plorexdry.com
 counter.plos.org
@@ -47519,6 +47519,7 @@ map-apple.ru.com
 office-365.ru.com
 ru-sstores.sbs
 ru4.com
+ru8ybbtr5fkpx3gfqv2zonzckmwl26yql91.cfd
 ruamupr.com
 tracker2.ruangguru.com
 ruay.com
@@ -49359,7 +49360,6 @@ trk.shelly.cloud
 sentry.offline.shelopes.com
 creative.shemale.show
 shemedia.com
-shemrec.cc
 shenajou.com
 shengfleming.com
 shenshiads.com
@@ -53659,7 +53659,7 @@ thecas.xyz
 thecatmachine.com
 theclubhousecasino.com
 swasc.thecompanystore.com
-thecontentserver.com
+tr.thecontentserver.com
 collector.theconversation.com
 counter.theconversation.com
 thecore.help
@@ -57131,6 +57131,7 @@ vbmjlevwwvrrz.top
 tc.vbnmhjlp.com
 vboro.de
 i49.vbox7.com
+vbozbkzejzzlj.top
 vbqrzzrzazkbl.top
 vbsedit.com
 vbtrax.com
@@ -60023,7 +60024,6 @@ stats.wpmucdn.com
 analytics1.wpmudev.com
 analytics2.wpmudev.com
 analytics3.wpmudev.com
-wpmzqrxt.top
 wpncdn.com
 wpner.cc
 wpnetwork.eu
@@ -60716,7 +60716,6 @@ xqedtqzjdjheh.space
 xqjeo.com
 xqrtkxml.info
 xqswwsrfawu.com
-xqvsufkeuiwde.website
 xqvwiielnamy.com
 analytics.xranks.com
 xrass.com
@@ -61535,6 +61534,7 @@ yuckyducks.xyz
 yudvl.org
 adv.yuetnc.com
 yuga.ru
+yuhuan.cc
 yuiiy.com
 yuirr4o.shop
 yukclick.me

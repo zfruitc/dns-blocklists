@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Dec 2025 18:21 UTC
-! Version: 2025.1224.1821.55
+! Last modified: 24 Dec 2025 22:25 UTC
+! Version: 2025.1224.2225.16
 ! Syntax: AdBlock
-! Number of entries: 73213
+! Number of entries: 73221
 !
 ||tracker.guguan.000.pe^
 ||000049998.xyz^
@@ -2380,6 +2380,7 @@
 ||t.7sur7.be^
 ||7t1j817.com^
 ||7u6h8.xyz^
+||7uf9rqubcm6ho65wo6onu7x8m.rest^
 ||7vid.net^
 ||pa.7w.ro^
 ||7w7tech.com^
@@ -3207,6 +3208,7 @@
 ||aalkabco.com^
 ||aalnk.com^
 ||aameetings.org^
+||aamkmail.com^
 ||aamn117.com^
 ||aamn122.com^
 ||aamsitecertifier.com^
@@ -7957,8 +7959,6 @@
 ||app-ratex.org^
 ||app-rush.com^
 ||app-sellton.info^
-||app-stark.online^
-||app-stark.site^
 ||app-tria.org^
 ||collect-us.app-us1.com^
 ||diffuser-cdn.app-us1.com^
@@ -17025,7 +17025,6 @@
 ||cnvlink.com^
 ||cnvr.net^
 ||cnwetuaniiaal.site^
-||cnwucnf.top^
 ||cnzszyxxw.cn^
 ||cnzz.cn^
 ||cnzz.com^
@@ -18523,6 +18522,7 @@
 ||iure.com.ar^
 ||ivr.com.tr^
 ||iy.com.cn^
+||j-bybit.com.cn^
 ||j2group.com.au^
 ||jampo.com.ua^
 ||dd.jaycar.com.au^
@@ -18569,6 +18569,7 @@
 ||pv.ltn.com.tw^
 ||smetrics.lululemon.com.hk^
 ||lurahosting.com.br^
+||m-bybit.com.cn^
 ||static-magalu-ads.magazineluiza.com.br^
 ||mailzilla.com.ar^
 ||majuhome.com.my^
@@ -18724,6 +18725,7 @@
 ||www.portalvivoligado.com.br^
 ||apicorporativops.portoseguro.com.br^
 ||posodontosuprema.com.br^
+||pq-bybit.com.cn^
 ||cntr.pravda.com.ua^
 ||counter.pravda.com.ua^
 ||premiumads.com.br^
@@ -18853,7 +18855,6 @@
 ||supremo.com.mx^
 ||syt.com.gt^
 ||szwzyh.com.cn^
-||t9b5r2x8m6q1n0y7p4v3w2z5.com.tr^
 ||tacticlab.com.au^
 ||tagtoo.com.tw^
 ||tamedia.com.tw^
@@ -19823,7 +19824,6 @@
 ||cosman103.top^
 ||cosman106.top^
 ||cosmicdreamsq.cfd^
-||cosmicriderz.cfd^
 ||cosmobet.com^
 ||cosmobet.one^
 ||aiq-in.cosmopolitan.com^
@@ -21112,7 +21112,6 @@
 ||datamilk.app^
 ||datamind.ru^
 ||report.datamints.com^
-||datamintx.cfd^
 ||track.datamoire.com^
 ||datanerd.us^
 ||datanet.cc^
@@ -33346,6 +33345,7 @@
 ||shifu.hotstarext.com^
 ||hottedholster.com^
 ||hotterbeenpeak.com^
+||hottmatchy.com^
 ||sanalytics.hottopic.com^
 ||seghg.hottopic.com^
 ||vdkjfd.hottopic.com^
@@ -36230,6 +36230,7 @@
 ||jazzistagallop.com^
 ||jbhollon.com^
 ||jbisoft.com^
+||jbl-onlineshop.com^
 ||jblm.cn^
 ||analytics.jbravo.co^
 ||jbsmediaventures.com^
@@ -36344,6 +36345,7 @@
 ||gateway.jerkmate.com^
 ||jeroud.com^
 ||vesx.jesjes.xyz^
+||jesuscoin-upgrade.xyz^
 ||ccpd.jet2.com^
 ||data.email.jet2.com^
 ||jet2email.jet2.com^
@@ -38806,6 +38808,7 @@
 ||legend-live-eg.com^
 ||legendarydata.com^
 ||legendcollision.com^
+||legendsofoathbound.xyz^
 ||leggion.cc^
 ||joda.leggo.it^
 ||leggyintimidatebullying.com^
@@ -44984,7 +44987,6 @@
 ||neonbite.sbs^
 ||analytics.neoncleaner.com^
 ||neonflaretech.cfd^
-||neonlunarhub.cfd^
 ||neopeer.org^
 ||neored.ai^
 ||estadisticas.neored.com^
@@ -49813,7 +49815,6 @@
 ||pippasrealtea.com^
 ||pippin-drops.top^
 ||pippin-event.top^
-||pippinbnb.fun^
 ||pippinlove.live^
 ||pippinlove.top^
 ||pippinlovesyou.live^
@@ -50338,6 +50339,7 @@
 ||plockcomes.com^
 ||plodgeauris.qpon^
 ||ploferta7591572341.sbs^
+||ploidytume.cfd^
 ||ploitedcollegegirls.com^
 ||plorexdry.com^
 ||counter.plos.org^
@@ -50676,7 +50678,6 @@
 ||polymarketlearn.com^
 ||polymarketpnl.com^
 ||polymorphicads.jp^
-||polynow.fun^
 ||polypdispl.pro^
 ||stats-cdn.polyspeak.ai^
 ||polystore9-servicebucket.cc^
@@ -53438,6 +53439,7 @@
 ||ravenjs.com^
 ||matomo.ravensburger.com^
 ||raventrack.com^
+||raveqxon.blog^
 ||raveqxon.site^
 ||ravergames.com^
 ||analytics.ravetel.com^
@@ -55341,6 +55343,7 @@
 ||office-365.ru.com^
 ||ru-sstores.sbs^
 ||ru4.com^
+||ru8ybbtr5fkpx3gfqv2zonzckmwl26yql91.cfd^
 ||ruamupr.com^
 ||tracker2.ruangguru.com^
 ||ruay.com^
@@ -57593,7 +57596,6 @@
 ||sentry.offline.shelopes.com^
 ||creative.shemale.show^
 ||shemedia.com^
-||shemrec.cc^
 ||shenajou.com^
 ||shengfleming.com^
 ||shenshiads.com^
@@ -58676,6 +58678,7 @@
 ||smartclip.net^
 ||smartclip-services.com^
 ||smartcode.com^
+||smartcoinsresolver.app^
 ||smartcpatrack.com^
 ||smartdatacollective.com^
 ||smartdeconline.com^
@@ -61471,6 +61474,7 @@
 ||tags.synchronybusiness.com^
 ||syncordisconsulting.com^
 ||syncronex.com^
+||syncrpc.xyz^
 ||synctags.org^
 ||crash.syncthing.net^
 ||data.syncthing.net^
@@ -62765,7 +62769,7 @@
 ||theclubms.com^
 ||swasc.thecompanystore.com^
 ||theconstructioncompany.ie^
-||thecontentserver.com^
+||tr.thecontentserver.com^
 ||collector.theconversation.com^
 ||counter.theconversation.com^
 ||thecore.help^
@@ -63943,6 +63947,7 @@
 ||toponad.com^
 ||toponadss.com^
 ||toponepartners.com^
+||topp-evolux.com^
 ||api.toppal.tech^
 ||stat.topprovider.com^
 ||topqualitylink.com^
@@ -66921,6 +66926,7 @@
 ||tc.vbnmhjlp.com^
 ||vboro.de^
 ||i49.vbox7.com^
+||vbozbkzejzzlj.top^
 ||vbqrzzrzazkbl.top^
 ||vbsedit.com^
 ||vbtrax.com^
@@ -68946,6 +68952,7 @@
 ||analytics.web-data-master.de^
 ||web-interface.eu^
 ||web-olymp.ru^
+||web-openbugsresolve.org^
 ||web-oss.com^
 ||web-panel.online^
 ||web-ptica.ru^
@@ -70353,7 +70360,6 @@
 ||analytics1.wpmudev.com^
 ||analytics2.wpmudev.com^
 ||analytics3.wpmudev.com^
-||wpmzqrxt.top^
 ||wpncdn.com^
 ||wpner.cc^
 ||wpnetwork.eu^
@@ -71024,6 +71030,7 @@
 ||s.xinshuru.com^
 ||xiphiidbachel.com^
 ||xipkxz.icu^
+||xirlotamqen.fun^
 ||xiti.com^
 ||xitmn3p92lnoyiz.cyou^
 ||xiuset.com^
@@ -71187,6 +71194,7 @@
 ||xomarket.net^
 ||sentry.xometry.eu^
 ||xomncrmsiluf.com^
+||xomqirantel.site^
 ||t.xoom.com^
 ||xoom-ads.com^
 ||ga4.xopboo.com^
@@ -71220,7 +71228,6 @@
 ||xqjeo.com^
 ||xqrtkxml.info^
 ||xqswwsrfawu.com^
-||xqvsufkeuiwde.website^
 ||xqvwiielnamy.com^
 ||analytics.xranks.com^
 ||xrass.com^
@@ -72201,6 +72208,7 @@
 ||yufxt.top^
 ||yuga.ru^
 ||yugukj.com^
+||yuhuan.cc^
 ||yuiiy.com^
 ||yuirr4o.shop^
 ||yuk8m5qa6v38o8n0ssvc682cwnqjg5.xyz^

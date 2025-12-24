@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Dec 2025 18:04 UTC
-# Version: 2025.1224.1804.51
+# Last modified: 24 Dec 2025 22:07 UTC
+# Version: 2025.1224.2207.47
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 84020
+# Number of entries: 84025
 #
 0.0.0.0 00055edc1917.com
 0.0.0.0 000bee1b9f5d6b93d10c1d68b728ad70.com
@@ -5139,6 +5139,7 @@
 0.0.0.0 7search.com
 0.0.0.0 7u6h8.xyz
 0.0.0.0 ompe2.7u6h8.xyz
+0.0.0.0 7uf9rqubcm6ho65wo6onu7x8m.rest
 0.0.0.0 7vid.net
 0.0.0.0 vd.7vid.net
 0.0.0.0 pa.7w.ro
@@ -31079,7 +31080,6 @@
 0.0.0.0 amp.cntxcdm.com
 0.0.0.0 cnvlink.com
 0.0.0.0 cnwetuaniiaal.site
-0.0.0.0 cnwucnf.top
 0.0.0.0 cnzz.net
 0.0.0.0 c.cnzz.com
 0.0.0.0 ei.cnzz.com
@@ -33162,7 +33162,6 @@
 0.0.0.0 coshou.com
 0.0.0.0 www.coshou.com
 0.0.0.0 cosmicdreamsq.cfd
-0.0.0.0 cosmicriderz.cfd
 0.0.0.0 aiq-in.cosmopolitan.com
 0.0.0.0 td.cosmopolitan.com
 0.0.0.0 pvdynatracegw01.cosmote.gr
@@ -34460,7 +34459,6 @@
 0.0.0.0 datalogix.com
 0.0.0.0 datamind.ru
 0.0.0.0 report.datamints.com
-0.0.0.0 datamintx.cfd
 0.0.0.0 datarating.com
 0.0.0.0 webcachex-eu.datareporter.eu
 0.0.0.0 datariver.ru
@@ -40413,7 +40411,9 @@
 0.0.0.0 async-px-eu.dynamicyield.com
 0.0.0.0 em.dynamicyield.com
 0.0.0.0 px.dynamicyield.com
+0.0.0.0 rcom-eu.dynamicyield.com
 0.0.0.0 st-eu.dynamicyield.com
+0.0.0.0 webshot-v3-rcom-eu.dynamicyield.com
 0.0.0.0 bf.dynatrace.com
 0.0.0.0 bf00533cik.bf.dynatrace.com
 0.0.0.0 bf00910jpo.bf.dynatrace.com
@@ -42846,6 +42846,7 @@
 0.0.0.0 fafafa9988.com
 0.0.0.0 irgtd.fahertybrand.com
 0.0.0.0 smetrics.fahorro.com
+0.0.0.0 fahrenheitpastesocket.com
 0.0.0.0 failingbasket.com
 0.0.0.0 fairanalytics.de
 0.0.0.0 fairiesbranch.com
@@ -43372,6 +43373,7 @@
 0.0.0.0 fingerprintjs.com
 0.0.0.0 finiessa.cc
 0.0.0.0 finisheddaysflamboyant.com
+0.0.0.0 finishedwindscreen.com
 0.0.0.0 ejbbcf.finishline.com
 0.0.0.0 furvt.finishline.com
 0.0.0.0 finmane-bitarisapp.com
@@ -49119,6 +49121,7 @@
 0.0.0.0 hotspot.cz
 0.0.0.0 shifu.hotstarext.com
 0.0.0.0 hotterbeenpeak.com
+0.0.0.0 hottmatchy.com
 0.0.0.0 sanalytics.hottopic.com
 0.0.0.0 seghg.hottopic.com
 0.0.0.0 vdkjfd.hottopic.com
@@ -52027,6 +52030,8 @@
 0.0.0.0 itseagleswig.com
 0.0.0.0 itsez.cfd
 0.0.0.0 itsfk.cfd
+0.0.0.0 itskiddien.club
+0.0.0.0 cdn.itskiddien.club
 0.0.0.0 countly.itslearning.com
 0.0.0.0 itstuffnews.com
 0.0.0.0 www.itstuffnews.com
@@ -59533,7 +59538,6 @@
 0.0.0.0 cdn.neon.click
 0.0.0.0 analytics.neoncleaner.com
 0.0.0.0 neonflaretech.cfd
-0.0.0.0 neonlunarhub.cfd
 0.0.0.0 neored.ai
 0.0.0.0 estadisticas.neored.com
 0.0.0.0 shieldload.neoseeker.com
@@ -64629,6 +64633,7 @@
 0.0.0.0 log.plo.vn
 0.0.0.0 plockcomes.com
 0.0.0.0 plodgeauris.qpon
+0.0.0.0 ploidytume.cfd
 0.0.0.0 ploitedcollegegirls.com
 0.0.0.0 plorexdry.com
 0.0.0.0 plotejataco.cfd
@@ -69004,6 +69009,7 @@
 0.0.0.0 map-apple.ru.com
 0.0.0.0 office-365.ru.com
 0.0.0.0 ru4.com
+0.0.0.0 ru8ybbtr5fkpx3gfqv2zonzckmwl26yql91.cfd
 0.0.0.0 ruamupr.com
 0.0.0.0 ruay.com
 0.0.0.0 www.ruay.com
@@ -70806,7 +70812,6 @@
 0.0.0.0 shelljacket.us
 0.0.0.0 trk.shelly.cloud
 0.0.0.0 creative.shemale.show
-0.0.0.0 shemrec.cc
 0.0.0.0 shenajou.com
 0.0.0.0 shengfleming.com
 0.0.0.0 shenshiads.com
@@ -79283,6 +79288,7 @@
 0.0.0.0 vbmjlevwwvrrz.top
 0.0.0.0 tc.vbnmhjlp.com
 0.0.0.0 vboro.de
+0.0.0.0 vbozbkzejzzlj.top
 0.0.0.0 vbqrzzrzazkbl.top
 0.0.0.0 vbtrax.com
 0.0.0.0 vbuqxmrwegilw.online
@@ -81961,7 +81967,6 @@
 0.0.0.0 analytics1.wpmudev.com
 0.0.0.0 analytics2.wpmudev.com
 0.0.0.0 analytics3.wpmudev.com
-0.0.0.0 wpmzqrxt.top
 0.0.0.0 wpncdn.com
 0.0.0.0 wpnetwork.eu
 0.0.0.0 tracking.wpnetwork.eu
@@ -82596,7 +82601,6 @@
 0.0.0.0 xqdpvfnmwgmkbfq.com
 0.0.0.0 xqedtqzjdjheh.space
 0.0.0.0 xqswwsrfawu.com
-0.0.0.0 xqvsufkeuiwde.website
 0.0.0.0 xqvwiielnamy.com
 0.0.0.0 analytics.xranks.com
 0.0.0.0 xray-superpixel.com
@@ -83339,6 +83343,7 @@
 0.0.0.0 yubziosgvkweu.online
 0.0.0.0 yuckyducks.xyz
 0.0.0.0 yudvl.org
+0.0.0.0 yuhuan.cc
 0.0.0.0 yuiiy.com
 0.0.0.0 yukclick.me
 0.0.0.0 yukishigure.com
