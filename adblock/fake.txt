@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Dec 2025 01:28 UTC
-! Version: 2025.1224.0128.45
+! Last modified: 24 Dec 2025 09:28 UTC
+! Version: 2025.1224.0928.18
 ! Syntax: AdBlock
-! Number of entries: 13955
+! Number of entries: 13954
 !
 ||01broker.com^
 ||01crypto.com^
@@ -2701,7 +2701,6 @@
 ||cozyhoome.com^
 ||cozyixe.com^
 ||cozysleepzone.com^
-||cp24.pl^
 ||cpket.com^
 ||cpopnow.com^
 ||cqqodsports.com^
@@ -9882,6 +9881,7 @@
 ||plexiglass.nl^
 ||pliken.com^
 ||platform.pltf-tchg.io^
+||media-markt.plumberstore.in^
 ||pluralsilk.com^
 ||pluschennici.com^
 ||pluschtiereshop.com^
@@ -13219,7 +13219,6 @@
 ||vitalismoemi.com^
 ||vivagopro.com^
 ||vivaiabuty.pl^
-||vivaiacollection.com^
 ||vivaiaschuhe.at^
 ||vivaiaschuhe.com^
 ||vivaiaschuhe.de^

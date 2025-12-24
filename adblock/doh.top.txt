@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Dec 2025 22:37 UTC
-! Version: 2025.1223.2237.05
+! Last modified: 24 Dec 2025 10:33 UTC
+! Version: 2025.1224.1033.05
 ! Syntax: AdBlock
-! Number of entries: 823
+! Number of entries: 819
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -87,7 +87,6 @@
 ||dns.asysec.com^
 ||adguardhome.atakorah.com^
 ||atris.cyou^
-||dohtrial.att.net^
 ||secure.avastdns.com^
 ||doh1.b-cdn.net^
 ||doh2.b-cdn.net^
@@ -206,7 +205,6 @@
 ||dns.digitalsize.net^
 ||dingdangnao.com^
 ||doh.disconnect.app^
-||fdns1.dismail.de^
 ||dns.google^
 ||dns.pub^
 ||dns.sb^
@@ -317,7 +315,6 @@
 ||adguard.easez.net^
 ||easyhandshake.com^
 ||dns.edgeburnmedia.com^
-||edgy-dns.com^
 ||dns.tuna.tsinghua.edu.cn^
 ||adguard.ef67daisuki.club^
 ||dns.electrotm.org^
@@ -368,7 +365,6 @@
 ||gibblets.top^
 ||dns.ginovs.nl^
 ||dns.girino.org^
-||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Dec 2025 01:28 UTC
-# Version: 2025.1224.0128.45
+# Last modified: 24 Dec 2025 09:28 UTC
+# Version: 2025.1224.0928.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13955
+# Number of entries: 13954
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2700,7 +2700,6 @@ local=/cozyfishing.com/
 local=/cozyhoome.com/
 local=/cozyixe.com/
 local=/cozysleepzone.com/
-local=/cp24.pl/
 local=/cpket.com/
 local=/cpopnow.com/
 local=/cqqodsports.com/
@@ -9881,6 +9880,7 @@ local=/plekkonm.shop/
 local=/plexiglass.nl/
 local=/pliken.com/
 local=/platform.pltf-tchg.io/
+local=/media-markt.plumberstore.in/
 local=/pluralsilk.com/
 local=/pluschennici.com/
 local=/pluschtiereshop.com/
@@ -13218,7 +13218,6 @@ local=/vitalgesund.at/
 local=/vitalismoemi.com/
 local=/vivagopro.com/
 local=/vivaiabuty.pl/
-local=/vivaiacollection.com/
 local=/vivaiaschuhe.at/
 local=/vivaiaschuhe.com/
 local=/vivaiaschuhe.de/
