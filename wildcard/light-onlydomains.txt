@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 18:10 UTC
-# Version: 2025.1225.1810.38
+# Last modified: 25 Dec 2025 22:07 UTC
+# Version: 2025.1225.2207.49
 # Syntax: Domains (without subdomains)
-# Number of entries: 39538
+# Number of entries: 39567
 #
 00055edc1917.com
 000free.us
@@ -1002,6 +1002,7 @@ t.451.io
 47cb693fa6.com
 47dq.com
 47n78xprrvp1.top
+4818209zii.cyou
 482e528949.com
 48411185c3925d931936dac75dbc4e2f.top
 484l.com
@@ -1084,6 +1085,7 @@ ia.51.la
 sdk.51.la
 users.51.la
 5109psoz-5011.pl
+510s98a.cyou
 512376-google.com
 51240.com
 512j.com
@@ -1091,6 +1093,7 @@ users.51.la
 5166.info
 51789-40s.cfd
 518b290abc334.shop
+51981s7a.cyou
 log.51changdu.com
 log2.51changdu.com
 51degrees.com
@@ -1214,6 +1217,7 @@ stms.53.com
 5ws5hw-rtbix.top
 5wvtwye.lat
 60576949.xyz
+6095833dfiu1.sbs
 609999.xyz
 60ah.com
 611653fc3033ef10232c66618a60bd98.xyz
@@ -1376,6 +1380,7 @@ adserver.71i.de
 76ry.com
 7700-google.com
 77119.cc
+77773aax1.cyou
 777aabb777.com
 777partner.com
 7788-google.com
@@ -1415,6 +1420,7 @@ d696ba6704.7ee7484ba9.com
 7f10385500b6236074bc7c6941d145b86d4a8abc06bc40996331239b64d0a86.link
 7f373e42dfc81b8498bd53ee6f3ba8b8.com
 7goxbet.com
+7imfq5kf5l5erqk1tk57l.rest
 7jo2uvurjoqoq9gcfg99ig.cfd
 7kprtners.com
 px-img.7mdt.com
@@ -1559,6 +1565,7 @@ assets.9249c7687ddbc42eb7167e0e9030ef06b9528c98.com
 926ad94f4f4f04d03d709f02cc9e8486.com
 927sj2719fh38yh2e3.cfd
 92orb.com
+92ueh2919f2j42.cfd
 92yp.com
 f0fdae6be7.9357f4ba72.com
 9385b44eef82e4b1ce998.site
@@ -1682,6 +1689,7 @@ ywrcqa.9news.com
 9wee.com
 9wuehh.sbs
 9xmovies.red
+9ypzkr3rffrv9k1481bg6g.cfd
 a-ads.com
 a-affiliate.net
 a-amazon.store
@@ -1733,6 +1741,7 @@ a48da5557a7d.com
 a4c68712bd5fa56d4b2c0c81fe6ce81a5ed1766727bc92b95bf8df60d687536.link
 a500309191.pro
 a507021580ea.info
+a556888-113.cyou
 a56a73b85c99.top
 a594695752.xyz
 a5cdd19ff2bcdfac9da77bd845b9a877.com
@@ -5334,6 +5343,7 @@ augplqr.in
 matomo.augsburg-city.de
 augur.io
 augustboyby.com
+auir1144.sbs
 aukjylvsljien.site
 aumago.com
 aumakuaboof.help
@@ -9287,7 +9297,6 @@ s.cntqk.com
 cntxcdm.com
 cnvlink.com
 cnwetuaniiaal.site
-cnwucnf.top
 cnzz.net
 c.cnzz.com
 ei.cnzz.com
@@ -10326,6 +10335,16 @@ confirmationrdv-leboncoin-isabru.fr
 digitalfeedback.euro.confirmit.com
 telemetry.aws.confluent.cloud
 telemetry.confluent.cloud
+conformation-1912.shop
+conformation-1914.shop
+conformation-1915.shop
+conformation-1916.shop
+conformation-1917.shop
+conformation-1919.shop
+conformation-1923.shop
+conformation-1924.shop
+conformation-1925.shop
+conformation-1926.shop
 confrancisyalgomas.com
 confusingepisodevest.com
 congasbushpig.com
@@ -19768,6 +19787,7 @@ itrex.site
 stat.its.porn
 itsaol.com
 itseagleswig.com
+itskiddien.club
 countly.itslearning.com
 itstuffnews.com
 cpt.itv.com
@@ -21174,6 +21194,7 @@ lbljgxy.cc
 lblxdvabeshwj.site
 analytics.lbry.com
 lby2kd27c.com
+lbzyjmbvmkeor.top
 smetrics.lcbo.com
 lcc3f7uzwlzlvemggoj9ofmlz4.cyou
 lchtraf.com
@@ -24711,6 +24732,7 @@ smetrics.ni.com
 nianticcrip.rest
 analytics.nianticlabs.com
 analytics.nianticspatial.com
+nibaz.com
 niblewren.co
 piwik.nic.cz
 analytics.wrc.nic.in
@@ -26899,6 +26921,7 @@ api-esp.piano.io
 sandbox-api-esp.piano.io
 piasukai.xyz
 pic-stash.com
+picachoamuguis.com
 lt.picaravamos.com
 picareltapa.cfd
 picasguisian.shop
@@ -27303,9 +27326,11 @@ plottedjewless.click
 plpaynet.com
 plr2u.com
 plrjs.org
+plsd9hlazb02xk.icu
 plsd9kbbbghbg01xk.icu
 plsd9klagzb01xk.icu
 plsd9klazb02xk.icu
+plsd9klazs02xk.icu
 plsd9klffgkaghbg01xk.icu
 plsd9klffgkarssbg01xk.icu
 plsd9klffgterqp01xk.icu
@@ -27315,6 +27340,8 @@ plsd9klgazghbg01xk.icu
 plsd9klggzb01xk.icu
 plsd9klgzb01xk.icu
 now.plsgotoasg.com
+plsm9klazs02xk.icu
+plso9klazs02xk.icu
 pltraffic8.com
 pluckypocket.com
 plugin.management
@@ -30046,6 +30073,7 @@ server-side-tagging-gcqfkmu2qq-uc.a.run.app
 server-side-tagging-ghf6jfkeua-uc.a.run.app
 server-side-tagging-h2qw55nphq-uc.a.run.app
 server-side-tagging-h3sa2x4bfa-uc.a.run.app
+server-side-tagging-h7qcd4fhaa-uc.a.run.app
 server-side-tagging-hangnitwaa-uc.a.run.app
 server-side-tagging-higlimivlq-uc.a.run.app
 server-side-tagging-hobmgotkaq-uc.a.run.app
@@ -31125,7 +31153,6 @@ scmetrics.shell.com
 shelljacket.us
 trk.shelly.cloud
 creative.shemale.show
-shemrec.cc
 shenajou.com
 shengfleming.com
 shenshiads.com
@@ -38554,6 +38581,7 @@ ya-distrib.ru
 yaalla-live.com
 yabidos.com
 yacine-live-tv.com
+yadro.ru
 matomo.yaelconsulting.com
 yagrotomo.com
 yahoo.box
@@ -38977,6 +39005,7 @@ sgtm.yubico.com
 yubziosgvkweu.online
 yuckyducks.xyz
 yudvl.org
+yuhuan.cc
 yuiiy.com
 yukclick.me
 yukishigure.com

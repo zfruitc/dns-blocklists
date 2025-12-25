@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 18:10 UTC
-# Version: 2025.1225.1810.38
+# Last modified: 25 Dec 2025 22:07 UTC
+# Version: 2025.1225.2207.49
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 82979
+# Number of entries: 83010
 #
 0.0.0.0 00055edc1917.com
 0.0.0.0 000free.us
@@ -4658,6 +4658,7 @@
 0.0.0.0 47cb693fa6.com
 0.0.0.0 47dq.com
 0.0.0.0 47n78xprrvp1.top
+0.0.0.0 4818209zii.cyou
 0.0.0.0 482e528949.com
 0.0.0.0 48411185c3925d931936dac75dbc4e2f.top
 0.0.0.0 484l.com
@@ -4763,6 +4764,7 @@
 0.0.0.0 users.51.la
 0.0.0.0 js.users.51.la
 0.0.0.0 5109psoz-5011.pl
+0.0.0.0 510s98a.cyou
 0.0.0.0 512376-google.com
 0.0.0.0 51240.com
 0.0.0.0 512j.com
@@ -4771,6 +4773,7 @@
 0.0.0.0 5166.info
 0.0.0.0 51789-40s.cfd
 0.0.0.0 518b290abc334.shop
+0.0.0.0 51981s7a.cyou
 0.0.0.0 log.51changdu.com
 0.0.0.0 log2.51changdu.com
 0.0.0.0 51degrees.com
@@ -4920,6 +4923,7 @@
 0.0.0.0 pixel-eu.5ws5hw-rtbix.top
 0.0.0.0 5wvtwye.lat
 0.0.0.0 60576949.xyz
+0.0.0.0 6095833dfiu1.sbs
 0.0.0.0 609999.xyz
 0.0.0.0 60ah.com
 0.0.0.0 611653fc3033ef10232c66618a60bd98.xyz
@@ -5090,6 +5094,7 @@
 0.0.0.0 76ry.com
 0.0.0.0 7700-google.com
 0.0.0.0 77119.cc
+0.0.0.0 77773aax1.cyou
 0.0.0.0 777aabb777.com
 0.0.0.0 777partner.com
 0.0.0.0 7788-google.com
@@ -5132,6 +5137,7 @@
 0.0.0.0 7f10385500b6236074bc7c6941d145b86d4a8abc06bc40996331239b64d0a86.link
 0.0.0.0 7f373e42dfc81b8498bd53ee6f3ba8b8.com
 0.0.0.0 7goxbet.com
+0.0.0.0 7imfq5kf5l5erqk1tk57l.rest
 0.0.0.0 7jo2uvurjoqoq9gcfg99ig.cfd
 0.0.0.0 7kprtners.com
 0.0.0.0 cdn.7kprtners.com
@@ -5297,6 +5303,7 @@
 0.0.0.0 926ad94f4f4f04d03d709f02cc9e8486.com
 0.0.0.0 927sj2719fh38yh2e3.cfd
 0.0.0.0 92orb.com
+0.0.0.0 92ueh2919f2j42.cfd
 0.0.0.0 92yp.com
 0.0.0.0 f0fdae6be7.9357f4ba72.com
 0.0.0.0 9385b44eef82e4b1ce998.site
@@ -5424,6 +5431,7 @@
 0.0.0.0 9wuehh.sbs
 0.0.0.0 9xmovies.red
 0.0.0.0 www.9xmovies.red
+0.0.0.0 9ypzkr3rffrv9k1481bg6g.cfd
 0.0.0.0 a-ads.com
 0.0.0.0 acceptable.a-ads.com
 0.0.0.0 ad.a-ads.com
@@ -5553,6 +5561,7 @@
 0.0.0.0 a4c68712bd5fa56d4b2c0c81fe6ce81a5ed1766727bc92b95bf8df60d687536.link
 0.0.0.0 a500309191.pro
 0.0.0.0 a507021580ea.info
+0.0.0.0 a556888-113.cyou
 0.0.0.0 a56a73b85c99.top
 0.0.0.0 a594695752.xyz
 0.0.0.0 a5cdd19ff2bcdfac9da77bd845b9a877.com
@@ -21902,6 +21911,7 @@
 0.0.0.0 matomo.augsburg-city.de
 0.0.0.0 augur.io
 0.0.0.0 augustboyby.com
+0.0.0.0 auir1144.sbs
 0.0.0.0 aukjylvsljien.site
 0.0.0.0 aumago.com
 0.0.0.0 tag.aumago.com
@@ -31427,7 +31437,6 @@
 0.0.0.0 amp.cntxcdm.com
 0.0.0.0 cnvlink.com
 0.0.0.0 cnwetuaniiaal.site
-0.0.0.0 cnwucnf.top
 0.0.0.0 cnzz.net
 0.0.0.0 c.cnzz.com
 0.0.0.0 ei.cnzz.com
@@ -32755,6 +32764,16 @@
 0.0.0.0 telemetry.confluent.cloud
 0.0.0.0 api.telemetry.confluent.cloud
 0.0.0.0 collector.telemetry.confluent.cloud
+0.0.0.0 conformation-1912.shop
+0.0.0.0 conformation-1914.shop
+0.0.0.0 conformation-1915.shop
+0.0.0.0 conformation-1916.shop
+0.0.0.0 conformation-1917.shop
+0.0.0.0 conformation-1919.shop
+0.0.0.0 conformation-1923.shop
+0.0.0.0 conformation-1924.shop
+0.0.0.0 conformation-1925.shop
+0.0.0.0 conformation-1926.shop
 0.0.0.0 confrancisyalgomas.com
 0.0.0.0 confusingepisodevest.com
 0.0.0.0 congasbushpig.com
@@ -51690,6 +51709,8 @@
 0.0.0.0 stat.its.porn
 0.0.0.0 itsaol.com
 0.0.0.0 itseagleswig.com
+0.0.0.0 itskiddien.club
+0.0.0.0 cdn.itskiddien.club
 0.0.0.0 countly.itslearning.com
 0.0.0.0 itstuffnews.com
 0.0.0.0 www.itstuffnews.com
@@ -53674,6 +53695,7 @@
 0.0.0.0 lblxdvabeshwj.site
 0.0.0.0 analytics.lbry.com
 0.0.0.0 lby2kd27c.com
+0.0.0.0 lbzyjmbvmkeor.top
 0.0.0.0 smetrics.lcbo.com
 0.0.0.0 lcc3f7uzwlzlvemggoj9ofmlz4.cyou
 0.0.0.0 lchtraf.com
@@ -59427,6 +59449,7 @@
 0.0.0.0 nianticcrip.rest
 0.0.0.0 analytics.nianticlabs.com
 0.0.0.0 analytics.nianticspatial.com
+0.0.0.0 nibaz.com
 0.0.0.0 niblewren.co
 0.0.0.0 piwik.nic.cz
 0.0.0.0 analytics.wrc.nic.in
@@ -63377,6 +63400,7 @@
 0.0.0.0 sandbox-api-esp.piano.io
 0.0.0.0 piasukai.xyz
 0.0.0.0 pic-stash.com
+0.0.0.0 picachoamuguis.com
 0.0.0.0 lt.picaravamos.com
 0.0.0.0 picareltapa.cfd
 0.0.0.0 picasguisian.shop
@@ -64000,9 +64024,11 @@
 0.0.0.0 plr2u.com
 0.0.0.0 plrjs.org
 0.0.0.0 v2.plrjs.org
+0.0.0.0 plsd9hlazb02xk.icu
 0.0.0.0 plsd9kbbbghbg01xk.icu
 0.0.0.0 plsd9klagzb01xk.icu
 0.0.0.0 plsd9klazb02xk.icu
+0.0.0.0 plsd9klazs02xk.icu
 0.0.0.0 plsd9klffgkaghbg01xk.icu
 0.0.0.0 plsd9klffgkarssbg01xk.icu
 0.0.0.0 plsd9klffgterqp01xk.icu
@@ -64012,6 +64038,8 @@
 0.0.0.0 plsd9klggzb01xk.icu
 0.0.0.0 plsd9klgzb01xk.icu
 0.0.0.0 now.plsgotoasg.com
+0.0.0.0 plsm9klazs02xk.icu
+0.0.0.0 plso9klazs02xk.icu
 0.0.0.0 pltraffic8.com
 0.0.0.0 pluckypocket.com
 0.0.0.0 plugin.management
@@ -68454,6 +68482,7 @@
 0.0.0.0 server-side-tagging-ghf6jfkeua-uc.a.run.app
 0.0.0.0 server-side-tagging-h2qw55nphq-uc.a.run.app
 0.0.0.0 server-side-tagging-h3sa2x4bfa-uc.a.run.app
+0.0.0.0 server-side-tagging-h7qcd4fhaa-uc.a.run.app
 0.0.0.0 server-side-tagging-hangnitwaa-uc.a.run.app
 0.0.0.0 server-side-tagging-higlimivlq-uc.a.run.app
 0.0.0.0 server-side-tagging-hobmgotkaq-uc.a.run.app
@@ -70112,7 +70141,6 @@
 0.0.0.0 shelljacket.us
 0.0.0.0 trk.shelly.cloud
 0.0.0.0 creative.shemale.show
-0.0.0.0 shemrec.cc
 0.0.0.0 shenajou.com
 0.0.0.0 shengfleming.com
 0.0.0.0 shenshiads.com
@@ -81706,6 +81734,8 @@
 0.0.0.0 yabidos.com
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 yacine-live-tv.com
+0.0.0.0 yadro.ru
+0.0.0.0 counter.yadro.ru
 0.0.0.0 matomo.yaelconsulting.com
 0.0.0.0 yagrotomo.com
 0.0.0.0 yahoo.box
@@ -82302,6 +82332,7 @@
 0.0.0.0 yubziosgvkweu.online
 0.0.0.0 yuckyducks.xyz
 0.0.0.0 yudvl.org
+0.0.0.0 yuhuan.cc
 0.0.0.0 yuiiy.com
 0.0.0.0 yukclick.me
 0.0.0.0 yukishigure.com

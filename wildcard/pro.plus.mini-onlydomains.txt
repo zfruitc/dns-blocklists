@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 18:21 UTC
-# Version: 2025.1225.1821.22
+# Last modified: 25 Dec 2025 22:18 UTC
+# Version: 2025.1225.2218.07
 # Syntax: Domains (without subdomains)
-# Number of entries: 61330
+# Number of entries: 61347
 #
 tracker.guguan.000.pe
 00055edc1917.com
@@ -1076,6 +1076,7 @@ t.451.io
 47cb693fa6.com
 47dq.com
 47n78xprrvp1.top
+4818209zii.cyou
 4823bets10.com
 482e528949.com
 48411185c3925d931936dac75dbc4e2f.top
@@ -1182,6 +1183,7 @@ plugin-server.4wps.net
 51.la
 51-83-136-132.xyz
 5109psoz-5011.pl
+510s98a.cyou
 512376-google.com
 51240.com
 512j.com
@@ -1666,6 +1668,7 @@ adserver.71i.de
 7700-google.com
 77119.cc
 777.com
+77773aax1.cyou
 777aabb777.com
 777partner.com
 7788-google.com
@@ -1714,6 +1717,7 @@ d696ba6704.7ee7484ba9.com
 7goxbet.com
 7gra.us
 7host.com
+7imfq5kf5l5erqk1tk57l.rest
 7instinctintelligent.com
 7jo2uvurjoqoq9gcfg99ig.cfd
 7kprtners.com
@@ -2149,6 +2153,7 @@ assets.9249c7687ddbc42eb7167e0e9030ef06b9528c98.com
 926ad94f4f4f04d03d709f02cc9e8486.com
 927sj2719fh38yh2e3.cfd
 92orb.com
+92ueh2919f2j42.cfd
 92yp.com
 f0fdae6be7.9357f4ba72.com
 9377.cn
@@ -2290,6 +2295,7 @@ ywrcqa.9news.com
 9wee.com
 9wuehh.sbs
 9xmovies.red
+9ypzkr3rffrv9k1481bg6g.cfd
 a.ki
 a--ds.com
 a-ads.com
@@ -7825,7 +7831,6 @@ audacity.fr
 dcs.audi.com
 adserver.audi-on.com
 analytics.audibkk.de
-audiblyhazyviper.com
 smetrics.audidirect.us
 audience2media.com
 audiencegarret.com
@@ -10322,6 +10327,7 @@ thor.blindferret.media
 s.blinds.com
 blinger.io
 jumbo.blinkit.com
+blinksbobblepadding.com
 blinkx.com
 logs.blip.net
 blis.com
@@ -10538,7 +10544,6 @@ bngtrak.com
 bngwlt.com
 bnhtml.com
 bnicrflre.com
-bnidx.com
 bniueaz.com
 bniuseaz.com
 preg.bnjmedia.com
@@ -13426,7 +13431,8 @@ clevernetwork.pt
 clevernt.com
 cleverpush.com
 cleversite.ru
-clevertap.com
+api.clevertap.com
+static.clevertap.com
 clevertap-prod.com
 cleverwebserver.com
 clic2buy.com
@@ -14132,7 +14138,6 @@ cnv.cx
 cnvlink.com
 cnvr.net
 cnwetuaniiaal.site
-cnwucnf.top
 cnzz.cn
 cnzz.com
 cnzz.net
@@ -15785,6 +15790,7 @@ confidentailtoken.com
 config-factory.com
 config-security.com
 sentry.configura.com
+confirmation-vintdd.online
 confirmationrdv-leboncoin-isabru.fr
 digitalfeedback.euro.confirmit.com
 digitalfeedback.us.confirmit.com
@@ -15793,6 +15799,15 @@ confirmsubscription.com
 analytics-api.confluent.io
 telemetry.aws.confluent.cloud
 telemetry.confluent.cloud
+conformation-1912.shop
+conformation-1914.shop
+conformation-1915.shop
+conformation-1916.shop
+conformation-1917.shop
+conformation-1919.shop
+conformation-1923.shop
+conformation-1924.shop
+conformation-1925.shop
 conformation-1926.shop
 confrancisyalgomas.com
 mobile.confsettings.com
@@ -23935,7 +23950,6 @@ geniusonclick.com
 geniusoutset.com
 genmonet.com
 genoo.com
-genspark.ai
 slog.gentechsolution.com
 gentete.com
 gentle-report.com
@@ -31296,6 +31310,7 @@ lblxdvabeshwj.site
 lbp-secu-dossier.xyz
 analytics.lbry.com
 lby2kd27c.com
+lbzyjmbvmkeor.top
 smetrics.lcbo.com
 lcc3f7uzwlzlvemggoj9ofmlz4.cyou
 lchtraf.com
@@ -36860,6 +36875,7 @@ niagarainstitute.com
 nianticcrip.rest
 analytics.nianticlabs.com
 analytics.nianticspatial.com
+nibaz.com
 niblewren.co
 piwik.nic.cz
 analytics.wrc.nic.in
@@ -41728,7 +41744,6 @@ pheasantconstructivekeg.com
 pheedo.com
 telemetry.phenixrts.com
 phenomtrackapi-ir.phenompeople.com
-phfitness.com
 phg4iudj.com
 phgddnjimcj.com
 phgop1.com
@@ -41817,6 +41832,7 @@ piarsrlan.icu
 piasukai.xyz
 piau.in
 pic-stash.com
+picachoamuguis.com
 lt.picaravamos.com
 picareltapa.cfd
 picasguisian.shop
@@ -41867,6 +41883,7 @@ cs44.pikabu.ru
 xpromo.pikpok.com
 piksel.com
 pilierfinward.com
+pilierfward.com
 piliscuddies.shop
 monitoring.pillarbox.ch
 pilleustrig.com
@@ -46812,6 +46829,7 @@ server-side-tagging-gcqfkmu2qq-uc.a.run.app
 server-side-tagging-ghf6jfkeua-uc.a.run.app
 server-side-tagging-h2qw55nphq-uc.a.run.app
 server-side-tagging-h3sa2x4bfa-uc.a.run.app
+server-side-tagging-h7qcd4fhaa-uc.a.run.app
 server-side-tagging-hangnitwaa-uc.a.run.app
 server-side-tagging-higlimivlq-uc.a.run.app
 server-side-tagging-hobmgotkaq-uc.a.run.app
@@ -47791,7 +47809,6 @@ searchsqout.com
 analytics-us.searchstax.com
 static.searchstax.com
 searchsuperpdf.com
-searchswarm.io
 searchtabnew.com
 events.searchtap.net
 searchtds.com
@@ -48371,7 +48388,6 @@ sewardweb.com
 sewboldlyavow.com
 sewlqwcd.biz
 sex-picsxxx.name
-sex-today7.org
 sex-tracker.com
 sexad.net
 track.sexcamchats.com
@@ -48444,7 +48460,6 @@ sg-timepiece.asia
 sg-whatsapp.com
 garry.sgaas.net
 sgaberiqua.world
-sganalytics.com
 sgappanalytics.com
 sgben.com
 t.sgc.io
@@ -48595,7 +48610,6 @@ trk.shelly.cloud
 sentry.offline.shelopes.com
 creative.shemale.show
 shemedia.com
-shemrec.cc
 shenajou.com
 shengfleming.com
 shenshiads.com
@@ -56746,6 +56760,7 @@ vinit.cloud
 vinlens.com
 analytics.vinovo.si
 vintagecartruckpartsshop.net
+vintd.online
 metrics.vinted.lt
 logs-ingress.svc.vinted.com
 metrics-ingress.svc.vinted.com
@@ -59888,6 +59903,7 @@ yacine-live-tv.com
 yadistr.ru
 sentry.toolsprod.yadkrow.dev
 yadore.com
+yadro.ru
 yads.tech
 matomo.yaelconsulting.com
 st.yagla.ru
@@ -60526,6 +60542,7 @@ stats.yudu.com
 yudvl.org
 adv.yuetnc.com
 yuga.ru
+yuhuan.cc
 yuiiy.com
 yuirr4o.shop
 yukclick.me

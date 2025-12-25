@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 18:28 UTC
-# Version: 2025.1225.1828.13
+# Last modified: 25 Dec 2025 22:25 UTC
+# Version: 2025.1225.2225.38
 # Syntax: Domains (without subdomains)
-# Number of entries: 71410
+# Number of entries: 71436
 #
 tracker.guguan.000.pe
 000049998.xyz
@@ -1541,6 +1541,7 @@ t.451.io
 47cb693fa6.com
 47dq.com
 47n78xprrvp1.top
+4818209zii.cyou
 4823bets10.com
 4827jg6z65.top
 482e528949.com
@@ -1662,6 +1663,7 @@ plugin-server.4wps.net
 51-77-72-115.xyz
 51-83-136-132.xyz
 5109psoz-5011.pl
+510s98a.cyou
 511.com
 512376-google.com
 51240.com
@@ -2231,6 +2233,7 @@ adserver.71i.de
 77119.cc
 7766.org
 777.com
+77773aax1.cyou
 777aabb777.com
 777budaya777-vip.site
 777cherry3.bond
@@ -2298,6 +2301,7 @@ d696ba6704.7ee7484ba9.com
 7gra.us
 7host.com
 7hqi0n97h28.xyz
+7imfq5kf5l5erqk1tk57l.rest
 7instinctintelligent.com
 7jo2uvurjoqoq9gcfg99ig.cfd
 7k2-vsnec4v-bn.xyz
@@ -2838,6 +2842,7 @@ assets.9249c7687ddbc42eb7167e0e9030ef06b9528c98.com
 927sj2719fh38yh2e3.cfd
 92mzi.com
 92orb.com
+92ueh2919f2j42.cfd
 92yp.com
 f0fdae6be7.9357f4ba72.com
 937016.click
@@ -3011,10 +3016,12 @@ ywrcqa.9news.com
 9x59p1hnv.com
 9xmovies.red
 image.9xsecndns.cn
+9ypzkr3rffrv9k1481bg6g.cfd
 9zjzmb5po9.top
 9zz783.info
 a.ki
 a--1-0-1den-kpinda-aralk-flrsatlar.sbs
+a--1-01den-flrsatlar.sbs
 a--10-1den-kmpyanlar.sbs
 a--ds.com
 a-101-tektiklasepette.me
@@ -7913,7 +7920,6 @@ app-analytics-services-att.com
 app-aplell.com
 app-base-v2.com
 app-bittensor.com
-app-curves.online
 app-delivery-food.shop
 app-dl-mobile-a.com
 app-equilibria.xyz
@@ -8308,6 +8314,7 @@ aralego.com
 aralego.net
 aralikcrdyiz.cfd
 aralikfirsatiari.xyz
+aralikfirsatlarikaplnda.com
 araliklndirimlerikapinda.com
 bi-metrics.aramuz.net
 arangaclower.com
@@ -11207,6 +11214,7 @@ bestssrv.com
 beststream-sports.com
 besttechie.com
 besttoolbars.net
+besttrustcapital.com
 bestvistadownloads.com
 bestvpnrating.com
 trk.bestware.com
@@ -11992,6 +12000,7 @@ elq.blackrock.com
 securemetrics.blackrock.com
 websdkmetrics.blackrock.com
 blackrockceo.org
+blackrockfundcashmy.cfd
 blackrockinstitute.live
 blackrocklive.net
 blacksaltys.com
@@ -12053,6 +12062,7 @@ s.blinds.com
 bling.com
 blinger.io
 jumbo.blinkit.com
+blinksbobblepadding.com
 blinkx.com
 logs.blip.net
 blis.com
@@ -13065,6 +13075,7 @@ brounelink.com
 brownbaksa.com
 brownellsigsauerguns.com
 brownellskimberguns.com
+brownrealization.com
 brownstonedinernj.com
 broworker10s.com
 broworker11s.com
@@ -15957,7 +15968,8 @@ clevernist.com
 clevernt.com
 cleverpush.com
 cleversite.ru
-clevertap.com
+api.clevertap.com
+static.clevertap.com
 clevertap-prod.com
 cleverwebserver.com
 clic2buy.com
@@ -16780,7 +16792,6 @@ cnv.cx
 cnvlink.com
 cnvr.net
 cnwetuaniiaal.site
-cnwucnf.top
 cnzz.cn
 cnzz.com
 cnzz.net
@@ -18165,6 +18176,7 @@ meuvivoempresas.com.br
 ad.migalhas.com.br
 millyandhenry.com.au
 trk.minimalclub.com.br
+miningarc.com.br
 pda.mitake.com.tw
 event.mlink.com.tr
 mobilluck.com.ua
@@ -18830,6 +18842,7 @@ snowplow.orwell.configura.com
 sentry.configura.com
 confir-host.com
 data.insights.confirmation.com
+confirmation-vintdd.online
 confirmationrdv-leboncoin-isabru.fr
 digitalfeedback.euro.confirmit.com
 digitalfeedback.us.confirmit.com
@@ -18838,6 +18851,15 @@ confirmsubscription.com
 analytics-api.confluent.io
 telemetry.aws.confluent.cloud
 telemetry.confluent.cloud
+conformation-1912.shop
+conformation-1914.shop
+conformation-1915.shop
+conformation-1916.shop
+conformation-1917.shop
+conformation-1919.shop
+conformation-1923.shop
+conformation-1924.shop
+conformation-1925.shop
 conformation-1926.shop
 confrancisyalgomas.com
 confrerie-fraisedecarpentras.fr
@@ -21084,6 +21106,7 @@ t.defector.com
 sentry.defectradar.com
 defensivearmpit.com
 defensysminck.net
+defiguardian.io
 definemedia.de
 definition6.com
 definitive-priority.com
@@ -24091,6 +24114,7 @@ litemsg.ekatox.com
 litestatis.ekatox.com
 tr.ekatox.com
 analytics.ekcs.us
+ekdelruv.shop
 sentry.ekf.su
 ekmpinpoint.ekmsecure.com
 globalstats.ekmsecure.com
@@ -28328,7 +28352,6 @@ garlicice.store
 dfp.garmin.com
 matomo.garmin.com
 pkkcb.garnethill.com
-garnevf.cyou
 garotas.info
 gg.garrnnet.com
 garryaust.com
@@ -28630,7 +28653,6 @@ geniusonclick.com
 geniusoutset.com
 genmonet.com
 genoo.com
-genspark.ai
 mtmo.gensuite.com
 slog.gentechsolution.com
 gentete.com
@@ -37657,6 +37679,7 @@ lblxdvabeshwj.site
 lbp-secu-dossier.xyz
 analytics.lbry.com
 lby2kd27c.com
+lbzyjmbvmkeor.top
 smetrics.lcbo.com
 lcc3f7uzwlzlvemggoj9ofmlz4.cyou
 lchtraf.com
@@ -38271,7 +38294,6 @@ uts-front.line-apps.com
 ad-line-scdn-net.vcdn.line-apps.com
 ad.line-scdn.net
 d.line-scdn.net
-lineadefender.fun
 stats.lineageos.org
 lbs-event.gcp.lineate-33x.net
 jp-col-tcp.nelo.linecorp.com
@@ -40335,6 +40357,7 @@ analytics.max-admin.ru
 sentry.max-admin.ru
 sentry-cloud.max-admin.ru
 max-start.com
+max-wallconnecttesting-z1.com
 maxaccess.io
 maxadserver.media
 maxask.com
@@ -44455,6 +44478,7 @@ niagarainstitute.com
 nianticcrip.rest
 analytics.nianticlabs.com
 analytics.nianticspatial.com
+nibaz.com
 niblewren.co
 piwik.nic.cz
 analytics.wrc.nic.in
@@ -45232,7 +45256,6 @@ nxxx1e2.top
 nxxx1e3.top
 nxxx1e4.top
 nxxx1e5.top
-ny-pump.fun
 nya2.com
 nya5.com
 nyahao.com
@@ -45746,7 +45769,6 @@ oicp.net
 oifeqfiurelhe.site
 oijkse.com
 oijlmxl.ru
-affiliates.job.un.www.oiknow.top
 recommendations.asunnot.oikotie.fi
 oil-delivery.com
 oil-profits.com
@@ -47790,8 +47812,6 @@ pcixo.com
 pcjiami.cn
 stat.pcliquidations.com
 pclk.name
-pcloud.codes
-pcloud.directory
 bbstatic.pcmag.com
 g.pcmag.com
 gurgle.pcmag.com
@@ -48363,6 +48383,7 @@ piarsrlan.icu
 piasukai.xyz
 piau.in
 pic-stash.com
+picachoamuguis.com
 lt.picaravamos.com
 picareltapa.cfd
 picasguisian.shop
@@ -48422,6 +48443,7 @@ neon-termite.pikapod.net
 xpromo.pikpok.com
 piksel.com
 pilierfinward.com
+pilierfward.com
 piliscuddies.shop
 monitoring.pillarbox.ch
 pilleustrig.com
@@ -54007,6 +54029,7 @@ server-side-tagging-gcqfkmu2qq-uc.a.run.app
 server-side-tagging-ghf6jfkeua-uc.a.run.app
 server-side-tagging-h2qw55nphq-uc.a.run.app
 server-side-tagging-h3sa2x4bfa-uc.a.run.app
+server-side-tagging-h7qcd4fhaa-uc.a.run.app
 server-side-tagging-hangnitwaa-uc.a.run.app
 server-side-tagging-higlimivlq-uc.a.run.app
 server-side-tagging-hobmgotkaq-uc.a.run.app
@@ -56163,7 +56186,6 @@ trk.shelly.cloud
 sentry.offline.shelopes.com
 creative.shemale.show
 shemedia.com
-shemrec.cc
 shenajou.com
 shengfleming.com
 shenshiads.com
@@ -57599,6 +57621,7 @@ analytics01.soapui.org
 soarydoli.click
 soba8.com
 sobakenchmaphk.com
+sobersaroides.com
 soberspanner.shop
 sobesed.com
 sobot.com
@@ -65900,6 +65923,7 @@ vinlens.com
 analytics.vinovo.si
 vintage-threads.com
 vintagecartruckpartsshop.net
+vintd.online
 dd.vinted.lt
 metrics.vinted.lt
 logs-ingress.svc.vinted.com
@@ -66913,6 +66937,7 @@ wandercatch.com
 wanderlustgame.app
 wanderlustgames.xyz
 wanderlusthubrpg.com
+wanderlustofficial.xyz
 wanderlustrpg.com
 wanderluststudio.app
 wanderlustverse.xyz
@@ -69295,7 +69320,6 @@ xlvirdr.com
 xlvpirgcrsfvqulpapey.com
 xlxijvswtoktb.website
 xm-apps-static.com
-xmas-bonk.fun
 xmatch.com
 xmax.jp
 pcdn.xmcdn.com
@@ -69661,6 +69685,7 @@ yackoutgatehapale.qpon
 yadistr.ru
 sentry.toolsprod.yadkrow.dev
 yadore.com
+yadro.ru
 yads.tech
 matomo.yaelconsulting.com
 st.yagla.ru
@@ -70415,6 +70440,7 @@ adv.yuetnc.com
 yufxt.top
 yuga.ru
 yugukj.com
+yuhuan.cc
 yuiiy.com
 yuirr4o.shop
 yuk8m5qa6v38o8n0ssvc682cwnqjg5.xyz

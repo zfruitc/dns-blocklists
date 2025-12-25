@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766686200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766700420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Dec 2025 18:10 UTC
-; Version: 2025.1225.1810.38
+; Last modified: 25 Dec 2025 22:07 UTC
+; Version: 2025.1225.2207.49
 ; Syntax: RPZ
-; Number of entries: 79076
+; Number of entries: 79134
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -532,6 +532,8 @@ server-side-tagging-h2qw55nphq-uc.a.run.app CNAME .
 *.server-side-tagging-h2qw55nphq-uc.a.run.app CNAME .
 server-side-tagging-h3sa2x4bfa-uc.a.run.app CNAME .
 *.server-side-tagging-h3sa2x4bfa-uc.a.run.app CNAME .
+server-side-tagging-h7qcd4fhaa-uc.a.run.app CNAME .
+*.server-side-tagging-h7qcd4fhaa-uc.a.run.app CNAME .
 server-side-tagging-hangnitwaa-uc.a.run.app CNAME .
 *.server-side-tagging-hangnitwaa-uc.a.run.app CNAME .
 server-side-tagging-higlimivlq-uc.a.run.app CNAME .
@@ -2224,8 +2226,6 @@ sdarot.cc CNAME .
 *.sdarot.cc CNAME .
 stat.seedr.cc CNAME .
 *.stat.seedr.cc CNAME .
-shemrec.cc CNAME .
-*.shemrec.cc CNAME .
 site-maps.cc CNAME .
 *.site-maps.cc CNAME .
 sparkjoy.cc CNAME .
@@ -2266,6 +2266,8 @@ analytics.wondershare.cc CNAME .
 *.analytics.wondershare.cc CNAME .
 xywlapi.cc CNAME .
 *.xywlapi.cc CNAME .
+yuhuan.cc CNAME .
+*.yuhuan.cc CNAME .
 z-library.cc CNAME .
 *.z-library.cc CNAME .
 melbet.cd CNAME .
@@ -2328,12 +2330,16 @@ azure.ceo CNAME .
 *.91m86cthei7kj1l.cfd CNAME .
 927sj2719fh38yh2e3.cfd CNAME .
 *.927sj2719fh38yh2e3.cfd CNAME .
+92ueh2919f2j42.cfd CNAME .
+*.92ueh2919f2j42.cfd CNAME .
 99d55c13ae7d1ebf.cfd CNAME .
 *.99d55c13ae7d1ebf.cfd CNAME .
 9deu28y2y3h2912e28232.cfd CNAME .
 *.9deu28y2y3h2912e28232.cfd CNAME .
 9ronnlzw6be75t599e3n.cfd CNAME .
 *.9ronnlzw6be75t599e3n.cfd CNAME .
+9ypzkr3rffrv9k1481bg6g.cfd CNAME .
+*.9ypzkr3rffrv9k1481bg6g.cfd CNAME .
 abaturenative.cfd CNAME .
 *.abaturenative.cfd CNAME .
 airdropcassino.cfd CNAME .
@@ -3884,6 +3890,8 @@ gymony.club CNAME .
 *.gymony.club CNAME .
 hkjfukkhwfepo.club CNAME .
 *.hkjfukkhwfepo.club CNAME .
+itskiddien.club CNAME .
+*.itskiddien.club CNAME .
 jmpmedia.club CNAME .
 *.jmpmedia.club CNAME .
 larpollicwilli.club CNAME .
@@ -32596,6 +32604,8 @@ analytics.nianticlabs.com CNAME .
 *.analytics.nianticlabs.com CNAME .
 analytics.nianticspatial.com CNAME .
 *.analytics.nianticspatial.com CNAME .
+nibaz.com CNAME .
+*.nibaz.com CNAME .
 nicelyclangbitterness.com CNAME .
 *.nicelyclangbitterness.com CNAME .
 nicelygoldfish.com CNAME .
@@ -34912,6 +34922,8 @@ phywifupta.com CNAME .
 *.phywifupta.com CNAME .
 pic-stash.com CNAME .
 *.pic-stash.com CNAME .
+picachoamuguis.com CNAME .
+*.picachoamuguis.com CNAME .
 lt.picaravamos.com CNAME .
 *.lt.picaravamos.com CNAME .
 picdixwap.com CNAME .
@@ -50296,10 +50308,18 @@ adstorebluebird.cy CNAME .
 *.1198aus-1a.cyou CNAME .
 3988ua-5a.cyou CNAME .
 *.3988ua-5a.cyou CNAME .
+4818209zii.cyou CNAME .
+*.4818209zii.cyou CNAME .
 4bcc6h75ic9yu5h9nhwnv.cyou CNAME .
 *.4bcc6h75ic9yu5h9nhwnv.cyou CNAME .
+510s98a.cyou CNAME .
+*.510s98a.cyou CNAME .
+51981s7a.cyou CNAME .
+*.51981s7a.cyou CNAME .
 6lioz2j44t7br7c5.cyou CNAME .
 *.6lioz2j44t7br7c5.cyou CNAME .
+77773aax1.cyou CNAME .
+*.77773aax1.cyou CNAME .
 7cl47jhh7zhcoqz.cyou CNAME .
 *.7cl47jhh7zhcoqz.cyou CNAME .
 87df223265.cyou CNAME .
@@ -50308,6 +50328,8 @@ adstorebluebird.cy CNAME .
 *.8910888d72ff6f053012cb8f02377d2e.cyou CNAME .
 9fnq2zhkkolqlzl.cyou CNAME .
 *.9fnq2zhkkolqlzl.cyou CNAME .
+a556888-113.cyou CNAME .
+*.a556888-113.cyou CNAME .
 agyriacletch.cyou CNAME .
 *.agyriacletch.cyou CNAME .
 aireflayinggastly.cyou CNAME .
@@ -54656,12 +54678,16 @@ pl-oferta6734157.icu CNAME .
 *.pl-oferta6734157.icu CNAME .
 pl-oferta6834153.icu CNAME .
 *.pl-oferta6834153.icu CNAME .
+plsd9hlazb02xk.icu CNAME .
+*.plsd9hlazb02xk.icu CNAME .
 plsd9kbbbghbg01xk.icu CNAME .
 *.plsd9kbbbghbg01xk.icu CNAME .
 plsd9klagzb01xk.icu CNAME .
 *.plsd9klagzb01xk.icu CNAME .
 plsd9klazb02xk.icu CNAME .
 *.plsd9klazb02xk.icu CNAME .
+plsd9klazs02xk.icu CNAME .
+*.plsd9klazs02xk.icu CNAME .
 plsd9klffgkaghbg01xk.icu CNAME .
 *.plsd9klffgkaghbg01xk.icu CNAME .
 plsd9klffgkarssbg01xk.icu CNAME .
@@ -54676,6 +54702,10 @@ plsd9klggzb01xk.icu CNAME .
 *.plsd9klggzb01xk.icu CNAME .
 plsd9klgzb01xk.icu CNAME .
 *.plsd9klgzb01xk.icu CNAME .
+plsm9klazs02xk.icu CNAME .
+*.plsm9klazs02xk.icu CNAME .
+plso9klazs02xk.icu CNAME .
+*.plso9klazs02xk.icu CNAME .
 pohangoffice.icu CNAME .
 *.pohangoffice.icu CNAME .
 hruk.prikupok.icu CNAME .
@@ -70042,6 +70072,8 @@ postback.report CNAME .
 *.6kufrp8foo21iqeepipt3pln144o2.rest CNAME .
 72wrogow4jtywnro.rest CNAME .
 *.72wrogow4jtywnro.rest CNAME .
+7imfq5kf5l5erqk1tk57l.rest CNAME .
+*.7imfq5kf5l5erqk1tk57l.rest CNAME .
 7uf9rqubcm6ho65wo6onu7x8m.rest CNAME .
 *.7uf9rqubcm6ho65wo6onu7x8m.rest CNAME .
 87prlie156wy4j9.rest CNAME .
@@ -71712,6 +71744,8 @@ y72c.ru CNAME .
 *.y72c.ru CNAME .
 ya-distrib.ru CNAME .
 *.ya-distrib.ru CNAME .
+yadro.ru CNAME .
+*.yadro.ru CNAME .
 adfox.yandex.ru CNAME .
 *.adfox.yandex.ru CNAME .
 adfstat.yandex.ru CNAME .
@@ -71852,6 +71886,8 @@ stat.u.sb CNAME .
 *.4rabet.sbs CNAME .
 5nyhbe3.sbs CNAME .
 *.5nyhbe3.sbs CNAME .
+6095833dfiu1.sbs CNAME .
+*.6095833dfiu1.sbs CNAME .
 6ehbge3.sbs CNAME .
 *.6ehbge3.sbs CNAME .
 737981udh27107dh28.sbs CNAME .
@@ -71872,6 +71908,8 @@ adbf5a778175ee757c34d0eba4e932bc.sbs CNAME .
 *.adbf5a778175ee757c34d0eba4e932bc.sbs CNAME .
 akatorisushidelivery.sbs CNAME .
 *.akatorisushidelivery.sbs CNAME .
+auir1144.sbs CNAME .
+*.auir1144.sbs CNAME .
 b6e76b1f0a71e75e8f9034c107afea6c.sbs CNAME .
 *.b6e76b1f0a71e75e8f9034c107afea6c.sbs CNAME .
 b8j4rn.sbs CNAME .
@@ -72390,6 +72428,26 @@ christmas-sale-live.shop CNAME .
 *.christmas-sale-live.shop CNAME .
 concession072925.shop CNAME .
 *.concession072925.shop CNAME .
+conformation-1912.shop CNAME .
+*.conformation-1912.shop CNAME .
+conformation-1914.shop CNAME .
+*.conformation-1914.shop CNAME .
+conformation-1915.shop CNAME .
+*.conformation-1915.shop CNAME .
+conformation-1916.shop CNAME .
+*.conformation-1916.shop CNAME .
+conformation-1917.shop CNAME .
+*.conformation-1917.shop CNAME .
+conformation-1919.shop CNAME .
+*.conformation-1919.shop CNAME .
+conformation-1923.shop CNAME .
+*.conformation-1923.shop CNAME .
+conformation-1924.shop CNAME .
+*.conformation-1924.shop CNAME .
+conformation-1925.shop CNAME .
+*.conformation-1925.shop CNAME .
+conformation-1926.shop CNAME .
+*.conformation-1926.shop CNAME .
 consortshaheen.shop CNAME .
 *.consortshaheen.shop CNAME .
 cornerofficesidesale.shop CNAME .
@@ -74740,8 +74798,6 @@ cloudflareprime.top CNAME .
 *.cloudflareprime.top CNAME .
 cloudflarepro.top CNAME .
 *.cloudflarepro.top CNAME .
-cnwucnf.top CNAME .
-*.cnwucnf.top CNAME .
 cofficer365.top CNAME .
 *.cofficer365.top CNAME .
 coinbasehelp.top CNAME .
@@ -74990,6 +75046,8 @@ tz.lapelerkotows.top CNAME .
 *.tz.lapelerkotows.top CNAME .
 laridaetrionfo.top CNAME .
 *.laridaetrionfo.top CNAME .
+lbzyjmbvmkeor.top CNAME .
+*.lbzyjmbvmkeor.top CNAME .
 yn.leaklentisk.top CNAME .
 *.yn.leaklentisk.top CNAME .
 lustrum.liccayouth.top CNAME .

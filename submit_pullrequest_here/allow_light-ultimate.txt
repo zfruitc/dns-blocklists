@@ -746,9 +746,6 @@ t.xfin.me
 # https://github.com/hagezi/dns-blocklists/issues/3046
 tracker.gamesdonequick.com
 
-# https://github.com/hagezi/dns-blocklists/issues/3033
-counter.yadro.ru
-
 # https://github.com/hagezi/dns-blocklists/issues/3016
 biocatch.com
 we-stats.com
