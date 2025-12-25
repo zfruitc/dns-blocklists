@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Dec 2025 02:16 UTC
-! Version: 2025.1225.0216.34
+! Last modified: 25 Dec 2025 06:18 UTC
+! Version: 2025.1225.0618.01
 ! Syntax: AdBlock
-! Number of entries: 62356
+! Number of entries: 62367
 !
 ||tracker.guguan.000.pe^
 ||00055edc1917.com^
@@ -8553,6 +8553,7 @@
 ||b7d2fa7ccf.com^
 ||b7d3459705.com^
 ||a.b7q9v8z.com^
+||b8j4rn.sbs^
 ||b918ff340a8313ae043d69efdf3bda0d.com^
 ||b97c924c81.world^
 ||b9de82bb39.com^
@@ -14107,7 +14108,6 @@
 ||cnvlink.com^
 ||cnvr.net^
 ||cnwetuaniiaal.site^
-||cnwucnf.top^
 ||cnzz.cn^
 ||cnzz.com^
 ||cnzz.net^
@@ -14510,6 +14510,7 @@
 ||uatu.newsquestdigital.co.uk^
 ||api.e.next.co.uk^
 ||cdn.e.next.co.uk^
+||tags-preview.next.co.uk^
 ||nextdigital.co.id^
 ||nicorette.co.kr^
 ||smetrics.nisbets.co.uk^
@@ -16048,6 +16049,7 @@
 ||contanuity.com^
 ||contatoreaccessi.com^
 ||contemo.ru^
+||contemplatepushed.com^
 ||beacon360.content.online^
 ||content-ai.com^
 ||content-cdn.com^
@@ -17190,6 +17192,7 @@
 ||dao01.bid^
 ||dao01.biz^
 ||daogem.io^
+||daonac.uno^
 ||daoyoudao.com^
 ||dapper.net^
 ||defi-tracker.dappradar.com^
@@ -17682,6 +17685,7 @@
 ||debaucky.com^
 ||analytics.debenhams.com^
 ||ssgtm.debijenkorf.be^
+||ssgtm.debijenkorf.nl^
 ||debitcrebit669.com^
 ||debonairdust.com^
 ||debonairtree.com^
@@ -19968,6 +19972,7 @@
 ||ecomicrolab.com^
 ||ecomm.events^
 ||crossadsapi.ecomobileapp.com^
+||pixel.ecomposer.app^
 ||pixel.ecomrise.app^
 ||ecomsend.com^
 ||econda.de^
@@ -32945,6 +32950,7 @@
 ||lottoland.com^
 ||lytics.lotum.com^
 ||lotus-ads.com^
+||gtm.lotustherme.net^
 ||ewe.loudcrowd.com^
 ||louderpregnantshabby.com^
 ||plausible.louhu.com^
@@ -33656,6 +33662,7 @@
 ||mapp.com^
 ||dimensions.mappy.com^
 ||log.mappy.net^
+||mapre.work^
 ||maps-locates.info^
 ||mapsgalaxy.com^
 ||analytics-input-core.mapsted.com^
@@ -37478,6 +37485,7 @@
 ||nixbetcasino.fr^
 ||nixbetcasino-fr.fr^
 ||nixbett.fr^
+||nizuho-sc.vip^
 ||ead.nj.com^
 ||x054.nj.com^
 ||nj-aa.cyou^
@@ -41681,6 +41689,7 @@
 ||parivahianv.icu^
 ||parivahoingov.click^
 ||parivazhanngovin.icu^
+||cdn-ads.park4night.com^
 ||sgtm.parker.com^
 ||tracking.solutions.parker.com^
 ||parket-schuren-hoorn.nl^
@@ -49366,7 +49375,6 @@
 ||sentry.offline.shelopes.com^
 ||creative.shemale.show^
 ||shemedia.com^
-||shemrec.cc^
 ||shenajou.com^
 ||shengfleming.com^
 ||shenshiads.com^
@@ -51112,7 +51120,7 @@
 ||sploads.site^
 ||telemetry-splkmobile.dataeng.splunk.com^
 ||sgtm.splunk.com^
-||http-inputs-notion.splunkcloud.com^
+||splunkcloud.com^
 ||splut.com^
 ||spmkomputer.com^
 ||spnccrzone.com^
@@ -56997,6 +57005,7 @@
 ||sentry.uxmal.tech^
 ||uxmmxegfq.com^
 ||uxsniff.com^
+||uyfv.cn^
 ||uygzzolefhafe.online^
 ||uyunad.com^
 ||uz03webzoom.us^
@@ -57020,6 +57029,7 @@
 ||v2z.ru^
 ||va-endpoint.com^
 ||vable.com^
+||vaboler.cloud^
 ||vabtbjzuwbzki.online^
 ||sgtm.vacanceselect.com^
 ||trk.us.vacasa.com^
@@ -61542,6 +61552,7 @@
 ||yudvl.org^
 ||adv.yuetnc.com^
 ||yuga.ru^
+||yuhuan.cc^
 ||yuiiy.com^
 ||yuirr4o.shop^
 ||yukclick.me^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 02:05 UTC
-# Version: 2025.1225.0205.56
+# Last modified: 25 Dec 2025 06:07 UTC
+# Version: 2025.1225.0607.45
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 84053
+# Number of entries: 84058
 #
 0.0.0.0 00055edc1917.com
 0.0.0.0 000bee1b9f5d6b93d10c1d68b728ad70.com
@@ -21956,6 +21956,7 @@
 0.0.0.0 b7d2fa7ccf.com
 0.0.0.0 b7d3459705.com
 0.0.0.0 a.b7q9v8z.com
+0.0.0.0 b8j4rn.sbs
 0.0.0.0 b918ff340a8313ae043d69efdf3bda0d.com
 0.0.0.0 b97c924c81.world
 0.0.0.0 b9de82bb39.com
@@ -22186,7 +22187,6 @@
 0.0.0.0 bandhzygous.com
 0.0.0.0 adv.bandi.so
 0.0.0.0 ana.bandi.so
-0.0.0.0 ad.bandlab.io
 0.0.0.0 amplitude.bandlab.com
 0.0.0.0 amplitude-experiment.bandlab.com
 0.0.0.0 geo.bandlab.io
@@ -31085,7 +31085,6 @@
 0.0.0.0 amp.cntxcdm.com
 0.0.0.0 cnvlink.com
 0.0.0.0 cnwetuaniiaal.site
-0.0.0.0 cnwucnf.top
 0.0.0.0 cnzz.net
 0.0.0.0 c.cnzz.com
 0.0.0.0 ei.cnzz.com
@@ -32620,6 +32619,7 @@
 0.0.0.0 tracking.contanuity.com
 0.0.0.0 contatoreaccessi.com
 0.0.0.0 contemo.ru
+0.0.0.0 contemplatepushed.com
 0.0.0.0 content-garden.com
 0.0.0.0 cdn.content-garden.com
 0.0.0.0 images.content-garden.com
@@ -33210,6 +33210,7 @@
 0.0.0.0 countercity.de
 0.0.0.0 counteronline.de
 0.0.0.0 counterstation.de
+0.0.0.0 countingmainly.com
 0.0.0.0 countlessdispleased.com
 0.0.0.0 countly.com
 0.0.0.0 flex.countly.com
@@ -34727,6 +34728,7 @@
 0.0.0.0 debaucky.com
 0.0.0.0 analytics.debenhams.com
 0.0.0.0 ssgtm.debijenkorf.be
+0.0.0.0 ssgtm.debijenkorf.nl
 0.0.0.0 debitcrebit669.com
 0.0.0.0 cdn.debitcrebit669.com
 0.0.0.0 z.cdn.debitcrebit669.com
@@ -60039,6 +60041,7 @@
 0.0.0.0 nixbetcasino.fr
 0.0.0.0 nixbetcasino-fr.fr
 0.0.0.0 nixbett.fr
+0.0.0.0 nizuho-sc.vip
 0.0.0.0 news.njbiz.com
 0.0.0.0 nje9wz5vf48l8h.rest
 0.0.0.0 matomo.njhealth.org
@@ -68339,6 +68342,7 @@
 0.0.0.0 sdk.rfunbox.com
 0.0.0.0 se.rfvtgbyhn.com
 0.0.0.0 icon.eu.rfxmnd.com
+0.0.0.0 apistats.rg.ru
 0.0.0.0 rg-be.ru
 0.0.0.0 rgemgnxejsmrt.online
 0.0.0.0 rgmuvspukfmfo.site
@@ -70836,7 +70840,6 @@
 0.0.0.0 shelljacket.us
 0.0.0.0 trk.shelly.cloud
 0.0.0.0 creative.shemale.show
-0.0.0.0 shemrec.cc
 0.0.0.0 shenajou.com
 0.0.0.0 shengfleming.com
 0.0.0.0 shenshiads.com
@@ -79178,6 +79181,7 @@
 0.0.0.0 uxahhowennlqf.website
 0.0.0.0 verify.uxcam.com
 0.0.0.0 uxmmxegfq.com
+0.0.0.0 uyfv.cn
 0.0.0.0 uygzzolefhafe.online
 0.0.0.0 uyunad.com
 0.0.0.0 aaid.uyunad.com
@@ -83373,6 +83377,7 @@
 0.0.0.0 yubziosgvkweu.online
 0.0.0.0 yuckyducks.xyz
 0.0.0.0 yudvl.org
+0.0.0.0 yuhuan.cc
 0.0.0.0 yuiiy.com
 0.0.0.0 yukclick.me
 0.0.0.0 yukishigure.com

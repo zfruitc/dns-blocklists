@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766628960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766643480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Pro++ mini DNS/Browser Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Dec 2025 02:16 UTC
-; Version: 2025.1225.0216.34
+; Last modified: 25 Dec 2025 06:18 UTC
+; Version: 2025.1225.0618.01
 ; Syntax: RPZ
-; Number of entries: 124712
+; Number of entries: 124734
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -696,6 +696,8 @@ dyn-rev.app CNAME .
 *.dyn-rev.app CNAME .
 easyprint.app CNAME .
 *.easyprint.app CNAME .
+pixel.ecomposer.app CNAME .
+*.pixel.ecomposer.app CNAME .
 pixel.ecomrise.app CNAME .
 *.pixel.ecomrise.app CNAME .
 ta-ad-intervention-reporting.edgecompute.app CNAME .
@@ -4234,8 +4236,6 @@ sentry.seedr.cc CNAME .
 *.sentry.seedr.cc CNAME .
 stat.seedr.cc CNAME .
 *.stat.seedr.cc CNAME .
-shemrec.cc CNAME .
-*.shemrec.cc CNAME .
 shortwa.cc CNAME .
 *.shortwa.cc CNAME .
 site-maps.cc CNAME .
@@ -4324,6 +4324,8 @@ xywlapi.cc CNAME .
 *.xywlapi.cc CNAME .
 youareanidiot.cc CNAME .
 *.youareanidiot.cc CNAME .
+yuhuan.cc CNAME .
+*.yuhuan.cc CNAME .
 z-library.cc CNAME .
 *.z-library.cc CNAME .
 melbet.cd CNAME .
@@ -6874,6 +6876,8 @@ ua-sec.cloud CNAME .
 *.ua-sec.cloud CNAME .
 rum.upassist.cloud CNAME .
 *.rum.upassist.cloud CNAME .
+vaboler.cloud CNAME .
+*.vaboler.cloud CNAME .
 valuad.cloud CNAME .
 *.valuad.cloud CNAME .
 vastrelpoint.cloud CNAME .
@@ -8304,6 +8308,8 @@ unityads.unitychina.cn CNAME .
 *.unityads.unitychina.cn CNAME .
 urlqh.cn CNAME .
 *.urlqh.cn CNAME .
+uyfv.cn CNAME .
+*.uyfv.cn CNAME .
 vainews.cn CNAME .
 *.vainews.cn CNAME .
 vlion.cn CNAME .
@@ -25524,6 +25530,8 @@ contanuity.com CNAME .
 *.contanuity.com CNAME .
 contatoreaccessi.com CNAME .
 *.contatoreaccessi.com CNAME .
+contemplatepushed.com CNAME .
+*.contemplatepushed.com CNAME .
 content-ai.com CNAME .
 *.content-ai.com CNAME .
 content-cdn.com CNAME .
@@ -53766,6 +53774,8 @@ parimatch.com CNAME .
 *.parimatch.com CNAME .
 parisyoungerfashion.com CNAME .
 *.parisyoungerfashion.com CNAME .
+cdn-ads.park4night.com CNAME .
+*.cdn-ads.park4night.com CNAME .
 sgtm.parker.com CNAME .
 *.sgtm.parker.com CNAME .
 tracking.solutions.parker.com CNAME .
@@ -63692,8 +63702,8 @@ telemetry-splkmobile.dataeng.splunk.com CNAME .
 *.telemetry-splkmobile.dataeng.splunk.com CNAME .
 sgtm.splunk.com CNAME .
 *.sgtm.splunk.com CNAME .
-http-inputs-notion.splunkcloud.com CNAME .
-*.http-inputs-notion.splunkcloud.com CNAME .
+splunkcloud.com CNAME .
+*.splunkcloud.com CNAME .
 splut.com CNAME .
 *.splut.com CNAME .
 spmkomputer.com CNAME .
@@ -98428,6 +98438,8 @@ loohaiturigavik.net CNAME .
 *.loohaiturigavik.net CNAME .
 loopmeedge.net CNAME .
 *.loopmeedge.net CNAME .
+gtm.lotustherme.net CNAME .
+*.gtm.lotustherme.net CNAME .
 sdk.loveota.net CNAME .
 *.sdk.loveota.net CNAME .
 adserv.loveslc.net CNAME .
@@ -104952,6 +104964,8 @@ dca.nl CNAME .
 *.dca.nl CNAME .
 tracker.deadorbit.nl CNAME .
 *.tracker.deadorbit.nl CNAME .
+ssgtm.debijenkorf.nl CNAME .
+*.ssgtm.debijenkorf.nl CNAME .
 analytics.degiro.nl CNAME .
 *.analytics.degiro.nl CNAME .
 tagging.dekruidenbaron.nl CNAME .
@@ -113084,6 +113098,8 @@ auloginz3e9.sbs CNAME .
 *.auloginz3e9.sbs CNAME .
 b6e76b1f0a71e75e8f9034c107afea6c.sbs CNAME .
 *.b6e76b1f0a71e75e8f9034c107afea6c.sbs CNAME .
+b8j4rn.sbs CNAME .
+*.b8j4rn.sbs CNAME .
 banbif-tarjetas.sbs CNAME .
 *.banbif-tarjetas.sbs CNAME .
 bbusisa-aad.sbs CNAME .
@@ -117474,8 +117490,6 @@ cloudsecure.top CNAME .
 *.cloudsecure.top CNAME .
 cms-p.top CNAME .
 *.cms-p.top CNAME .
-cnwucnf.top CNAME .
-*.cnwucnf.top CNAME .
 cofficer365.top CNAME .
 *.cofficer365.top CNAME .
 coinbasehelp.top CNAME .
@@ -119948,6 +119962,8 @@ api.e.next.co.uk CNAME .
 *.api.e.next.co.uk CNAME .
 cdn.e.next.co.uk CNAME .
 *.cdn.e.next.co.uk CNAME .
+tags-preview.next.co.uk CNAME .
+*.tags-preview.next.co.uk CNAME .
 smetrics.nisbets.co.uk CNAME .
 *.smetrics.nisbets.co.uk CNAME .
 officeclearance.co.uk CNAME .
@@ -120324,6 +120340,8 @@ catavo.uno CNAME .
 *.catavo.uno CNAME .
 const.uno CNAME .
 *.const.uno CNAME .
+daonac.uno CNAME .
+*.daonac.uno CNAME .
 kiyala.uno CNAME .
 *.kiyala.uno CNAME .
 peaktrck.uno CNAME .
@@ -120964,6 +120982,8 @@ minigame.vip CNAME .
 *.minigame.vip CNAME .
 mxttpst2025.vip CNAME .
 *.mxttpst2025.vip CNAME .
+nizuho-sc.vip CNAME .
+*.nizuho-sc.vip CNAME .
 ntlurfixeyzlf.vip CNAME .
 *.ntlurfixeyzlf.vip CNAME .
 ogloszenie-588965.vip CNAME .
@@ -122078,6 +122098,8 @@ content.console.pendo.legion.work CNAME .
 *.content.console.pendo.legion.work CNAME .
 data.console.pendo.legion.work CNAME .
 *.data.console.pendo.legion.work CNAME .
+mapre.work CNAME .
+*.mapre.work CNAME .
 nk-office.work CNAME .
 *.nk-office.work CNAME .
 officecrmex.work CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766628300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766642820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Dec 2025 02:05 UTC
-; Version: 2025.1225.0205.56
+; Last modified: 25 Dec 2025 06:07 UTC
+; Version: 2025.1225.0607.45
 ; Syntax: RPZ
-; Number of entries: 80716
+; Number of entries: 80726
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -2330,8 +2330,6 @@ sdarot.cc CNAME .
 *.sdarot.cc CNAME .
 stat.seedr.cc CNAME .
 *.stat.seedr.cc CNAME .
-shemrec.cc CNAME .
-*.shemrec.cc CNAME .
 site-maps.cc CNAME .
 *.site-maps.cc CNAME .
 sloty.cc CNAME .
@@ -2382,6 +2380,8 @@ analytics.wondershare.cc CNAME .
 *.analytics.wondershare.cc CNAME .
 xywlapi.cc CNAME .
 *.xywlapi.cc CNAME .
+yuhuan.cc CNAME .
+*.yuhuan.cc CNAME .
 z-library.cc CNAME .
 *.z-library.cc CNAME .
 melbet.cd CNAME .
@@ -4898,6 +4898,8 @@ cdn.iads.unitychina.cn CNAME .
 *.cdn.iads.unitychina.cn CNAME .
 urlqh.cn CNAME .
 *.urlqh.cn CNAME .
+uyfv.cn CNAME .
+*.uyfv.cn CNAME .
 vainews.cn CNAME .
 *.vainews.cn CNAME .
 vlion.cn CNAME .
@@ -16864,6 +16866,8 @@ contanuity.com CNAME .
 *.contanuity.com CNAME .
 contatoreaccessi.com CNAME .
 *.contatoreaccessi.com CNAME .
+contemplatepushed.com CNAME .
+*.contemplatepushed.com CNAME .
 content-garden.com CNAME .
 *.content-garden.com CNAME .
 content-rec.com CNAME .
@@ -17148,6 +17152,8 @@ countabledawdlerunaudited.com CNAME .
 *.countabledawdlerunaudited.com CNAME .
 counterapi.com CNAME .
 *.counterapi.com CNAME .
+countingmainly.com CNAME .
+*.countingmainly.com CNAME .
 countlessdispleased.com CNAME .
 *.countlessdispleased.com CNAME .
 countly.com CNAME .
@@ -56886,8 +56892,6 @@ noodle.backmarket.io CNAME .
 *.noodle.backmarket.io CNAME .
 telemetry.bambuser.io CNAME .
 *.telemetry.bambuser.io CNAME .
-ad.bandlab.io CNAME .
-*.ad.bandlab.io CNAME .
 geo.bandlab.io CNAME .
 *.geo.bandlab.io CNAME .
 lb1.beamanalytics.io CNAME .
@@ -67682,6 +67686,8 @@ swa.consumentenbond.nl CNAME .
 *.swa.consumentenbond.nl CNAME .
 inzicht.cz.nl CNAME .
 *.inzicht.cz.nl CNAME .
+ssgtm.debijenkorf.nl CNAME .
+*.ssgtm.debijenkorf.nl CNAME .
 analytics.degiro.nl CNAME .
 *.analytics.degiro.nl CNAME .
 sgtm.delta.nl CNAME .
@@ -72488,6 +72494,8 @@ remont-yandex-tech.ru CNAME .
 *.remont-yandex-tech.ru CNAME .
 rezale.ru CNAME .
 *.rezale.ru CNAME .
+apistats.rg.ru CNAME .
+*.apistats.rg.ru CNAME .
 rg-be.ru CNAME .
 *.rg-be.ru CNAME .
 a.ria.ru CNAME .
@@ -73026,6 +73034,8 @@ adbf5a778175ee757c34d0eba4e932bc.sbs CNAME .
 *.adbf5a778175ee757c34d0eba4e932bc.sbs CNAME .
 b6e76b1f0a71e75e8f9034c107afea6c.sbs CNAME .
 *.b6e76b1f0a71e75e8f9034c107afea6c.sbs CNAME .
+b8j4rn.sbs CNAME .
+*.b8j4rn.sbs CNAME .
 banbif-tarjetas.sbs CNAME .
 *.banbif-tarjetas.sbs CNAME .
 brasildelivery.sbs CNAME .
@@ -76088,8 +76098,6 @@ cloudflareprime.top CNAME .
 *.cloudflareprime.top CNAME .
 cloudflarepro.top CNAME .
 *.cloudflarepro.top CNAME .
-cnwucnf.top CNAME .
-*.cnwucnf.top CNAME .
 cofficer365.top CNAME .
 *.cofficer365.top CNAME .
 coinbasehelp.top CNAME .
@@ -78300,6 +78308,8 @@ majile.vip CNAME .
 *.majile.vip CNAME .
 majorsflexpress43.vip CNAME .
 *.majorsflexpress43.vip CNAME .
+nizuho-sc.vip CNAME .
+*.nizuho-sc.vip CNAME .
 ntlurfixeyzlf.vip CNAME .
 *.ntlurfixeyzlf.vip CNAME .
 ogloszenie-588965.vip CNAME .

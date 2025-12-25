@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 02:05 UTC
-# Version: 2025.1225.0205.56
+# Last modified: 25 Dec 2025 06:07 UTC
+# Version: 2025.1225.0607.45
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 84053
+# Number of entries: 84058
 #
 00055edc1917.com
 000bee1b9f5d6b93d10c1d68b728ad70.com
@@ -21956,6 +21956,7 @@ b7b9e3900b9f5f8b820fe848f783767d.com
 b7d2fa7ccf.com
 b7d3459705.com
 a.b7q9v8z.com
+b8j4rn.sbs
 b918ff340a8313ae043d69efdf3bda0d.com
 b97c924c81.world
 b9de82bb39.com
@@ -22186,7 +22187,6 @@ zl.bandhpensils.com
 bandhzygous.com
 adv.bandi.so
 ana.bandi.so
-ad.bandlab.io
 amplitude.bandlab.com
 amplitude-experiment.bandlab.com
 geo.bandlab.io
@@ -31085,7 +31085,6 @@ cntxcdm.com
 amp.cntxcdm.com
 cnvlink.com
 cnwetuaniiaal.site
-cnwucnf.top
 cnzz.net
 c.cnzz.com
 ei.cnzz.com
@@ -32620,6 +32619,7 @@ intentstream.contanuity.com
 tracking.contanuity.com
 contatoreaccessi.com
 contemo.ru
+contemplatepushed.com
 content-garden.com
 cdn.content-garden.com
 images.content-garden.com
@@ -33210,6 +33210,7 @@ counterapi.com
 countercity.de
 counteronline.de
 counterstation.de
+countingmainly.com
 countlessdispleased.com
 countly.com
 flex.countly.com
@@ -34727,6 +34728,7 @@ debatabletent.com
 debaucky.com
 analytics.debenhams.com
 ssgtm.debijenkorf.be
+ssgtm.debijenkorf.nl
 debitcrebit669.com
 cdn.debitcrebit669.com
 z.cdn.debitcrebit669.com
@@ -60039,6 +60041,7 @@ nixbet-casino-fr.fr
 nixbetcasino.fr
 nixbetcasino-fr.fr
 nixbett.fr
+nizuho-sc.vip
 news.njbiz.com
 nje9wz5vf48l8h.rest
 matomo.njhealth.org
@@ -68339,6 +68342,7 @@ rfpx1.com
 sdk.rfunbox.com
 se.rfvtgbyhn.com
 icon.eu.rfxmnd.com
+apistats.rg.ru
 rg-be.ru
 rgemgnxejsmrt.online
 rgmuvspukfmfo.site
@@ -70836,7 +70840,6 @@ scmetrics.shell.com
 shelljacket.us
 trk.shelly.cloud
 creative.shemale.show
-shemrec.cc
 shenajou.com
 shengfleming.com
 shenshiads.com
@@ -79178,6 +79181,7 @@ uwynn.com
 uxahhowennlqf.website
 verify.uxcam.com
 uxmmxegfq.com
+uyfv.cn
 uygzzolefhafe.online
 uyunad.com
 aaid.uyunad.com
@@ -83373,6 +83377,7 @@ sgtm.yubico.com
 yubziosgvkweu.online
 yuckyducks.xyz
 yudvl.org
+yuhuan.cc
 yuiiy.com
 yukclick.me
 yukishigure.com

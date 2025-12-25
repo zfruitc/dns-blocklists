@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Dec 2025 18:28 UTC
-# Version: 2025.1224.1828.43
+# Last modified: 25 Dec 2025 06:31 UTC
+# Version: 2025.1225.0631.45
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 84877
+# Number of entries: 84880
 #
 *.000000000000000000000000000000000000000000000000000000000000000.gay
 *.001-adult-toys-n-sex-dolls.com
@@ -39994,6 +39994,7 @@
 *.lmlib.com
 *.lmsex.xyz
 *.lmxxx.xyz
+*.lnkshortener.com
 *.lnmm.ru
 *.lnsex.xyz
 *.lnwdoujin.com
@@ -43343,6 +43344,7 @@
 *.mkinotv.ru
 *.mkiska.cc
 *.mksex.xyz
+*.mkvcinemas.vc
 *.mkxxx.xyz
 *.mlive8.com
 *.mlivevkx.net
@@ -50034,6 +50036,7 @@
 *.porn.tattoo
 *.porn.to
 *.porn.works
+*.porn--xp.com
 *.porn-1.com
 *.porn-18.net
 *.porn-18.org

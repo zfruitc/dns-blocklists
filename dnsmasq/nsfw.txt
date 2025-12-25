@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Dec 2025 18:28 UTC
-# Version: 2025.1224.1828.43
+# Last modified: 25 Dec 2025 06:31 UTC
+# Version: 2025.1225.0631.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 84877
+# Number of entries: 84880
 #
 local=/000000000000000000000000000000000000000000000000000000000000000.gay/
 local=/001-adult-toys-n-sex-dolls.com/
@@ -39994,6 +39994,7 @@ local=/lmfct.org/
 local=/lmlib.com/
 local=/lmsex.xyz/
 local=/lmxxx.xyz/
+local=/lnkshortener.com/
 local=/lnmm.ru/
 local=/lnsex.xyz/
 local=/lnwdoujin.com/
@@ -43343,6 +43344,7 @@ local=/mjrm.net/
 local=/mkinotv.ru/
 local=/mkiska.cc/
 local=/mksex.xyz/
+local=/mkvcinemas.vc/
 local=/mkxxx.xyz/
 local=/mlive8.com/
 local=/mlivevkx.net/
@@ -50034,6 +50036,7 @@ local=/porn.soy/
 local=/porn.tattoo/
 local=/porn.to/
 local=/porn.works/
+local=/porn--xp.com/
 local=/porn-1.com/
 local=/porn-18.net/
 local=/porn-18.org/
