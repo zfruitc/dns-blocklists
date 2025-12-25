@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 13:04 UTC
-# Version: 2025.1225.1304.28
+# Last modified: 25 Dec 2025 18:10 UTC
+# Version: 2025.1225.1810.38
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 82950
+# Number of entries: 82979
 #
 0.0.0.0 00055edc1917.com
 0.0.0.0 000free.us
@@ -4908,6 +4908,7 @@
 0.0.0.0 5twrf4rw.lol
 0.0.0.0 5u.com
 0.0.0.0 5u6ku3n9k.com
+0.0.0.0 5u7vzqcclouhkjmprwt.rest
 0.0.0.0 5umm3r15n0w.xyz
 0.0.0.0 5un15up0nth35ky.xyz
 0.0.0.0 5vd12a.ru
@@ -6333,6 +6334,7 @@
 0.0.0.0 adcrowd.com
 0.0.0.0 pixel.adcrowd.com
 0.0.0.0 adcy.net
+0.0.0.0 add-extension.online
 0.0.0.0 addapptr.com
 0.0.0.0 addealsnetwork.com
 0.0.0.0 addefend.com
@@ -7553,6 +7555,7 @@
 0.0.0.0 ads4trk.com
 0.0.0.0 ads5-adnow.com
 0.0.0.0 ads6-adnow.com
+0.0.0.0 ads6-dewi11np.com
 0.0.0.0 ads7-adnow.com
 0.0.0.0 st-n.ads7-adnow.com
 0.0.0.0 cdn.adsafeprotected.com
@@ -9127,6 +9130,7 @@
 0.0.0.0 aihouboort.net
 0.0.0.0 aihusogloomt.com
 0.0.0.0 ads.aiir.net
+0.0.0.0 rl.aikanefogon.com
 0.0.0.0 aikatuz.jp
 0.0.0.0 aikotoba.jp
 0.0.0.0 aili.com
@@ -22950,6 +22954,7 @@
 0.0.0.0 bedsberry.com
 0.0.0.0 bedsideloathe.com
 0.0.0.0 bee-cake.ru
+0.0.0.0 bee7.com
 0.0.0.0 bee999bee999.com
 0.0.0.0 go.stripchat.beeg.com
 0.0.0.0 beegrenugoz.com
@@ -23162,6 +23167,7 @@
 0.0.0.0 betgorebysson.club
 0.0.0.0 betonred.com
 0.0.0.0 betotodilea.com
+0.0.0.0 betowelumph.com
 0.0.0.0 betpartners.it
 0.0.0.0 betr-for-tod.com
 0.0.0.0 c.betrad.com
@@ -31421,6 +31427,7 @@
 0.0.0.0 amp.cntxcdm.com
 0.0.0.0 cnvlink.com
 0.0.0.0 cnwetuaniiaal.site
+0.0.0.0 cnwucnf.top
 0.0.0.0 cnzz.net
 0.0.0.0 c.cnzz.com
 0.0.0.0 ei.cnzz.com
@@ -33414,7 +33421,6 @@
 0.0.0.0 counterfeitlearnedpacify.com
 0.0.0.0 counteronline.de
 0.0.0.0 counterstation.de
-0.0.0.0 countingmainly.com
 0.0.0.0 countlessdispleased.com
 0.0.0.0 countly.com
 0.0.0.0 flex.countly.com
@@ -44453,7 +44459,6 @@
 0.0.0.0 garyoutensei.com
 0.0.0.0 matomo.gase-partner.de
 0.0.0.0 gaseous-worker.com
-0.0.0.0 gasol.store
 0.0.0.0 metrics.gaspofficial.com
 0.0.0.0 gassernorman.help
 0.0.0.0 stats.gastronom.ru
@@ -47709,6 +47714,7 @@
 0.0.0.0 haikusoap.com
 0.0.0.0 hailofficemeasure.com
 0.0.0.0 hairbilby.com
+0.0.0.0 hairsromance.com
 0.0.0.0 hairy-homework.com
 0.0.0.0 halcon-portflowapp.com
 0.0.0.0 halduspays.help
@@ -51671,6 +51677,7 @@
 0.0.0.0 itim.vn
 0.0.0.0 spell.itim.vn
 0.0.0.0 itizer.ru
+0.0.0.0 itnm2ih7x3wglrugr.rest
 0.0.0.0 itocd.net
 0.0.0.0 itponytaa.com
 0.0.0.0 ak.itponytaa.com
@@ -51783,6 +51790,7 @@
 0.0.0.0 adstat.izuiyou.com
 0.0.0.0 j0ss4np1c5.site
 0.0.0.0 i.mxplayer.j2inter.com
+0.0.0.0 j4l9olpzcp86khvil.cfd
 0.0.0.0 j81yk8jp71gj2mgpb.rest
 0.0.0.0 j93557g.com
 0.0.0.0 jaavnacsdw.com
@@ -51883,6 +51891,7 @@
 0.0.0.0 jbsmediaventures.com
 0.0.0.0 www.jbsmediaventures.com
 0.0.0.0 jbwcujtcmchoh.website
+0.0.0.0 jbzmwqmwqyrzw.top
 0.0.0.0 logging-service-main-prd.k8-svc.jc-gs.com
 0.0.0.0 jcchunya.cn
 0.0.0.0 matomo.jccm.es
@@ -53769,6 +53778,7 @@
 0.0.0.0 ledger-live-website.com
 0.0.0.0 ledger-update.today
 0.0.0.0 ledger-wallets.live
+0.0.0.0 leech.it
 0.0.0.0 leedsneurite.com
 0.0.0.0 tracking.leeep.jp
 0.0.0.0 statistik.leegebruch.info
@@ -54791,6 +54801,7 @@
 0.0.0.0 flx407.lporirxe.com
 0.0.0.0 lptrak.com
 0.0.0.0 lpuacqxrawpu.com
+0.0.0.0 lq1cou8jylvb97x8j.cfd
 0.0.0.0 lqfsnws.cc
 0.0.0.0 lqgjblrrezeib.online
 0.0.0.0 lqm.io
@@ -54952,6 +54963,7 @@
 0.0.0.0 lunarwaveventures.mom
 0.0.0.0 lunchroomlock.com
 0.0.0.0 lunexmods.cc
+0.0.0.0 lunidev.com
 0.0.0.0 luniversdumaillot.fr
 0.0.0.0 lupon.media
 0.0.0.0 lups1.site
@@ -55249,6 +55261,9 @@
 0.0.0.0 www.make4.xyz
 0.0.0.0 makeding.com
 0.0.0.0 makeinfluence.com
+0.0.0.0 makemark.xyz
+0.0.0.0 a.makemark.xyz
+0.0.0.0 w.makemark.xyz
 0.0.0.0 makemegood24.com
 0.0.0.0 adengine.makemytrip.com
 0.0.0.0 metrics.makemytrip.com
@@ -56046,6 +56061,8 @@
 0.0.0.0 meetfindlove.com
 0.0.0.0 meetfindsoul.com
 0.0.0.0 meetflirtmatch.com
+0.0.0.0 meetrapidocapp.com
+0.0.0.0 www.meetrapidocapp.com
 0.0.0.0 meetrics.net
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 meetwebclub.com
@@ -59219,6 +59236,7 @@
 0.0.0.0 ad.new-programmatic.com
 0.0.0.0 match.new-programmatic.com
 0.0.0.0 ad.newaddiscover.com
+0.0.0.0 newar.top
 0.0.0.0 smetrics.newark.com
 0.0.0.0 newarkdriving.com
 0.0.0.0 smetrics.newbalance.com
@@ -59498,7 +59516,6 @@
 0.0.0.0 niwooghu.com
 0.0.0.0 niwota.com
 0.0.0.0 nixbet-casino-fr.fr
-0.0.0.0 nizuho-sc.vip
 0.0.0.0 nje9wz5vf48l8h.rest
 0.0.0.0 njgvpfnvcpp6ryq6jy.rest
 0.0.0.0 matomo.njhealth.org
@@ -61115,6 +61132,7 @@
 0.0.0.0 onwebmaildelivery.sbs
 0.0.0.0 ooboffice.xyz
 0.0.0.0 oodnexto.com
+0.0.0.0 oodseengairgy.net
 0.0.0.0 oofpalate.com
 0.0.0.0 oogala.com
 0.0.0.0 oogneenu.net
@@ -64134,6 +64152,7 @@
 0.0.0.0 polishedfolly.com
 0.0.0.0 polishleadennineteen.com
 0.0.0.0 political-effort.com
+0.0.0.0 politicalpattern.com
 0.0.0.0 politicalporter.com
 0.0.0.0 smetrics.politico.com
 0.0.0.0 smetrics.politico.eu
@@ -66151,6 +66170,7 @@
 0.0.0.0 ra10.xyz
 0.0.0.0 raac33.net
 0.0.0.0 rabbeoscur.world
+0.0.0.0 rabbitcloud.top
 0.0.0.0 rabbitcounter.com
 0.0.0.0 rabbitheedless.com
 0.0.0.0 rabbitrifle.com
@@ -68612,7 +68632,6 @@
 0.0.0.0 rz0f7uxv9.com
 0.0.0.0 rzfhn8trk.com
 0.0.0.0 c.rzk-m.com
-0.0.0.0 rzpmwxqt.top
 0.0.0.0 rzuohgfwyoxx.com
 0.0.0.0 www.rzuohgfwyoxx.com
 0.0.0.0 rzvcdclxehmnd.global
@@ -70001,6 +70020,7 @@
 0.0.0.0 api.shanghailingye.cn
 0.0.0.0 smetrics.shangri-la.com
 0.0.0.0 shanhutech.cn
+0.0.0.0 shannonmystiqueeldritch.com
 0.0.0.0 shanorin.com
 0.0.0.0 shapecomb.com
 0.0.0.0 fnvoi.shapermint.com
@@ -70092,6 +70112,7 @@
 0.0.0.0 shelljacket.us
 0.0.0.0 trk.shelly.cloud
 0.0.0.0 creative.shemale.show
+0.0.0.0 shemrec.cc
 0.0.0.0 shenajou.com
 0.0.0.0 shengfleming.com
 0.0.0.0 shenshiads.com
@@ -72693,6 +72714,7 @@
 0.0.0.0 staurdoalse.net
 0.0.0.0 metrics.stavka.tv
 0.0.0.0 stax.kr
+0.0.0.0 xr.staxisclivias.com
 0.0.0.0 scripts.stay22.com
 0.0.0.0 sstno.staypro.no
 0.0.0.0 stazisagom.world
@@ -75037,6 +75059,7 @@
 0.0.0.0 analytics.tiiny.site
 0.0.0.0 plx.tik.porn
 0.0.0.0 trackity.tiki.vn
+0.0.0.0 tikistoku.sbs
 0.0.0.0 tiktok.cpa
 0.0.0.0 tiktok.yun
 0.0.0.0 ads.tiktok.com
@@ -75543,6 +75566,8 @@
 0.0.0.0 torealiukzemydr.org
 0.0.0.0 torexianplatform.com
 0.0.0.0 webmetrics.torob.com
+0.0.0.0 toronexclk.com
+0.0.0.0 www.toronexclk.com
 0.0.0.0 torpig-sinkhole.org
 0.0.0.0 analytics.torq-api.com
 0.0.0.0 torrentmir.ru
@@ -76522,6 +76547,7 @@
 0.0.0.0 sync.turbotargeting.io
 0.0.0.0 turbulent-divide.com
 0.0.0.0 turbulentobject.com
+0.0.0.0 turcailnt.com
 0.0.0.0 analytics.turk.pro
 0.0.0.0 turkleak2.site
 0.0.0.0 turn.com
@@ -77670,6 +77696,7 @@
 0.0.0.0 unlquedate.com
 0.0.0.0 unlumsvecc.world
 0.0.0.0 unmailexcave.help
+0.0.0.0 unmalleableredistributeone.com
 0.0.0.0 unmectappic.com
 0.0.0.0 unmeedyironer.click
 0.0.0.0 unmeetbookies.com
@@ -77734,7 +77761,6 @@
 0.0.0.0 global-tokenserver-la.headline.uodoo.com
 0.0.0.0 hl-img.peco.uodoo.com
 0.0.0.0 uohsqzovikvyr.online
-0.0.0.0 uohygjhhmwcco.site
 0.0.0.0 piwik.up.pt
 0.0.0.0 ip.up66.ru
 0.0.0.0 upalytics.com
@@ -78526,6 +78552,7 @@
 0.0.0.0 vi-serve.com
 0.0.0.0 nv.vi-serve.com
 0.0.0.0 s.vi-serve.com
+0.0.0.0 vi-takedrivers.com
 0.0.0.0 via-shop.ru
 0.0.0.0 viaarena.com
 0.0.0.0 smetrics.viabcp.com
@@ -80430,6 +80457,7 @@
 0.0.0.0 events.whisk.com
 0.0.0.0 whisketwraps.rest
 0.0.0.0 whiskeywealthclub.com
+0.0.0.0 whistlesong.xyz
 0.0.0.0 whistlingcrimson.com
 0.0.0.0 whistlingwentwool.com
 0.0.0.0 white-whale-v3.live
@@ -80945,7 +80973,6 @@
 0.0.0.0 wrmxqpzt.top
 0.0.0.0 wrongscreen.com
 0.0.0.0 wrpmzqxt.top
-0.0.0.0 wrqpmxzt.top
 0.0.0.0 wrufer.com
 0.0.0.0 wrwkkqbdldgwc.online
 0.0.0.0 wsds.cn
@@ -82054,6 +82081,7 @@
 0.0.0.0 ylhwjxnnxbkgz.website
 0.0.0.0 yllix.com
 0.0.0.0 ylx-1.com
+0.0.0.0 ym3jmnu05.com
 0.0.0.0 ym3t4oonc6e21w42p2.cfd
 0.0.0.0 ad.ymcdn.org
 0.0.0.0 ymetrica1.com
@@ -82274,12 +82302,13 @@
 0.0.0.0 yubziosgvkweu.online
 0.0.0.0 yuckyducks.xyz
 0.0.0.0 yudvl.org
-0.0.0.0 yuhuan.cc
 0.0.0.0 yuiiy.com
 0.0.0.0 yukclick.me
 0.0.0.0 yukishigure.com
 0.0.0.0 yume.com
 0.0.0.0 yumenetworks.com
+0.0.0.0 yummyflingsfinder.com
+0.0.0.0 yummyloversfinder.com
 0.0.0.0 yummystakes.win
 0.0.0.0 yumvs.com
 0.0.0.0 yunkeit.com

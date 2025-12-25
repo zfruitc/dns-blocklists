@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Dec 2025 13:09 UTC
-! Version: 2025.1225.1309.35
+! Last modified: 25 Dec 2025 18:15 UTC
+! Version: 2025.1225.1815.26
 ! Syntax: AdBlock
-! Number of entries: 45946
+! Number of entries: 45968
 !
 ||00055edc1917.com^
 ||000free.us^
@@ -1300,6 +1300,7 @@
 ||5twrf4rw.lol^
 ||5u.com^
 ||5u6ku3n9k.com^
+||5u7vzqcclouhkjmprwt.rest^
 ||5umm3r15n0w.xyz^
 ||5un15up0nth35ky.xyz^
 ||5vd12a.ru^
@@ -2394,6 +2395,7 @@
 ||adcreta.com^
 ||adcrowd.com^
 ||adcy.net^
+||add-extension.online^
 ||addapptr.com^
 ||addealsnetwork.com^
 ||addefend.com^
@@ -3118,6 +3120,7 @@
 ||ads4trk.com^
 ||ads5-adnow.com^
 ||ads6-adnow.com^
+||ads6-dewi11np.com^
 ||ads7-adnow.com^
 ||adsafeprotected.com^
 ||cm.adsafety.net^
@@ -10506,6 +10509,7 @@
 ||cntxcdm.com^
 ||cnvlink.com^
 ||cnwetuaniiaal.site^
+||cnwucnf.top^
 ||cnzz.cn^
 ||cnzz.net^
 ||c.cnzz.com^
@@ -17535,7 +17539,6 @@
 ||garyoutensei.com^
 ||matomo.gase-partner.de^
 ||gaseous-worker.com^
-||gasol.store^
 ||metrics.gaspofficial.com^
 ||gassernorman.help^
 ||stats.gastronom.ru^
@@ -21604,6 +21607,7 @@
 ||itiiuan.in^
 ||itim.vn^
 ||itizer.ru^
+||itnm2ih7x3wglrugr.rest^
 ||itocd.net^
 ||itponytaa.com^
 ||api.itpub.cloud^
@@ -21697,6 +21701,7 @@
 ||j-live.tv^
 ||j0ss4np1c5.site^
 ||i.mxplayer.j2inter.com^
+||j4l9olpzcp86khvil.cfd^
 ||j81yk8jp71gj2mgpb.rest^
 ||j93557g.com^
 ||jaavnacsdw.com^
@@ -21776,6 +21781,7 @@
 ||analytics.jbravo.co^
 ||jbsmediaventures.com^
 ||jbwcujtcmchoh.website^
+||jbzmwqmwqyrzw.top^
 ||logging-service-main-prd.k8-svc.jc-gs.com^
 ||jcchunya.cn^
 ||matomo.jccm.es^
@@ -21882,6 +21888,7 @@
 ||jh1230.com^
 ||jhdnntmkom.com^
 ||jhmc168.com^
+||jhnwr.com^
 ||jhpirob.cc^
 ||jhrak.fi^
 ||jiankongbao.com^
@@ -22579,6 +22586,7 @@
 ||kitchenpearls.com^
 ||kittycatking.com^
 ||loglady.kiwi.com^
+||tag-manager.kiwi.com^
 ||kiwihk.net^
 ||stats.kiwix.org^
 ||kiyala.uno^
@@ -23302,6 +23310,7 @@
 ||ledger-live-website.com^
 ||ledger-update.today^
 ||ledger-wallets.live^
+||leech.it^
 ||leedsneurite.com^
 ||tracking.leeep.jp^
 ||statistik.leegebruch.info^
@@ -24181,6 +24190,7 @@
 ||lporirxe.com^
 ||lptrak.com^
 ||lpuacqxrawpu.com^
+||lq1cou8jylvb97x8j.cfd^
 ||lqfsnws.cc^
 ||lqgjblrrezeib.online^
 ||lqm.io^
@@ -24296,6 +24306,7 @@
 ||lunarwaveventures.mom^
 ||lunchroomlock.com^
 ||lunexmods.cc^
+||lunidev.com^
 ||luniversdumaillot.fr^
 ||lupexismax-app.com^
 ||lupon.media^
@@ -25174,6 +25185,7 @@
 ||meetfindlove.com^
 ||meetfindsoul.com^
 ||meetflirtmatch.com^
+||meetrapidocapp.com^
 ||meetrics.com^
 ||meetrics.net^
 ||report-ps.meettech.net^
@@ -27227,6 +27239,7 @@
 ||new-evelyn-telegram.com^
 ||new-programmatic.com^
 ||ad.newaddiscover.com^
+||newar.top^
 ||smetrics.newark.com^
 ||newarkdriving.com^
 ||smetrics.newbalance.com^
@@ -27473,7 +27486,6 @@
 ||niwooghu.com^
 ||niwota.com^
 ||nixbet-casino-fr.fr^
-||nizuho-sc.vip^
 ||nje9wz5vf48l8h.rest^
 ||njgvpfnvcpp6ryq6jy.rest^
 ||matomo.njhealth.org^
@@ -28228,6 +28240,7 @@
 ||oh-my-holy-push.com^
 ||ohbestdayever.com^
 ||ohdbwbwxrlgsd.site^
+||ohffs.com^
 ||ohfomiyhaok.com^
 ||ohghhuqkxzsnu.online^
 ||ohgopfah.com^
@@ -32075,6 +32088,7 @@
 ||polishedfolly.com^
 ||polishleadennineteen.com^
 ||political-effort.com^
+||politicalpattern.com^
 ||politicalporter.com^
 ||smetrics.politico.com^
 ||smetrics.politico.eu^
@@ -33902,6 +33916,7 @@
 ||ra10.xyz^
 ||raac33.net^
 ||rabbeoscur.world^
+||rabbitcloud.top^
 ||rabbitcounter.com^
 ||rabbitheedless.com^
 ||rabbitrifle.com^
@@ -35465,7 +35480,6 @@
 ||rz0f7uxv9.com^
 ||rzfhn8trk.com^
 ||c.rzk-m.com^
-||rzpmwxqt.top^
 ||rzuohgfwyoxx.com^
 ||rzvcdclxehmnd.global^
 ||rzycnidbqwnjl.website^
@@ -36469,6 +36483,7 @@
 ||api.shanghailingye.cn^
 ||smetrics.shangri-la.com^
 ||shanhutech.cn^
+||shannonmystiqueeldritch.com^
 ||shanorin.com^
 ||shapecomb.com^
 ||fnvoi.shapermint.com^
@@ -36533,6 +36548,7 @@
 ||shelljacket.us^
 ||trk.shelly.cloud^
 ||creative.shemale.show^
+||shemrec.cc^
 ||shenajou.com^
 ||shengfleming.com^
 ||shenshiads.com^
@@ -38592,6 +38608,7 @@
 ||rum-collectors.us2.sumologic.com^
 ||sumome.com^
 ||sumptuousmonks.com^
+||sun.win^
 ||t133.sun-sentinel.com^
 ||sentry-oversea.sunborngame.com^
 ||suncgaxaumzmf.website^
@@ -39870,6 +39887,7 @@
 ||analytics.tiiny.site^
 ||plx.tik.porn^
 ||trackity.tiki.vn^
+||tikistoku.sbs^
 ||adv-decision-service.tikkie.me^
 ||tiktok.cpa^
 ||tiktok.yun^
@@ -40316,6 +40334,7 @@
 ||cmpv2.tori.fi^
 ||sentry.torob.ir^
 ||webmetrics.torob.com^
+||toronexclk.com^
 ||torpig-sinkhole.org^
 ||analytics.torq-api.com^
 ||m1.torrenti.al^
@@ -41119,6 +41138,7 @@
 ||sentry.turbulent.ca^
 ||turbulent-divide.com^
 ||turbulentobject.com^
+||turcailnt.com^
 ||analytics.turk.pro^
 ||turk-dreamworld.com^
 ||turkleak2.site^
@@ -41689,7 +41709,6 @@
 ||unwritmirific.com^
 ||uodoo.com^
 ||uohsqzovikvyr.online^
-||uohygjhhmwcco.site^
 ||piwik.up.pt^
 ||ip.up66.ru^
 ||upalytics.com^
@@ -42275,6 +42294,7 @@
 ||vhxzfz.icu^
 ||vi-improved.org^
 ||vi-serve.com^
+||vi-takedrivers.com^
 ||via.google^
 ||via-shop.ru^
 ||viaarena.com^
@@ -43771,6 +43791,7 @@
 ||events.whisk.com^
 ||whisketwraps.rest^
 ||whiskeywealthclub.com^
+||whistlesong.xyz^
 ||whistlingcrimson.com^
 ||whistlingwentwool.com^
 ||white-whale-v3.live^
@@ -44284,7 +44305,6 @@
 ||wrmxqpzt.top^
 ||wrongscreen.com^
 ||wrpmzqxt.top^
-||wrqpmxzt.top^
 ||wrufer.com^
 ||wrwkkqbdldgwc.online^
 ||wsds.cn^
@@ -45131,6 +45151,7 @@
 ||ylhwjxnnxbkgz.website^
 ||yllix.com^
 ||ylx-1.com^
+||ym3jmnu05.com^
 ||ym3t4oonc6e21w42p2.cfd^
 ||ad.ymcdn.org^
 ||ymetrica1.com^
@@ -45328,13 +45349,14 @@
 ||yuckyducks.xyz^
 ||yudvl.org^
 ||yuga.ru^
-||yuhuan.cc^
 ||yuiiy.com^
 ||yukclick.me^
 ||yukishigure.com^
 ||yume.com^
 ||yumenetworks.com^
 ||yumimobi.com^
+||yummyflingsfinder.com^
+||yummyloversfinder.com^
 ||yummystakes.win^
 ||yumvs.com^
 ||yunjiasu.com^

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Dec 2025 13:28 UTC
-! Version: 2025.1225.1328.09
+! Last modified: 25 Dec 2025 18:32 UTC
+! Version: 2025.1225.1832.32
 ! Syntax: AdBlock
-! Number of entries: 47350
+! Number of entries: 47351
 !
 ||000-online-casino.com^
 ||0009casino.com^
@@ -39843,6 +39843,7 @@
 ||slotmastercasino.org^
 ||slotmax.vip^
 ||slotmega567.online^
+||slotmega678.online^
 ||slotmonkey.io^
 ||slotmonster.com^
 ||slotneo.casino^

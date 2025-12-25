@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 13:15 UTC
-# Version: 2025.1225.1315.41
+# Last modified: 25 Dec 2025 18:21 UTC
+# Version: 2025.1225.1821.22
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 61315
+# Number of entries: 61330
 #
 *.tracker.guguan.000.pe
 *.00055edc1917.com
@@ -1472,6 +1472,7 @@
 *.5twrf4rw.lol
 *.5u.com
 *.5u6ku3n9k.com
+*.5u7vzqcclouhkjmprwt.rest
 *.5umm3r15n0w.xyz
 *.5un15up0nth35ky.xyz
 *.5vd12a.ru
@@ -3109,6 +3110,7 @@
 *.adctrl.com
 *.adctv.com
 *.adcy.net
+*.add-extension.online
 *.addandclick.com
 *.addapptr.com
 *.sentry.addcn.com
@@ -3960,6 +3962,7 @@
 *.ads4trk.com
 *.ads5-adnow.com
 *.ads6-adnow.com
+*.ads6-dewi11np.com
 *.ads7-adnow.com
 *.adsafeprotected.com
 *.cm.adsafety.net
@@ -14129,6 +14132,7 @@
 *.cnvlink.com
 *.cnvr.net
 *.cnwetuaniiaal.site
+*.cnwucnf.top
 *.cnzz.cn
 *.cnzz.com
 *.cnzz.net
@@ -15789,6 +15793,7 @@
 *.analytics-api.confluent.io
 *.telemetry.aws.confluent.cloud
 *.telemetry.confluent.cloud
+*.conformation-1926.shop
 *.confrancisyalgomas.com
 *.mobile.confsettings.com
 *.confusingepisodevest.com
@@ -23694,7 +23699,6 @@
 *.garyoutensei.com
 *.matomo.gase-partner.de
 *.gaseous-worker.com
-*.gasol.store
 *.metrics.gaspofficial.com
 *.gassernorman.help
 *.gastech-ads.com
@@ -29155,6 +29159,7 @@
 *.itizer.ru
 *.itmedia.xyz
 *.itmems.com
+*.itnm2ih7x3wglrugr.rest
 *.itnyd.icu
 *.itocd.net
 *.stats.itopvpn.com
@@ -29282,6 +29287,7 @@
 *.j248a.xyz
 *.j248y.xyz
 *.i.mxplayer.j2inter.com
+*.j4l9olpzcp86khvil.cfd
 *.j81yk8jp71gj2mgpb.rest
 *.j93557g.com
 *.jaavnacsdw.com
@@ -29384,6 +29390,7 @@
 *.analytics.jbravo.co
 *.jbsmediaventures.com
 *.jbwcujtcmchoh.website
+*.jbzmwqmwqyrzw.top
 *.logging-service-main-prd.k8-svc.jc-gs.com
 *.jc9897.com
 *.jcb.cam
@@ -29532,6 +29539,7 @@
 *.jhkfwejfh.shop
 *.jhmc168.com
 *.jhmt.cz
+*.jhnwr.com
 *.jhpirob.cc
 *.jhrak.fi
 *.jhvzpcfg.biz
@@ -31415,6 +31423,7 @@
 *.ledger-update.today
 *.ledger-wallets.live
 *.ledgesrv.com
+*.leech.it
 *.leedsneurite.com
 *.leee12.com
 *.tracking.leeep.jp
@@ -32564,6 +32573,7 @@
 *.lptrak.com
 *.lpuacqxrawpu.com
 *.lpuegx.biz
+*.lq1cou8jylvb97x8j.cfd
 *.lqfsnws.cc
 *.lqgjblrrezeib.online
 *.lqm.io
@@ -36602,6 +36612,7 @@
 *.new-programmatic.com
 *.ad.newaddiscover.com
 *.newadserver.com
+*.newar.top
 *.smetrics.newark.com
 *.target.newark.com
 *.newarkdriving.com
@@ -36977,7 +36988,6 @@
 *.niwooghu.com
 *.niwota.com
 *.nixbet-casino-fr.fr
-*.nizuho-sc.vip
 *.ead.nj.com
 *.x054.nj.com
 *.nj-aa.cyou
@@ -37941,6 +37951,7 @@
 *.oh-my-holy-push.com
 *.ohbestdayever.com
 *.ohdbwbwxrlgsd.site
+*.ohffs.com
 *.ohfomiyhaok.com
 *.ohghhuqkxzsnu.online
 *.ohgopfah.com
@@ -42620,6 +42631,7 @@
 *.polishedfolly.com
 *.polishleadennineteen.com
 *.political-effort.com
+*.politicalpattern.com
 *.politicalporter.com
 *.smetrics.politico.com
 *.smetrics.politico.eu
@@ -46981,7 +46993,6 @@
 *.rzekl.com
 *.rzfhn8trk.com
 *.c.rzk-m.com
-*.rzpmwxqt.top
 *.rzuohgfwyoxx.com
 *.rzvcdclxehmnd.global
 *.rzxmqwpt.top
@@ -48503,6 +48514,7 @@
 *.api.shanghailingye.cn
 *.smetrics.shangri-la.com
 *.shanhutech.cn
+*.shannonmystiqueeldritch.com
 *.shanorin.com
 *.shapecomb.com
 *.fnvoi.shapermint.com
@@ -48583,6 +48595,7 @@
 *.sentry.offline.shelopes.com
 *.creative.shemale.show
 *.shemedia.com
+*.shemrec.cc
 *.shenajou.com
 *.shengfleming.com
 *.shenshiads.com
@@ -53189,6 +53202,7 @@
 *.tka.tiki.vn
 *.trackity.tiki.vn
 *.tikiareasopp.vip
+*.tikistoku.sbs
 *.adv-decision-service.tikkie.me
 *.tikmalp.shop
 *.tiktok.cpa
@@ -53795,6 +53809,7 @@
 *.torn-porn.com
 *.sentry.torob.ir
 *.webmetrics.torob.com
+*.toronexclk.com
 *.torpig-sinkhole.org
 *.analytics.torq-api.com
 *.torrenti.al
@@ -54908,6 +54923,7 @@
 *.sentry.turbulent.ca
 *.turbulent-divide.com
 *.turbulentobject.com
+*.turcailnt.com
 *.analytics.turk.pro
 *.turk-dreamworld.com
 *.turkleak2.site
@@ -55644,7 +55660,6 @@
 *.unwritmirific.com
 *.uodoo.com
 *.uohsqzovikvyr.online
-*.uohygjhhmwcco.site
 *.uoocool.com
 *.uorder.io
 *.piwik.up.pt
@@ -58370,6 +58385,7 @@
 *.whisketwraps.rest
 *.whiskeywealthclub.com
 *.whisperingtech.cfd
+*.whistlesong.xyz
 *.whistlingcrimson.com
 *.whistlingwentwool.com
 *.whisursand.com
@@ -59077,7 +59093,6 @@
 *.wrmxqpzt.top
 *.wrongscreen.com
 *.wrpmzqxt.top
-*.wrqpmxzt.top
 *.wrufer.com
 *.wrwkkqbdldgwc.online
 *.tracking.ws-connex.de
@@ -60240,6 +60255,7 @@
 *.yllix.com
 *.ylowerhughester.org
 *.ylx-1.com
+*.ym3jmnu05.com
 *.ym3t4oonc6e21w42p2.cfd
 *.ymatuhin.ru
 *.us01-analysis.ymcart.com
@@ -60510,7 +60526,6 @@
 *.yudvl.org
 *.adv.yuetnc.com
 *.yuga.ru
-*.yuhuan.cc
 *.yuiiy.com
 *.yuirr4o.shop
 *.yukclick.me

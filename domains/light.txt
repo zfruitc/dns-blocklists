@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 13:04 UTC
-# Version: 2025.1225.1304.28
+# Last modified: 25 Dec 2025 18:10 UTC
+# Version: 2025.1225.1810.38
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 82950
+# Number of entries: 82979
 #
 00055edc1917.com
 000free.us
@@ -4908,6 +4908,7 @@ bundle.5gtb.com
 5twrf4rw.lol
 5u.com
 5u6ku3n9k.com
+5u7vzqcclouhkjmprwt.rest
 5umm3r15n0w.xyz
 5un15up0nth35ky.xyz
 5vd12a.ru
@@ -6333,6 +6334,7 @@ adcreta.com
 adcrowd.com
 pixel.adcrowd.com
 adcy.net
+add-extension.online
 addapptr.com
 addealsnetwork.com
 addefend.com
@@ -7553,6 +7555,7 @@ lib.ads4g.pl
 ads4trk.com
 ads5-adnow.com
 ads6-adnow.com
+ads6-dewi11np.com
 ads7-adnow.com
 st-n.ads7-adnow.com
 cdn.adsafeprotected.com
@@ -9127,6 +9130,7 @@ aiharsoreersu.net
 aihouboort.net
 aihusogloomt.com
 ads.aiir.net
+rl.aikanefogon.com
 aikatuz.jp
 aikotoba.jp
 aili.com
@@ -22950,6 +22954,7 @@ zc.bedlessresizes.com
 bedsberry.com
 bedsideloathe.com
 bee-cake.ru
+bee7.com
 bee999bee999.com
 go.stripchat.beeg.com
 beegrenugoz.com
@@ -23162,6 +23167,7 @@ ak.beterrakionan.com
 betgorebysson.club
 betonred.com
 betotodilea.com
+betowelumph.com
 betpartners.it
 betr-for-tod.com
 c.betrad.com
@@ -31421,6 +31427,7 @@ cntxcdm.com
 amp.cntxcdm.com
 cnvlink.com
 cnwetuaniiaal.site
+cnwucnf.top
 cnzz.net
 c.cnzz.com
 ei.cnzz.com
@@ -33414,7 +33421,6 @@ countercity.de
 counterfeitlearnedpacify.com
 counteronline.de
 counterstation.de
-countingmainly.com
 countlessdispleased.com
 countly.com
 flex.countly.com
@@ -44453,7 +44459,6 @@ garuda-live.com
 garyoutensei.com
 matomo.gase-partner.de
 gaseous-worker.com
-gasol.store
 metrics.gaspofficial.com
 gassernorman.help
 stats.gastronom.ru
@@ -47709,6 +47714,7 @@ haigrigo.com
 haikusoap.com
 hailofficemeasure.com
 hairbilby.com
+hairsromance.com
 hairy-homework.com
 halcon-portflowapp.com
 halduspays.help
@@ -51671,6 +51677,7 @@ itiiuan.in
 itim.vn
 spell.itim.vn
 itizer.ru
+itnm2ih7x3wglrugr.rest
 itocd.net
 itponytaa.com
 ak.itponytaa.com
@@ -51783,6 +51790,7 @@ adapi.izuiyou.com
 adstat.izuiyou.com
 j0ss4np1c5.site
 i.mxplayer.j2inter.com
+j4l9olpzcp86khvil.cfd
 j81yk8jp71gj2mgpb.rest
 j93557g.com
 jaavnacsdw.com
@@ -51883,6 +51891,7 @@ analytics.jbravo.co
 jbsmediaventures.com
 www.jbsmediaventures.com
 jbwcujtcmchoh.website
+jbzmwqmwqyrzw.top
 logging-service-main-prd.k8-svc.jc-gs.com
 jcchunya.cn
 matomo.jccm.es
@@ -53769,6 +53778,7 @@ ledgdhfesecure.com
 ledger-live-website.com
 ledger-update.today
 ledger-wallets.live
+leech.it
 leedsneurite.com
 tracking.leeep.jp
 statistik.leegebruch.info
@@ -54791,6 +54801,7 @@ flx1352.lporirxe.com
 flx407.lporirxe.com
 lptrak.com
 lpuacqxrawpu.com
+lq1cou8jylvb97x8j.cfd
 lqfsnws.cc
 lqgjblrrezeib.online
 lqm.io
@@ -54952,6 +54963,7 @@ lunartrailsolutions.mobi
 lunarwaveventures.mom
 lunchroomlock.com
 lunexmods.cc
+lunidev.com
 luniversdumaillot.fr
 lupon.media
 lups1.site
@@ -55249,6 +55261,9 @@ make4.xyz
 www.make4.xyz
 makeding.com
 makeinfluence.com
+makemark.xyz
+a.makemark.xyz
+w.makemark.xyz
 makemegood24.com
 adengine.makemytrip.com
 metrics.makemytrip.com
@@ -56046,6 +56061,8 @@ meetbenjen.com
 meetfindlove.com
 meetfindsoul.com
 meetflirtmatch.com
+meetrapidocapp.com
+www.meetrapidocapp.com
 meetrics.net
 report-ps.meettech.net
 meetwebclub.com
@@ -59219,6 +59236,7 @@ new-programmatic.com
 ad.new-programmatic.com
 match.new-programmatic.com
 ad.newaddiscover.com
+newar.top
 smetrics.newark.com
 newarkdriving.com
 smetrics.newbalance.com
@@ -59498,7 +59516,6 @@ niwano-office.com
 niwooghu.com
 niwota.com
 nixbet-casino-fr.fr
-nizuho-sc.vip
 nje9wz5vf48l8h.rest
 njgvpfnvcpp6ryq6jy.rest
 matomo.njhealth.org
@@ -61115,6 +61132,7 @@ onushi.com
 onwebmaildelivery.sbs
 ooboffice.xyz
 oodnexto.com
+oodseengairgy.net
 oofpalate.com
 oogala.com
 oogneenu.net
@@ -64134,6 +64152,7 @@ poligsorti.world
 polishedfolly.com
 polishleadennineteen.com
 political-effort.com
+politicalpattern.com
 politicalporter.com
 smetrics.politico.com
 smetrics.politico.eu
@@ -66151,6 +66170,7 @@ r9qmje.hair
 ra10.xyz
 raac33.net
 rabbeoscur.world
+rabbitcloud.top
 rabbitcounter.com
 rabbitheedless.com
 rabbitrifle.com
@@ -68612,7 +68632,6 @@ kbzcg.ryzesuperfoods.com
 rz0f7uxv9.com
 rzfhn8trk.com
 c.rzk-m.com
-rzpmwxqt.top
 rzuohgfwyoxx.com
 www.rzuohgfwyoxx.com
 rzvcdclxehmnd.global
@@ -70001,6 +70020,7 @@ lt.shangflayed.shop
 api.shanghailingye.cn
 smetrics.shangri-la.com
 shanhutech.cn
+shannonmystiqueeldritch.com
 shanorin.com
 shapecomb.com
 fnvoi.shapermint.com
@@ -70092,6 +70112,7 @@ scmetrics.shell.com
 shelljacket.us
 trk.shelly.cloud
 creative.shemale.show
+shemrec.cc
 shenajou.com
 shengfleming.com
 shenshiads.com
@@ -72693,6 +72714,7 @@ staupsoaksy.net
 staurdoalse.net
 metrics.stavka.tv
 stax.kr
+xr.staxisclivias.com
 scripts.stay22.com
 sstno.staypro.no
 stazisagom.world
@@ -75037,6 +75059,7 @@ tracking-pixel-prod.tihealth.com
 analytics.tiiny.site
 plx.tik.porn
 trackity.tiki.vn
+tikistoku.sbs
 tiktok.cpa
 tiktok.yun
 ads.tiktok.com
@@ -75543,6 +75566,8 @@ torchvaleridge.world
 torealiukzemydr.org
 torexianplatform.com
 webmetrics.torob.com
+toronexclk.com
+www.toronexclk.com
 torpig-sinkhole.org
 analytics.torq-api.com
 torrentmir.ru
@@ -76522,6 +76547,7 @@ static.turbotargeting.io
 sync.turbotargeting.io
 turbulent-divide.com
 turbulentobject.com
+turcailnt.com
 analytics.turk.pro
 turkleak2.site
 turn.com
@@ -77670,6 +77696,7 @@ unlousycrag.shop
 unlquedate.com
 unlumsvecc.world
 unmailexcave.help
+unmalleableredistributeone.com
 unmectappic.com
 unmeedyironer.click
 unmeetbookies.com
@@ -77734,7 +77761,6 @@ uodoo.com
 global-tokenserver-la.headline.uodoo.com
 hl-img.peco.uodoo.com
 uohsqzovikvyr.online
-uohygjhhmwcco.site
 piwik.up.pt
 ip.up66.ru
 upalytics.com
@@ -78526,6 +78552,7 @@ vhxzfz.icu
 vi-serve.com
 nv.vi-serve.com
 s.vi-serve.com
+vi-takedrivers.com
 via-shop.ru
 viaarena.com
 smetrics.viabcp.com
@@ -80430,6 +80457,7 @@ whirredbajau.com
 events.whisk.com
 whisketwraps.rest
 whiskeywealthclub.com
+whistlesong.xyz
 whistlingcrimson.com
 whistlingwentwool.com
 white-whale-v3.live
@@ -80945,7 +80973,6 @@ axp.wric.com
 wrmxqpzt.top
 wrongscreen.com
 wrpmzqxt.top
-wrqpmxzt.top
 wrufer.com
 wrwkkqbdldgwc.online
 wsds.cn
@@ -82054,6 +82081,7 @@ tag-manager.yle.fi
 ylhwjxnnxbkgz.website
 yllix.com
 ylx-1.com
+ym3jmnu05.com
 ym3t4oonc6e21w42p2.cfd
 ad.ymcdn.org
 ymetrica1.com
@@ -82274,12 +82302,13 @@ sgtm.yubico.com
 yubziosgvkweu.online
 yuckyducks.xyz
 yudvl.org
-yuhuan.cc
 yuiiy.com
 yukclick.me
 yukishigure.com
 yume.com
 yumenetworks.com
+yummyflingsfinder.com
+yummyloversfinder.com
 yummystakes.win
 yumvs.com
 yunkeit.com

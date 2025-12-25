@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766629680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766687580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Dec 2025 02:28 UTC
-; Version: 2025.1225.0228.17
+; Last modified: 25 Dec 2025 18:33 UTC
+; Version: 2025.1225.1833.11
 ; Syntax: RPZ
-; Number of entries: 22700
+; Number of entries: 22716
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -230,6 +230,8 @@ imoim.app CNAME .
 *.imoim.app CNAME .
 isohunt.app CNAME .
 *.isohunt.app CNAME .
+istreameast.app CNAME .
+*.istreameast.app CNAME .
 losmovies.app CNAME .
 *.losmovies.app CNAME .
 macked.app CNAME .
@@ -244,6 +246,8 @@ cleanbay.netlify.app CNAME .
 *.cleanbay.netlify.app CNAME .
 debrid-services-comparison.netlify.app CNAME .
 *.debrid-services-comparison.netlify.app CNAME .
+flameiptv.netlify.app CNAME .
+*.flameiptv.netlify.app CNAME .
 flickermini.netlify.app CNAME .
 *.flickermini.netlify.app CNAME .
 mv-web.netlify.app CNAME .
@@ -304,6 +308,10 @@ cinemaos-v2.vercel.app CNAME .
 *.cinemaos-v2.vercel.app CNAME .
 film-haven.vercel.app CNAME .
 *.film-haven.vercel.app CNAME .
+flameipt3.vercel.app CNAME .
+*.flameipt3.vercel.app CNAME .
+juzt-tv.vercel.app CNAME .
+*.juzt-tv.vercel.app CNAME .
 movie-web-me.vercel.app CNAME .
 *.movie-web-me.vercel.app CNAME .
 msearch.vercel.app CNAME .
@@ -11238,6 +11246,8 @@ s2watch.link CNAME .
 *.s2watch.link CNAME .
 srstop.link CNAME .
 *.srstop.link CNAME .
+strmd.link CNAME .
+*.strmd.link CNAME .
 0123movies.live CNAME .
 *.0123movies.live CNAME .
 tracker.aburaya.live CNAME .
@@ -16926,6 +16936,8 @@ vegamovies.net.pk CNAME .
 *.vegamovies.net.pk CNAME .
 playit.pk CNAME .
 *.playit.pk CNAME .
+streamed.pk CNAME .
+*.streamed.pk CNAME .
 pcd.345.pl CNAME .
 *.pcd.345.pl CNAME .
 generatory.3xg.pl CNAME .
@@ -19166,6 +19178,8 @@ sci-hub.st CNAME .
 *.sci-hub.st CNAME .
 free.open.tracker.0.starka.st CNAME .
 *.free.open.tracker.0.starka.st CNAME .
+streamed.st CNAME .
+*.streamed.st CNAME .
 thestreameast.st CNAME .
 *.thestreameast.st CNAME .
 yts.st CNAME .
@@ -19326,6 +19340,8 @@ seez.su CNAME .
 *.seez.su CNAME .
 streamed.su CNAME .
 *.streamed.su CNAME .
+streami.su CNAME .
+*.streami.su CNAME .
 streamingcommunity.su CNAME .
 *.streamingcommunity.su CNAME .
 thestreameast.su CNAME .

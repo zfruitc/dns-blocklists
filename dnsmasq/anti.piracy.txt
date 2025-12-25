@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 02:28 UTC
-# Version: 2025.1225.0228.17
+# Last modified: 25 Dec 2025 18:33 UTC
+# Version: 2025.1225.1833.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11350
+# Number of entries: 11358
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -5098,6 +5098,7 @@ local=/istole.it/
 local=/istrahome.ru/
 local=/istream-it.com/
 local=/istream2watch.com/
+local=/istreameast.app/
 local=/isubsmovies.com/
 local=/ita101.online/
 local=/ita101.ru/
@@ -6671,6 +6672,7 @@ local=/netinfobd.com/
 local=/bingemaster.netlify.app/
 local=/cleanbay.netlify.app/
 local=/debrid-services-comparison.netlify.app/
+local=/flameiptv.netlify.app/
 local=/flickermini.netlify.app/
 local=/mv-web.netlify.app/
 local=/openmovies.netlify.com/
@@ -8767,6 +8769,8 @@ local=/streameast.sg/
 local=/streameast.sk/
 local=/streameast.soccer/
 local=/streameast.xyz/
+local=/streamed.pk/
+local=/streamed.st/
 local=/streamed.su/
 local=/streamees.com/
 local=/streamerflix.xyz/
@@ -8777,6 +8781,7 @@ local=/streamhunter.net/
 local=/streamhunter.to/
 local=/streamhunters.com/
 local=/streamhunters.top/
+local=/streami.su/
 local=/streaming-french.com/
 local=/streaming-series.org/
 local=/streamingcommunity.actor/
@@ -8977,6 +8982,7 @@ local=/stresser.ovh/
 local=/stresser.world/
 local=/strikeout.im/
 local=/strimsy.top/
+local=/strmd.link/
 local=/strmup.to/
 local=/strumyk.net/
 local=/strumyk.tv/
@@ -10423,6 +10429,8 @@ local=/bingeflex.vercel.app/
 local=/bmov.vercel.app/
 local=/cinemaos-v2.vercel.app/
 local=/film-haven.vercel.app/
+local=/flameipt3.vercel.app/
+local=/juzt-tv.vercel.app/
 local=/movie-web-me.vercel.app/
 local=/msearch.vercel.app/
 local=/piracy.vercel.app/
