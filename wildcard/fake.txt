@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 09:29 UTC
-# Version: 2025.1225.0929.47
+# Last modified: 25 Dec 2025 12:23 UTC
+# Version: 2025.1225.1223.38
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 13956
+# Number of entries: 13959
 #
 *.01broker.com
 *.01crypto.com
@@ -257,6 +257,7 @@
 *.airyixe.com
 *.aisope.at
 *.aix-investments.com
+*.ajirockcreditunion.com
 *.ak-army.com
 *.akarevents.com
 *.akd-verkauf.de
@@ -10873,6 +10874,7 @@
 *.sarasarade.shop
 *.sarawi.de
 *.sardinenbarberlinava.shop
+*.sardonagroup.com
 *.sarvamits.com
 *.saskiabader.de
 *.satis-beauty-store.de
@@ -13392,6 +13394,7 @@
 *.watchesbuy.to
 *.watchesreplica.is
 *.watchesstore.co
+*.watchvestvermittlung.com
 *.watermotionod.com
 *.watersportsgalaxy.com
 *.watson-manchester.com

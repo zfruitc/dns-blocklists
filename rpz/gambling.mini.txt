@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766658600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766669280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Dec 2025 10:30 UTC
-; Version: 2025.1225.1030.44
+; Last modified: 25 Dec 2025 13:28 UTC
+; Version: 2025.1225.1328.09
 ; Syntax: RPZ
-; Number of entries: 94754
+; Number of entries: 94700
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -6404,16 +6404,8 @@ pokerdom-100amp.buzz CNAME .
 *.pokerdom-100amp.buzz CNAME .
 pokerdom-apk.buzz CNAME .
 *.pokerdom-apk.buzz CNAME .
-pokerdom-bonus.buzz CNAME .
-*.pokerdom-bonus.buzz CNAME .
 pokerdom-dzb.buzz CNAME .
 *.pokerdom-dzb.buzz CNAME .
-pokerdom-games.buzz CNAME .
-*.pokerdom-games.buzz CNAME .
-pokerdom-official.buzz CNAME .
-*.pokerdom-official.buzz CNAME .
-pokerdom-site.buzz CNAME .
-*.pokerdom-site.buzz CNAME .
 pokerdomsite.buzz CNAME .
 *.pokerdomsite.buzz CNAME .
 pokerok-gg.buzz CNAME .
@@ -14902,8 +14894,6 @@ casinocoupon.codes CNAME .
 *.000-online-casino.com CNAME .
 0009casino.com CNAME .
 *.0009casino.com CNAME .
-000bets.com CNAME .
-*.000bets.com CNAME .
 001678pk.com CNAME .
 *.001678pk.com CNAME .
 001betsp.com CNAME .
@@ -16692,14 +16682,10 @@ images.394993282.com CNAME .
 *.4466kk16.com CNAME .
 4466kk18.com CNAME .
 *.4466kk18.com CNAME .
-4485bets10.com CNAME .
-*.4485bets10.com CNAME .
 448icecasino.com CNAME .
 *.448icecasino.com CNAME .
 448kbet.com CNAME .
 *.448kbet.com CNAME .
-4497bets10.com CNAME .
-*.4497bets10.com CNAME .
 44aces.com CNAME .
 *.44aces.com CNAME .
 44betonred24.com CNAME .
@@ -36178,8 +36164,6 @@ jojobets1108.com CNAME .
 *.jojobets1108.com CNAME .
 jojobets1115.com CNAME .
 *.jojobets1115.com CNAME .
-jojobets1118.com CNAME .
-*.jojobets1118.com CNAME .
 jojobets1122.com CNAME .
 *.jojobets1122.com CNAME .
 jojobets1123.com CNAME .
@@ -43586,10 +43570,6 @@ piabelacasino575.com CNAME .
 *.piabelacasino575.com CNAME .
 piabelacasino577.com CNAME .
 *.piabelacasino577.com CNAME .
-piabelacasino578.com CNAME .
-*.piabelacasino578.com CNAME .
-piabelacasino579.com CNAME .
-*.piabelacasino579.com CNAME .
 piabellacasino459.com CNAME .
 *.piabellacasino459.com CNAME .
 piabellacasinom.com CNAME .
@@ -52628,8 +52608,6 @@ vaycasinogirisleri.com CNAME .
 *.vaycasinogirisleri.com CNAME .
 vaycasinol055.com CNAME .
 *.vaycasinol055.com CNAME .
-vaycasinol067.com CNAME .
-*.vaycasinol067.com CNAME .
 vaycasinotrend-1070.com CNAME .
 *.vaycasinotrend-1070.com CNAME .
 vaycasinov.com CNAME .
@@ -56146,8 +56124,6 @@ mostbet-slots.digital CNAME .
 *.mostbet-slots.digital CNAME .
 nomad-casino.digital CNAME .
 *.nomad-casino.digital CNAME .
-official-pokerdom.digital CNAME .
-*.official-pokerdom.digital CNAME .
 officialpokerdom.digital CNAME .
 *.officialpokerdom.digital CNAME .
 online-7slots-casino.digital CNAME .
@@ -56176,8 +56152,6 @@ poker-doms.digital CNAME .
 *.poker-doms.digital CNAME .
 pokerdom.digital CNAME .
 *.pokerdom.digital CNAME .
-pokerdom-official.digital CNAME .
-*.pokerdom-official.digital CNAME .
 pokerdom-official2.digital CNAME .
 *.pokerdom-official2.digital CNAME .
 pokerdomofficials-play.digital CNAME .
@@ -62864,8 +62838,6 @@ oceanbreezecasino.live CNAME .
 *.oceanbreezecasino.live CNAME .
 oceans168.live CNAME .
 *.oceans168.live CNAME .
-official-pokerdom.live CNAME .
-*.official-pokerdom.live CNAME .
 okbetcasino.live CNAME .
 *.okbetcasino.live CNAME .
 pallisermedicalclinic-casino.live CNAME .
@@ -62890,16 +62862,8 @@ pkwin.live CNAME .
 *.pkwin.live CNAME .
 planet128.live CNAME .
 *.planet128.live CNAME .
-poker-dom-casino.live CNAME .
-*.poker-dom-casino.live CNAME .
 pokerchip.live CNAME .
 *.pokerchip.live CNAME .
-pokerdom-official.live CNAME .
-*.pokerdom-official.live CNAME .
-pokerdom-promo.live CNAME .
-*.pokerdom-promo.live CNAME .
-pokerdom-site.live CNAME .
-*.pokerdom-site.live CNAME .
 pomidor.live CNAME .
 *.pomidor.live CNAME .
 predictionbets.live CNAME .
@@ -64470,8 +64434,6 @@ betsandi.net CNAME .
 *.betsandi.net CNAME .
 betshield.net CNAME .
 *.betshield.net CNAME .
-betsiilin.net CNAME .
-*.betsiilin.net CNAME .
 betsiilin-giris.net CNAME .
 *.betsiilin-giris.net CNAME .
 betsilin-orj.net CNAME .
@@ -71642,8 +71604,6 @@ nesinecasino475.org CNAME .
 *.nesinecasino475.org CNAME .
 nesinecasinotr.org CNAME .
 *.nesinecasinotr.org CNAME .
-netent-casinos.org CNAME .
-*.netent-casinos.org CNAME .
 networkagainstmalaria.org CNAME .
 *.networkagainstmalaria.org CNAME .
 networktimesecurity.org CNAME .
@@ -72208,8 +72168,6 @@ tethercasino.org CNAME .
 *.tethercasino.org CNAME .
 texascasino.org CNAME .
 *.texascasino.org CNAME .
-the-neanderthal-tools.org CNAME .
-*.the-neanderthal-tools.org CNAME .
 thebridge-moct.org CNAME .
 *.thebridge-moct.org CNAME .
 thecolumbiapartnership.org CNAME .
@@ -78424,8 +78382,6 @@ gateofolympus-slots.site CNAME .
 *.gateofolympus-slots.site CNAME .
 gatesofslots.site CNAME .
 *.gatesofslots.site CNAME .
-gdtoto-bkk.site CNAME .
-*.gdtoto-bkk.site CNAME .
 genia.site CNAME .
 *.genia.site CNAME .
 gnraja.site CNAME .
@@ -79062,8 +79018,6 @@ top-20-slots-uk.site CNAME .
 *.top-20-slots-uk.site CNAME .
 top-casino-play-691.site CNAME .
 *.top-casino-play-691.site CNAME .
-topbonuscasino.site CNAME .
-*.topbonuscasino.site CNAME .
 topgamescasino.site CNAME .
 *.topgamescasino.site CNAME .
 tortugacasino.site CNAME .
@@ -85208,8 +85162,6 @@ playfortuna-casino-official26.top CNAME .
 *.playfortuna-casino-official26.top CNAME .
 playing-slots.top CNAME .
 *.playing-slots.top CNAME .
-poker-dom-casino.top CNAME .
-*.poker-dom-casino.top CNAME .
 poker-domz.top CNAME .
 *.poker-domz.top CNAME .
 pokerc.top CNAME .
@@ -85230,8 +85182,6 @@ pokerdom-czf3.top CNAME .
 *.pokerdom-czf3.top CNAME .
 pokerdom-f7q.top CNAME .
 *.pokerdom-f7q.top CNAME .
-pokerdom-games.top CNAME .
-*.pokerdom-games.top CNAME .
 pokerdom-gis.top CNAME .
 *.pokerdom-gis.top CNAME .
 pokerdom-gkc.top CNAME .
@@ -85254,8 +85204,6 @@ pokerdom-koxx.top CNAME .
 *.pokerdom-koxx.top CNAME .
 pokerdom-kz24.top CNAME .
 *.pokerdom-kz24.top CNAME .
-pokerdom-mobile.top CNAME .
-*.pokerdom-mobile.top CNAME .
 pokerdom-njk8.top CNAME .
 *.pokerdom-njk8.top CNAME .
 pokerdom-p6a.top CNAME .
@@ -89954,8 +89902,6 @@ vaycasino-yilbasi2025.vip CNAME .
 *.vaycasino-yilbasi2025.vip CNAME .
 vaycasino1067.vip CNAME .
 *.vaycasino1067.vip CNAME .
-vaycasino1069.vip CNAME .
-*.vaycasino1069.vip CNAME .
 vaycasino2026.vip CNAME .
 *.vaycasino2026.vip CNAME .
 vaycasinogiris-gel.vip CNAME .

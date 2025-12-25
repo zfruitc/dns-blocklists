@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 09:29 UTC
-# Version: 2025.1225.0929.47
+# Last modified: 25 Dec 2025 12:23 UTC
+# Version: 2025.1225.1223.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13956
+# Number of entries: 13959
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -257,6 +257,7 @@ local=/airyclub.com/
 local=/airyixe.com/
 local=/aisope.at/
 local=/aix-investments.com/
+local=/ajirockcreditunion.com/
 local=/ak-army.com/
 local=/akarevents.com/
 local=/akd-verkauf.de/
@@ -10873,6 +10874,7 @@ local=/saramaud.com/
 local=/sarasarade.shop/
 local=/sarawi.de/
 local=/sardinenbarberlinava.shop/
+local=/sardonagroup.com/
 local=/sarvamits.com/
 local=/saskiabader.de/
 local=/satis-beauty-store.de/
@@ -13392,6 +13394,7 @@ local=/watchcod-en.shop/
 local=/watchesbuy.to/
 local=/watchesreplica.is/
 local=/watchesstore.co/
+local=/watchvestvermittlung.com/
 local=/watermotionod.com/
 local=/watersportsgalaxy.com/
 local=/watson-manchester.com/

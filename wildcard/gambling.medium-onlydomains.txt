@@ -5,16 +5,15 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 10:29 UTC
-# Version: 2025.1225.1029.53
+# Last modified: 25 Dec 2025 13:27 UTC
+# Version: 2025.1225.1327.18
 # Syntax: Domains (without subdomains)
-# Number of entries: 96351
+# Number of entries: 96323
 #
 0-casino.info
 000-online-casino.com
 0007betss.com
 0009casino.com
-000bets.com
 0011bets.com
 001678pk.com
 001betsl.com
@@ -4439,11 +4438,9 @@ images.394993282.com
 4466kk16.com
 4466kk18.com
 447.casino
-4485bets10.com
 448icecasino.com
 448kbet.com
 449.casino
-4497bets10.com
 44aces.com
 44aces-casino.com
 44aces-casino.se
@@ -16322,7 +16319,6 @@ betsiebaymarina.com
 betsieuno.store
 betsignalradar.com
 betsigned.com
-betsiilin.net
 betsiilin-giris.net
 betsiilinn-mobilgiris2026.vip
 betsilin-casinogiris.com
@@ -45130,7 +45126,6 @@ gdfplay22.com
 gdg777casino.com
 gdlegacycasino.com
 gdpslots.net
-gdtoto-bkk.site
 geantcasino.fr
 gearthatfits.com
 geber88-betstrike.fun
@@ -51903,7 +51898,6 @@ jojobetcasinotr.vip
 jojobets-xresmi.com
 jojobets1108.com
 jojobets1115.com
-jojobets1118.com
 jojobets1122.com
 jojobets1123.com
 jojobets976.com
@@ -62190,7 +62184,6 @@ milindoapatzingan.com
 milioncasino-at.com
 milioncasino-de.com
 milioner-casino.fr
-milionercasino.fr
 milkcasino.com
 milkyway5.casino
 milkyway7.casino
@@ -64583,7 +64576,6 @@ neteller-casino-guide.site
 netellercasinos.ca
 netellercasinos.net
 netent.com
-netent-casinos.org
 netentcasinod.com
 netentcasinos.digital
 netentcasinos-uk.com
@@ -65912,10 +65904,8 @@ official-motor.casino
 official-playfortuna.casino
 official-poker.com
 official-pokerdom.buzz
-official-pokerdom.digital
 official-pokerdom.icu
 official-pokerdom.info
-official-pokerdom.live
 official-riobet-casino4.xyz
 official-site-twin-casino-89ks.buzz
 official-slots-online.site
@@ -69103,8 +69093,6 @@ piabelacasino573.com
 piabelacasino574.com
 piabelacasino575.com
 piabelacasino577.com
-piabelacasino578.com
-piabelacasino579.com
 piabellaacasino.net
 piabellaacasino-giris.net
 piabellacasino-casino.com
@@ -72385,9 +72373,7 @@ poker-crypto.xyz
 poker-dojo.com
 poker-dom.top
 poker-dom-amp-51973.ru
-poker-dom-casino.live
 poker-dom-casino.net
-poker-dom-casino.top
 poker-dom-newpromo.icu
 poker-dom-online-amp-78144.ru
 poker-dom-plays.icu
@@ -72791,7 +72777,6 @@ pokerdom-b8c.top
 pokerdom-ball.com
 pokerdom-bet.digital
 pokerdom-bll.xyz
-pokerdom-bonus.buzz
 pokerdom-bqd.top
 pokerdom-caq.lol
 pokerdom-casino.club
@@ -72830,9 +72815,7 @@ pokerdom-ets.buzz
 pokerdom-f5y.top
 pokerdom-f7q.top
 pokerdom-fox.top
-pokerdom-games.buzz
 pokerdom-games.casino
-pokerdom-games.top
 pokerdom-games-amp-90412.ru
 pokerdom-games-official.com
 pokerdom-gir.top
@@ -72904,7 +72887,6 @@ pokerdom-lot.top
 pokerdom-lott.top
 pokerdom-m1h.top
 pokerdom-mirror.kz
-pokerdom-mobile.top
 pokerdom-n9k.top
 pokerdom-nhy7.com
 pokerdom-njk8.top
@@ -72913,9 +72895,6 @@ pokerdom-nru4.buzz
 pokerdom-nru5.buzz
 pokerdom-nru6.buzz
 pokerdom-nvw.lol
-pokerdom-official.buzz
-pokerdom-official.digital
-pokerdom-official.live
 pokerdom-official.mom
 pokerdom-official2.digital
 pokerdom-officials.bond
@@ -72932,7 +72911,6 @@ pokerdom-plays.icu
 pokerdom-pod.com
 pokerdom-point.top
 pokerdom-promo.click
-pokerdom-promo.live
 pokerdom-promo-play.cam
 pokerdom-promo-play.xyz
 pokerdom-promocode.cam
@@ -72958,8 +72936,6 @@ pokerdom-rum.top
 pokerdom-russ.casino
 pokerdom-sal.lol
 pokerdom-score.top
-pokerdom-site.buzz
-pokerdom-site.live
 pokerdom-site-bonus.top
 pokerdom-site-bonus-12.top
 pokerdom-slots-amp-33758.ru
@@ -86805,7 +86781,6 @@ the-clubhouse-casino.site
 the-delve.com
 the-dog-house.casino
 the-holiday-movie.com
-the-neanderthal-tools.org
 the-party-poker.info
 the-phone-casino.uk
 the-pokies-net-casino-australia.com
@@ -87831,7 +87806,6 @@ topbets.africa
 topbetsrank.com
 topbettingsites.ng
 topbitcoincasino.info
-topbonuscasino.site
 topbossgroup.com
 topcandycasino.com
 topcardcasinobet.com
@@ -90304,7 +90278,6 @@ vaycasino-yilbasiozel.vip
 vaycasino1.click
 vaycasino1.org
 vaycasino1067.vip
-vaycasino1069.vip
 vaycasino1429.com
 vaycasino1444.com
 vaycasino1534.com
@@ -90382,7 +90355,6 @@ vaycasinohz.org
 vaycasinoking.org
 vaycasinol048.com
 vaycasinol055.com
-vaycasinol067.com
 vaycasinolegend.org
 vaycasinolife.org
 vaycasinolive.org

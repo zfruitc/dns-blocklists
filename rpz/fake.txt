@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766654940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766665380 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Dec 2025 09:29 UTC
-; Version: 2025.1225.0929.47
+; Last modified: 25 Dec 2025 12:23 UTC
+; Version: 2025.1225.1223.38
 ; Syntax: RPZ
-; Number of entries: 27912
+; Number of entries: 27918
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1930,6 +1930,8 @@ airyixe.com CNAME .
 *.airyixe.com CNAME .
 aix-investments.com CNAME .
 *.aix-investments.com CNAME .
+ajirockcreditunion.com CNAME .
+*.ajirockcreditunion.com CNAME .
 ak-army.com CNAME .
 *.ak-army.com CNAME .
 akarevents.com CNAME .
@@ -13976,6 +13978,8 @@ sarahravengb.com CNAME .
 *.sarahravengb.com CNAME .
 saramaud.com CNAME .
 *.saramaud.com CNAME .
+sardonagroup.com CNAME .
+*.sardonagroup.com CNAME .
 sarvamits.com CNAME .
 *.sarvamits.com CNAME .
 sauconyshopuk.com CNAME .
@@ -16934,6 +16938,8 @@ wasserflorashop.com CNAME .
 *.wasserflorashop.com CNAME .
 wasserpflegede.com CNAME .
 *.wasserpflegede.com CNAME .
+watchvestvermittlung.com CNAME .
+*.watchvestvermittlung.com CNAME .
 watermotionod.com CNAME .
 *.watermotionod.com CNAME .
 watersportsgalaxy.com CNAME .
