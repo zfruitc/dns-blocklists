@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Dec 2025 01:56 UTC
-# Version: 2025.1224.0156.41
+# Last modified: 25 Dec 2025 09:59 UTC
+# Version: 2025.1225.0959.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1319
+# Number of entries: 1318
 #
 local=/000a.de/
 local=/000space.com/
@@ -842,7 +842,6 @@ local=/ma.gp/
 local=/maddsites.com/
 local=/mail.ht/
 local=/majesticbank.de/
-local=/maminforum.com/
 local=/manfeature.club/
 local=/mapsweight.shop/
 local=/mashstaffing.com/

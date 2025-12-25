@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Dec 2025 10:33 UTC
-! Version: 2025.1224.1033.05
+! Last modified: 25 Dec 2025 10:36 UTC
+! Version: 2025.1225.1036.58
 ! Syntax: AdBlock
-! Number of entries: 819
+! Number of entries: 822
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -87,6 +87,7 @@
 ||dns.asysec.com^
 ||adguardhome.atakorah.com^
 ||atris.cyou^
+||dohtrial.att.net^
 ||secure.avastdns.com^
 ||doh1.b-cdn.net^
 ||doh2.b-cdn.net^
@@ -600,6 +601,7 @@
 ||dns.paesa.es^
 ||pashagame456.com^
 ||dns.pccoach.nl^
+||rpz-public-resolver1.rrdns.pch.net^
 ||dns.peb-schmidt.de^
 ||pepetio.xyz^
 ||dns.pernika.net^
@@ -729,6 +731,7 @@
 ||dns.szpadel.ovh^
 ||dns.t-ipnet.de^
 ||dns.t53.de^
+||httpdns.danuoyi.tbcache.com^
 ||tecdrive.site^
 ||dns1.techeasy.org^
 ||dns.technologycage.com^

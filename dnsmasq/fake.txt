@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Dec 2025 09:28 UTC
-# Version: 2025.1224.0928.18
+# Last modified: 25 Dec 2025 09:29 UTC
+# Version: 2025.1225.0929.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13954
+# Number of entries: 13956
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2807,6 +2807,7 @@ local=/cutcy.com/
 local=/cutlerymarkets.com/
 local=/cutterfarm.de/
 local=/cvc-capital-partners.com/
+local=/cvmaker.de/
 local=/cvneed.com/
 local=/cwl-experts.org/
 local=/cyberfoxy.store/
@@ -13218,6 +13219,7 @@ local=/vitalgesund.at/
 local=/vitalismoemi.com/
 local=/vivagopro.com/
 local=/vivaiabuty.pl/
+local=/vivaiacollection.com/
 local=/vivaiaschuhe.at/
 local=/vivaiaschuhe.com/
 local=/vivaiaschuhe.de/
@@ -13908,7 +13910,7 @@ local=/zesavi-tech.de/
 local=/zesbit.com/
 local=/zestara-berlin.de/
 local=/zetko-waren.de/
-local=/zety.de/
+local=/app.zety.de/
 local=/zfggmbh.de/
 local=/ziegler-handel.de/
 local=/zieglerzurich.ch/
