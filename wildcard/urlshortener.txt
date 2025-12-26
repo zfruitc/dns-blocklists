@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Dec 2025 05:31 UTC
-# Version: 2025.1226.0531.10
+# Last modified: 26 Dec 2025 09:31 UTC
+# Version: 2025.1226.0931.46
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9831
+# Number of entries: 9830
 #
 *.0.gp
 *.00m.in
@@ -5551,7 +5551,6 @@
 *.ntalij.com
 *.ntap.com
 *.ntbk.io
-*.ntbk.tr
 *.ntbx.ir
 *.ntck.co
 *.ntlink.co

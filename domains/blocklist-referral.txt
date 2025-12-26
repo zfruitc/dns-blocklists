@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 09:17 UTC
-# Version: 2025.1225.0917.35
+# Last modified: 26 Dec 2025 09:18 UTC
+# Version: 2025.1226.0918.17
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1718
+# Number of entries: 1722
 #
 1-aclk.net
 1aurl.io
@@ -472,6 +472,7 @@ m-fqlpo.custobar.com
 m-gzmk5.custobar.com
 m-s6iau.custobar.com
 m-tfe.custobar.com
+m-tmsif.custobar.com
 track.customer.io
 track-eu.customer.io
 track-sdk.customer.io
@@ -582,6 +583,7 @@ suite54-cf.emarsys.net
 suite56.emarsys.net
 suite56-cf.emarsys.net
 suite57.emarsys.net
+suite57-cf.emarsys.net
 suite58.emarsys.net
 suite59.emarsys.net
 suite6.emarsys.net
@@ -864,6 +866,7 @@ group0.sites.hscoscdn-eu1.net
 3887299.group0.sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
 group0.sites.hscoscdn-na2.net
+sites.hscoscdn-na3.net
 sites.hscoscdn00.net
 group0.sites.hscoscdn00.net
 group1.sites.hscoscdn00.net
@@ -1714,6 +1717,7 @@ redirect.appmetrica.yandex.ru
 2814495.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
+317729.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 4276573.redirect.appmetrica.yandex.com
 42989.redirect.appmetrica.yandex.com

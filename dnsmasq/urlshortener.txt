@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Dec 2025 05:31 UTC
-# Version: 2025.1226.0531.10
+# Last modified: 26 Dec 2025 09:31 UTC
+# Version: 2025.1226.0931.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9831
+# Number of entries: 9830
 #
 local=/0.gp/
 local=/00m.in/
@@ -5551,7 +5551,6 @@ local=/nswroads.work/
 local=/ntalij.com/
 local=/ntap.com/
 local=/ntbk.io/
-local=/ntbk.tr/
 local=/ntbx.ir/
 local=/ntck.co/
 local=/ntlink.co/
