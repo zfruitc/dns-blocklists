@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Dec 2025 10:33 UTC
-# Version: 2025.1226.1033.34
+# Last modified: 26 Dec 2025 19:13 UTC
+# Version: 2025.1226.1913.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 83825
+# Number of entries: 83819
 #
 local=/000000000000000000000000000000000000000000000000000000000000000.gay/
 local=/001-adult-toys-n-sex-dolls.com/
@@ -10347,7 +10347,6 @@ local=/bispak.cyou/
 local=/bit-milf.xyz/
 local=/bit4clips.com/
 local=/bitacoles.net/
-local=/bitaghamari.com/
 local=/bitch-show.com/
 local=/bitchalicious.com/
 local=/bitchesfost.com/
@@ -29756,7 +29755,6 @@ local=/gurgaonrussianescorts.com/
 local=/gurialinda.com/
 local=/guro.cx/
 local=/guroporn.com/
-local=/guru.nu/
 local=/guru.porn/
 local=/guruasian.com/
 local=/gurugramescort.com/
@@ -39639,7 +39637,6 @@ local=/lonxx.net/
 local=/lookgirl.tw/
 local=/looking4flings.com/
 local=/lookingforsex.net/
-local=/lookinpurdygettindirty.com/
 local=/lookmaxxx.com/
 local=/lookmycam.com/
 local=/lookodirty.cyou/
@@ -44504,7 +44501,6 @@ local=/naomikiss.com/
 local=/naominijbroek.nl/
 local=/naomiteen.com/
 local=/napapijrisrbija.com/
-local=/napaporn.com/
 local=/napetv.com/
 local=/napgp.ru/
 local=/napisex.hu/
@@ -53783,7 +53779,6 @@ local=/pornquant.xyz/
 local=/pornqubit.com/
 local=/pornqubits.com/
 local=/pornr18.xyz/
-local=/pornra.com/
 local=/pornrabbit.com/
 local=/pornrabid.com/
 local=/pornrabit.com/
@@ -70504,7 +70499,6 @@ local=/theadhdtestadults.com/
 local=/theadultbazaar.com/
 local=/theadultcams.com/
 local=/theadultclub.org/
-local=/theadultguru.com/
 local=/swingers.theadulthub.com/
 local=/theadultinghub.com/
 local=/theadultintheroom.com/

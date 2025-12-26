@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 18:05 UTC
-# Version: 2025.1219.1805.26
+# Last modified: 26 Dec 2025 18:05 UTC
+# Version: 2025.1226.1805.05
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 382
 #

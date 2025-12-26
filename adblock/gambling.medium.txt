@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Dec 2025 10:30 UTC
-! Version: 2025.1226.1030.04
+! Last modified: 26 Dec 2025 18:01 UTC
+! Version: 2025.1226.1801.25
 ! Syntax: AdBlock
-! Number of entries: 94065
+! Number of entries: 94059
 !
 ||0-casino.info^
 ||000-online-casino.com^
@@ -11953,7 +11953,6 @@
 ||azamnews.com^
 ||azar.casino^
 ||azarphesha.com^
-||azartcasinoslots.ru^
 ||azartmaniyacasino.xyz^
 ||azartoff-cashback-casino.top^
 ||azartoff-casino.bet^
@@ -15647,7 +15646,6 @@
 ||bets365games.online^
 ||bets365jogo.com^
 ||bets567.com^
-||bets661.com^
 ||bets74.net^
 ||bets777pg.com^
 ||bets7a.com^
@@ -27954,7 +27952,6 @@
 ||casinonsk.ru^
 ||casinonsnabbauttag.com^
 ||casinonsvenska.eu^
-||casinonsvenska.se^
 ||casinonsverige.com^
 ||casinonuevos.com^
 ||casinonustar.com^
@@ -29131,7 +29128,6 @@
 ||casinosbo.online^
 ||casinosbo.ru^
 ||casinosbonosbienvenidagratissindeposito.mx^
-||casinosbonus.ru^
 ||casinosbooking.com^
 ||casinosbrit.com^
 ||casinoscaba.com^
@@ -37587,6 +37583,7 @@
 ||dapurpoker.net^
 ||dapurpoker.org^
 ||daracasino.com^
+||daridewa.pro^
 ||dariencasino.com^
 ||dariencasinoresort.com^
 ||darienlacrosse.com^
@@ -54629,7 +54626,6 @@
 ||layerpoker.xyz^
 ||laytonrent.com^
 ||lazaamp.blog^
-||lazadatoto.cloud^
 ||lazadatoto.xyz^
 ||lazaruscasino.com^
 ||lazybarcasinos.com^
@@ -65777,7 +65773,6 @@
 ||orca88.tv^
 ||orca8819.com^
 ||orca8820.com^
-||orcacasino.fr^
 ||ordalwla.xyz^
 ||orderonline3.blog^
 ||orderpoker.xyz^
@@ -80317,7 +80312,6 @@
 ||slotslearning.xyz^
 ||slotsleep.xyz^
 ||slotslegendia.com^
-||slotslegends.com^
 ||slotslegendss.com^
 ||slotslicense.com^
 ||slotsloungem.com^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Dec 2025 10:31 UTC
-# Version: 2025.1226.1031.04
+# Last modified: 26 Dec 2025 18:02 UTC
+# Version: 2025.1226.1802.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 45065
+# Number of entries: 45060
 #
 local=/000-online-casino.com/
 local=/0009casino.com/
@@ -6215,7 +6215,6 @@ local=/ayucasinov.store/
 local=/az-mostbet-casino-play.com/
 local=/azamnews.com/
 local=/azar.casino/
-local=/azartcasinoslots.ru/
 local=/azartmaniyacasino.xyz/
 local=/azartplay.com/
 local=/azartplaycasino.top/
@@ -8009,7 +8008,6 @@ local=/bets10yonlendir.com/
 local=/bets365.casino/
 local=/bets365games.online/
 local=/bets567.com/
-local=/bets661.com/
 local=/bets88apps.com/
 local=/bets88link.com/
 local=/bets9bet.com/
@@ -13335,7 +13333,6 @@ local=/casinonre.online/
 local=/casinonre.ru/
 local=/casinonsk.ru/
 local=/casinonsvenska.eu/
-local=/casinonsvenska.se/
 local=/casinonuevos.com/
 local=/casinonutanlicens.online/
 local=/casinonv1.com/
@@ -13990,7 +13987,6 @@ local=/casinosbizzo.com/
 local=/casinosblender.xyz/
 local=/casinosbo.online/
 local=/casinosbo.ru/
-local=/casinosbonus.ru/
 local=/casinosbrit.com/
 local=/casinoscad.com/
 local=/casinoscanada.com/
@@ -18515,6 +18511,7 @@ local=/daphnescapades.com/
 local=/dapokerteam.com/
 local=/dappercasino.com/
 local=/daracasino.com/
+local=/daridewa.pro/
 local=/darienlacrosse.com/
 local=/daringcasino.com/
 local=/darkendeavors.com/
@@ -26446,7 +26443,6 @@ local=/lawbets.com/
 local=/lawncasino.com/
 local=/lawyersforassange.org/
 local=/laytonrent.com/
-local=/lazadatoto.cloud/
 local=/lazadatoto.xyz/
 local=/lazybuguru.lt/
 local=/lazyslots.com/
@@ -38299,7 +38295,6 @@ local=/slotskingdom4.bond/
 local=/slotskingdom5.bond/
 local=/slotslab.xyz/
 local=/slotslegendia.com/
-local=/slotslegends.com/
 local=/slotsltd.buzz/
 local=/slotsltd.com/
 local=/slotsltd1.bond/

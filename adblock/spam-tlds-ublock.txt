@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Dec 2025 22:35 UTC
-! Version: 2025.1224.2235.41
+! Last modified: 26 Dec 2025 17:44 UTC
+! Version: 2025.1226.1744.06
 ! Syntax: uBlock
 ! Number of latin TLDs: 283 - non-latin TLDs: 151
 !
@@ -154,7 +154,7 @@
 ||lat^$doc
 ||legal^$doc,domain=~doctolib.legal|~wbs.legal
 ||lgbt^$doc,domain=~lex.lgbt|~mint.lgbt|~tech.lgbt
-||life^$doc,domain=~2ch.life|~akamaicdn.life|~billo.life|~circles.life|~colorgame.life|~digitalcitizen.life|~iboost.life|~lifetime.life|~loveinfaith.life|~stepone.life|~via.life|~yiff.life
+||life^$doc,domain=~2ch.life|~billo.life|~circles.life|~colorgame.life|~digitalcitizen.life|~iboost.life|~lifetime.life|~loveinfaith.life|~stepone.life|~via.life|~yiff.life
 ||lifestyle^$doc
 ||llc^$doc,domain=~ratcloud.llc
 ||llp^$doc

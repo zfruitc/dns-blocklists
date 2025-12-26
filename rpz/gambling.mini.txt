@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766745060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766772120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Dec 2025 10:31 UTC
-; Version: 2025.1226.1031.04
+; Last modified: 26 Dec 2025 18:02 UTC
+; Version: 2025.1226.1802.25
 ; Syntax: RPZ
-; Number of entries: 90130
+; Number of entries: 90120
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -13318,8 +13318,6 @@ infokipas.cloud CNAME .
 *.infokipas.cloud CNAME .
 jilivs.cloud CNAME .
 *.jilivs.cloud CNAME .
-lazadatoto.cloud CNAME .
-*.lazadatoto.cloud CNAME .
 pkluck.cloud CNAME .
 *.pkluck.cloud CNAME .
 rtpgaruda88lol.cloud CNAME .
@@ -21454,8 +21452,6 @@ bets10yonlendir.com CNAME .
 *.bets10yonlendir.com CNAME .
 bets567.com CNAME .
 *.bets567.com CNAME .
-bets661.com CNAME .
-*.bets661.com CNAME .
 bets88apps.com CNAME .
 *.bets88apps.com CNAME .
 bets88link.com CNAME .
@@ -46712,8 +46708,6 @@ slotsjudge.com CNAME .
 *.slotsjudge.com CNAME .
 slotslegendia.com CNAME .
 *.slotslegendia.com CNAME .
-slotslegends.com CNAME .
-*.slotslegends.com CNAME .
 slotsltd.com CNAME .
 *.slotsltd.com CNAME .
 slotslumen.com CNAME .
@@ -70836,6 +70830,8 @@ coolzino-casino.pro CNAME .
 *.coolzino-casino.pro CNAME .
 cosmocasino1.pro CNAME .
 *.cosmocasino1.pro CNAME .
+daridewa.pro CNAME .
+*.daridewa.pro CNAME .
 devcasinogiris.pro CNAME .
 *.devcasinogiris.pro CNAME .
 eldoradocasino.pro CNAME .
@@ -71588,8 +71584,6 @@ aviatrixcasino.ru CNAME .
 *.aviatrixcasino.ru CNAME .
 avtomagazin78.ru CNAME .
 *.avtomagazin78.ru CNAME .
-azartcasinoslots.ru CNAME .
-*.azartcasinoslots.ru CNAME .
 azino-777casino.ru CNAME .
 *.azino-777casino.ru CNAME .
 azino-slots.ru CNAME .
@@ -72584,8 +72578,6 @@ casinos-rating2025.ru CNAME .
 *.casinos-rating2025.ru CNAME .
 casinosbo.ru CNAME .
 *.casinosbo.ru CNAME .
-casinosbonus.ru CNAME .
-*.casinosbonus.ru CNAME .
 casinoscc.ru CNAME .
 *.casinoscc.ru CNAME .
 casinosct.ru CNAME .
@@ -74004,8 +73996,6 @@ casinolankar.se CNAME .
 *.casinolankar.se CNAME .
 casinomagneten.se CNAME .
 *.casinomagneten.se CNAME .
-casinonsvenska.se CNAME .
-*.casinonsvenska.se CNAME .
 casinoplayers.se CNAME .
 *.casinoplayers.se CNAME .
 casinopro.se CNAME .

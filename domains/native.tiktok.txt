@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Dec 2025 20:39 UTC
-# Version: 2025.1222.2039.20
+# Last modified: 26 Dec 2025 18:06 UTC
+# Version: 2025.1226.1806.29
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 373
+# Number of entries: 374
 #
 frontier.byteoversea.com
 gplog-sg.byteoversea.com
@@ -89,6 +89,7 @@ applog.snssdk.com
 bds.snssdk.com
 extlog.snssdk.com
 haohuo.snssdk.com
+i.snssdk.com
 log.snssdk.com
 log-hl.snssdk.com
 log-lf.snssdk.com

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 18:04 UTC
-# Version: 2025.1219.1804.43
+# Last modified: 26 Dec 2025 18:04 UTC
+# Version: 2025.1226.1804.24
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 622
+# Number of entries: 621
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -443,7 +443,6 @@
 0.0.0.0 rcm-eu.amazon-adsystem.com
 0.0.0.0 rcm-eu.assoc-amazon.com
 0.0.0.0 rcm-fe.amazon-adsystem.com
-0.0.0.0 rcm-images.amazon.com
 0.0.0.0 rcm-it.amazon.it
 0.0.0.0 rcm-jp.amazon.co.jp
 0.0.0.0 rcm-na.amazon-adsystem.com

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Dec 2025 10:28 UTC
-! Version: 2025.1226.1028.09
+! Last modified: 26 Dec 2025 17:59 UTC
+! Version: 2025.1226.1759.27
 ! Syntax: AdBlock
-! Number of entries: 207874
+! Number of entries: 207867
 !
 ||0-bdmbet.com^
 ||0-bet.com^
@@ -55656,7 +55656,6 @@
 ||9ph6.com^
 ||9ph7.com^
 ||9pikachupg.com^
-||9piperspin67.com^
 ||9pkcasinoy.com^
 ||9pkwin.com^
 ||9pmbet.cc^
@@ -61509,7 +61508,6 @@
 ||azart-zona.com^
 ||azartcash.com^
 ||azartcasino.ru^
-||azartcasinoslots.ru^
 ||azartgambler.com^
 ||azartmaniyacasino.xyz^
 ||azartoff-cashback-casino.top^
@@ -68446,7 +68444,6 @@
 ||bets52.com^
 ||bets567.com^
 ||bets6.io^
-||bets661.com^
 ||bets7.io^
 ||bets74.net^
 ||bets74.site^
@@ -86646,7 +86643,6 @@
 ||casinonsk.ru^
 ||casinonsnabbauttag.com^
 ||casinonsvenska.eu^
-||casinonsvenska.se^
 ||casinonsverige.com^
 ||casinonuevos.com^
 ||casinonustar.com^
@@ -88085,7 +88081,6 @@
 ||casinosbo.ru^
 ||casinosbola.com^
 ||casinosbonosbienvenidagratissindeposito.mx^
-||casinosbonus.ru^
 ||casinosbonusar.nu^
 ||casinosbooking.com^
 ||casinosbrit.com^
@@ -100083,6 +100078,7 @@
 ||dapurpoker.net^
 ||dapurpoker.org^
 ||daracasino.com^
+||daridewa.pro^
 ||dariencasino.com^
 ||dariencasinoresort.com^
 ||darienlacrosse.com^
@@ -136613,7 +136609,6 @@
 ||laytuyetvoi.com^
 ||lazaamp.blog^
 ||lazacasino.com^
-||lazadatoto.cloud^
 ||lazadatoto.xyz^
 ||lazaruscasino.com^
 ||lazawin9.info^
@@ -155518,7 +155513,6 @@
 ||orca882.com^
 ||orca8820.com^
 ||orca88casino.net^
-||orcacasino.fr^
 ||ordalwla.xyz^
 ||ordern.xyz^
 ||orderonline3.blog^
@@ -178233,7 +178227,6 @@
 ||slotslearning.xyz^
 ||slotsleep.xyz^
 ||slotslegendia.com^
-||slotslegends.com^
 ||slotslegendss.com^
 ||slotslicense.com^
 ||slotslights.com^

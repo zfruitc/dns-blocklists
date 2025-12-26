@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Dec 2025 18:04 UTC
-# Version: 2025.1219.1804.43
+# Last modified: 26 Dec 2025 18:04 UTC
+# Version: 2025.1226.1804.24
 # Syntax: Domains (without subdomains)
-# Number of entries: 317
+# Number of entries: 316
 #
 aan.amazon.co.jp
 aan.amazon.co.uk
@@ -232,7 +232,6 @@ ps-jp.amazon-adsystem.com
 ps-us.amazon-adsystem.com
 rcm-eu.amazon-adsystem.com
 rcm-fe.amazon-adsystem.com
-rcm-images.amazon.com
 rcm-it.amazon.it
 rcm-jp.amazon.co.jp
 rcm-na.amazon-adsystem.com

@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Dec 2025 18:13 UTC
-# Version: 2025.1212.1813.25
+# Last modified: 26 Dec 2025 18:11 UTC
+# Version: 2025.1226.1811.26
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 268
 #
@@ -183,6 +183,7 @@
 0.0.0.0 go2.samsungads.com
 0.0.0.0 rtb-config.samsungads.com
 0.0.0.0 tvp-ads-log.samsungads.com
+0.0.0.0 tvp-ads-log-staging.samsungads.com
 0.0.0.0 www.samsungads.com
 0.0.0.0 samsungallstore.com
 0.0.0.0 egs.samsungallstore.com
@@ -244,7 +245,6 @@
 0.0.0.0 www.samsungtvads.com
 0.0.0.0 business.samsungusa.com
 0.0.0.0 app.business.samsungusa.com
-0.0.0.0 images.business.samsungusa.com
 0.0.0.0 api-samsung.swypeconnect.com
 0.0.0.0 lbs-samsung.swypeconnect.com
 0.0.0.0 samsungau.api.useinsider.com

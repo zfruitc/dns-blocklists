@@ -1569,13 +1569,6 @@
       }
     },
     {
-      "PK": "rcm-images.amazon.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "rcm-it.amazon.it",
       "action": {
         "do": 0,

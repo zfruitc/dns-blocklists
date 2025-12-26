@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Dec 2025 10:31 UTC
-! Version: 2025.1226.1031.04
+! Last modified: 26 Dec 2025 18:02 UTC
+! Version: 2025.1226.1802.25
 ! Syntax: AdBlock
-! Number of entries: 45065
+! Number of entries: 45060
 !
 ||000-online-casino.com^
 ||0009casino.com^
@@ -6216,7 +6216,6 @@
 ||az-mostbet-casino-play.com^
 ||azamnews.com^
 ||azar.casino^
-||azartcasinoslots.ru^
 ||azartmaniyacasino.xyz^
 ||azartplay.com^
 ||azartplaycasino.top^
@@ -8010,7 +8009,6 @@
 ||bets365.casino^
 ||bets365games.online^
 ||bets567.com^
-||bets661.com^
 ||bets88apps.com^
 ||bets88link.com^
 ||bets9bet.com^
@@ -13336,7 +13334,6 @@
 ||casinonre.ru^
 ||casinonsk.ru^
 ||casinonsvenska.eu^
-||casinonsvenska.se^
 ||casinonuevos.com^
 ||casinonutanlicens.online^
 ||casinonv1.com^
@@ -13991,7 +13988,6 @@
 ||casinosblender.xyz^
 ||casinosbo.online^
 ||casinosbo.ru^
-||casinosbonus.ru^
 ||casinosbrit.com^
 ||casinoscad.com^
 ||casinoscanada.com^
@@ -18516,6 +18512,7 @@
 ||dapokerteam.com^
 ||dappercasino.com^
 ||daracasino.com^
+||daridewa.pro^
 ||darienlacrosse.com^
 ||daringcasino.com^
 ||darkendeavors.com^
@@ -26447,7 +26444,6 @@
 ||lawncasino.com^
 ||lawyersforassange.org^
 ||laytonrent.com^
-||lazadatoto.cloud^
 ||lazadatoto.xyz^
 ||lazybuguru.lt^
 ||lazyslots.com^
@@ -38300,7 +38296,6 @@
 ||slotskingdom5.bond^
 ||slotslab.xyz^
 ||slotslegendia.com^
-||slotslegends.com^
 ||slotsltd.buzz^
 ||slotsltd.com^
 ||slotsltd1.bond^
