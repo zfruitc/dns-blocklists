@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Dec 2025 06:29 UTC
-# Version: 2025.1226.0629.51
+# Last modified: 26 Dec 2025 22:30 UTC
+# Version: 2025.1226.2230.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11366
+# Number of entries: 11398
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -3053,6 +3053,9 @@ local=/enseriestreaming.com/
 local=/enstream.co/
 local=/enxf.net/
 local=/eogli.org/
+local=/eonmovies.fit/
+local=/eonmovies.fun/
+local=/eonmovies.live/
 local=/epforums.org/
 local=/epider.me/
 local=/episodes-tv.com/
@@ -3188,6 +3191,19 @@ local=/eurostreaming.ws/
 local=/eurostreaming.xyz/
 local=/eurostreaming.yachts/
 local=/eurostreaming.zone/
+local=/eurostreamings.bar/
+local=/eurostreamings.cam/
+local=/eurostreamings.casa/
+local=/eurostreamings.com/
+local=/eurostreamings.fun/
+local=/eurostreamings.lol/
+local=/eurostreamings.online/
+local=/eurostreamings.org/
+local=/eurostreamings.pics/
+local=/eurostreamings.site/
+local=/eurostreamings.space/
+local=/eurostreamings.store/
+local=/eurostreamings.vip/
 local=/bt.eutorrents.com/
 local=/ev01.net/
 local=/ev01.to/
@@ -3225,6 +3241,14 @@ local=/exsites.pl/
 local=/ext.to/
 local=/extinf.com/
 local=/extmatrix.com/
+local=/extraflix.blog/
+local=/extraflix.cfd/
+local=/extraflix.fit/
+local=/extraflix.ink/
+local=/extraflix.one/
+local=/extraflix.org/
+local=/extraflix.website/
+local=/extraflix.xyz/
 local=/extramovies.rodeo/
 local=/extratime.live/
 local=/extratorrent.ag/
@@ -7814,6 +7838,7 @@ local=/rarlinks.com/
 local=/raspberryheaven.net/
 local=/raulken.it/
 local=/rautaportti.net/
+local=/ravenscans.org/
 local=/rawkbawx.rocks/
 local=/rawlayer.com/
 local=/rbtv77.work/
@@ -8781,6 +8806,7 @@ local=/streamhunter.to/
 local=/streamhunters.com/
 local=/streamhunters.top/
 local=/streami.su/
+local=/streaming-community.art/
 local=/streaming-french.com/
 local=/streaming-series.org/
 local=/streamingcommunity.actor/
@@ -8896,19 +8922,24 @@ local=/streamingcommunity.work/
 local=/streamingcommunity.ws/
 local=/streamingcommunityz.bio/
 local=/streamingcommunityz.biz/
+local=/streamingcommunityz.blog/
 local=/streamingcommunityz.boats/
+local=/streamingcommunityz.cam/
 local=/streamingcommunityz.cc/
 local=/streamingcommunityz.chat/
 local=/streamingcommunityz.city/
 local=/streamingcommunityz.com/
 local=/streamingcommunityz.cz/
 local=/streamingcommunityz.date/
+local=/streamingcommunityz.digital/
+local=/streamingcommunityz.email/
 local=/streamingcommunityz.info/
 local=/streamingcommunityz.it/
 local=/streamingcommunityz.li/
 local=/streamingcommunityz.lol/
 local=/streamingcommunityz.me/
 local=/streamingcommunityz.media/
+local=/streamingcommunityz.site/
 local=/streamingcommunityz.tv/
 local=/streamingdivx.ch/
 local=/streaminggratuit.cc/
@@ -11068,6 +11099,7 @@ local=/en.y2mate.is/
 local=/y2meta.my/
 local=/y4apk.com/
 local=/garaje.ya.com/
+local=/yabancidizi.now/
 local=/yabse.com/
 local=/yalla-shoot.fun/
 local=/yalla-shootv.live/

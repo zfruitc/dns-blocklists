@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766772120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766788200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Dec 2025 18:02 UTC
-; Version: 2025.1226.1802.25
+; Last modified: 26 Dec 2025 22:30 UTC
+; Version: 2025.1226.2230.35
 ; Syntax: RPZ
-; Number of entries: 90120
+; Number of entries: 90122
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -27290,6 +27290,8 @@ cdsbsbc.com CNAME .
 *.cdsbsbc.com CNAME .
 cekopools.com CNAME .
 *.cekopools.com CNAME .
+celebiowiki.com CNAME .
+*.celebiowiki.com CNAME .
 celebpoker.com CNAME .
 *.celebpoker.com CNAME .
 celebrateliferoche.com CNAME .

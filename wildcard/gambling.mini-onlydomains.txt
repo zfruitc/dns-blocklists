@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Dec 2025 18:02 UTC
-# Version: 2025.1226.1802.25
+# Last modified: 26 Dec 2025 22:30 UTC
+# Version: 2025.1226.2230.35
 # Syntax: Domains (without subdomains)
-# Number of entries: 45060
+# Number of entries: 45061
 #
 000-online-casino.com
 0009casino.com
@@ -15687,6 +15687,7 @@ cekgacorpakong.xyz
 cekopools.com
 cekrtpbagusini.xyz
 cekrtppol.xyz
+celebiowiki.com
 celebpoker.com
 celebrateliferoche.com
 celebrationsplaycenter.com

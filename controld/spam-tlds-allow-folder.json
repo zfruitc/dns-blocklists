@@ -5426,6 +5426,13 @@
       }
     },
     {
+      "PK": "wielrenner.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "wii.guide",
       "action": {
         "do": 1,

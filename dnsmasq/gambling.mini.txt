@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Dec 2025 18:02 UTC
-# Version: 2025.1226.1802.25
+# Last modified: 26 Dec 2025 22:30 UTC
+# Version: 2025.1226.2230.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 45060
+# Number of entries: 45061
 #
 local=/000-online-casino.com/
 local=/0009casino.com/
@@ -15687,6 +15687,7 @@ local=/cekgacorpakong.xyz/
 local=/cekopools.com/
 local=/cekrtpbagusini.xyz/
 local=/cekrtppol.xyz/
+local=/celebiowiki.com/
 local=/celebpoker.com/
 local=/celebrateliferoche.com/
 local=/celebrationsplaycenter.com/
