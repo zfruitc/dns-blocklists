@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766687580 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766730540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Dec 2025 18:33 UTC
-; Version: 2025.1225.1833.11
+; Last modified: 26 Dec 2025 06:29 UTC
+; Version: 2025.1226.0629.51
 ; Syntax: RPZ
-; Number of entries: 22716
+; Number of entries: 22732
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1576,6 +1576,8 @@ tlgetin.cc CNAME .
 *.tlgetin.cc CNAME .
 torrentdownloads.cc CNAME .
 *.torrentdownloads.cc CNAME .
+node02.torrentonline.cc CNAME .
+*.node02.torrentonline.cc CNAME .
 torrentproject.cc CNAME .
 *.torrentproject.cc CNAME .
 torrents9.cc CNAME .
@@ -8290,6 +8292,8 @@ streamcloud.cx CNAME .
 *.streamcloud.cx CNAME .
 streamingcommunity.cx CNAME .
 *.streamingcommunity.cx CNAME .
+tb-cdn.cx CNAME .
+*.tb-cdn.cx CNAME .
 thepiratebay.cx CNAME .
 *.thepiratebay.cx CNAME .
 vide.cx CNAME .
@@ -9824,8 +9828,6 @@ tr-zhuqiy-1.dgj055.icu CNAME .
 *.tr-zhuqiy-1.dgj055.icu CNAME .
 tr-zhuqiy-2.dgj055.icu CNAME .
 *.tr-zhuqiy-2.dgj055.icu CNAME .
-tracker-zhuqiy.dgj055.icu CNAME .
-*.tracker-zhuqiy.dgj055.icu CNAME .
 trl-zhuqiy.dgj055.icu CNAME .
 *.trl-zhuqiy.dgj055.icu CNAME .
 tracker.zhuqiy.dgj055.icu CNAME .
@@ -10658,6 +10660,8 @@ strem.io CNAME .
 *.strem.io CNAME .
 t411.io CNAME .
 *.t411.io CNAME .
+tb-cdn.io CNAME .
+*.tb-cdn.io CNAME .
 torrentproxy.io CNAME .
 *.torrentproxy.io CNAME .
 torrentz.io CNAME .
@@ -11434,6 +11438,8 @@ topflix.live CNAME .
 *.topflix.live CNAME .
 torlock.live CNAME .
 *.torlock.live CNAME .
+node01.trackerstatus.live CNAME .
+*.node01.trackerstatus.live CNAME .
 tufan.live CNAME .
 *.tufan.live CNAME .
 tvbd.live CNAME .
@@ -17518,6 +17524,10 @@ streamingcommunity.pw CNAME .
 *.streamingcommunity.pw CNAME .
 streamkiste.pw CNAME .
 *.streamkiste.pw CNAME .
+tabula-rasa.pw CNAME .
+*.tabula-rasa.pw CNAME .
+tb-cdn.pw CNAME .
+*.tb-cdn.pw CNAME .
 tsundere.pw CNAME .
 *.tsundere.pw CNAME .
 open.u-p.pw CNAME .
@@ -18688,6 +18698,8 @@ redacted.sh CNAME .
 *.redacted.sh CNAME .
 soap2day.sh CNAME .
 *.soap2day.sh CNAME .
+tb-cdn.sh CNAME .
+*.tb-cdn.sh CNAME .
 torrent9.sh CNAME .
 *.torrent9.sh CNAME .
 bvarf.tracker.sh CNAME .
@@ -19180,6 +19192,8 @@ free.open.tracker.0.starka.st CNAME .
 *.free.open.tracker.0.starka.st CNAME .
 streamed.st CNAME .
 *.streamed.st CNAME .
+tb-cdn.st CNAME .
+*.tb-cdn.st CNAME .
 thestreameast.st CNAME .
 *.thestreameast.st CNAME .
 yts.st CNAME .
@@ -20114,6 +20128,8 @@ swefilmer.to CNAME .
 *.swefilmer.to CNAME .
 tata.to CNAME .
 *.tata.to CNAME .
+tb-cdn.to CNAME .
+*.tb-cdn.to CNAME .
 tfpdl.to CNAME .
 *.tfpdl.to CNAME .
 thedaddy.to CNAME .

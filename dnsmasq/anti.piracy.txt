@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 18:33 UTC
-# Version: 2025.1225.1833.11
+# Last modified: 26 Dec 2025 06:29 UTC
+# Version: 2025.1226.0629.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11358
+# Number of entries: 11366
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2501,7 +2501,6 @@ local=/mixes.dfx.at/
 local=/tr-rh-zhuqiy.dgj055.icu/
 local=/tr-zhuqiy-1.dgj055.icu/
 local=/tr-zhuqiy-2.dgj055.icu/
-local=/tracker-zhuqiy.dgj055.icu/
 local=/trl-zhuqiy.dgj055.icu/
 local=/tracker.zhuqiy.dgj055.icu/
 local=/dhakadownload.com/
@@ -9075,6 +9074,7 @@ local=/t411.in/
 local=/t411.io/
 local=/t411.me/
 local=/t50.com/
+local=/tabula-rasa.pw/
 local=/rt.tace.ru/
 local=/taiwebs.com/
 local=/tajpata.com/
@@ -9158,6 +9158,12 @@ local=/tarjetarojatvhd.com/
 local=/tracker.tasvideos.org/
 local=/tata.to/
 local=/tazz.tv/
+local=/tb-cdn.cx/
+local=/tb-cdn.io/
+local=/tb-cdn.pw/
+local=/tb-cdn.sh/
+local=/tb-cdn.st/
+local=/tb-cdn.to/
 local=/tb7.pl/
 local=/tracker.tbkresources.org/
 local=/tc-boxing.com/
@@ -9657,6 +9663,7 @@ local=/torrentmove.com/
 local=/torrentmovie.info/
 local=/torrentmovies.co/
 local=/torrentnote.com/
+local=/node02.torrentonline.cc/
 local=/torrentonly.com/
 local=/torrentor.pro/
 local=/torrentoyunindir.com/
@@ -9799,6 +9806,7 @@ local=/tracker810.xyz/
 local=/trackerlist.xyz/
 local=/trackerok.ru/
 local=/trackerpmr.com/
+local=/node01.trackerstatus.live/
 local=/trackerturk.biz/
 local=/tracker.trackton.ga/
 local=/traderz.org/

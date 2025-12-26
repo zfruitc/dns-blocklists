@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 18:31 UTC
-# Version: 2025.1225.1831.34
+# Last modified: 26 Dec 2025 06:28 UTC
+# Version: 2025.1226.0628.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 96324
+# Number of entries: 96325
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -65567,6 +65567,7 @@ local=/nrgbetsistersites.com/
 local=/nrinews24x7.com/
 local=/nrothernwaterscasino.com/
 local=/nsdiocese.com/
+local=/nslot.xyz/
 local=/nsp1d.com/
 local=/nsp2d.com/
 local=/nstotojp.xyz/

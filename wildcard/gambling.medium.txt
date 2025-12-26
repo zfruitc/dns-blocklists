@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Dec 2025 18:31 UTC
-# Version: 2025.1225.1831.34
+# Last modified: 26 Dec 2025 06:28 UTC
+# Version: 2025.1226.0628.42
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 96324
+# Number of entries: 96325
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -65567,6 +65567,7 @@
 *.nrinews24x7.com
 *.nrothernwaterscasino.com
 *.nsdiocese.com
+*.nslot.xyz
 *.nsp1d.com
 *.nsp2d.com
 *.nstotojp.xyz
