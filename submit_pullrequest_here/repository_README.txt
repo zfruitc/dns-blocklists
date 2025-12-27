@@ -390,11 +390,10 @@ Two variants are available:
 > Use at your own risk. The NRD lists are provided as-is, without guarantees, support, or a process for removing false positives.
 
 > [!IMPORTANT]
-> The base data for these lists is provided by [Stamus Labs](https://www.stamus-networks.com/stamus-labs/subscribe-to-threat-intel-feed) and [OpenSquat](https://www.opensquat.com/).                
-> Stamus Labs and OpenSquat do not guarantee daily updates, and in some cases, data may be delayed by several days.            
+> The base data for these lists is provided by [Stamus Labs](https://www.stamus-networks.com/stamus-labs/subscribe-to-threat-intel-feed).                
+> Stamus Labs do not guarantee daily updates, and in some cases, data may be delayed by several days.            
 >               
 > Current status of the data provided:
-> - OpenSquat: nrdo_status - nrdo_update / nrdo_count domains                
 > - Stamus Labs: nrd_status - nrd_update / nrd_count domains                
                    
 #### :new: **NRDs:** Include all newly registered domains     
