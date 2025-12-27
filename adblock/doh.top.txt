@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Dec 2025 10:37 UTC
-! Version: 2025.1226.1037.08
+! Last modified: 27 Dec 2025 10:34 UTC
+! Version: 2025.1227.1034.33
 ! Syntax: AdBlock
-! Number of entries: 834
+! Number of entries: 833
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -123,7 +123,6 @@
 ||doh-fi.blahdns.com^
 ||doh-jp.blahdns.com^
 ||doh-sg.blahdns.com^
-||doh1.blahdns.com^
 ||dot-de.blahdns.com^
 ||dot-sg.blahdns.com^
 ||us1.blissdns.net^
@@ -338,6 +337,7 @@
 ||dns.extrawdw.net^
 ||dns.f4a.fun^
 ||jp1.f7b6h9.tk^
+||pdns.faelix.net^
 ||rdns.faelix.net^
 ||dns.faked.org^
 ||dns.falkenthal.org^
@@ -402,7 +402,6 @@
 ||adguard.haneulo.com^
 ||dns.hanmey.de^
 ||adguard.hartley.cloud^
-||query.hdns.io^
 ||ordns.he.net^
 ||dns.hellozhao.com^
 ||httpdns.ocloud.heytapmobi.com^
