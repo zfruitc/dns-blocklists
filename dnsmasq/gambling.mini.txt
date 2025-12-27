@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Dec 2025 22:30 UTC
-# Version: 2025.1226.2230.35
+# Last modified: 27 Dec 2025 06:32 UTC
+# Version: 2025.1227.0632.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 45061
+# Number of entries: 45069
 #
 local=/000-online-casino.com/
 local=/0009casino.com/
@@ -71,6 +71,7 @@ local=/0200.casino/
 local=/020p6.com/
 local=/0244677.com/
 local=/02casino.com/
+local=/02jl59.com/
 local=/0303.casino/
 local=/033.casino/
 local=/0333.casino/
@@ -4263,6 +4264,7 @@ local=/89crystalroll56.com/
 local=/89fc.co/
 local=/89fc.tw/
 local=/89hcasino.com/
+local=/89lovejili.club/
 local=/89p55.com/
 local=/89p888.com/
 local=/89phwin.com/
@@ -4419,6 +4421,7 @@ local=/928m.casino/
 local=/92v.casino/
 local=/930bet.com/
 local=/9318.casino/
+local=/93389652.com/
 local=/9376play-slots.casino/
 local=/938.casino/
 local=/939.casino/
@@ -18233,6 +18236,7 @@ local=/d3hoops.com/
 local=/d5sbet.com/
 local=/d8gol.com/
 local=/d8j5o9.com/
+local=/d9k7a28.com/
 local=/da88.vip/
 local=/da88.win/
 local=/da88r.biz/
@@ -19128,6 +19132,8 @@ local=/dream11.com/
 local=/dream11casino.net/
 local=/dreamcasinonodepositbonuscode.icu/
 local=/dreamjackpot.com/
+local=/dreamjili.app/
+local=/dreamjili.info/
 local=/dreamjili.org/
 local=/dreamjilislots.com/
 local=/dreampalacecasino.com/
@@ -32442,6 +32448,7 @@ local=/ph777i.com/
 local=/ph777p.com/
 local=/ph777x.com/
 local=/ph78.cc/
+local=/ph8ag.vip/
 local=/phailed.me/
 local=/pharaonbet.com/
 local=/phasecasino.com/
@@ -44570,6 +44577,7 @@ local=/xx777casino.click/
 local=/xx888.info/
 local=/xx8bets.com/
 local=/xxbb-casino.com/
+local=/xxbb50.com/
 local=/xxggcasino.com/
 local=/xxhotslots.com/
 local=/xxmegaslots03.com/

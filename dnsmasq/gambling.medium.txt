@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Dec 2025 22:29 UTC
-# Version: 2025.1226.2229.13
+# Last modified: 27 Dec 2025 06:30 UTC
+# Version: 2025.1227.0630.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 94060
+# Number of entries: 94074
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -117,6 +117,7 @@ local=/0212.casino/
 local=/0244677.com/
 local=/02887a.com/
 local=/02casino.com/
+local=/02jl59.com/
 local=/02new.casino/
 local=/02wajibslotseo.com/
 local=/0303.casino/
@@ -3849,6 +3850,7 @@ local=/333db.casino/
 local=/333game.xyz/
 local=/333ithost.biz/
 local=/333jilicasino.click/
+local=/333jiliv1.com/
 local=/333slots.online/
 local=/333tigawin.net/
 local=/333udcasino.com/
@@ -7770,6 +7772,7 @@ local=/823betsilin.com/
 local=/824betsilin.com/
 local=/828.casino/
 local=/829.casino/
+local=/829445rr.com/
 local=/82betcasino.net/
 local=/82d88.com/
 local=/82lottery.win/
@@ -8232,6 +8235,7 @@ local=/89fc.co/
 local=/89fc.tw/
 local=/89gp.vip/
 local=/89hcasino.com/
+local=/89lovejili.club/
 local=/89m-bets.com/
 local=/89p55.com/
 local=/89p888.com/
@@ -8512,6 +8516,7 @@ local=/92v.casino/
 local=/930bet.com/
 local=/9318.casino/
 local=/933.casino/
+local=/93389652.com/
 local=/936323.com/
 local=/9365kk.com/
 local=/9376play-slots.casino/
@@ -37024,6 +37029,7 @@ local=/d7c.net/
 local=/d88388.com/
 local=/d8gol.com/
 local=/d8j5o9.com/
+local=/d9k7a28.com/
 local=/da88.vip/
 local=/da88.win/
 local=/da88-casino.com/
@@ -38748,6 +38754,8 @@ local=/dreamcasinoi.com/
 local=/dreamcasinonodepositbonuscode.icu/
 local=/dreamcasinoslot.com/
 local=/dreamjackpot.com/
+local=/dreamjili.app/
+local=/dreamjili.info/
 local=/dreamjili.org/
 local=/dreamjilislots.com/
 local=/dreamjljlcasino.com/
@@ -50392,6 +50400,8 @@ local=/jilicasinow.com/
 local=/jiliccpoker.com/
 local=/jilicrowncasinos.com/
 local=/jilidayphcasino.com/
+local=/jilidream75.club/
+local=/jilidream86.club/
 local=/jilievo.net/
 local=/jilievo.tv/
 local=/jilievo1.club/
@@ -50547,6 +50557,7 @@ local=/jlh004.com/
 local=/jlh008.com/
 local=/jljl22slots.com/
 local=/jljl33casino.com/
+local=/jljl4.cfd/
 local=/jljl5casino.top/
 local=/jljl7.casino/
 local=/jljl8.com/
@@ -58155,6 +58166,7 @@ local=/magicjackpot.casino/
 local=/magicjackpot.ro/
 local=/magicjackpot-casino.ro/
 local=/magicjd.casino/
+local=/magicjd.net/
 local=/magicjd88.casino/
 local=/magicjilipoker.com/
 local=/magicocasinochile.com/
@@ -67235,6 +67247,7 @@ local=/ph78.cc/
 local=/ph78slots.com/
 local=/ph799casinolink.com/
 local=/ph889slots.com/
+local=/ph8ag.vip/
 local=/ph90slots.com/
 local=/ph917casinos.com/
 local=/ph96phcasino.com/
@@ -93052,6 +93065,7 @@ local=/xx777casino.click/
 local=/xx888.info/
 local=/xx8bets.com/
 local=/xxbb-casino.com/
+local=/xxbb50.com/
 local=/xxggcasino.com/
 local=/xxhotslots.com/
 local=/xxl.casino/

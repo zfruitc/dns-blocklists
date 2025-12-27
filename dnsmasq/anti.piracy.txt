@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Dec 2025 22:30 UTC
-# Version: 2025.1226.2230.58
+# Last modified: 27 Dec 2025 06:32 UTC
+# Version: 2025.1227.0632.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11398
+# Number of entries: 11395
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -1577,7 +1577,6 @@ local=/bundesliga-streams.net/
 local=/bunkr.tv/
 local=/buny.uk/
 local=/torrent.burgas.org/
-local=/burmese.app/
 local=/burning-series.io/
 local=/burning-series.net/
 local=/burningseries.co/
@@ -3192,7 +3191,6 @@ local=/eurostreaming.xyz/
 local=/eurostreaming.yachts/
 local=/eurostreaming.zone/
 local=/eurostreamings.bar/
-local=/eurostreamings.cam/
 local=/eurostreamings.casa/
 local=/eurostreamings.com/
 local=/eurostreamings.fun/
@@ -9694,7 +9692,6 @@ local=/torrentmove.com/
 local=/torrentmovie.info/
 local=/torrentmovies.co/
 local=/torrentnote.com/
-local=/node02.torrentonline.cc/
 local=/torrentonly.com/
 local=/torrentor.pro/
 local=/torrentoyunindir.com/

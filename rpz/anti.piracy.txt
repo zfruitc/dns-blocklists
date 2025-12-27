@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766788200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766817120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Dec 2025 22:30 UTC
-; Version: 2025.1226.2230.58
+; Last modified: 27 Dec 2025 06:32 UTC
+; Version: 2025.1227.0632.36
 ; Syntax: RPZ
-; Number of entries: 22796
+; Number of entries: 22790
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -196,8 +196,6 @@ bitcine.app CNAME .
 *.bitcine.app CNAME .
 buffstreams.app CNAME .
 *.buffstreams.app CNAME .
-burmese.app CNAME .
-*.burmese.app CNAME .
 cb01.app CNAME .
 *.cb01.app CNAME .
 cineby.app CNAME .
@@ -1166,8 +1164,6 @@ doodstream.cam CNAME .
 *.doodstream.cam CNAME .
 egydead.cam CNAME .
 *.egydead.cam CNAME .
-eurostreamings.cam CNAME .
-*.eurostreamings.cam CNAME .
 film-streaming-ita.cam CNAME .
 *.film-streaming-ita.cam CNAME .
 flemmix.cam CNAME .
@@ -1590,8 +1586,6 @@ tlgetin.cc CNAME .
 *.tlgetin.cc CNAME .
 torrentdownloads.cc CNAME .
 *.torrentdownloads.cc CNAME .
-node02.torrentonline.cc CNAME .
-*.node02.torrentonline.cc CNAME .
 torrentproject.cc CNAME .
 *.torrentproject.cc CNAME .
 torrents9.cc CNAME .

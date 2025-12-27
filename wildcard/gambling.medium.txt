@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Dec 2025 22:29 UTC
-# Version: 2025.1226.2229.13
+# Last modified: 27 Dec 2025 06:30 UTC
+# Version: 2025.1227.0630.55
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 94060
+# Number of entries: 94074
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -117,6 +117,7 @@
 *.0244677.com
 *.02887a.com
 *.02casino.com
+*.02jl59.com
 *.02new.casino
 *.02wajibslotseo.com
 *.0303.casino
@@ -3849,6 +3850,7 @@
 *.333game.xyz
 *.333ithost.biz
 *.333jilicasino.click
+*.333jiliv1.com
 *.333slots.online
 *.333tigawin.net
 *.333udcasino.com
@@ -7770,6 +7772,7 @@
 *.824betsilin.com
 *.828.casino
 *.829.casino
+*.829445rr.com
 *.82betcasino.net
 *.82d88.com
 *.82lottery.win
@@ -8232,6 +8235,7 @@
 *.89fc.tw
 *.89gp.vip
 *.89hcasino.com
+*.89lovejili.club
 *.89m-bets.com
 *.89p55.com
 *.89p888.com
@@ -8512,6 +8516,7 @@
 *.930bet.com
 *.9318.casino
 *.933.casino
+*.93389652.com
 *.936323.com
 *.9365kk.com
 *.9376play-slots.casino
@@ -37024,6 +37029,7 @@
 *.d88388.com
 *.d8gol.com
 *.d8j5o9.com
+*.d9k7a28.com
 *.da88.vip
 *.da88.win
 *.da88-casino.com
@@ -38748,6 +38754,8 @@
 *.dreamcasinonodepositbonuscode.icu
 *.dreamcasinoslot.com
 *.dreamjackpot.com
+*.dreamjili.app
+*.dreamjili.info
 *.dreamjili.org
 *.dreamjilislots.com
 *.dreamjljlcasino.com
@@ -50392,6 +50400,8 @@
 *.jiliccpoker.com
 *.jilicrowncasinos.com
 *.jilidayphcasino.com
+*.jilidream75.club
+*.jilidream86.club
 *.jilievo.net
 *.jilievo.tv
 *.jilievo1.club
@@ -50547,6 +50557,7 @@
 *.jlh008.com
 *.jljl22slots.com
 *.jljl33casino.com
+*.jljl4.cfd
 *.jljl5casino.top
 *.jljl7.casino
 *.jljl8.com
@@ -58155,6 +58166,7 @@
 *.magicjackpot.ro
 *.magicjackpot-casino.ro
 *.magicjd.casino
+*.magicjd.net
 *.magicjd88.casino
 *.magicjilipoker.com
 *.magicocasinochile.com
@@ -67235,6 +67247,7 @@
 *.ph78slots.com
 *.ph799casinolink.com
 *.ph889slots.com
+*.ph8ag.vip
 *.ph90slots.com
 *.ph917casinos.com
 *.ph96phcasino.com
@@ -93052,6 +93065,7 @@
 *.xx888.info
 *.xx8bets.com
 *.xxbb-casino.com
+*.xxbb50.com
 *.xxggcasino.com
 *.xxhotslots.com
 *.xxl.casino

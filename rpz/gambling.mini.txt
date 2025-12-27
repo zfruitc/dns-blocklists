@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766788200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766817120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Dec 2025 22:30 UTC
-; Version: 2025.1226.2230.35
+; Last modified: 27 Dec 2025 06:32 UTC
+; Version: 2025.1227.0632.00
 ; Syntax: RPZ
-; Number of entries: 90122
+; Number of entries: 90138
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -340,6 +340,8 @@ deshislots88.app CNAME .
 *.deshislots88.app CNAME .
 dk777.app CNAME .
 *.dk777.app CNAME .
+dreamjili.app CNAME .
+*.dreamjili.app CNAME .
 dubaicasinos.app CNAME .
 *.dubaicasinos.app CNAME .
 eventbets.app CNAME .
@@ -13406,6 +13408,8 @@ vodkacasino.cloud CNAME .
 *.7xx.club CNAME .
 7y.club CNAME .
 *.7y.club CNAME .
+89lovejili.club CNAME .
+*.89lovejili.club CNAME .
 90phspin.club CNAME .
 *.90phspin.club CNAME .
 9orca88.club CNAME .
@@ -14362,6 +14366,8 @@ casinocoupon.codes CNAME .
 *.0244677.com CNAME .
 02casino.com CNAME .
 *.02casino.com CNAME .
+02jl59.com CNAME .
+*.02jl59.com CNAME .
 039casino2.com CNAME .
 *.039casino2.com CNAME .
 04uu88.com CNAME .
@@ -18024,6 +18030,8 @@ bsi3p.88zfym.com CNAME .
 *.927fu.com CNAME .
 930bet.com CNAME .
 *.930bet.com CNAME .
+93389652.com CNAME .
+*.93389652.com CNAME .
 939bet.com CNAME .
 *.939bet.com CNAME .
 939bet13.com CNAME .
@@ -28498,6 +28506,8 @@ d8gol.com CNAME .
 *.d8gol.com CNAME .
 d8j5o9.com CNAME .
 *.d8j5o9.com CNAME .
+d9k7a28.com CNAME .
+*.d9k7a28.com CNAME .
 da88vip.com CNAME .
 *.da88vip.com CNAME .
 dabblemedia.com CNAME .
@@ -52600,6 +52610,8 @@ xx8bets.com CNAME .
 *.xx8bets.com CNAME .
 xxbb-casino.com CNAME .
 *.xxbb-casino.com CNAME .
+xxbb50.com CNAME .
+*.xxbb50.com CNAME .
 xxggcasino.com CNAME .
 *.xxggcasino.com CNAME .
 xxhotslots.com CNAME .
@@ -58066,6 +58078,8 @@ dfoto.info CNAME .
 *.dfoto.info CNAME .
 dola4d.info CNAME .
 *.dola4d.info CNAME .
+dreamjili.info CNAME .
+*.dreamjili.info CNAME .
 dubaicasino.info CNAME .
 *.dubaicasino.info CNAME .
 eastoregonian.info CNAME .
@@ -85822,6 +85836,8 @@ pasacasino-tr.vip CNAME .
 *.pasacasino-tr.vip CNAME .
 pasacasino-turkey.vip CNAME .
 *.pasacasino-turkey.vip CNAME .
+ph8ag.vip CNAME .
+*.ph8ag.vip CNAME .
 phbet.vip CNAME .
 *.phbet.vip CNAME .
 pinco-casino2026.vip CNAME .
