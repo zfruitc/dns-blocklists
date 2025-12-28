@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Dec 2025 18:29 UTC
-# Version: 2025.1227.1829.51
+# Last modified: 28 Dec 2025 02:27 UTC
+# Version: 2025.1228.0227.56
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 91838
+# Number of entries: 91837
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -2215,7 +2215,6 @@
 *.1xbetsports-betting.org
 *.1xbetsportsbetting.net
 *.1xbetsportsbetting.org
-*.1xbetsss.ru
 *.1xbetstarz.top
 *.1xbetstavka.com
 *.1xbetstavki7.ru

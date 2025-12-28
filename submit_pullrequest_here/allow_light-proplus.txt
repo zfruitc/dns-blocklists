@@ -212,3 +212,6 @@ fundingchoicesmessages.google.com # Breaks also some mobile Apps/Games
 
 # API for Developers
 api.bigdatacloud.net
+
+# Real-time Geolocation & Reverse IP Lookup REST API
+api.ipapi.com

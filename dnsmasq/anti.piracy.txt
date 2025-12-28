@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Dec 2025 06:32 UTC
-# Version: 2025.1227.0632.36
+# Last modified: 28 Dec 2025 02:29 UTC
+# Version: 2025.1228.0229.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11395
+# Number of entries: 11398
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -1577,6 +1577,7 @@ local=/bundesliga-streams.net/
 local=/bunkr.tv/
 local=/buny.uk/
 local=/torrent.burgas.org/
+local=/burmese.app/
 local=/burning-series.io/
 local=/burning-series.net/
 local=/burningseries.co/
@@ -2500,6 +2501,7 @@ local=/mixes.dfx.at/
 local=/tr-rh-zhuqiy.dgj055.icu/
 local=/tr-zhuqiy-1.dgj055.icu/
 local=/tr-zhuqiy-2.dgj055.icu/
+local=/tracker-zhuqiy.dgj055.icu/
 local=/trl-zhuqiy.dgj055.icu/
 local=/tracker.zhuqiy.dgj055.icu/
 local=/dhakadownload.com/
@@ -9692,6 +9694,7 @@ local=/torrentmove.com/
 local=/torrentmovie.info/
 local=/torrentmovies.co/
 local=/torrentnote.com/
+local=/node02.torrentonline.cc/
 local=/torrentonly.com/
 local=/torrentor.pro/
 local=/torrentoyunindir.com/

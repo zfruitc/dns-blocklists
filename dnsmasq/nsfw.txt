@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Dec 2025 18:33 UTC
-# Version: 2025.1227.1833.17
+# Last modified: 28 Dec 2025 02:31 UTC
+# Version: 2025.1228.0231.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 83722
+# Number of entries: 83715
 #
 local=/000000000000000000000000000000000000000000000000000000000000000.gay/
 local=/001-adult-toys-n-sex-dolls.com/
@@ -959,7 +959,6 @@ local=/4krealrapeporn.com/
 local=/4ksex.me/
 local=/4kteenrapeporn.com/
 local=/4ktelugusex.com/
-local=/4kxxx.com/
 local=/4kxxx.shop/
 local=/4kyadong.com/
 local=/4len.info/
@@ -16485,6 +16484,7 @@ local=/controlrondasexc.com/
 local=/controlsexchange.xyz/
 local=/conversationsexchange.xyz/
 local=/conversiovirium.com/
+local=/convitesexclusivosblack.com/
 local=/convitesexclusivosbradescard.com/
 local=/conviviocm.pt/
 local=/convoyeur-auto-moto.com/
@@ -27043,7 +27043,6 @@ local=/gaybingetv.blog/
 local=/gaybingo.gay/
 local=/gaybingo.live/
 local=/gaybiporno.com/
-local=/gayblacksex.com/
 local=/gayblock.com/
 local=/gayblowjob.tv/
 local=/gaybodensee.com/
@@ -29877,7 +29876,6 @@ local=/hadigayri.com/
 local=/haedongacademy.org/
 local=/haftube.com/
 local=/hag.sex/
-local=/hagayret.com/
 local=/hagayrettekel.com/
 local=/bordel.haghn.com/
 local=/hagneez.com/
@@ -35600,7 +35598,6 @@ local=/japxsex.com/
 local=/japxtube.com/
 local=/japxvideos.com/
 local=/jaquemateateos.com/
-local=/jardin-a-manger.com/
 local=/jareena.com/
 local=/jariosas.com/
 local=/jarvisexteriorservicesllc.com/
@@ -36391,7 +36388,6 @@ local=/jizzongals.com/
 local=/jizzonme.org/
 local=/jizzpov.com/
 local=/jizzrocket.com/
-local=/jizzthat.com/
 local=/jizztube.tv/
 local=/jizzwich.com/
 local=/jizzxxx.xyz/
@@ -48028,7 +48024,6 @@ local=/perkybabes.com/
 local=/perkyshemale.com/
 local=/perlanegrabcn.com/
 local=/perldesignpatterns.com/
-local=/permisexpress.com/
 local=/peroticr.beer/
 local=/perpsexy.xyz/
 local=/persianporn.net/
@@ -54017,7 +54012,6 @@ local=/pornspice.xyz/
 local=/pornspicy.com/
 local=/pornspicy.xyz/
 local=/pornspider.xyz/
-local=/pornspin.com/
 local=/pornsplash.com/
 local=/pornsporn.xyz/
 local=/pornspots.xyz/
@@ -67483,7 +67477,6 @@ local=/soliisexports.com/
 local=/soliporno.com/
 local=/solitariosexuais.com/
 local=/solnic.eu/
-local=/solo-international.com/
 local=/soloavventure.it/
 local=/solobeauty.com/
 local=/solocunts.com/

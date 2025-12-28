@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Dec 2025 18:30 UTC
-# Version: 2025.1227.1830.45
+# Last modified: 28 Dec 2025 02:29 UTC
+# Version: 2025.1228.0229.09
 # Syntax: Domains (without subdomains)
-# Number of entries: 42501
+# Number of entries: 42500
 #
 000-online-casino.com
 0009casino.com
@@ -1109,7 +1109,6 @@ images.191829838.com
 1xbetsph.com
 1xbetsportsbetting.net
 1xbetsportsbetting.org
-1xbetsss.ru
 1xbetstavka.com
 1xbetsupportindia.store
 1xbett.mobi

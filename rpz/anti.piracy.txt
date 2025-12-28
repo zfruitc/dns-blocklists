@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766817120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766888940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Dec 2025 06:32 UTC
-; Version: 2025.1227.0632.36
+; Last modified: 28 Dec 2025 02:29 UTC
+; Version: 2025.1228.0229.31
 ; Syntax: RPZ
-; Number of entries: 22790
+; Number of entries: 22796
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -196,6 +196,8 @@ bitcine.app CNAME .
 *.bitcine.app CNAME .
 buffstreams.app CNAME .
 *.buffstreams.app CNAME .
+burmese.app CNAME .
+*.burmese.app CNAME .
 cb01.app CNAME .
 *.cb01.app CNAME .
 cineby.app CNAME .
@@ -1586,6 +1588,8 @@ tlgetin.cc CNAME .
 *.tlgetin.cc CNAME .
 torrentdownloads.cc CNAME .
 *.torrentdownloads.cc CNAME .
+node02.torrentonline.cc CNAME .
+*.node02.torrentonline.cc CNAME .
 torrentproject.cc CNAME .
 *.torrentproject.cc CNAME .
 torrents9.cc CNAME .
@@ -9852,6 +9856,8 @@ tr-zhuqiy-1.dgj055.icu CNAME .
 *.tr-zhuqiy-1.dgj055.icu CNAME .
 tr-zhuqiy-2.dgj055.icu CNAME .
 *.tr-zhuqiy-2.dgj055.icu CNAME .
+tracker-zhuqiy.dgj055.icu CNAME .
+*.tracker-zhuqiy.dgj055.icu CNAME .
 trl-zhuqiy.dgj055.icu CNAME .
 *.trl-zhuqiy.dgj055.icu CNAME .
 tracker.zhuqiy.dgj055.icu CNAME .

@@ -1146,9 +1146,6 @@ aafp.org
 policy.app.cookieinformation.com
 app.cookieinformation.com
 
-# Real-time Geolocation & Reverse IP Lookup REST API
-api.ipapi.com
-
 # Maps in China apps
 restapi.amap.com
 
