@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Dec 2025 10:34 UTC
-! Version: 2025.1227.1034.33
+! Last modified: 28 Dec 2025 10:37 UTC
+! Version: 2025.1228.1037.13
 ! Syntax: AdBlock
-! Number of entries: 833
+! Number of entries: 829
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -42,7 +42,6 @@
 ||dns.9999.sg^
 ||dns.a47.me^
 ||doh.aaaab3n.moe^
-||dns-nyc.aaflalo.me^
 ||doh.dns.apple.com.v.aaplimg.com^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||dns.aaytorr.com^
@@ -178,7 +177,6 @@
 ||commons.host^
 ||comss.one^
 ||dns1.conne.net^
-||dns.containerpi.com^
 ||dns.controld.com^
 ||freedns.controld.com^
 ||doh.cox.net^
@@ -212,7 +210,6 @@
 ||dingdangnao.com^
 ||doh.disconnect.app^
 ||fdns1.dismail.de^
-||fdns2.dismail.de^
 ||dns.google^
 ||dns.pub^
 ||dns.sb^
@@ -337,7 +334,6 @@
 ||dns.extrawdw.net^
 ||dns.f4a.fun^
 ||jp1.f7b6h9.tk^
-||pdns.faelix.net^
 ||rdns.faelix.net^
 ||dns.faked.org^
 ||dns.falkenthal.org^

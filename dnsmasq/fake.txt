@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Dec 2025 17:29 UTC
-# Version: 2025.1227.1729.40
+# Last modified: 28 Dec 2025 09:30 UTC
+# Version: 2025.1228.0930.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14119
+# Number of entries: 14120
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -3416,7 +3416,6 @@ local=/dr-kopfhoerer.de/
 local=/drachekind.de/
 local=/dragonballmerch.de/
 local=/dramdi.com/
-local=/drationecla.com/
 local=/draussenfeet.de/
 local=/shop.drcherylkam.com/
 local=/hu1.drdermr.com/
@@ -9145,6 +9144,7 @@ local=/northvapeusa.com/
 local=/northwaveoff.com/
 local=/northwavestore.com/
 local=/norvatix.io/
+local=/norwayhotel.net/
 local=/not-bad.shop/
 local=/not-schlosser.at/
 local=/notationi.com/
@@ -10744,6 +10744,7 @@ local=/rohn-shop.com/
 local=/rohrsanierungen24.de/
 local=/roleo.net/
 local=/rolex-replica.to/
+local=/rolexwanduhr.de/
 local=/rolexyeals.com/
 local=/rolladenmeister.at/
 local=/rolladenreparatur.at/
