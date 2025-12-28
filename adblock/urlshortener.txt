@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Dec 2025 09:32 UTC
-! Version: 2025.1228.0932.33
+! Last modified: 28 Dec 2025 17:31 UTC
+! Version: 2025.1228.1731.39
 ! Syntax: AdBlock
-! Number of entries: 9958
+! Number of entries: 9957
 !
 ||0.gp^
 ||00m.in^
@@ -405,7 +405,6 @@
 ||9splay.store^
 ||9u9.de^
 ||9url.net^
-||a.co^
 ||a.gg^
 ||a.nf^
 ||web.a.app^

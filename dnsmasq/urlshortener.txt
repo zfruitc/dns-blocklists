@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Dec 2025 09:32 UTC
-# Version: 2025.1228.0932.33
+# Last modified: 28 Dec 2025 17:31 UTC
+# Version: 2025.1228.1731.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9958
+# Number of entries: 9957
 #
 local=/0.gp/
 local=/00m.in/
@@ -404,7 +404,6 @@ local=/9p.gg/
 local=/9splay.store/
 local=/9u9.de/
 local=/9url.net/
-local=/a.co/
 local=/a.gg/
 local=/a.nf/
 local=/web.a.app/

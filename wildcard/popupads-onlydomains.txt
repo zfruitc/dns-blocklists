@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Dec 2025 09:28 UTC
-# Version: 2025.1228.0928.33
+# Last modified: 28 Dec 2025 17:27 UTC
+# Version: 2025.1228.1727.34
 # Syntax: Domains (without subdomains)
-# Number of entries: 60311
+# Number of entries: 60293
 #
 0.beer
 0.club
@@ -5663,7 +5663,10 @@ a0de95822c.856d79ad49.com
 858581.com
 858akaman.xyz
 85a90880b9.com
-8609.cc
+1337ul.8609.cc
+908.8609.cc
+985.8609.cc
+988.8609.cc
 86165466.xyz
 75003826de.8619047757.com
 861shop.com
@@ -5850,7 +5853,11 @@ d34d3e1bba.91d02a6a8c.com
 93a72bfca9.com
 93febf18c6.com
 93tc.com
-9415.cc
+495.9415.cc
+904.9415.cc
+914.9415.cc
+926.9415.cc
+928.9415.cc
 9421d59b1d.com
 942442.top
 94444717.xyz
@@ -10303,6 +10310,7 @@ avlsjb.com
 avning.com
 avocams.com
 avocetriches.com
+avogex.com
 avoidedtreasr.com
 avouchuramil.com
 avowneighbouringfaculty.com
@@ -10904,7 +10912,6 @@ uc.barbelfaldfee.com
 barberandbeautyinstitute.com
 barbiefan.com
 barboycreme.com
-barclaycerdus.top
 bardatm.ru
 bardicjazzed.com
 bardingemule.top
@@ -11106,7 +11113,8 @@ bcombdmnoidze.online
 bcpbtqpumbarw.online
 bcppd.gdn
 bcprm.com
-bctnodv.top
+dciclc.bctnodv.top
+dcivlv.bctnodv.top
 bctuafpdwarbm.site
 track.bcvc.mobi
 bcwpdvigokzca.space
@@ -15595,7 +15603,6 @@ cloudioo.net
 cloudlessdatapowerful.com
 cloudlessjimarmpit.com
 cloudmax.jp
-cloudns.to
 cloudpsh.top
 cloudq.cn
 cloudshielders.com
@@ -15643,7 +15650,6 @@ cluttercallousstopped.com
 clutteredbrush.pro
 clxuuhlmtvrmt.today
 sg.clyerscautivo.cyou
-clzl.pro
 cm-trk2.com
 cm-trk3.com
 cm-trk5.com
@@ -15667,7 +15673,9 @@ cmprotraf.club
 cmpuwps.com
 cmrdr.com
 cms100.xyz
-cmsdurbv.top
+276eefe2165e.cmsdurbv.top
+a38f0f2b74c4.cmsdurbv.top
+b84c7e3bdff5.cmsdurbv.top
 cmtrk.com
 cmtrkg.com
 cmuasrcit.com
@@ -15679,7 +15687,10 @@ dynamic.163data.com.cn.tv
 everpharmanet.cn.tv
 cn2f.cn
 cn846.com
-cndsdsva.top
+526c5dc94e12.cndsdsva.top
+530076989109.cndsdsva.top
+5d58890195ae.cndsdsva.top
+e49e0b120ad5.cndsdsva.top
 cndw.top
 cnesnnavxumlh.online
 cngcpy.com
@@ -15693,7 +15704,8 @@ cnt.my
 cntrealize.com
 cnwafglwlbcro.life
 dciclc.cnwuamf.top
-cnwucnf.top
+dciclc.cnwucnf.top
+dcivlv.cnwucnf.top
 cnyojprieezzh.store
 cnzixiang.com
 cnzz.biz
@@ -15729,7 +15741,6 @@ boost-next.co.jp
 bornmandemicria.co.in
 buff163.co.com
 butsmism.co.in
-camerica.co.com
 capeconn3ct.co.za
 www.catxp.co.uk
 www.celebrationandceremony.co.nz
@@ -15755,7 +15766,6 @@ future-hawk-content.co.uk
 galixwallet.co.com
 gapconnectionbridge.co.in
 www.germanprobatematters.co.uk
-getmoss.co.com
 glousism.co.in
 go-trust.co.com
 grapeshot.co.uk
@@ -15787,24 +15797,18 @@ nexoraedge.co.in
 ngazi.co.tz
 www.ninjaboilers.co.uk
 nzme-ads.co.nz
-ofx.co.com
 ofx-app.co.com
 www.padelmafia.co.za
 payhawk.co.com
-paymentech.co.com
 paytrace-app.co.com
 polyvalent.co.in
 primechainnet.co.in
-qonto-app.co.com
 qroxlwallet.co.com
 realclick.co.kr
 redvil.co.in
 reople.co.kr
 rustdesk.co.nz
-scotia-connect.co.com
-secure-paymentech.co.com
 senscirrascul.co.in
-shopify-app.co.com
 www.shubhin.co.in
 signorsoap.co.uk
 skinsmonkey.co.com
@@ -15829,9 +15833,7 @@ thebritlist.co.uk
 www.thisbeautifulbreath.co.uk
 traffic-media.co.uk
 trastwallet.co.com
-trbbank-business.co.com
 treasury-simmonsbank.co.com
-trezor-app-suite.co.com
 trust-download.co.com
 trustwallett.co.com
 tweelessatic.co.in
@@ -15849,7 +15851,6 @@ wellout.co.za
 www.woodheadconsulting.co.uk
 www-mechanicsbank.co.com
 www-slash.co.com
-www-tipalti.co.com
 ybab.co.uk
 www.zipsqe.co.uk
 co5457chu.com
@@ -16512,7 +16513,6 @@ conicsbowle.com
 conicsfizzles.com
 yw.conidiafoggara.com
 coniesmolten.com
-app.conigecko.live
 conjeller-chikemon.com
 conjunctionimproved.com
 conjunctionrepresentativepowerless.com
@@ -17719,7 +17719,8 @@ cuybnvyuqlizr.space
 cuzqaskcyjyut.site
 cuzsadabc.com
 cvastico.com
-cvcnmtf.top
+dciclc.cvcnmtf.top
+dcivlv.cvcnmtf.top
 cvdbvcrpzjrgv.website
 cvdinc.com
 cvfr74t.com
@@ -20018,7 +20019,6 @@ doorwaydistinct.com
 doouhnscfspxu.space
 doozyblend.com
 dopaleads.com
-dopeblackfriday.shop
 dopeoutspoken.com
 yf.dopersrebribe.com
 dopey-anger.pro
@@ -20997,7 +20997,6 @@ easy-ads.com
 easy-contact-club.com
 easy-dating.org
 easy-elation.com
-simlpeswap.easy-exchange.pro
 easy-love-zone.com
 easy1.cyou
 easyaccess.mobi
@@ -21121,7 +21120,8 @@ ay.ectasiaeyemark.com
 ectedithconsuk.com
 ectenepenury.com
 ecteneunroven.shop
-ectnodw.top
+dciclc.ectnodw.top
+dcivlv.ectnodw.top
 ectsofcukorpor.com
 ectuklyeconen.com
 ecuelleribose.com
@@ -22682,11 +22682,9 @@ exmwfltxyxwmr.website
 exnesstrack.com
 exnesstrack.net
 exoclick.com
-ad.exodus.build
 exodus-wallets.io
 exodusjailhousetarantula.com
 exodusl.com
-exodusupdate.app
 exoduswallet.at
 ic.exoduswether.shop
 exofrwe.com
@@ -26710,7 +26708,6 @@ gokinjolove.jp
 gokinjolove.net
 gokinjoscreen.com
 goksmejewlqpk.space
-gokujyou.jp
 gol2120.com
 golanconcludedrecognize.com
 gold-line.online
@@ -26825,7 +26822,6 @@ googlepay.cn
 googlevads-cn.com
 goojum.com
 gf.goolahmusard.com
-ads.goolge.site
 goomaphy.com
 goonrepublican.com
 goonsupper.com
@@ -28766,7 +28762,6 @@ map.hnchj.com
 hnchrbjicjcxq.space
 hnhjzx.com
 hnhxkb.com
-lazada.hnjqpm.com
 hnkiigrfygpcw.space
 hnnqbxhvpbgvf.site
 hnrgmc.com
@@ -29451,7 +29446,8 @@ huyaqua.com
 huzi.com
 huzytgmqsnecd.website
 huzzahwhatintently.com
-hvcnmtu.top
+dciclc.hvcnmtu.top
+dcivlv.hvcnmtu.top
 hvdzdrovccwom.site
 hvefnbufkpxou.website
 hvert.site
@@ -31089,8 +31085,6 @@ iswhatappyouneed.net
 iszbchgvidvhw.space
 iszrrgjxekmas.website
 isztpjhceyoir.site
-izzuo.it.com
-logonatera.it.com
 maurits.it.com
 pata.it.com
 it-governanceportal.net
@@ -31175,7 +31169,8 @@ iuyggvhq.icu
 ivajnwwpadtow.love
 ivanchinastandard.com
 ivangrammarfalling.com
-ivcnmto.top
+dciclc.ivcnmto.top
+dcivlv.ivcnmto.top
 ivcsmrt.com
 iveecups.net
 iviralpartners.com
@@ -31509,8 +31504,11 @@ jzeb.jelokerrvvamz.top
 jemtaucmowhu.top
 jenkinkuttab.com
 jennduncanphoto.com
-jenny4.fun
+max.jenny4.fun
+wew.jenny4.fun
+wmx.jenny4.fun
 wnw.jenny4.com
+wow.jenny4.fun
 news.jennydanny.com
 jennyvisits.com
 jenoga.xyz
@@ -32253,7 +32251,8 @@ juxpdnekqdmka.space
 juxtaposetextbookcaptivate.com
 juywkhbpmswmq.website
 juzaugleed.com
-jvcnmta.top
+dciclc.jvcnmta.top
+dcivlv.jvcnmta.top
 jvebyd.com
 jviot.com
 jvlrcbfxijxgk.store
@@ -32520,8 +32519,7 @@ kcgqumopgkwtv.online
 kchhccjmzipel.site
 kcjmivforjixu.online
 kcmstredk.com
-js.kcolb.site
-mngr.kcolb.site
+kcolb.site
 kcqbrwygxixdh.site
 dciclc.kctnodd.top
 kcxljicqwzjfd.space
@@ -33250,7 +33248,8 @@ kuzeyisigikres.com
 kvaaa.com
 kvarcureeny.com
 kvbojuxkwvcfk.global
-kvcnmtd.top
+dciclc.kvcnmtd.top
+dcivlv.kvcnmtd.top
 kvcon.de
 kvdnetmzqvwxw.store
 kvdqzsytlcxuf.space
@@ -33669,7 +33668,8 @@ lckyzl.com
 lclocation.com
 lcnmoccchdoij.vip
 lcskincarecenter.com
-lctnodl.top
+dciclc.lctnodl.top
+dcivlv.lctnodl.top
 lcuaerlknisgy.space
 lcugatnuhfpo.com
 lcuozmosstcu.com
@@ -34479,7 +34479,6 @@ lkstrck2.com
 lkuds.gdn
 lkuxyvrptazgk.online
 lkvngplmrmjlc.store
-llbeanblackfridays.shop
 llbmoasj.icu
 llboqelaevjjj.top
 llboqelaevqjy.top
@@ -35729,7 +35728,6 @@ making.party
 makingdevil.com
 makingnude.com
 makis89.com
-makitablackfriday.shop
 ri.makouaoutsing.com
 makronex.com
 xc.makutacampion.com
@@ -38186,7 +38184,6 @@ myownmailserver.com
 myowvxxsjkwvp.space
 myparalda.com
 online-ops.mypasschange.com
-mypasskey.info
 myperfect2give.com
 mypi.co
 mypopadpro.com
@@ -39934,7 +39931,8 @@ ocpolgam.com
 ocpsimamdza.com
 octaviantraprelease.com
 octinvemb.com
-octnodk.top
+dciclc.octnodk.top
+dcivlv.octnodk.top
 octo25.me
 octoberads.space
 octoberreplicalocate.com
@@ -40119,8 +40117,6 @@ ub.ofternavajos.com
 oftheownouncillo.com
 wo.oftnessmarkkaa.com
 oftrajhaqnis.com
-ofx-login.top
-ofx-logln.top
 ofxbxiqadouwo.space
 ofy.rocks
 ofyou-beautiful.com
@@ -41321,8 +41317,7 @@ pacha-wui.com
 pachegaimax.net
 pacificbank.asia
 pacificdentalcenterhuntingtonpark.com
-si.pacifics.sbs
-vi.pacifics.sbs
+pacifics.sbs
 pacifyinvalid.com
 packagebellysmoothly.com
 packerta.com
@@ -43057,7 +43052,6 @@ polyfill-js.cn
 polyglify.com
 polygraphpretenceraw.com
 polyh-nce.com
-polymarket.digital
 jb.polyvecaritas.shop
 qn.pomboeonisms.com
 pomegranateheroin.com
@@ -44569,7 +44563,8 @@ qcnpyyughyluz.online
 qcnragymlulzk.website
 qcqfkzglgynfr.site
 qcqobpxpeeiwh.store
-qctnody.top
+dciclc.qctnody.top
+dcivlv.qctnody.top
 qcuoyo.icu
 qcuwpicccoscr.online
 qcwnfoqtqgvau.icu
@@ -47762,7 +47757,8 @@ scrufsirloin.com
 scrupulousyet.com
 scrutinizeordealscrutinize.com
 sctaylor.com
-sctnodb.top
+dciclc.sctnodb.top
+dcivlv.sctnodb.top
 scuffleputrefy.com
 ld.scuftockster.com
 sculkerwrite.com
@@ -48435,7 +48431,9 @@ sheji600.com
 ko.sheltaransack.com
 shemalesofhentai.com
 eo.shemdipolar.shop
-shemrec.cc
+bnrs.shemrec.cc
+proll.shemrec.cc
+pundr.shemrec.cc
 shenbingask.com
 shengfleming.com
 shengheimin.com
@@ -48987,8 +48985,6 @@ skmwqnhqhlceg.site
 skookumhalers.top
 so.skouthjiggled.com
 skrhuf.com
-skrill-app.top
-skrill-login.top
 pq.skryersoapbox.com
 skujrebczynhb.website
 skullhalfway.com
@@ -49802,7 +49798,6 @@ spanceldeodand.rest
 eu.spangeddonny.shop
 kc.spangedfrisbee.com
 spaninline.shop
-spankvideo.net
 spannerbrewinghalfyear.com
 ig.spannerpeisant.shop
 spanpromo-link.com
@@ -51255,7 +51250,6 @@ sweenykhazens.com
 sweeperpiltock.com
 sweepia.com
 sweet-bonanza-francais.com
-swe.sweet-sweet-sweets.com
 jnjlok.sweet2daters.com
 jqlar.sweet2daters.com
 sweet2dating.com
@@ -51829,7 +51823,8 @@ tcreativeideasa.com
 tcrtidleivyai.space
 tcskitchensandcatering.xyz
 tcsmgstagingserver.com
-tctnodi.top
+dciclc.tctnodi.top
+dcivlv.tctnodi.top
 tctrbtdxbscuw.site
 tcudrocivr.com
 tcvlrtqsfqkbo.store
@@ -51838,7 +51833,6 @@ td5xffxsx4.com
 tdbcctiulenif.site
 tdcegypt.com
 tdduvz.icu
-eir.tdhg7ppa.com
 tdoqiajej.xyz
 tdrczdscckdwu.online
 tds.ru
@@ -54216,7 +54210,8 @@ uciockqdyzlim.site
 uciot.com
 uckiaaoul.rest
 ucpfezjbcrmwh.space
-uctnodt.top
+dciclc.uctnodt.top
+dcivlv.uctnodt.top
 ucuhyu.com
 ucuoknexq.global
 ucwkvipzetzxc.space
@@ -56146,7 +56141,9 @@ vipersuccessfullygoblet.com
 vipmilan69.com
 viporalsurgery.com
 vipriver28.net
-vipspotflirts.life
+cw32brt.vipspotflirts.life
+gwqpmrg.vipspotflirts.life
+k8cpmrdll.vipspotflirts.life
 vipvs.com
 vipwealthmanagement.net
 viral782.com
@@ -56156,7 +56153,6 @@ viralnewssystems.com
 viralnugget.com
 viralvideoclip.info
 virelon.com
-virginiacresrditunion.info
 virginityinvasion.com
 virginityneutralsouls.com
 wv.virgosclavis.com
@@ -56945,7 +56941,8 @@ wcmcs.net
 wcpgtxpzhpdgy.website
 wcpmoh.com
 wct.link
-wctnode.top
+dciclc.wctnode.top
+dcivlv.wctnode.top
 wcuggkuxfgutu.today
 wcuxkyjwndqxj.top
 wcvevntrztrdi.site
@@ -58209,25 +58206,8 @@ wwnowdnguuklz.site
 wwpon365.ru
 wwqsvldq.work
 www-7769.com
-www-bankplus.top
-www-bonkplus.top
-www-convergapay.top
-www-convergapoy.top
-www-firstharlzon.top
-www-firsthorlzan.top
-www-firsthorlzen.top
-www-firsthorlzon.top
-www-flrstherizen.top
-www-getmass.top
 www-mechonics.top
-www-payhawk.top
-www-payhowk.top
-www-paymontech.top
 www-phmapalad.com
-www-simmonsbonk.top
-www-spendesk.top
-www-tipelti.top
-www-tipolti.top
 www3secure.com
 www49wz222.com
 www60375.com
@@ -58480,7 +58460,9 @@ xghklnjmyljlc.site
 xgiiioziwwayu.store
 xgks.com
 xgolyqyfjuuwn.online
-xgoxwcldkz.top
+1048877cc998.xgoxwcldkz.top
+680ad07504ce.xgoxwcldkz.top
+f971bc9f9ae8.xgoxwcldkz.top
 xgozhrjmwwgxf.site
 xgraph.net
 xgsxkzscxapvj.online
@@ -59528,8 +59510,7 @@ yueyangbang.com
 yueyinglighting.com
 yugjwgg.top
 yuhuads.com
-59557com.yuhuan.cc
-wwwtk1976com.yuhuan.cc
+yuhuan.cc
 yuiiy.com
 yuintbradshed.com
 mv.yuitvr.com
@@ -60262,7 +60243,8 @@ zxenwgfnhknxs.click
 zxfqtqmtlldld.world
 zxgjrlpmaqyek.website
 zxinihfgkdpfb.space
-zxmenhmo.top
+2774c5d7b48b.zxmenhmo.top
+bb6b7391a692.zxmenhmo.top
 zxnymrendoxms.space
 zxttvkshqbded.space
 zxvhxdpyordan.store

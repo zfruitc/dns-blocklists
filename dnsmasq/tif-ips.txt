@@ -11198,6 +11198,7 @@ bogus-nxdomain=134.185.109.88
 bogus-nxdomain=134.185.115.34
 bogus-nxdomain=134.185.117.241
 bogus-nxdomain=134.185.83.124
+bogus-nxdomain=134.195.104.22
 bogus-nxdomain=134.195.137.127
 bogus-nxdomain=134.195.137.83
 bogus-nxdomain=134.195.137.84

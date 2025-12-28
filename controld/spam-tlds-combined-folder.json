@@ -2912,6 +2912,13 @@
       }
     },
     {
+      "PK": "heimdall.site",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "helium.computer",
       "action": {
         "do": 1,
