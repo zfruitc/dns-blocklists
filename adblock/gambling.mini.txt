@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Dec 2025 18:32 UTC
-! Version: 2025.1228.1832.01
+! Last modified: 28 Dec 2025 22:31 UTC
+! Version: 2025.1228.2231.41
 ! Syntax: AdBlock
-! Number of entries: 45234
+! Number of entries: 45233
 !
 ||000-online-casino.com^
 ||0000betslots.com^
@@ -37552,7 +37552,6 @@
 ||silverssevencasino.com^
 ||silverssevencasinos.com^
 ||silvertoncasino.com^
-||simardeep.com^
 ||simbagames.dk^
 ||simbaslots.buzz^
 ||simbaslots2.bond^

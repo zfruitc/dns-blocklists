@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766946720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766961060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Dec 2025 18:32 UTC
-; Version: 2025.1228.1832.01
+; Last modified: 28 Dec 2025 22:31 UTC
+; Version: 2025.1228.2231.41
 ; Syntax: RPZ
-; Number of entries: 90468
+; Number of entries: 90466
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -47442,8 +47442,6 @@ silverssevencasinos.com CNAME .
 *.silverssevencasinos.com CNAME .
 silvertoncasino.com CNAME .
 *.silvertoncasino.com CNAME .
-simardeep.com CNAME .
-*.simardeep.com CNAME .
 simonsblogpark.com CNAME .
 *.simonsblogpark.com CNAME .
 simplecasino.com CNAME .

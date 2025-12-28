@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Dec 2025 18:09 UTC
-# Version: 2025.1228.1809.38
+# Last modified: 28 Dec 2025 22:08 UTC
+# Version: 2025.1228.2208.00
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 83146
+# Number of entries: 83165
 #
 0.0.0.0 00055edc1917.com
 0.0.0.0 000free.us
@@ -4832,6 +4832,7 @@
 0.0.0.0 512j.com
 0.0.0.0 514d937233.com
 0.0.0.0 b90c96241a.514d937233.com
+0.0.0.0 51510s9a8.sbs
 0.0.0.0 51510x988.cyou
 0.0.0.0 515151s99s.cyou
 0.0.0.0 51519158s8sjs18.cfd
@@ -5300,9 +5301,11 @@
 0.0.0.0 811-google.com
 0.0.0.0 81318a5bdde86bcdbf816824a78a1e72.online
 0.0.0.0 819222f244de3e95.com
+0.0.0.0 819mng4kn6wybgg.cfd
 0.0.0.0 81ca2db2cd.com
 0.0.0.0 822834c0c6d63bb3201f2d183ddae3ec9c4c8f3be007bc9f4c9caab78858a36.link
 0.0.0.0 822e01e68565.com
+0.0.0.0 82324.xyz
 0.0.0.0 823cac1b162f2d13f78215be731ff101.xyz
 0.0.0.0 api.82636fbcf18ce47b3196359e206931345b74d723.com
 0.0.0.0 assets.82636fbcf18ce47b3196359e206931345b74d723.com
@@ -5614,6 +5617,7 @@
 0.0.0.0 k.a14net.com
 0.0.0.0 a1a12f031613.info
 0.0.0.0 a1c47293b69ec173.com
+0.0.0.0 a1n5ux.sbs
 0.0.0.0 a22615fbe61b28e65d404622a6c24f9fe461dbe36327c47677b33a8a054b12e.link
 0.0.0.0 a26a17109ad1.info
 0.0.0.0 a27270574a.com
@@ -32538,6 +32542,7 @@
 0.0.0.0 cntxcdm.com
 0.0.0.0 amp.cntxcdm.com
 0.0.0.0 cnvlink.com
+0.0.0.0 cnwucnf.top
 0.0.0.0 cnzz.net
 0.0.0.0 c.cnzz.com
 0.0.0.0 ei.cnzz.com
@@ -34500,7 +34505,6 @@
 0.0.0.0 counterfeitlearnedpacify.com
 0.0.0.0 counteronline.de
 0.0.0.0 counterstation.de
-0.0.0.0 countingmainly.com
 0.0.0.0 countlessdispleased.com
 0.0.0.0 countly.com
 0.0.0.0 flex.countly.com
@@ -35200,6 +35204,8 @@
 0.0.0.0 crystalfallsq.cfd
 0.0.0.0 crystalheightsq.cfd
 0.0.0.0 crystalslot.com
+0.0.0.0 cs-finals.com
+0.0.0.0 cs2beneluxbattle.com
 0.0.0.0 cs2kit.com
 0.0.0.0 www.csaladititkok.com
 0.0.0.0 analytics.csasecurityapp.com
@@ -42423,7 +42429,6 @@
 0.0.0.0 encuentrodemusicos.com
 0.0.0.0 analytics.encycarpedia.com
 0.0.0.0 hv.encystkokil.com
-0.0.0.0 endeble-arranque.online
 0.0.0.0 endecimmis.world
 0.0.0.0 analytics.endgamegear.com
 0.0.0.0 analyticsapi.endicia.com
@@ -43232,6 +43237,7 @@
 0.0.0.0 f1f5ca55fff1844ac66a7388862c7e86.xyz
 0.0.0.0 f1f99d110ba6.com
 0.0.0.0 f1nancier.com
+0.0.0.0 f215u.xyz
 0.0.0.0 f26fd1acce3e.info
 0.0.0.0 f2723dc71af3b9383a82658f0aabb9668ab19fa74d7662e15d48ec69f0cd1f8.link
 0.0.0.0 f2e0a955bb84.cloud
@@ -44923,6 +44929,7 @@
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 g32x.xyz
 0.0.0.0 g32z.xyz
+0.0.0.0 g33f.xyz
 0.0.0.0 g4blin.ru
 0.0.0.0 hit.g4blin.ru
 0.0.0.0 hitcrypt.g4blin.ru
@@ -50286,6 +50293,7 @@
 0.0.0.0 evt.ilovepdf.com
 0.0.0.0 ilquige.com
 0.0.0.0 ddl.alma.iltalehti.fi
+0.0.0.0 gto.iltalehti.fi
 0.0.0.0 limone.iltrovatore.it
 0.0.0.0 ilyf4amifh.com
 0.0.0.0 1.im.cz
@@ -50384,6 +50392,7 @@
 0.0.0.0 app-log-oversea.immomo.com
 0.0.0.0 schedule-media.immomo.com
 0.0.0.0 sla-media.immomo.com
+0.0.0.0 immordisad.world
 0.0.0.0 immutabledynamixsoftware.com
 0.0.0.0 imobilco.ru
 0.0.0.0 support-json.imoim.net
@@ -52451,8 +52460,10 @@
 0.0.0.0 adstat.izuiyou.com
 0.0.0.0 j0ss4np1c5.site
 0.0.0.0 j0t4sv.lol
+0.0.0.0 j249f.xyz
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 j4l9olpzcp86khvil.cfd
+0.0.0.0 j5qtmf.bond
 0.0.0.0 j7kv55pr70.com
 0.0.0.0 j81yk8jp71gj2mgpb.rest
 0.0.0.0 j93557g.com
@@ -53733,7 +53744,6 @@
 0.0.0.0 prod.us-east-1.telemetry.desktop.kiro.dev
 0.0.0.0 pay.kirvano.com
 0.0.0.0 kiseki.com
-0.0.0.0 kisoetr.cfd
 0.0.0.0 kissmetrics.com
 0.0.0.0 kissmetrics.io
 0.0.0.0 i.kissmetrics.com
@@ -54147,6 +54157,7 @@
 0.0.0.0 adsinteractive-794b.kxcdn.com
 0.0.0.0 v1-c73e.kxcdn.com
 0.0.0.0 kxdhulgpyokoq.space
+0.0.0.0 ky41vgyy6hgwy5.rest
 0.0.0.0 ky595images.com
 0.0.0.0 kyc-ebay.com
 0.0.0.0 lb.kyc-holdings.com
@@ -58902,6 +58913,7 @@
 0.0.0.0 muzarchive.top
 0.0.0.0 muzikguide.com
 0.0.0.0 muzzleexterminator.com
+0.0.0.0 mv2swk.lat
 0.0.0.0 mvbcsloqebjfv.site
 0.0.0.0 datadog-service.mvfglobal.com
 0.0.0.0 mvmasters02.com
@@ -61503,6 +61515,7 @@
 0.0.0.0 onemboaran.com
 0.0.0.0 onemob.mobi
 0.0.0.0 cdn-ali.onemob.mobi
+0.0.0.0 onenessparmack.com
 0.0.0.0 onenightfriend.com
 0.0.0.0 m.onenightfriend.com
 0.0.0.0 www.onenightfriend.com
@@ -63389,6 +63402,7 @@
 0.0.0.0 peasantexcess.cfd
 0.0.0.0 peasrch.com
 0.0.0.0 pecantinglytripod.com
+0.0.0.0 peccaammog.rest
 0.0.0.0 ui.pecuniaaleshot.top
 0.0.0.0 pedangaishons.com
 0.0.0.0 pedidoszedelivery.shop
@@ -66471,6 +66485,7 @@
 0.0.0.0 ads-us.r2drtb.com
 0.0.0.0 r30address.com
 0.0.0.0 r30deai.com
+0.0.0.0 r32y.xyz
 0.0.0.0 cdn3.r34comix.com
 0.0.0.0 r3f.technology
 0.0.0.0 vf.r3f.technology
@@ -68747,6 +68762,7 @@
 0.0.0.0 rural-report.pro
 0.0.0.0 ruralhistorian.com
 0.0.0.0 rurelanderpurgan.com
+0.0.0.0 rustblooprint.net
 0.0.0.0 rustdelta.com
 0.0.0.0 rustdesk.io
 0.0.0.0 rusteventide.com
@@ -70370,6 +70386,7 @@
 0.0.0.0 shellnescarlett.com
 0.0.0.0 trk.shelly.cloud
 0.0.0.0 creative.shemale.show
+0.0.0.0 shemrec.cc
 0.0.0.0 shenajou.com
 0.0.0.0 shengfleming.com
 0.0.0.0 shenshiads.com
@@ -72562,6 +72579,7 @@
 0.0.0.0 ads.ss.com
 0.0.0.0 hits.ss.com
 0.0.0.0 ss-image-delivery.com
+0.0.0.0 ss677999.cyou
 0.0.0.0 ssacdn.com
 0.0.0.0 networksdk.ssacdn.com
 0.0.0.0 ssads.net
@@ -79698,6 +79716,7 @@
 0.0.0.0 physical-products-newrelic-logger.large-assortment.vpsvc.com
 0.0.0.0 log-forwarder.product-page-layouts.vpsvc.com
 0.0.0.0 vq4b0q.fun
+0.0.0.0 vqoqlebqqzvyq.top
 0.0.0.0 vqqaelqkkzyry.top
 0.0.0.0 vqserve.com
 0.0.0.0 ad.vqserve.com
@@ -80931,6 +80950,7 @@
 0.0.0.0 wordsdelivery.com
 0.0.0.0 wordsreceivingdisappointment.com
 0.0.0.0 workcahoots.com
+0.0.0.0 uxi-ingestion.us.mlde.workday.com
 0.0.0.0 workdelivery.ru
 0.0.0.0 workerconnect.biz
 0.0.0.0 az-neverblock.aznude.workers.dev
@@ -82448,7 +82468,6 @@
 0.0.0.0 yucatecyogins.rest
 0.0.0.0 yuckyducks.xyz
 0.0.0.0 yudvl.org
-0.0.0.0 yuhuan.cc
 0.0.0.0 yuiiy.com
 0.0.0.0 yukclick.me
 0.0.0.0 yukishigure.com

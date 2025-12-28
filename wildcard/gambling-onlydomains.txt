@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Dec 2025 18:29 UTC
-# Version: 2025.1228.1829.05
+# Last modified: 28 Dec 2025 22:28 UTC
+# Version: 2025.1228.2228.37
 # Syntax: Domains (without subdomains)
-# Number of entries: 208016
+# Number of entries: 208015
 #
 0-bdmbet.com
 0-bet.com
@@ -176062,7 +176062,6 @@ silvertoncasinos.com
 silvertonncasino.com
 silvertonncasinos.com
 simalem.shop
-simardeep.com
 simba-games-casino.com
 simba69rtp.blog
 simbagames.de
